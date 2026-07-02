@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-02T20:27:55+00:00",
+ "updated": "2026-07-02T22:55:26+00:00",
  "papers": [
   {
    "doi": "10.1111/padm.70071",
@@ -529,6 +529,24 @@
    "journal": "Public Administration Review",
    "url": "https://doi.org/10.1111/puar.70154",
    "date": "2026-06-30",
+   "first_seen": "2026-07-02",
+   "score": 2.0,
+   "matched": []
+  },
+  {
+   "doi": "10.1093/jopart/muag014",
+   "title": "Organizational Strategies for System Robustness: How Managers Navigate the Institutional Architecture of Complex Systems",
+   "abstract": "Many public managers oversee complex systems that require them to navigate multifaceted organizational decision-making processes. While there is general recognition that institutions constrain information processing, rigorous study of how particular institutional designs influence the strategies used by organizations to process information and act on the systems they oversee is limited by existing theory and methodological approaches. We propose a theoretical approach that integrates established understanding of institutions as choice architectures and disproportionate information processing in organizations with new understanding of collective inference from cognitive science. The approach addresses three limitations in existing theory: (i) the relationship between detailed institutional designs and organizational strategies, (ii) the role of flexibility in information processing, and (iii) the relationship between organizational strategies and system robustness. We demonstrate its application empirically using a mixed methods approach that combines institutional analysis and process tracing with a dynamic model to analyze how the City of Phoenix Water Services Department responded to environmental change through investment and ratemaking actions. Our findings highlight how institutional designs that require managers to account for multiple objectives benefit from added flexibility, allowing managers to explore new approaches that address competing objectives and increase system robustness. Conversely, designs exhibiting high costs without high flexibility may create rigidity traps that hinder action and reduce system robustness in the face of uncertainty.",
+   "authors": [
+    "Adam Wiechman",
+    "Aaron Deslatte",
+    "Elizabeth A Koebele",
+    "Margaret Garcia",
+    "John M Anderies"
+   ],
+   "journal": "Journal of Public Administration Research and Theory",
+   "url": "https://doi.org/10.1093/jopart/muag014",
+   "date": "2026-07-02",
    "first_seen": "2026-07-02",
    "score": 2.0,
    "matched": []
