@@ -62,6 +62,8 @@ def fetch_journal(journal, cfg):
     papers = []
     for item in data["message"]["items"]:
         title = " ".join(item.get("title") or []).strip()
+        title = re.sub(r"<[^>]+>", "", title)          # 去掉 Wiley 標題裡的 <scp> 等標籤
+        title = re.sub(r"\s+", " ", title).strip()
         if not title:
             continue
         authors = [
@@ -134,9 +136,10 @@ def main():
     for doi, p in seen.items():
         p["first_seen"] = old.get(doi, {}).get("first_seen", today)
         papers.append(score_paper(p, model))
-    # 舊資料裡還沒過期、但這次抓取範圍外的也保留
+    # 舊資料裡還沒過期、但這次抓取範圍外的也保留（僅限仍在追蹤清單的期刊）
+    tracked = {j["name"] for j in cfg["journals"]}
     for doi, p in old.items():
-        if doi not in seen and p.get("first_seen", today) >= cutoff:
+        if doi not in seen and p.get("first_seen", today) >= cutoff and p["journal"] in tracked:
             papers.append(score_paper(p, model))
 
     papers.sort(key=lambda p: (-p["score"], p["date"]), reverse=False)

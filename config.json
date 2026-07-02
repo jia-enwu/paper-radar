@@ -4,19 +4,12 @@
   "keep_days": 90,
   "max_per_journal": 50,
   "journals": [
-    { "name": "Public Administration Review", "issn": "1540-6210" },
     { "name": "Journal of Public Administration Research and Theory", "issn": "1477-9803" },
+    { "name": "Public Administration Review", "issn": "1540-6210" },
     { "name": "Public Management Review", "issn": "1471-9045" },
     { "name": "International Public Management Journal", "issn": "1559-3169" },
-    { "name": "Public Performance & Management Review", "issn": "1557-9271" },
-    { "name": "Governance", "issn": "1468-0491" },
-    { "name": "Public Administration", "issn": "1467-9299" },
-    { "name": "The American Review of Public Administration", "issn": "1552-3357" },
     { "name": "Review of Public Personnel Administration", "issn": "1552-759X" },
-    { "name": "Public Personnel Management", "issn": "1945-7421" },
-    { "name": "Administration & Society", "issn": "1552-3039" },
-    { "name": "Perspectives on Public Management and Governance", "issn": "2398-4929" },
-    { "name": "International Review of Administrative Sciences", "issn": "1461-7226" },
-    { "name": "Journal of Behavioral Public Administration", "issn": "2576-6465" }
+    { "name": "Public Administration", "issn": "1467-9299" },
+    { "name": "The American Review of Public Administration", "issn": "1552-3357" }
   ]
 }
