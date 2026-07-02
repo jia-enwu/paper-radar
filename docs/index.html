@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>📡 Paper Radar</title>
+<style>
+  :root {
+    --bg: #f6f7f9; --card: #fff; --text: #1a1a2e; --muted: #6b7280;
+    --accent: #2563eb; --border: #e5e7eb; --hi: #fef3c7;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #111318; --card: #1c1f26; --text: #e5e7eb; --muted: #9ca3af;
+      --accent: #60a5fa; --border: #2d3139; --hi: #3b3320;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--bg); color: var(--text);
+    font-family: -apple-system, "PingFang TC", "Noto Sans TC", sans-serif;
+    font-size: 15px; line-height: 1.55;
+  }
+  header {
+    position: sticky; top: 0; z-index: 10; background: var(--bg);
+    padding: 12px 16px 8px; border-bottom: 1px solid var(--border);
+  }
+  h1 { font-size: 18px; margin: 0 0 8px; }
+  #updated { font-size: 12px; color: var(--muted); font-weight: normal; margin-left: 8px; }
+  .controls { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+  .controls button {
+    border: 1px solid var(--border); background: var(--card); color: var(--text);
+    border-radius: 16px; padding: 4px 12px; font-size: 13px; cursor: pointer;
+  }
+  .controls button.active { background: var(--accent); color: #fff; border-color: var(--accent); }
+  #search {
+    flex: 1; min-width: 140px; border: 1px solid var(--border); border-radius: 16px;
+    padding: 5px 12px; font-size: 13px; background: var(--card); color: var(--text);
+  }
+  main { max-width: 760px; margin: 0 auto; padding: 12px 16px 60px; }
+  .card {
+    background: var(--card); border: 1px solid var(--border); border-radius: 10px;
+    padding: 12px 14px; margin-bottom: 10px;
+  }
+  .card.read { opacity: 0.55; }
+  .meta { font-size: 12px; color: var(--muted); margin-bottom: 4px; display: flex; gap: 8px; flex-wrap: wrap; }
+  .score { font-weight: 700; color: var(--accent); }
+  .title { font-size: 15px; font-weight: 600; margin: 0 0 4px; }
+  .title a { color: inherit; text-decoration: none; }
+  .title a:hover { text-decoration: underline; }
+  .authors { font-size: 12.5px; color: var(--muted); margin-bottom: 6px; }
+  .abstract {
+    font-size: 13.5px; color: var(--text); margin: 6px 0;
+    display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;
+    cursor: pointer;
+  }
+  .abstract.open { -webkit-line-clamp: unset; }
+  .tags { margin: 4px 0 8px; }
+  .tag {
+    display: inline-block; background: var(--hi); border-radius: 4px;
+    font-size: 11px; padding: 1px 6px; margin: 2px 4px 0 0;
+  }
+  .actions { display: flex; gap: 6px; flex-wrap: wrap; }
+  .actions button {
+    border: 1px solid var(--border); background: transparent; color: var(--text);
+    border-radius: 6px; padding: 3px 10px; font-size: 13px; cursor: pointer;
+  }
+  .actions button.on { background: var(--accent); color: #fff; border-color: var(--accent); }
+  .empty { text-align: center; color: var(--muted); padding: 40px 0; }
+</style>
+</head>
+<body>
+<header>
+  <h1>📡 Paper Radar<span id="updated"></span></h1>
+  <div class="controls">
+    <button data-filter="all" class="active">全部</button>
+    <button data-filter="unread">未看</button>
+    <button data-filter="star">⭐ 想細讀</button>
+    <button data-filter="hot">🔥 高分</button>
+    <input id="search" type="search" placeholder="搜尋標題／作者／期刊…">
+  </div>
+</header>
+<main id="list"><p class="empty">載入中…</p></main>
+
+<script>
+// 機構代理前綴：點「🏛️ IU 全文」會經過 IU 圖書館 EZproxy，登入後用訂閱看全文
+const PROXY_PREFIX = "https://proxyiub.uits.iu.edu/login?url=";
+
+const LS_KEY = "paper-radar-marks";
+let marks = JSON.parse(localStorage.getItem(LS_KEY) || "{}");
+let papers = [], filter = "all", query = "";
+
+function save() { localStorage.setItem(LS_KEY, JSON.stringify(marks)); }
+function mark(doi) { return marks[doi] || {}; }
+function toggle(doi, key) {
+  marks[doi] = mark(doi);
+  marks[doi][key] = !marks[doi][key];
+  save(); render();
+}
+
+function esc(s) {
+  return s.replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+}
+
+function render() {
+  const list = document.getElementById("list");
+  const q = query.toLowerCase();
+  const shown = papers.filter(p => {
+    const m = mark(p.doi);
+    if (filter === "unread" && m.read) return false;
+    if (filter === "star" && !m.star) return false;
+    if (filter === "hot" && p.score < 10) return false;
+    if (q && !(p.title + " " + p.authors.join(" ") + " " + p.journal).toLowerCase().includes(q)) return false;
+    return true;
+  });
+  if (!shown.length) { list.innerHTML = '<p class="empty">沒有符合的論文</p>'; return; }
+  list.innerHTML = shown.map(p => {
+    const m = mark(p.doi);
+    return `<div class="card${m.read ? " read" : ""}">
+      <div class="meta">
+        <span class="score">▲ ${p.score}</span>
+        <span>${esc(p.journal)}</span><span>${p.date}</span>
+      </div>
+      <div class="title"><a href="${p.url}" target="_blank" rel="noopener">${esc(p.title)}</a></div>
+      <div class="authors">${esc(p.authors.slice(0, 6).join(", "))}${p.authors.length > 6 ? " 等" : ""}</div>
+      ${p.abstract ? `<div class="abstract" onclick="this.classList.toggle('open')">${esc(p.abstract)}</div>` : ""}
+      ${p.matched.length ? `<div class="tags">${p.matched.map(t => `<span class="tag">${esc(t)}</span>`).join("")}</div>` : ""}
+      <div class="actions">
+        <button class="${m.read ? "on" : ""}" onclick="toggle('${p.doi}','read')">✅ 已看</button>
+        <button class="${m.star ? "on" : ""}" onclick="toggle('${p.doi}','star')">⭐ 想細讀</button>
+        <button class="${m.up ? "on" : ""}" onclick="toggle('${p.doi}','up')">👍</button>
+        <button class="${m.down ? "on" : ""}" onclick="toggle('${p.doi}','down')">👎</button>
+        <a href="${PROXY_PREFIX}${encodeURIComponent(p.url)}" target="_blank" rel="noopener"><button>🏛️ IU 全文</button></a>
+      </div>
+    </div>`;
+  }).join("");
+}
+
+document.querySelectorAll(".controls button").forEach(b => {
+  b.onclick = () => {
+    document.querySelectorAll(".controls button").forEach(x => x.classList.remove("active"));
+    b.classList.add("active");
+    filter = b.dataset.filter; render();
+  };
+});
+document.getElementById("search").oninput = e => { query = e.target.value; render(); };
+
+fetch("papers.json?t=" + Date.now())
+  .then(r => r.json())
+  .then(data => {
+    papers = data.papers;
+    document.getElementById("updated").textContent =
+      "更新：" + data.updated.slice(0, 16).replace("T", " ") + " UTC・" + papers.length + " 篇";
+    render();
+  })
+  .catch(() => { document.getElementById("list").innerHTML = '<p class="empty">還沒有資料，請先跑一次 fetch_and_score.py</p>'; });
+</script>
+</body>
+</html>

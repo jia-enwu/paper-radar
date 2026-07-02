@@ -1,0 +1,30 @@
+name: 每日更新論文雷達
+
+on:
+  schedule:
+    - cron: "0 22 * * *"   # UTC 22:00 = 台北時間早上 6:00
+  workflow_dispatch:        # 也可以在 Actions 頁面手動觸發
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 抓取並評分
+        run: python3 fetch_and_score.py
+
+      - name: 提交更新
+        run: |
+          git config user.name "paper-radar-bot"
+          git config user.email "actions@github.com"
+          git add docs/papers.json
+          git diff --cached --quiet || git commit -m "自動更新 papers.json ($(date -u +%F))"
+          git push

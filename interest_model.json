@@ -1,0 +1,36 @@
+{
+  "_comment": "關鍵字權重表：分數 = Σ 權重 ×（標題出現次數×2 + 摘要出現次數，上限3次）。改完權重後下次抓取會自動重新評分。",
+  "keywords": {
+    "public service motivation": 6,
+    "psm": 4,
+    "do no harm": 6,
+    "prosocial motivation": 4,
+    "prosocial behavior": 3,
+    "ethical behavior": 5,
+    "unethical behavior": 5,
+    "ethical": 2,
+    "unethical": 3,
+    "moral": 2,
+    "integrity": 3,
+    "misconduct": 4,
+    "corruption": 3,
+    "rule breaking": 4,
+    "rule-breaking": 4,
+    "whistleblowing": 3,
+    "public values": 3,
+    "street-level bureaucrat": 3,
+    "behavioral public administration": 4,
+    "survey experiment": 3,
+    "vignette experiment": 3,
+    "conjoint": 2,
+    "motivation": 1,
+    "red tape": 1,
+    "organizational citizenship": 2,
+    "work engagement": 1
+  },
+  "journal_bonus": {
+    "Public Administration Review": 2,
+    "Journal of Public Administration Research and Theory": 2,
+    "Journal of Behavioral Public Administration": 1
+  }
+}
