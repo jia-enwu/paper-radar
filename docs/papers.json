@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-07T14:52:26+00:00",
+ "updated": "2026-07-07T22:56:32+00:00",
  "papers": [
   {
    "doi": "10.1093/jopart/muag018",
@@ -145,7 +145,7 @@
     "ai",
     "survey experiment"
    ],
-   "abstract_zh": ""
+   "abstract_zh": "人工智慧 (AI) 的進展可能會更新我們對實證政策制定的理解。本研究立基於動機性推理與負面偏誤文獻，採用 2 × 2 調查實驗，旨在探討建議來源與效價如何影響公務員的信任與政策偏好。研究結果顯示，包含負面結果的建議會產生不成比例的影響。此外，當建議與公務員先前的政策信念一致時，負面偏誤會放大他們的偏好。這些研究結果突顯了認知偏誤如何阻礙公務員對政策建議的解讀。"
   },
   {
    "doi": "10.1080/14719037.2026.2690425",
@@ -167,7 +167,7 @@
     "gender",
     "bureaucra"
    ],
-   "abstract_zh": ""
+   "abstract_zh": "董事會性別組成是否能轉化為實質服務行動，是非營利治理中代表性官僚理論的一個重要問題。本研究援引此理論，採用序列解釋性混合方法設計，以檢視董事會女性比例與社會工作組織是否提供女性服務之間的關聯。結果顯示，較高的董事會女性比例與提供女性服務的較高可能性相關，且此關聯性會隨著組織與中華全國婦女聯合會的關係深化而增強。質性分析指出組織文化是其關鍵機制。本研究闡明了代表性產生實質成果的條件與機制。"
   },
   {
    "doi": "10.1080/14719037.2026.2691900",
@@ -383,7 +383,7 @@
    "matched": [
     "corruption"
    ],
-   "abstract_zh": ""
+   "abstract_zh": "我們提出一種新穎的巨量資料方法來衡量貪腐，透過利用受貪腐影響之公開可觀察分配中的統計異常現象。儘管個別貪腐事件仍無法偵測，系統性貪腐卻會透過影響可觀察結果的分布，留下可衡量的統計足跡。我們將此方法應用於衡量俄羅斯交通警察的貪腐，該單位負責核發汽車牌照。具有地位象徵的牌照被發現過度集中於高階與豪華車款品牌中。我們利用這些差異來衡量交通警察的貪腐，並探討此類方法在評估為謀取私利而濫用權力規模方面的潛力。"
   },
   {
    "doi": "10.1111/padm.70072",
@@ -653,7 +653,7 @@
    "first_seen": "2026-07-02",
    "score": 2.0,
    "matched": [],
-   "abstract_zh": ""
+   "abstract_zh": "本準則經ASPA全國理事會於2013年3月16日核准，其執行規範詳見www.aspanet.org/CodeofEthics。2014年，倫理與標準實施委員會成立，旨在提升公務倫理意識，在處理倫理問題上向會員提供建議與協助，並審查及尋求解決關於可能違反本準則之會員的倫理申訴。"
   },
   {
    "doi": "10.1111/puar.70148",
@@ -884,6 +884,24 @@
    "abstract_zh": ""
   },
   {
+   "doi": "10.1080/14719037.2026.2690239",
+   "title": "Forged through forces: configurations to digital policy attention in local governments",
+   "abstract": "Although governments’ digital policy attention is pivotal for effective digital governance, the mechanisms shaping attention remain insufficiently understood. Drawing on an integrated view of institutional environment, task environment, and resource endowment, we analyse 272 Chinese prefecture-level cities using a hybrid fsQCA – regression method to examine how multiple conditions jointly shape attention to digital transformation. We find that normative pressure, fiscal capacity, economic conditions, and digital infrastructure provide the foundation for high policy attention. Beyond this base, we identify three configurations across these dimensions: capability alignment, where leaders with technocratic backgrounds and digital culture jointly foster endogenous commitment; pressure compliance, where coercive, mimetic, and normative pressures jointly drive policy attention; and peer learning adaptation, where governments enhance attention through horizontal emulation when top-down mandates are weak. Regression analyses show that pressure compliance exerts the strongest influence on digital policy attention. These findings reveal configurational dynamics underlying digital governance.",
+   "authors": [
+    "Tao Wang",
+    "Chen Zhong",
+    "Ge Wang",
+    "Liumiao Qin"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2690239",
+   "date": "2026-06-29",
+   "first_seen": "2026-07-02",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
    "doi": "10.1177/0734371x261457897",
    "title": "Empowering Employability for a Sustainable Future: How HR Practices Support Workers with Disabilities in the Public Sector in the Netherlands",
    "abstract": "The Sustainable Development Goals (SDGs) emphasize inclusive economic growth (SDG 8) and reduced inequalities (SDG 10), including equal employment opportunities for workers with disabilities (WWDs). Despite international and national efforts, WWDs still face barriers to labor market participation. Public sector organizations are expected to lead in inclusive HRM but often lag behind in employing WWDs, raising concerns about their ability to contribute to the SDGs. Using Social Exchange Theory and Self Determination Theory, we examine how three HR practices of training and development, workplace accommodations, and establishing clear expectations affect the employability of 313 WWDs in a Dutch public sector organization. Survey data were analyzed using confirmatory factor analysis and regression-based mediation analysis. Findings show that HR practices primarily impact employability mediated through basic psychological needs satisfaction, with limited direct effects. This study offers empirical insights on how inclusive HRM in the public sector can advance the SDGs.",
@@ -894,24 +912,6 @@
    ],
    "journal": "Review of Public Personnel Administration",
    "url": "https://doi.org/10.1177/0734371x261457897",
-   "date": "2026-06-29",
-   "first_seen": "2026-07-02",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": ""
-  },
-  {
-   "doi": "10.1080/14719037.2026.2690239",
-   "title": "Forged through forces: configurations to digital policy attention in local governments",
-   "abstract": "",
-   "authors": [
-    "Tao Wang",
-    "Chen Zhong",
-    "Ge Wang",
-    "Liumiao Qin"
-   ],
-   "journal": "Public Management Review",
-   "url": "https://doi.org/10.1080/14719037.2026.2690239",
    "date": "2026-06-29",
    "first_seen": "2026-07-02",
    "score": 0.0,
