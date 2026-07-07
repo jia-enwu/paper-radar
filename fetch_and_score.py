@@ -54,6 +54,46 @@ def clean_abstract(raw):
     return text
 
 
+def reconstruct_abstract(inv):
+    """Rebuild plain text from an OpenAlex abstract_inverted_index."""
+    if not inv:
+        return ""
+    n = max(p for ps in inv.values() for p in ps) + 1
+    words = [""] * n
+    for w, positions in inv.items():
+        for p in positions:
+            if 0 <= p < n:
+                words[p] = w
+    return clean_abstract(" ".join(w for w in words if w))
+
+
+def backfill_abstracts(papers, cfg):
+    """Fill missing abstracts from OpenAlex (Taylor & Francis and some others
+    deposit none to Crossref). Batched by DOI, mutates papers in place."""
+    by_doi = {p["doi"].lower(): p for p in papers if not p["abstract"] and p.get("doi")}
+    if not by_doi:
+        return
+    dois = list(by_doi)
+    print(f"Backfilling {len(dois)} missing abstract(s) from OpenAlex ...")
+    for i in range(0, len(dois), 40):
+        chunk = dois[i:i + 40]
+        params = {
+            "filter": "doi:" + "|".join(chunk),
+            "per-page": "40",
+            "select": "doi,abstract_inverted_index",
+            "mailto": cfg["mailto"],
+        }
+        data = http_get("https://api.openalex.org/works?" + urllib.parse.urlencode(params))
+        if not data:
+            continue
+        for it in data.get("results", []):
+            doi = (it.get("doi") or "").lower().replace("https://doi.org/", "")
+            p = by_doi.get(doi)
+            if p:
+                p["abstract"] = reconstruct_abstract(it.get("abstract_inverted_index"))
+        time.sleep(1)  # OpenAlex polite rate limit
+
+
 def translate_zh(text):
     """Translate an abstract into Traditional Chinese via Gemini; "" on failure."""
     if not GEMINI_API_KEY or not text:
@@ -166,6 +206,8 @@ def main():
             if p["doi"] not in seen:
                 seen[p["doi"]] = p
         time.sleep(1)  # Crossref polite rate limit
+
+    backfill_abstracts(list(seen.values()), cfg)
 
     cutoff = (datetime.now(timezone.utc) - timedelta(days=cfg["keep_days"])).date().isoformat()
     today = datetime.now(timezone.utc).date().isoformat()
