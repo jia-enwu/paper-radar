@@ -1,57 +1,85 @@
-# 📡 Paper Radar（公共行政版）
+# 📡 Paper Radar (Public Administration edition)
 
-個人化論文追蹤雷達：每天自動從 Crossref 抓取 14 本公共行政期刊的新文章，
-依你的研究興趣（PSM、倫理行為、Do No Harm…）評分排序，呈現在一個手機也好用的網頁上。
+A personal paper-tracking radar. Every day it pulls new articles from seven
+public administration journals through Crossref, scores and ranks them against
+your own research interests (PSM, ethical behavior, Do No Harm, and so on), and
+lays them out on a page that reads well on a phone.
 
-靈感來自 [drpwchen/paper-radar](https://github.com/drpwchen/paper-radar)，
-改為 **GitHub Actions + GitHub Pages** 架構——不需要伺服器、不需要 Cloudflare、零依賴套件。
+The idea comes from [drpwchen/paper-radar](https://github.com/drpwchen/paper-radar),
+rebuilt on **GitHub Actions + GitHub Pages** so there is no server to run, no
+Cloudflare, and nothing to install.
 
-## 架構
+## Architecture
 
 ```
-GitHub Actions（每天台北時間 6:00）
+GitHub Actions (daily, 6:00 AM Taipei time)
     └─ fetch_and_score.py
-         ├─ Crossref API 抓 14 本期刊近 30 天新文章（含摘要）
-         ├─ 依 interest_model.json 關鍵字權重評分
-         └─ 寫入 docs/papers.json 並 commit
-GitHub Pages（/docs）
-    └─ index.html 讀 papers.json 渲染
-         └─ ✅已看 / ⭐想細讀 / 👍👎 存在瀏覽器 localStorage
+         ├─ pull ~30 days of new articles (abstracts included) from 7 journals via the Crossref API
+         ├─ score by the keyword weights in interest_model.json
+         └─ write docs/papers.json and commit
+GitHub Pages (/docs)
+    └─ index.html reads papers.json and renders it
+         └─ ✅ read / ⭐ read later / 👍👎 kept in the browser's localStorage
 ```
 
-## 檔案說明
+## Files
 
-| 檔案 | 用途 |
+| File | Purpose |
 |---|---|
-| `config.json` | 追蹤哪些期刊（ISSN）、回溯天數、保留天數 |
-| `interest_model.json` | 關鍵字權重表——**調整口味改這裡** |
-| `fetch_and_score.py` | 抓取 + 評分腳本（純標準函式庫） |
-| `docs/index.html` | 前端網頁 |
-| `docs/papers.json` | 自動產生的資料（勿手動編輯） |
-| `.github/workflows/update.yml` | 每日自動更新排程 |
+| `config.json` | Which journals to track (ISSN), how many days back, how long to keep |
+| `interest_model.json` | Keyword weight table — **edit this to change your taste** |
+| `fetch_and_score.py` | Fetch + score script (standard library only) |
+| `docs/index.html` | The front-end page |
+| `docs/papers.json` | Auto-generated data, incl. cached `abstract_zh` translations (do not edit by hand) |
+| `.github/workflows/update.yml` | Daily auto-update schedule |
 
-## 本機測試
+## Local testing
 
 ```bash
-python3 fetch_and_score.py        # 抓取並產生 docs/papers.json
-python3 -m http.server -d docs    # 開 http://localhost:8000 預覽
+python3 fetch_and_score.py        # fetch and generate docs/papers.json
+python3 -m http.server -d docs    # open http://localhost:8000 to preview
 ```
 
-## 部署（一次性設定）
+## Deployment (one-time setup)
 
-1. 在 GitHub 建立新 repo（例如 `paper-radar`），把這個資料夾推上去
-2. Repo → **Settings → Pages** → Source 選 `Deploy from a branch`，
-   Branch 選 `main`、資料夾選 `/docs`，按 Save
-3. Repo → **Actions** 頁面確認 workflow 已啟用（第一次可按 Run workflow 手動跑）
-4. 網址就是 `https://你的帳號.github.io/paper-radar/`
+1. Create a new repo on GitHub (for example `paper-radar`) and push this folder to it.
+2. Repo → **Settings → Pages** → set Source to `Deploy from a branch`, Branch to
+   `main`, folder to `/docs`, then click Save.
+3. Repo → **Actions** → confirm the workflow is enabled (for the first run you can
+   trigger it by hand with Run workflow).
+4. The site lives at `https://<your-account>.github.io/paper-radar/`.
 
-> 注意：免費帳號的 GitHub Pages 一定是公開網頁（雖然標了 noindex 不被搜尋引擎收錄）。
-> 網頁內容只是論文清單，你的勾選記錄存在自己瀏覽器裡，不會上傳。
+> Note: GitHub Pages on a free account is always a public page, though it carries
+> a `noindex` tag so search engines skip it. The page shows nothing but a list of
+> papers; your read and star marks stay in your own browser and are never uploaded.
 
-## 調整口味
+## Traditional-Chinese abstracts (optional)
 
-- **加期刊**：在 `config.json` 的 `journals` 加一筆 `{"name": "...", "issn": "..."}`（用電子版 ISSN）
-- **改權重**：編輯 `interest_model.json`，分數 = Σ 權重 ×（標題出現次數×2 + 摘要出現次數）
-- **改更新時間**：編輯 `.github/workflows/update.yml` 的 cron（注意是 UTC 時間）
+Each abstract can carry a Traditional-Chinese translation, shown on the page
+behind a **🌐 中譯** button. Translation runs inside the GitHub Action using the
+Gemini API, so the key never touches the public page, and each abstract is
+translated once and cached in `papers.json` by DOI.
 
-評分覺得不準時，看看高分卡片上亮起的關鍵字標籤，把不想要的降權重、常漏掉的主題加進去，隔天就會生效。
+To turn it on:
+
+1. Get a free API key from [Google AI Studio](https://aistudio.google.com/apikey).
+2. In the repo, go to **Settings → Secrets and variables → Actions → New
+   repository secret**, name it `GEMINI_API_KEY`, and paste the key.
+3. Re-run the workflow (Actions → Run workflow). New abstracts are translated on
+   each run; already-translated ones are reused.
+
+Without the secret the script simply skips translation, so nothing breaks if you
+leave it off. The free tier (Gemini 2.5 Flash) is well within limits here, since
+only new papers are translated each day. Note that abstracts are already public,
+and free-tier requests may be used by Google to improve their models.
+
+## Adjusting your taste
+
+- **Add a journal:** add one `{"name": "...", "issn": "..."}` entry to `journals`
+  in `config.json` (use the electronic ISSN).
+- **Change weights:** edit `interest_model.json`. Score = Σ weight × (title hits × 2 + abstract hits).
+- **Change the update time:** edit the cron in `.github/workflows/update.yml` (it runs on UTC).
+
+When a score looks off, read the keyword tags lit up on the high-scoring cards,
+lower the weight on the ones you don't want, add the topics you keep missing, and
+the change takes effect the next day.

@@ -1,5 +1,5 @@
 {
-  "_comment": "關鍵字權重表：分數 = Σ 權重 ×（標題出現次數×2 + 摘要出現次數，上限3次）。依 Wu CV 校準：官僚裁量、AI／演算法治理、代表性官僚、因果推論。",
+  "_comment": "Keyword weight table: score = Σ weight × (title hits × 2 + abstract hits, capped at 3 each). Calibrated to Wu's CV: bureaucratic discretion, AI / algorithmic governance, representative bureaucracy, causal inference.",
   "keywords": {
     "artificial intelligence": 6,
     "ai": 5,

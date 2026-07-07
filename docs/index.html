@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="zh-Hant">
+<html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -74,17 +74,17 @@
 <header>
   <h1>📡 Paper Radar<span id="updated"></span></h1>
   <div class="controls">
-    <button data-filter="all" class="active">全部</button>
-    <button data-filter="unread">未看</button>
-    <button data-filter="star">⭐ 想細讀</button>
-    <button data-filter="hot">🔥 高分</button>
-    <input id="search" type="search" placeholder="搜尋標題／作者／期刊…">
+    <button data-filter="all" class="active">All</button>
+    <button data-filter="unread">Unread</button>
+    <button data-filter="star">⭐ Read Later</button>
+    <button data-filter="hot">🔥 Top</button>
+    <input id="search" type="search" placeholder="Search title / author / journal…">
   </div>
 </header>
-<main id="list"><p class="empty">載入中…</p></main>
+<main id="list"><p class="empty">Loading…</p></main>
 
 <script>
-// 機構代理前綴：點「🏛️ IU 全文」會經過 IU 圖書館 EZproxy，登入後用訂閱看全文
+// Institutional proxy prefix: clicking "🏛️ IU Full Text" routes through IU Library's EZproxy, so you read the full text via subscription after logging in
 const PROXY_PREFIX = "https://proxyiub.uits.iu.edu/login?url=";
 
 const LS_KEY = "paper-radar-marks";
@@ -103,6 +103,13 @@ function esc(s) {
   return s.replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 }
 
+function toggleZh(btn) {
+  const z = btn.closest(".card").querySelector(".zh");
+  const showing = z.style.display !== "none";
+  z.style.display = showing ? "none" : "";
+  btn.classList.toggle("on", !showing);
+}
+
 function render() {
   const list = document.getElementById("list");
   const q = query.toLowerCase();
@@ -114,7 +121,7 @@ function render() {
     if (q && !(p.title + " " + p.authors.join(" ") + " " + p.journal).toLowerCase().includes(q)) return false;
     return true;
   });
-  if (!shown.length) { list.innerHTML = '<p class="empty">沒有符合的論文</p>'; return; }
+  if (!shown.length) { list.innerHTML = '<p class="empty">No matching papers</p>'; return; }
   list.innerHTML = shown.map(p => {
     const m = mark(p.doi);
     return `<div class="card${m.read ? " read" : ""}">
@@ -123,15 +130,17 @@ function render() {
         <span>${esc(p.journal)}</span><span>${p.date}</span>
       </div>
       <div class="title"><a href="${p.url}" target="_blank" rel="noopener">${esc(p.title)}</a></div>
-      <div class="authors">${esc(p.authors.slice(0, 6).join(", "))}${p.authors.length > 6 ? " 等" : ""}</div>
+      <div class="authors">${esc(p.authors.slice(0, 6).join(", "))}${p.authors.length > 6 ? " et al." : ""}</div>
       ${p.abstract ? `<div class="abstract" onclick="this.classList.toggle('open')">${esc(p.abstract)}</div>` : ""}
+      ${p.abstract_zh ? `<div class="abstract zh" style="display:none" onclick="this.classList.toggle('open')">${esc(p.abstract_zh)}</div>` : ""}
       ${p.matched.length ? `<div class="tags">${p.matched.map(t => `<span class="tag">${esc(t)}</span>`).join("")}</div>` : ""}
       <div class="actions">
-        <button class="${m.read ? "on" : ""}" onclick="toggle('${p.doi}','read')">✅ 已看</button>
-        <button class="${m.star ? "on" : ""}" onclick="toggle('${p.doi}','star')">⭐ 想細讀</button>
+        <button class="${m.read ? "on" : ""}" onclick="toggle('${p.doi}','read')">✅ Read</button>
+        <button class="${m.star ? "on" : ""}" onclick="toggle('${p.doi}','star')">⭐ Read Later</button>
         <button class="${m.up ? "on" : ""}" onclick="toggle('${p.doi}','up')">👍</button>
         <button class="${m.down ? "on" : ""}" onclick="toggle('${p.doi}','down')">👎</button>
-        <a href="${PROXY_PREFIX}${encodeURIComponent(p.url)}" target="_blank" rel="noopener"><button>🏛️ IU 全文</button></a>
+        ${p.abstract_zh ? `<button onclick="toggleZh(this)">🌐 中譯</button>` : ""}
+        <a href="${PROXY_PREFIX}${encodeURIComponent(p.url)}" target="_blank" rel="noopener"><button>🏛️ IU Full Text</button></a>
       </div>
     </div>`;
   }).join("");
@@ -151,10 +160,10 @@ fetch("papers.json?t=" + Date.now())
   .then(data => {
     papers = data.papers;
     document.getElementById("updated").textContent =
-      "更新：" + data.updated.slice(0, 16).replace("T", " ") + " UTC・" + papers.length + " 篇";
+      "Updated: " + data.updated.slice(0, 16).replace("T", " ") + " UTC · " + papers.length + " papers";
     render();
   })
-  .catch(() => { document.getElementById("list").innerHTML = '<p class="empty">還沒有資料，請先跑一次 fetch_and_score.py</p>'; });
+  .catch(() => { document.getElementById("list").innerHTML = '<p class="empty">No data yet — run fetch_and_score.py first</p>'; });
 </script>
 </body>
 </html>

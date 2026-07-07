@@ -1,9 +1,9 @@
-name: 每日更新論文雷達
+name: Daily Paper Radar update
 
 on:
   schedule:
-    - cron: "0 22 * * *"   # UTC 22:00 = 台北時間早上 6:00
-  workflow_dispatch:        # 也可以在 Actions 頁面手動觸發
+    - cron: "0 22 * * *"   # UTC 22:00 = 6:00 AM Taipei time
+  workflow_dispatch:        # can also be triggered manually from the Actions tab
 
 permissions:
   contents: write
@@ -18,13 +18,15 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: 抓取並評分
+      - name: Fetch and score
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python3 fetch_and_score.py
 
-      - name: 提交更新
+      - name: Commit update
         run: |
           git config user.name "paper-radar-bot"
           git config user.email "actions@github.com"
           git add docs/papers.json
-          git diff --cached --quiet || git commit -m "自動更新 papers.json ($(date -u +%F))"
+          git diff --cached --quiet || git commit -m "auto-update papers.json ($(date -u +%F))"
           git push

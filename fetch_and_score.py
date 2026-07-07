@@ -1,10 +1,12 @@
 #!/usr/bin/env python3
-"""Paper Radar：從 Crossref 抓取期刊新文章，依興趣模型評分，輸出 docs/papers.json。
+"""Paper Radar: fetch new journal articles from Crossref, score them against the
+interest model, and write docs/papers.json.
 
-只用 Python 標準函式庫，無需安裝任何套件。
-用法：python3 fetch_and_score.py
+Standard library only; no packages to install.
+Usage: python3 fetch_and_score.py
 """
 import json
+import os
 import re
 import sys
 import time
@@ -17,6 +19,12 @@ ROOT = Path(__file__).parent
 OUTPUT = ROOT / "docs" / "papers.json"
 
 API = "https://api.crossref.org/journals/{issn}/works"
+
+# Optional abstract translation via the Gemini API. If GEMINI_API_KEY is unset
+# (e.g. local runs), translation is skipped and the site still works.
+GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
+GEMINI_MODEL = "gemini-2.5-flash"
+GEMINI_URL = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent"
 
 
 def load_json(path):
@@ -32,7 +40,7 @@ def http_get(url, retries=3):
                 return json.load(resp)
         except Exception as e:
             if attempt == retries - 1:
-                print(f"  跳過（{e}）", file=sys.stderr)
+                print(f"  skipped ({e})", file=sys.stderr)
                 return None
             time.sleep(2 * (attempt + 1))
 
@@ -40,10 +48,40 @@ def http_get(url, retries=3):
 def clean_abstract(raw):
     if not raw:
         return ""
-    text = re.sub(r"<[^>]+>", " ", raw)          # 去掉 JATS XML 標籤
+    text = re.sub(r"<[^>]+>", " ", raw)          # strip JATS XML tags
     text = re.sub(r"\s+", " ", text).strip()
     text = re.sub(r"^(ABSTRACT|Abstract)\s*", "", text)
     return text
+
+
+def translate_zh(text):
+    """Translate an abstract into Traditional Chinese via Gemini; "" on failure."""
+    if not GEMINI_API_KEY or not text:
+        return ""
+    prompt = (
+        "Translate the following academic abstract into Traditional Chinese "
+        "(繁體中文, Taiwan usage). Keep technical terms accurate and do not add "
+        "any preamble or notes; output only the translation.\n\n" + text
+    )
+    body = json.dumps({
+        "contents": [{"parts": [{"text": prompt}]}],
+        "generationConfig": {"temperature": 0.2},
+    }).encode("utf-8")
+    req = urllib.request.Request(
+        GEMINI_URL,
+        data=body,
+        headers={"Content-Type": "application/json", "x-goog-api-key": GEMINI_API_KEY},
+    )
+    for attempt in range(3):
+        try:
+            with urllib.request.urlopen(req, timeout=60) as resp:
+                data = json.load(resp)
+            return data["candidates"][0]["content"]["parts"][0]["text"].strip()
+        except Exception as e:
+            if attempt == 2:
+                print(f"  translate skipped ({e})", file=sys.stderr)
+                return ""
+            time.sleep(5 * (attempt + 1))
 
 
 def fetch_journal(journal, cfg):
@@ -62,7 +100,7 @@ def fetch_journal(journal, cfg):
     papers = []
     for item in data["message"]["items"]:
         title = " ".join(item.get("title") or []).strip()
-        title = re.sub(r"<[^>]+>", "", title)          # 去掉 Wiley 標題裡的 <scp> 等標籤
+        title = re.sub(r"<[^>]+>", "", title)          # strip tags like <scp> found in Wiley titles
         title = re.sub(r"\s+", " ", title).strip()
         if not title:
             continue
@@ -94,7 +132,7 @@ def score_paper(paper, model):
     matched = []
     for kw, weight in model["keywords"].items():
         k = kw.lower()
-        # 短關鍵字（如 psm）用全字比對避免誤中
+        # short keywords (e.g. psm) use whole-word matching to avoid false hits
         if len(k) <= 4:
             pattern = r"\b" + re.escape(k) + r"\b"
             hits_t = min(len(re.findall(pattern, title)), 3)
@@ -115,7 +153,7 @@ def main():
     cfg = load_json(ROOT / "config.json")
     model = load_json(ROOT / "interest_model.json")
 
-    # 讀舊資料，保留 first_seen
+    # load previous data to preserve first_seen
     old = {}
     if OUTPUT.exists():
         for p in load_json(OUTPUT).get("papers", []):
@@ -123,7 +161,7 @@ def main():
 
     seen = {}
     for journal in cfg["journals"]:
-        print(f"抓取 {journal['name']} ...")
+        print(f"Fetching {journal['name']} ...")
         for p in fetch_journal(journal, cfg):
             if p["doi"] not in seen:
                 seen[p["doi"]] = p
@@ -136,13 +174,28 @@ def main():
     for doi, p in seen.items():
         p["first_seen"] = old.get(doi, {}).get("first_seen", today)
         papers.append(score_paper(p, model))
-    # 舊資料裡還沒過期、但這次抓取範圍外的也保留（僅限仍在追蹤清單的期刊）
+    # keep older entries that are not yet expired but fell outside this fetch (tracked journals only)
     tracked = {j["name"] for j in cfg["journals"]}
     for doi, p in old.items():
         if doi not in seen and p.get("first_seen", today) >= cutoff and p["journal"] in tracked:
             papers.append(score_paper(p, model))
 
     papers.sort(key=lambda p: (-p["score"], p["date"]), reverse=False)
+
+    # Traditional-Chinese abstracts: reuse cached translations, translate the
+    # rest (high-score first, so a daily quota cap still covers what matters).
+    translated = 0
+    for p in papers:
+        if not p.get("abstract_zh"):
+            p["abstract_zh"] = old.get(p["doi"], {}).get("abstract_zh", "")
+        if not p["abstract_zh"] and GEMINI_API_KEY and p["abstract"]:
+            p["abstract_zh"] = translate_zh(p["abstract"])
+            if p["abstract_zh"]:
+                translated += 1
+                time.sleep(7)  # stay under ~10 requests/min on the free tier
+    if GEMINI_API_KEY:
+        print(f"Translated {translated} new abstract(s) to Traditional Chinese")
+
     result = {
         "updated": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "papers": papers,
@@ -150,7 +203,7 @@ def main():
     OUTPUT.parent.mkdir(exist_ok=True)
     with open(OUTPUT, "w", encoding="utf-8") as f:
         json.dump(result, f, ensure_ascii=False, indent=1)
-    print(f"完成：共 {len(papers)} 篇，寫入 {OUTPUT}")
+    print(f"Done: {len(papers)} papers written to {OUTPUT}")
 
 
 if __name__ == "__main__":
