@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-08T23:00:08+00:00",
+ "updated": "2026-07-09T23:02:18+00:00",
  "papers": [
   {
    "doi": "10.1093/jopart/muag018",
@@ -555,6 +555,23 @@
    "abstract_zh": "難民營已演變為持久的治理場域，其特徵為集中式權威和壟斷性服務環境，在此居民缺乏「退出」選項。儘管公共行政學術界廣泛地探討參與的益處，研究卻常假設穩定的民主制度為基礎，使得「受限下的參與」發展不足。本研究探討「薄弱」參與—即對回饋機制和諮詢外展的認知—是否與難民在個人、社群和機構層面的感知結果相關。本研究利用來自孟加拉國科克斯巴扎爾33個難民營的876個家戶層級調查資料，發現潛在認知和諮詢都顯著地與改善的主觀幸福感相關。我們的研究結果揭示了分層的影響：被動認知與社群和機構層面的獲益相關，而諮詢的關係強度則是個人層面改善所必需的。這些結果表明，即使是最低限度的參與，也能作為一個重要的生成機制，促進高度依賴、非民主環境中的機構合法性。"
   },
   {
+   "doi": "10.1111/padm.70075",
+   "title": "Resolving Agile Ambidexterity: Between Ambivalence, Adaptation, and Accommodation",
+   "abstract": "Public bureaucracies address challenging and complex problems by applying agile work practices when standard operating procedures or routines fail. In these situations, public managers need to decide whether to exploit existing bureaucratic routines or explore novel solutions through non‐routine agile work practices. This study shows how public managers maneuver between different adoption decisions: (1) remain ambivalent and reject agile, (2) accommodate the needs of the bureaucracy and adjust agile work practices to align with administrative routines, or (3) adapt in an ambidextrous manner by becoming agile literate and choosing the appropriate work practices depending on the public management problem. This study contributes to the literature on agile governance by incorporating the notion of ambidexterity into the existing theory of 21st‐century bureaucracy.",
+   "authors": [
+    "Ines Mergel"
+   ],
+   "journal": "Public Administration",
+   "url": "https://doi.org/10.1111/padm.70075",
+   "date": "2026-07-09",
+   "first_seen": "2026-07-09",
+   "score": 6.0,
+   "matched": [
+    "bureaucra"
+   ],
+   "abstract_zh": "當標準作業程序或例行公事失效時，公部門科層體制會透過應用敏捷工作實務來處理具挑戰性且複雜的問題。在這些情況下，公部門管理者需要決定是利用現有的科層體制例行公事，還是透過非例行性的敏捷工作實務來探索新穎的解決方案。本研究闡述了公部門管理者如何在不同的採用決策之間權衡：(1) 保持矛盾並拒絕敏捷；(2) 順應科層體制的需求，並調整敏捷工作實務以符合行政例行公事；或 (3) 透過成為敏捷素養者，並根據公共管理問題選擇適當的工作實務，以雙元方式進行調適。本研究透過將雙元性概念納入現有的21世紀科層體制理論中，為敏捷治理的文獻做出貢獻。"
+  },
+  {
    "doi": "10.1093/jopart/muag013",
    "title": "Awareness, Costs, and Take-up of Social Benefits: Evidence from a Field Experiment in China",
    "abstract": "This study examines incomplete participation in social benefit programs by focusing on individual income tax refund claims in China. Despite growing evidence on this issue, there remains a need to directly compare the effectiveness of addressing behavioral barriers versus alleviating administrative burdens in promoting program take-up. Moreover, when administrative burdens are targeted, it is unclear whether reducing learning, compliance, or psychological costs is most effective. To address these questions, we investigate how policy interventions designed to enhance program awareness and reduce participation costs affect individuals’ tax refund take-up. In collaboration with a local taxation bureau in China, we conducted a randomized field experiment involving approximately 23,000 eligible taxpayers assigned to different intervention groups. Using administrative data, we tracked their tax refund filing activities during the settlement period. Results show that awareness-enhancing interventions increased take-up by 2.19 percentage points, whereas cost-reduction efforts yielded limited or unintended negative effects.",
@@ -991,7 +1008,7 @@
   {
    "doi": "10.1080/14719037.2026.2690423",
    "title": "Public value as care within and for practices",
-   "abstract": "",
+   "abstract": "This article draws on practice theory and care theory to conceptualize public value as care within and for the practices to which citizens are entitled. In doing so, it contributes by theoretically integrating major strands of public value research. More specifically, it shows that strategic management of public value depends on the sustained care for practices; that contestation over public value centres on struggles over what should be cared for; that the cocreation and codestruction of public value depend on the extent to which practices are carefully sustained; and that public values are normatively grounded in care and become visible through enacted practices. The article also outlines practical implications for addressing pressing collective challenges through policy design and demonstrates how legitimacy, management, and accountability are reconfigured when public value is understood as care within and for the practices to which citizens are entitled.",
    "authors": [
     "Per Skålén"
    ],
@@ -1001,7 +1018,27 @@
    "first_seen": "2026-07-08",
    "score": 0.0,
    "matched": [],
-   "abstract_zh": ""
+   "abstract_zh": "本文立基於實踐理論與關懷理論，將公共價值概念化為在公民應享有的實踐中，並為其所做的關懷。藉此，本文的貢獻在於從理論上整合了公共價值研究的各個主要流派。更具體地說，本文指出：公共價值的策略性管理取決於對實踐的持續關懷；對公共價值的爭議核心在於對「應關懷什麼」的爭奪；公共價值的共創與共毀仰賴於實踐被審慎維護的程度；以及公共價值在規範上根植於關懷，並透過實踐行動而顯現。本文也概述了透過政策設計來應對緊迫集體挑戰的實務意涵，並闡明了當公共價值被理解為在公民應享有的實踐中，並為其所做的關懷時，正當性、管理與問責將如何被重新配置。"
+  },
+  {
+   "doi": "10.1177/02750740261464913",
+   "title": "Conceptualizing and Measuring the Rule of Law in Public Administration—Regulations, Organization, and Decision-Making",
+   "abstract": "The rule of law is foundational to Public Administration (PA), yet the field has long lacked a clear conceptualization of what the rule of law entails and, furthermore, an objective measurement system. Grounded in the “thin” conception of the rule of law and integrated within the public administration context, we propose a three-dimensional framework: Regulations, Organization, and Decision-making. We operationalize this framework as the Public Administration Rule of Law Index (PARLI), a composite measure built from three level-1 and seven level-2 indicators, using objective data to ensure replicability. We apply this index to measure the rule of law in China's 31 provinces (2020–2024) and validate it by examining its relationship with key socioeconomic outcomes. The results align with theoretical expectations: PARLI scores are positively correlated with entrepreneurship and innovation but negatively correlated with government responsiveness. These findings simultaneously confirm the measure's validity and reveal the inherent tensions in applying the rule of law within the public administration. This study makes two primary contributions. First, it provides scholars with a coherent framework to overcome knowledge fragmentation and cumulate scientific inquiry. Second, it offers a replicable and objective measurement toolkit for policy analysis.",
+   "authors": [
+    "Tianhao Chen",
+    "Weirui Wei",
+    "Yipo Su",
+    "Jieting Chen",
+    "Huizhong Gong",
+    "Yu Sheng"
+   ],
+   "journal": "The American Review of Public Administration",
+   "url": "https://doi.org/10.1177/02750740261464913",
+   "date": "2026-07-09",
+   "first_seen": "2026-07-09",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "法治是公共行政 (PA) 的基礎，然而，該領域長期以來缺乏對法治意涵的清晰概念化，此外，也缺乏客觀的衡量系統。本研究立基於「薄」法治概念，並整合於公共行政脈絡中，提出一個三維框架：規章、組織與決策。我們將此框架操作化為公共行政法治指數 (PARLI)，這是一個由三個第一層級與七個第二層級指標建構而成的綜合性衡量指標，並採用客觀數據以確保其可複製性。我們將此指數應用於衡量中國 31 個省份的法治狀況 (2020-2024年)，並透過檢視其與關鍵社會經濟成果的關係來驗證其有效性。研究結果符合理論預期：PARLI 分數與創業和創新呈正相關，但與政府回應性呈負相關。這些發現同時證實了該衡量指標的有效性，並揭示了在公共行政中應用法治時所固有的張力。本研究有兩項主要貢獻。首先，它為學者提供一個連貫的框架，以克服知識碎片化並累積科學探究。其次，它提供一個可複製且客觀的衡量工具包，供政策分析使用。"
   }
  ]
 }
