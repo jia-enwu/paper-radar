@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-09T23:02:18+00:00",
+ "updated": "2026-07-10T22:48:37+00:00",
  "papers": [
   {
    "doi": "10.1093/jopart/muag018",
@@ -735,8 +735,8 @@
   },
   {
    "doi": "10.1093/jopart/muag014",
-   "title": "Organizational Strategies for System Robustness: How Managers Navigate the Institutional Architecture of Complex Systems",
-   "abstract": "Many public managers oversee complex systems that require them to navigate multifaceted organizational decision-making processes. While there is general recognition that institutions constrain information processing, rigorous study of how particular institutional designs influence the strategies used by organizations to process information and act on the systems they oversee is limited by existing theory and methodological approaches. We propose a theoretical approach that integrates established understanding of institutions as choice architectures and disproportionate information processing in organizations with new understanding of collective inference from cognitive science. The approach addresses three limitations in existing theory: (i) the relationship between detailed institutional designs and organizational strategies, (ii) the role of flexibility in information processing, and (iii) the relationship between organizational strategies and system robustness. We demonstrate its application empirically using a mixed methods approach that combines institutional analysis and process tracing with a dynamic model to analyze how the City of Phoenix Water Services Department responded to environmental change through investment and ratemaking actions. Our findings highlight how institutional designs that require managers to account for multiple objectives benefit from added flexibility, allowing managers to explore new approaches that address competing objectives and increase system robustness. Conversely, designs exhibiting high costs without high flexibility may create rigidity traps that hinder action and reduce system robustness in the face of uncertainty.",
+   "title": "Organizational strategies for system robustness: how managers navigate the institutional architecture of complex systems",
+   "abstract": "Many public managers oversee complex systems that require them to navigate multifaceted organizational decision-making processes. While there is general recognition that institutions constrain information processing, rigorous study of how particular institutional designs influence the strategies used by organizations to process information and act on the systems they oversee is limited by existing theory and methodological approaches. We propose a theoretical approach that integrates established understanding of institutions as choice architectures and disproportionate information processing in organizations with new understanding of collective inference from cognitive science. The approach addresses three limitations in existing theory: (1) the relationship between detailed institutional designs and organizational strategies, (2) the role of flexibility in information processing, and (3) the relationship between organizational strategies and system robustness. We demonstrate its application empirically using a mixed methods approach that combines institutional analysis and process tracing with a dynamic model to analyze how the City of Phoenix Water Services Department responded to environmental change through investment and ratemaking actions. Our findings highlight how institutional designs that require managers to account for multiple objectives benefit from added flexibility, allowing managers to explore new approaches that address competing objectives and increase system robustness. Conversely, designs exhibiting high costs without high flexibility may create rigidity traps that hinder action and reduce system robustness in the face of uncertainty.",
    "authors": [
     "Adam Wiechman",
     "Aaron Deslatte",
@@ -751,6 +751,24 @@
    "score": 2.0,
    "matched": [],
    "abstract_zh": "許多公共管理者負責管理複雜系統，這要求他們駕馭多面向的組織決策流程。儘管普遍認知制度會約束資訊處理，但關於特定制度設計如何影響組織處理資訊並對其所管理系統採取行動的策略，對此的嚴謹研究卻受限於現有理論與方法論途徑。我們提出一種理論途徑，整合了將制度視為選擇架構的既有理解、組織中不成比例的資訊處理，以及認知科學中對集體推論的新理解。此途徑解決了現有理論的三個限制：(一) 詳細制度設計與組織策略之間的關係，(二) 資訊處理中彈性的作用，以及 (三) 組織策略與系統韌性之間的關係。我們以實證方式展示其應用，採用混合方法途徑，結合制度分析與過程追蹤，並搭配動態模型，以分析鳳凰城市水務局如何透過投資和費率制定行動應對環境變化。我們的研究結果強調，要求管理者考量多重目標的制度設計，將受益於額外的彈性，讓管理者得以探索解決相互衝突目標的新方法，並提升系統韌性。相反地，缺乏高度彈性卻伴隨高成本的設計，可能會形成僵化陷阱，阻礙行動，進而降低系統在不確定性下的韌性。"
+  },
+  {
+   "doi": "10.1111/puar.70160",
+   "title": "Key Practices of Knowledge Mobilization in Local Policy Settings",
+   "abstract": "The literature on knowledge mobilization (KM) acknowledges the complex processes involved in the application of evidence to policy. However, the everyday activities employed by knowledge mobilizers to facilitate these processes have proved difficult to capture and codify. We address this gap in current understanding through empirical analysis of the practices used to mobilize knowledge in local policy making. We find that effective KM is characterized by relational interactions with diverse actors across research, policy and practice settings; constant and consistent engagement with the local and policy contexts in which evidence is being applied; and the integration of different types of knowledge (including research findings, professional expertise and lived experience) to collectively respond to policy and practice needs. These practices of KM have important implications for how evidence is defined, validated, and used by policymakers and practitioners.",
+   "authors": [
+    "Rosie Havers",
+    "Hannah Durrant",
+    "James Downe",
+    "Steve Martin"
+   ],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70160",
+   "date": "2026-07-10",
+   "first_seen": "2026-07-10",
+   "score": 2.0,
+   "matched": [],
+   "abstract_zh": "知識轉化 (KM) 相關文獻體認到將實證應用於政策所涉及的複雜過程。然而，知識轉化者為促進這些過程所採用的日常實踐，卻難以捕捉與編碼。本研究透過對地方政策制定中知識轉化實踐的實證分析，旨在彌補當前理解上的不足。我們發現，有效的知識轉化具有以下特點：與跨越研究、政策和實務場域的多元行動者進行關係性互動；持續且一致地投入實證應用所處的地方與政策脈絡；以及整合不同類型的知識（包括研究發現、專業知識和生活經驗），以共同回應政策與實務需求。這些知識轉化實踐對於政策制定者與實務工作者如何定義、驗證和使用實證，具有重要意涵。"
   },
   {
    "doi": "10.1080/14719037.2026.2685252",
@@ -1039,6 +1057,22 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "法治是公共行政 (PA) 的基礎，然而，該領域長期以來缺乏對法治意涵的清晰概念化，此外，也缺乏客觀的衡量系統。本研究立基於「薄」法治概念，並整合於公共行政脈絡中，提出一個三維框架：規章、組織與決策。我們將此框架操作化為公共行政法治指數 (PARLI)，這是一個由三個第一層級與七個第二層級指標建構而成的綜合性衡量指標，並採用客觀數據以確保其可複製性。我們將此指數應用於衡量中國 31 個省份的法治狀況 (2020-2024年)，並透過檢視其與關鍵社會經濟成果的關係來驗證其有效性。研究結果符合理論預期：PARLI 分數與創業和創新呈正相關，但與政府回應性呈負相關。這些發現同時證實了該衡量指標的有效性，並揭示了在公共行政中應用法治時所固有的張力。本研究有兩項主要貢獻。首先，它為學者提供一個連貫的框架，以克服知識碎片化並累積科學探究。其次，它提供一個可複製且客觀的衡量工具包，供政策分析使用。"
+  },
+  {
+   "doi": "10.1080/14719037.2026.2700573",
+   "title": "Navigating challenges at the frontline: evidence from Youth Outreach Unit (YOU) in marginalized communities",
+   "abstract": "",
+   "authors": [
+    "Vernise Estorcien",
+    "Sanghee Park"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2700573",
+   "date": "2026-07-10",
+   "first_seen": "2026-07-10",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
   }
  ]
 }
