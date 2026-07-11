@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-10T22:48:37+00:00",
+ "updated": "2026-07-11T22:35:54+00:00",
  "papers": [
   {
    "doi": "10.1093/jopart/muag018",
@@ -1061,7 +1061,7 @@
   {
    "doi": "10.1080/14719037.2026.2700573",
    "title": "Navigating challenges at the frontline: evidence from Youth Outreach Unit (YOU) in marginalized communities",
-   "abstract": "",
+   "abstract": "Police-led youth programs provide mentorship and support for youth in marginalized communities, yet limited research examines their implementation challenges and adaptive strategies. This qualitative study investigates the Youth Outreach Unit (YOU) in Miami-Dade County, Florida, using virtual semi-structured interviews with program leaders and officers. Findings identify three key implementation challenges: resource constraints, understaffing and limited expertise, and unclear goals and performance metrics. We further identify three pathways for improvement: formal partnerships and community collaboration, strategic use of goal ambiguity, and clearer metrics, protocols, and accountability mechanisms. The study offers policy implications for designing and supporting community-based youth programs.",
    "authors": [
     "Vernise Estorcien",
     "Sanghee Park"
@@ -1072,7 +1072,7 @@
    "first_seen": "2026-07-10",
    "score": 0.0,
    "matched": [],
-   "abstract_zh": ""
+   "abstract_zh": "警方主導的青少年計畫為邊緣化社區的青少年提供指導與支持，然而，鮮少有研究探討其實施挑戰與調適策略。本質性研究旨在調查佛羅里達州邁阿密-戴德縣的青少年外展單位 (YOU)，透過與計畫領導者和警員進行虛擬半結構式訪談。研究結果指出三項主要的實施挑戰：資源限制、人力不足與專業知識有限，以及目標不明確與績效指標不清。我們進一步提出三項改進途徑：正式夥伴關係與社區合作、策略性地運用目標模糊性，以及更明確的指標、規範與課責機制。本研究為設計與支持以社區為基礎的青少年計畫提供政策意涵。"
   }
  ]
 }
