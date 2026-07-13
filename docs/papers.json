@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-12T22:35:49+00:00",
+ "updated": "2026-07-13T22:43:15+00:00",
  "papers": [
   {
    "doi": "10.1093/jopart/muag018",
@@ -629,6 +629,25 @@
    "abstract_zh": "本研究探討公部門領導者之選任方式如何影響組織績效，尤其是在預期應具獨立性的監督職能中。政治經濟學文獻指出，經選舉產生的領導者更能回應選民偏好，而經任命的領導者則擁有更多專業知識。借鑒公共行政學中關於官僚體系政治控制的理論，本研究主張，無論選任方式為何，公部門領導者作為代理人，均受掌握選任過程權力的政治委託人影響。當委託人的利益與公共利益不一致時，尤其是在政府監督職能中，其影響可能損害被選任領導者的績效。本研究以州審計官為研究對象，發現平均而言，選任方式與審計結果並無關聯，但若審計官的政治委託人與受審計者（州長）具有相同政黨歸屬，則較不可能發現財務管理上的缺失。"
   },
   {
+   "doi": "10.1111/puar.70161",
+   "title": "Rethinking Local Choice: Experimental Evidence on Taxpayer Sentiment and Public School Funding",
+   "abstract": "Taxpayers often have conflicting views on what constitutes fair taxation and how tax revenues should be allocated. We work with Vermont legislators on the policy concern of sentiment in a property tax setting, given the Vermont Supreme Court ruling around the principle of educational equality. To explore tax sentiment in a complex and highly regulated environment, we use a behavioral public administration approach for our experiment. Our findings are threefold: (1) we identify four central themes of taxpayer sentiment regarding property taxes: fairness and equity, transparency and accountability, responsible use of public funds, and the burden on vulnerable populations; (2) we demonstrate that taxpayer sentiment and agency are significantly shaped by how property tax revenue is allocated; and (3) we show how practitioner‐academic collaborations can address the tensions inherent in tax policy design.",
+   "authors": [
+    "Edward N. Gamble",
+    "Richard G. Vanden Bergh",
+    "Thomas Chittenden"
+   ],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70161",
+   "date": "2026-07-13",
+   "first_seen": "2026-07-13",
+   "score": 4.0,
+   "matched": [
+    "transparency"
+   ],
+   "abstract_zh": "納稅人對於公平稅制及稅收分配方式常有意見分歧。鑑於佛蒙特州最高法院針對教育平等原則的裁定，我們與該州立法委員合作，探討不動產稅制下民眾觀點的政策議題。為探討複雜且高度管制的環境中的稅務民意，我們採用行為公共行政方法進行實驗。本研究發現有三：(1) 我們歸納出納稅人對於不動產稅的四個核心觀點主題：公平性與衡平性、透明度與問責性、公共經費的妥善運用，以及弱勢族群的負擔；(2) 我們證明納稅人觀點與主體性受到不動產稅收分配方式的顯著影響；(3) 我們說明實務界與學術界的合作如何能解決稅務政策設計中固有的張力。"
+  },
+  {
    "doi": "10.1111/puar.70151",
    "title": "Rethinking Budgeting? An Analysis of Budget Theory and Reform for Modernizing Municipal Practice",
    "abstract": "This study examines the persistent gap between budget theory and practice in local governments, using the Government Finance Officers Association's (GFOA) Rethinking Budgeting Initiative as a case study. Analyzing 32 GFOA publications from 2020 to 2024, we identify four key themes in the GFOA's attempt to modernize budgetary decision‐making: public values, behavioral science, coordination and collaboration, and fiscal prudence. Through a narrative synthesis grounded in budget theory, we find normative theories align with reforms emphasizing participatory practices and public values, while descriptive theories underpin traditional fiscal approaches. The endurance of incremental budgeting, despite reformist rhetoric, underscores the challenge of transforming budget practice. Our findings suggest meaningful reform depends on integrating behavioral insights, stakeholder collaboration, and value‐driven goals with theoretical frameworks. Ultimately, this study contributes to scholarly discourse by highlighting opportunities to advance budget theory and improve practitioner engagement, offering a pathway for more adaptive and responsive local government budgeting practices.",
@@ -1073,6 +1092,38 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "警方主導的青少年計畫為邊緣化社區的青少年提供指導與支持，然而，鮮少有研究探討其實施挑戰與調適策略。本質性研究旨在調查佛羅里達州邁阿密-戴德縣的青少年外展單位 (YOU)，透過與計畫領導者和警員進行虛擬半結構式訪談。研究結果指出三項主要的實施挑戰：資源限制、人力不足與專業知識有限，以及目標不明確與績效指標不清。我們進一步提出三項改進途徑：正式夥伴關係與社區合作、策略性地運用目標模糊性，以及更明確的指標、規範與課責機制。本研究為設計與支持以社區為基礎的青少年計畫提供政策意涵。"
+  },
+  {
+   "doi": "10.1080/14719037.2026.2703262",
+   "title": "Strategic narratives and the processes of goal achievement in municipal strategic planning",
+   "abstract": "",
+   "authors": [
+    "Fabien Eymas"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2703262",
+   "date": "2026-07-13",
+   "first_seen": "2026-07-13",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.1080/14719037.2026.2700584",
+   "title": "A social enterprise management framework for creating hybrid value within public service ecosystems",
+   "abstract": "",
+   "authors": [
+    "Madeline Powell",
+    "Alex G. Gillett",
+    "Bob Doherty"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2700584",
+   "date": "2026-07-13",
+   "first_seen": "2026-07-13",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
   }
  ]
 }
