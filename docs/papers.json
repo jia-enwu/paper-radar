@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-13T22:43:15+00:00",
+ "updated": "2026-07-15T22:46:35+00:00",
  "papers": [
   {
    "doi": "10.1093/jopart/muag018",
@@ -86,6 +86,24 @@
     "psm"
    ],
    "abstract_zh": "國家政府實現永續發展目標（SDGs）的主要障礙之一，是公務人員對SDGs重要性缺乏認知，以及對如何將其組織目標與SDGs連結缺乏清晰理解。本文探討公務人員對SDGs執行績效的認知程度，藉由闡明其公共服務動機（PSM）和組織承諾所扮演的角色。我們假設，具有較高公共服務動機和組織承諾的公務人員，將能更清楚地認知SDGs執行績效，顯示在實現SDGs的實際績效與其認知之間存在較小的差距。本研究利用對韓國2,161名公務人員進行調查的原始數據，並結合聯合國永續發展解決方案網絡（SDSN）的績效數據，我們的分析結果強烈支持了我們的預測。當公共服務動機和組織承諾分別從觀察到的中位數增加到最大值時，公務人員對SDGs執行績效的認知程度分別提高1.43倍和1.5倍。我們的研究結果具有重要啟示：強化公共服務動機和組織承諾，可以在提高公務人員對SDGs執行績效的認知，並最終促進SDGs的實現方面，發揮核心作用。"
+  },
+  {
+   "doi": "10.1093/jopart/muag016",
+   "title": "Bureaucratic Turnover Under New Governments: The Moderating Effect of Bureaucratic and Political Layering",
+   "abstract": "Politically motivated personnel turnover affects government bureaucracy’s legitimacy and performance. To understand the conditions of meritocracy, the article explores how variability in hierarchy moderates the effect of government transitions on bureaucratic turnover. Event history analysis of the careers of 948 Norwegian senior bureaucrats (1884–2024) reveals that the organizational layers separating bureaucrats from ministers moderate the effect of government change differently depending on the layer’s political or bureaucratic nature. Bureaucrats directly exposed to political appointees experience heightened turnover during government transitions, while the turnover of bureaucrats separated from appointees by an intervening layer of career employees is unaffected by government transitions. Further analysis of different time periods and senior bureaucratic roles shows that layering alone does not fully explain political influence on bureaucratic careers. Positions must be hierarchically exposed (lacking intervening bureaucratic layers), functionally politicized (involved in tasks that are strategically important to political leadership), and subject to administrative politicization (by being under the purview of political appointees) to be vulnerable to politically motivated turnover. The article advances scholarship on the politicization of senior bureaucrats in merit bureaucracies by examining 140 years of politically induced turnover through a theory of how layering moderates political dynamics.",
+   "authors": [
+    "Bjørn Mo Forum"
+   ],
+   "journal": "Journal of Public Administration Research and Theory",
+   "url": "https://doi.org/10.1093/jopart/muag016",
+   "date": "2026-07-07",
+   "first_seen": "2026-07-15",
+   "score": 31.0,
+   "matched": [
+    "bureaucra",
+    "turnover"
+   ],
+   "abstract_zh": "政治動機的人事異動影響政府官僚體系的合法性與績效。為理解功績制的條件，本文探討階層結構的變異如何調節政府更迭對官僚異動的影響。針對948名挪威高級官僚（1884-2024年）職業生涯的事件史分析揭示，將官僚與部長區隔開來的組織層級，會根據其政治或官僚性質，以不同方式調節政府變革的影響。直接接觸政治任命官員的官僚，在政府更迭期間經歷更高的異動率；而那些與任命官員之間隔著一層常任文官的官僚，其異動率則不受政府更迭的影響。對不同時期和高級官僚角色的進一步分析顯示，單純的層級結構無法完全解釋政治對官僚職業生涯的影響。職位必須在階層上暴露（缺乏中間官僚層級）、功能上政治化（涉及對政治領導層具有戰略重要性的任務），並受到行政政治化（處於政治任命官員的職權範圍內），才能容易受到政治動機異動的影響。本文透過一個關於層級結構如何調節政治動態的理論，檢視140年來政治引發的異動，從而推進了功績制官僚體系中高級官僚政治化的學術研究。"
   },
   {
    "doi": "10.1080/14719037.2026.2692614",
@@ -1096,7 +1114,7 @@
   {
    "doi": "10.1080/14719037.2026.2703262",
    "title": "Strategic narratives and the processes of goal achievement in municipal strategic planning",
-   "abstract": "",
+   "abstract": "This study examines how strategic narratives shape strategic planning processes in ways that support the pursuit of municipal goals. Drawing on a longitudinal case study of a French municipality and combining analysis of council deliberations, documentary materials, and interviews, it shows that strategic narratives link planning to implementation. The findings reveal how temporality, positioning, and performative intent interact to generate municipal strategic capacity by sustaining coherence, structuring multi-actor alignment, and mobilizing engagement over time. The study contributes to public management research by integrating a narrative perspective with strategic planning scholarship and showing how strategic narratives become embedded in municipal practices.",
    "authors": [
     "Fabien Eymas"
    ],
@@ -1106,12 +1124,12 @@
    "first_seen": "2026-07-13",
    "score": 0.0,
    "matched": [],
-   "abstract_zh": ""
+   "abstract_zh": "本研究探討策略敘事如何塑造策略規劃過程，以支持市政目標的實現。本研究以一項針對法國市鎮的縱貫性個案研究為基礎，並結合市議會審議、文件資料及訪談的分析，結果顯示策略敘事將規劃與執行連結起來。研究結果揭示了時間性、定位與展演意圖如何互動，透過維持一致性、建構多方行動者的協調一致，並隨著時間推移動員參與，進而產生市政策略能力。本研究透過整合敘事觀點與策略規劃學術研究，並揭示策略敘事如何嵌入市政實踐之中，從而對公共管理研究有所貢獻。"
   },
   {
    "doi": "10.1080/14719037.2026.2700584",
    "title": "A social enterprise management framework for creating hybrid value within public service ecosystems",
-   "abstract": "",
+   "abstract": "Social enterprises (SEs) increasingly deliver public services while generating multiple forms of value. This study of 10 SEs uses 40 interviews from three different public service areas to reveal how hybrid value is created across different ecosystem levels. Hybrid value is shown to emerge through a range of interventions and enabling dimensions that generate individual, social, and public value. However, value creation is not always guaranteed, as tensions across ecosystem levels increase the risk of value co-destruction. Our primary contribution is a framework for hybrid value creation in public service ecosystems, advancing understanding of how value is created and sustained.",
    "authors": [
     "Madeline Powell",
     "Alex G. Gillett",
@@ -1123,7 +1141,7 @@
    "first_seen": "2026-07-13",
    "score": 0.0,
    "matched": [],
-   "abstract_zh": ""
+   "abstract_zh": "社會企業（SEs）日益提供公共服務，同時創造多元形式的價值。本研究針對10家社會企業，透過來自三個不同公共服務領域的40次訪談，揭示了混合價值如何在不同生態系統層次中被創造。研究顯示，混合價值是透過一系列的干預措施和促成面向而產生，這些措施和面向創造了個人、社會和公共價值。然而，價值創造並非總能被保證，因為跨生態系統層次的張力增加了價值共毀的風險。本研究的主要貢獻是提出一個公共服務生態系統中混合價值創造的框架，增進了對價值如何被創造和維持的理解。"
   }
  ]
 }
