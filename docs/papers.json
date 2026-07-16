@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-15T22:46:35+00:00",
+ "updated": "2026-07-16T22:46:22+00:00",
  "papers": [
   {
    "doi": "10.1093/jopart/muag018",
@@ -248,6 +248,25 @@
    "abstract_zh": "近年來，隨機對照實驗與準實驗在公共行政與政策研究中的應用日益增長，提升了建立因果關係的能力。然而，許多研究採用靜態的因果觀念，側重於單一時間點的觀察或時間平均效應，卻忽略了效應如何隨時間變化。這種疏漏會導致問題，因為學術上感興趣的干預措施，例如領導力培訓或新科技的採用，其影響很可能以多種方式呈現。在本文中，我們提出一個概念性框架，用於理解因果效應的時間動態及其對研究假設與設計的意涵。接著，我們引入貝氏變點模型 (BCMs) 作為一種方法學工具，用於偵測因果效應序列的平均值、變異數或趨勢的變化，提供了一種比目視檢查圖表更嚴謹且易於操作的替代方案。隨後，我們透過一個來自模擬數據的說明性範例，以及一個探討密錄器對警察使用武力影響的真實案例，展示了 BCMs 的應用。最後，我們討論了檢視效應的時間變化如何能夠增進對其發生原因和方式的理論理解，並為實務中政策與策略的設計及實施提供參考。"
   },
   {
+   "doi": "10.1080/14719037.2026.2702504",
+   "title": "The paradox of co-production: how austerity and structural scarcity reshape street-level discretion and public value in Scotland’s disability support system",
+   "abstract": "",
+   "authors": [
+    "Seemab Farooqi",
+    "Vicky Lambert"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2702504",
+   "date": "2026-07-16",
+   "first_seen": "2026-07-16",
+   "score": 16.0,
+   "matched": [
+    "discretion",
+    "street-level"
+   ],
+   "abstract_zh": ""
+  },
+  {
    "doi": "10.1093/jopart/muag012",
    "title": "The power of compassion-seeking: how enforcement officers’ discursive strategies foster citizens’ cooperative responses under policy ambiguity",
    "abstract": "Street-level bureaucrats (SLBs) often employ compassion-seeking strategies when interacting with citizens under ambiguous policy conditions. However, citizens’ responses to these strategies remain largely unexplored. This study thus examines whether SLBs’ compassion-seeking strategies promote inspectees’ cooperative responses under policy ambiguity. We conducted survey experiments using four real-world enforcement scenarios across emergency and routine regulatory contexts in China. The results show that SLBs’ compassion-seeking strategies significantly increase inspectees’ willingness to comply, acceptance of enforcement, emotional compassion toward SLBs, and supportive intentions. Furthermore, the effectiveness of compassion-seeking is stronger in emergency contexts than in routine regulatory contexts. The findings indicate that compassion-seeking is a context-sensitive and underappreciated mechanism through which SLBs can reduce antagonism, establish constructive relationships, and enhance both the efficacy and perceived legitimacy of frontline enforcement.",
@@ -328,6 +347,25 @@
     "bureaucra"
    ],
    "abstract_zh": "馬克斯．韋伯的法理型官僚體制在民粹反撲、文官體系政治化和民主倒退的背景下，仍是關鍵的保障。本文將官僚體制重新定位為一種有條件的民主保障，其效力取決於倫理導向和專業操守，而非僅僅是技術能力。當合法性透過服從或預期性服從而被掏空時，制度便會從內部腐蝕。近期行政部門政治化的案例證據闡明了，在形式上完好無損的制度背後，倫理內涵是如何被侵蝕的。透過整合韋伯的結構理性與瓦爾多（Waldo）關於民主本質上是一種需要價值判斷的倫理主張，本文發展了「服從陷阱」（compliance trap）的概念，並將公務員重新定位為倫理憲政代理人，而非被動的執行者。本文也提出了一個根植於倫理紀律、參與式設計和專業自主的官僚體制革新框架，主張當其他民主保障削弱時，行政人員必須準備好做出有原則的判斷。"
+  },
+  {
+   "doi": "10.1093/jopart/muag021",
+   "title": "Anti-Corruption Efforts and Citizen-Initiated Accountability: Evidence from Administrative Litigation",
+   "abstract": "Despite widespread recognition that institutional environment shapes citizen behavior, we have limited understanding of how anti-corruption efforts influence citizens’ willingness to challenge government actions through formal accountability mechanisms. This study examines how provincial leaders’ corruption convictions affect citizen-initiated administrative litigation in China, exploring the mediating role of judicial remedies and the moderating effect of local corruption environments. Drawing on comprehensive data including over 1.25 million judicial documents and corruption prosecutions, we find that provincial leaders’ corruption convictions significantly increase citizen accountability actions, with this effect mediated by enhanced judicial remedies. However, this direct relationship is substantially weakened when local corruption levels are higher. These findings reveal that anti-corruption efforts can catalyze citizen engagement with accountability institutions, but their effectiveness depends critically on the broader institutional context. This research advances public administration literature by revealing how anti-corruption efforts and judicial review function as institutional mechanisms that activate citizen-initiated legal accountability, reshaping incentive structures for citizen participation in government accountability.",
+   "authors": [
+    "Weitao He",
+    "Haohao Li",
+    "Luning Liu"
+   ],
+   "journal": "Journal of Public Administration Research and Theory",
+   "url": "https://doi.org/10.1093/jopart/muag021",
+   "date": "2026-07-15",
+   "first_seen": "2026-07-16",
+   "score": 12.0,
+   "matched": [
+    "corruption"
+   ],
+   "abstract_zh": "儘管制度環境塑造公民行為已獲普遍認知，但我們對於反貪腐作為如何影響公民透過正式課責機制挑戰政府作為的意願，仍了解有限。本研究檢視中國省級領導人貪腐定罪如何影響公民發起的行政訴訟，並探討司法救濟的中介角色與地方貪腐環境的調節作用。根據包括超過125萬份司法文件和貪腐起訴案件的全面性資料，我們發現省級領導人貪腐定罪顯著增加公民課責行動，此效應由強化後的司法救濟所中介。然而，當地方貪腐程度較高時，這種直接關係會大幅減弱。這些發現揭示反貪腐作為能催化公民參與課責機構，但其有效性關鍵取決於更廣泛的制度脈絡。本研究透過揭示反貪腐作為和司法審查如何作為制度機制啟動公民發起的法律課責，並重塑公民參與政府課責的激勵結構，從而推進公共行政文獻。"
   },
   {
    "doi": "10.1111/puar.70143",
@@ -442,6 +480,27 @@
     "causal"
    ],
    "abstract_zh": "本研究探討資訊提供如何影響半公營部門非執行董事的判斷品質。依據行為科學的見解，本研究發展並檢驗了假說，採用混合方法設計，結合實驗法 (N = 101) 和團體訪談 (N = 34)。針對非執行董事的實驗，證實了資訊多樣性與判斷中的整合複雜度之間存在因果關係，而整合複雜度是判斷品質的核心指標。然而，團體訪談的結果也突顯了在不損害與執行長 (CEO) 之間信任關係的前提下，蒐集資訊所面臨的挑戰。最後，無論是資訊多樣性還是同步順序，都無法減輕確認偏誤。"
+  },
+  {
+   "doi": "10.1080/14719037.2026.2701411",
+   "title": "My workgroup or my desire to serve the society? The influence of workgroup identification and public service motivation on whistleblowing intentions",
+   "abstract": "",
+   "authors": [
+    "Guillem Ripoll",
+    "Carina Schott",
+    "Ying Liu",
+    "Yi Yang",
+    "Jeannette Taylor"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2701411",
+   "date": "2026-07-16",
+   "first_seen": "2026-07-16",
+   "score": 8.0,
+   "matched": [
+    "public service motivation"
+   ],
+   "abstract_zh": ""
   },
   {
    "doi": "10.1177/02750740261457069",
@@ -628,6 +687,25 @@
     "civil servant"
    ],
    "abstract_zh": "公務體系中的創新悖論在於政府運作同時需要創新與規避風險。我們的質性研究針對125位愛爾蘭公務員進行，透過悖論視角探討員工驅動式創新（EDI），揭示了四個對立力量的連續體：穩定性與變革、官僚體制與彈性、層級控制與個人賦權，以及筒倉化與整合。我們闡明了管理者如何作為促成者來化解這些張力，以促進員工驅動式創新，從而使這些張力成為創新的催化劑，而非僅僅是情境因素。我們討論了本研究對於員工驅動式創新（EDI）在理論與實務上的意涵。"
+  },
+  {
+   "doi": "10.1177/02750740261469537",
+   "title": "When Markets and Democracy Coincide: Perceived Sector Differences in Participation in Government-Funded Programs",
+   "abstract": "This article investigates the effects of participation on performance assessment in government, for-profit, and nonprofit organizations that deliver public services. In addition to examining the impact of participation on public assessments of performance, we also test the perceived tradeoff between efficiency and participation, as well as the sectoral differences in the participation-performance relationship. We conducted a preregistered vignette experiment using the context of US nursing homes where various organizational information, including participation opportunities, and sector of operation (public, for-profit, and nonprofit sectors) serve as key treatment manipulations. We find that participation plays a critical role in enhancing perceptions of organizations regardless of sectors, but government organizations may obtain greater benefits by pursuing participation, especially in improving public perception of bureaucratic effectiveness and efficiency. These findings suggest that participation is not only normatively desirable, but also practically beneficial for organizations. The findings from this study contribute to advancing our knowledge on public participation, sector differences, performance management, and public values. Clinical Trial Registration This research was pre-registered at the American Economic Association's registry for randomized controlled trials (RCT ID: AEARCTR-0011918 and URL hidden for peer review).",
+   "authors": [
+    "Suyeon Jo",
+    "Kenneth J. Meier"
+   ],
+   "journal": "The American Review of Public Administration",
+   "url": "https://doi.org/10.1177/02750740261469537",
+   "date": "2026-07-16",
+   "first_seen": "2026-07-16",
+   "score": 5.0,
+   "matched": [
+    "bureaucra",
+    "vignette"
+   ],
+   "abstract_zh": "本文探討參與對提供公共服務之政府、營利與非營利組織績效評估的影響。除了檢視參與對公眾績效評估的影響外，我們亦檢驗效率與參與之間感知的權衡取捨，以及參與-績效關係中的部門差異。我們進行了一項預先註冊的情境實驗，以美國安養院為背景，其中各種組織資訊（包括參與機會）以及營運部門（公共、營利與非營利部門）作為主要的處理操作。我們發現，參與在提升組織觀感方面扮演關鍵角色，不論部門為何；但政府組織透過追求參與可能獲得更大的效益，特別是在改善公眾對官僚效能與效率的認知方面。這些發現表明，參與不僅在規範上是可取的，而且對組織而言也具有實際效益。本研究的發現有助於增進我們對公眾參與、部門差異、績效管理以及公共價值的知識。\n\n臨床試驗註冊：本研究已在美國經濟學會的隨機對照試驗註冊處預先註冊（隨機對照試驗編號：AEARCTR-0011918，網址為同儕審查目的而隱藏）。"
   },
   {
    "doi": "10.1111/puar.70157",
@@ -1142,6 +1220,38 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "社會企業（SEs）日益提供公共服務，同時創造多元形式的價值。本研究針對10家社會企業，透過來自三個不同公共服務領域的40次訪談，揭示了混合價值如何在不同生態系統層次中被創造。研究顯示，混合價值是透過一系列的干預措施和促成面向而產生，這些措施和面向創造了個人、社會和公共價值。然而，價值創造並非總能被保證，因為跨生態系統層次的張力增加了價值共毀的風險。本研究的主要貢獻是提出一個公共服務生態系統中混合價值創造的框架，增進了對價值如何被創造和維持的理解。"
+  },
+  {
+   "doi": "10.1080/14719037.2026.2698654",
+   "title": "Whose responsibility is it anyway? Unpacking prevention during service delivery to support value co-creation",
+   "abstract": "",
+   "authors": [
+    "Kirsty Strokosch",
+    "Michael J. Roy",
+    "Jennifer McLean"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2698654",
+   "date": "2026-07-16",
+   "first_seen": "2026-07-16",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.1080/14719037.2026.2703748",
+   "title": "The cognitive fabric of collaborative governance: paradox mindset in transformation-oriented collaborations",
+   "abstract": "",
+   "authors": [
+    "Noa A. Birman"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2703748",
+   "date": "2026-07-16",
+   "first_seen": "2026-07-16",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
   }
  ]
 }
