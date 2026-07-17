@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-16T22:46:22+00:00",
+ "updated": "2026-07-17T22:38:48+00:00",
  "papers": [
   {
    "doi": "10.1093/jopart/muag018",
@@ -207,6 +207,30 @@
     "synthetic control"
    ],
    "abstract_zh": "多元、公平與共融 (DEI) 倡議往往難以產生持久影響。本研究探討組織學習如何透過政策觀光，影響美國各城市的共融性商業發展與勞動力多元性。本研究採用探索性序列混合方法研究設計，首先運用質性內容分析，根據學習深度與焦點將DEI學習分為四種類型。接著應用嶺迴歸增強型合成控制法，檢視其對城市商業領導階層中種族少數群體代表性的獨特影響。本研究在理論上與分析上增進了對組織學習的理解。本研究亦為促進共融性經濟成長提供實務見解。"
+  },
+  {
+   "doi": "10.1080/14719037.2026.2701411",
+   "title": "My workgroup or my desire to serve the society? The influence of workgroup identification and public service motivation on whistleblowing intentions",
+   "abstract": "Socio-psychological processes are important when it comes to whistleblowing. While prior research has explored the direct relationship between workgroup identification and whistleblowing, it has overlooked individuals’ multiple identities. This article examines whether public service motivation (PSM) moderates this association and whether a public service identity salience prime amplifies this dynamic. Using a survey experiment with 582 Chinese public employees, we find that the relationship between workgroup identification on whistleblowing depends on PSM and that a salience prime marginally boosts this interaction. The discussion addresses the findings and provides directions for future research.",
+   "authors": [
+    "Guillem Ripoll",
+    "Carina Schott",
+    "Ying Liu",
+    "Yi Yang",
+    "Jeannette Taylor"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2701411",
+   "date": "2026-07-16",
+   "first_seen": "2026-07-16",
+   "score": 25.0,
+   "matched": [
+    "public employee",
+    "public service motivation",
+    "psm",
+    "survey experiment"
+   ],
+   "abstract_zh": "在揭弊行為中，社會心理過程扮演著重要角色。儘管先前研究已探討工作群體認同與揭弊行為之間的直接關係，卻忽略了個體的多元認同。本文檢視公共服務動機（PSM）是否調節此關聯，以及公共服務認同顯著性啟動是否強化這種動態。採用一項針對582名中國公務員的問卷實驗，我們發現工作群體認同對揭弊行為的影響取決於PSM，且顯著性啟動邊際上增強了這種交互作用。本文討論了研究發現，並為未來研究提供了方向。"
   },
   {
    "doi": "10.1177/0734371x261456288",
@@ -482,23 +506,23 @@
    "abstract_zh": "本研究探討資訊提供如何影響半公營部門非執行董事的判斷品質。依據行為科學的見解，本研究發展並檢驗了假說，採用混合方法設計，結合實驗法 (N = 101) 和團體訪談 (N = 34)。針對非執行董事的實驗，證實了資訊多樣性與判斷中的整合複雜度之間存在因果關係，而整合複雜度是判斷品質的核心指標。然而，團體訪談的結果也突顯了在不損害與執行長 (CEO) 之間信任關係的前提下，蒐集資訊所面臨的挑戰。最後，無論是資訊多樣性還是同步順序，都無法減輕確認偏誤。"
   },
   {
-   "doi": "10.1080/14719037.2026.2701411",
-   "title": "My workgroup or my desire to serve the society? The influence of workgroup identification and public service motivation on whistleblowing intentions",
+   "doi": "10.1080/14719037.2026.2685779",
+   "title": "Performance system design factors that encourage information use: a survey experiment of decision-making by school principals",
    "abstract": "",
    "authors": [
-    "Guillem Ripoll",
-    "Carina Schott",
-    "Ying Liu",
-    "Yi Yang",
-    "Jeannette Taylor"
+    "Javier Fuenzalida",
+    "Andrés Fernández-Vergara",
+    "Pablo A. González",
+    "Gregg G. Van Ryzin",
+    "Cristóbal Alarcón"
    ],
    "journal": "Public Management Review",
-   "url": "https://doi.org/10.1080/14719037.2026.2701411",
-   "date": "2026-07-16",
-   "first_seen": "2026-07-16",
+   "url": "https://doi.org/10.1080/14719037.2026.2685779",
+   "date": "2026-07-17",
+   "first_seen": "2026-07-17",
    "score": 8.0,
    "matched": [
-    "public service motivation"
+    "survey experiment"
    ],
    "abstract_zh": ""
   },
@@ -647,6 +671,23 @@
     "bureaucra"
    ],
    "abstract_zh": "當標準作業程序或例行公事失效時，公部門科層體制會透過應用敏捷工作實務來處理具挑戰性且複雜的問題。在這些情況下，公部門管理者需要決定是利用現有的科層體制例行公事，還是透過非例行性的敏捷工作實務來探索新穎的解決方案。本研究闡述了公部門管理者如何在不同的採用決策之間權衡：(1) 保持矛盾並拒絕敏捷；(2) 順應科層體制的需求，並調整敏捷工作實務以符合行政例行公事；或 (3) 透過成為敏捷素養者，並根據公共管理問題選擇適當的工作實務，以雙元方式進行調適。本研究透過將雙元性概念納入現有的21世紀科層體制理論中，為敏捷治理的文獻做出貢獻。"
+  },
+  {
+   "doi": "10.1080/14719037.2026.2703748",
+   "title": "The cognitive fabric of collaborative governance: paradox mindset in transformation-oriented collaborations",
+   "abstract": "This theoretical article develops a micro-foundational perspective on how and under what conditions collaborative governance groups generate transformative outcomes. It integrates literature on collaboration, transformation, and paradox to advance three core propositions. First, collaborating for transformative outcomes constitutes a distinctive paradoxical context, in which the tensions of collaboration and the tensions of transformation are nested, reinforcing, and constitutive of the process itself. Second, diversity in collaborators’ cognitive-emotional capacity to perceive and navigate tensions (i.e. paradox mindset) shapes collaborative outcomes, with diversity in paradox mindset enhancing the likelihood of transformative outcomes. Third, the paradoxical leadership behaviours of designated leaders further increase the likelihood of transformative outcomes. By highlighting the dual challenge of transformation-oriented collaborations of eliciting tensions to stimulate change while containing them to sustain collaboration, the article links individual-level cognitive-emotional predisposition to group dynamics and system-level outcomes, offering a broader theorizing of collaborations in public administration.",
+   "authors": [
+    "Noa A. Birman"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2703748",
+   "date": "2026-07-16",
+   "first_seen": "2026-07-16",
+   "score": 6.0,
+   "matched": [
+    "diversity"
+   ],
+   "abstract_zh": "本文提出一個微觀基礎觀點，探討協作治理群體如何以及在何種條件下產生轉型性成果。本文整合了協作、轉型與弔詭相關文獻，旨在提出三個核心命題。首先，為達成轉型性成果的協作構成一個獨特的弔詭脈絡，其中協作張力與轉型張力相互鑲嵌、相互強化，並為該過程的本質構成要素。其次，協作者感知與駕馭張力的認知情感能力（亦即弔詭心態）之多樣性，形塑了協作成果，其中弔詭心態的多樣性將提高轉型性成果的產生機率。第三，指定領導者的弔詭式領導行為，將進一步提高轉型性成果的產生機率。藉由突顯轉型導向協作的雙重挑戰——亦即激發張力以刺激變革，同時加以控制以維持協作——本文將個體層次的認知情感傾向與群體動態及系統層次成果連結起來，為公共行政領域的協作提供更廣泛的理論建構。"
   },
   {
    "doi": "10.1093/jopart/muag013",
@@ -1224,7 +1265,7 @@
   {
    "doi": "10.1080/14719037.2026.2698654",
    "title": "Whose responsibility is it anyway? Unpacking prevention during service delivery to support value co-creation",
-   "abstract": "",
+   "abstract": "Preventive reforms typically emphasize individual responsibility or the mobilization of community assets, but an enduring implementation gap exists. The ongoing stalemate calls for a fundamental shift in the way public services are understood and delivered. Central to this shift is understanding the complex interplay between roles, responsbility and multi-layered contexts shaping service delivery and outcomes. Drawing on qualitative research on health and social care, we explore how roles, responsibilities and service delivery approaches are framed. Through our analysis, we propose three broad approaches to service delivery, contributing to the nascent literature on value co-creation in complex public service settings.",
    "authors": [
     "Kirsty Strokosch",
     "Michael J. Roy",
@@ -1236,22 +1277,40 @@
    "first_seen": "2026-07-16",
    "score": 0.0,
    "matched": [],
-   "abstract_zh": ""
+   "abstract_zh": "預防性改革通常側重於個人責任或社區資產的動員，但卻存在著持久的執行落差。持續的僵局亟需在公共服務的理解與提供方式上進行根本性的轉變。這項轉變的核心在於理解角色、責任以及塑造服務提供與成果的多重脈絡之間複雜的交互作用。本文借鑒健康與社會照護領域的質性研究，探討角色、責任與服務提供取徑是如何被建構的。藉由本文分析，我們提出三種廣泛的服務提供取徑，旨在貢獻於複雜公共服務場域中價值共創的新興文獻。"
   },
   {
-   "doi": "10.1080/14719037.2026.2703748",
-   "title": "The cognitive fabric of collaborative governance: paradox mindset in transformation-oriented collaborations",
-   "abstract": "",
+   "doi": "10.1177/02750740261469533",
+   "title": "Transnational Nonprofit Action: Diaspora Giving, Collective and Social Remittances, and the Provision of Public Goods and Services",
+   "abstract": "This article explores transnational nonprofit action through diaspora-led nonprofit organizations in the United States (U.S.) and their funding and support of public goods and services in the home country. Diaspora communities around the world make contributions to their homelands in various ways that have impact on public governance. Specifically, diaspora members engage in philanthropic giving behaviors towards their countries of origin, including via collective and social remittances. How does this diaspora giving contribute to the provision of public goods and services in the country of origin? This research uses a multi-sited, comparative case study design that included extensive fieldwork in the U.S. and Colombia, and the transnational space between these settings. Building on theory about public governance and nonprofit organizations, the research generates and further explores empirically a framework of three sets of resources that condition transnational nonprofit action—material, relational, and institutional. Material resources illuminate how diaspora-funded projects directly support public service delivery. Relational resources capture how trust, credibility, and embedded community ties via diaspora-led organizations provide access to both networks and funding sources. Institutional resources, namely norm-setting, explain how collective and social remittances have the potential to shape expectations, standards, and practices about the nonprofit sector, philanthropic giving, and public governance more broadly.",
    "authors": [
-    "Noa A. Birman"
+    "Susan Appe"
    ],
-   "journal": "Public Management Review",
-   "url": "https://doi.org/10.1080/14719037.2026.2703748",
-   "date": "2026-07-16",
-   "first_seen": "2026-07-16",
+   "journal": "The American Review of Public Administration",
+   "url": "https://doi.org/10.1177/02750740261469533",
+   "date": "2026-07-17",
+   "first_seen": "2026-07-17",
    "score": 0.0,
    "matched": [],
-   "abstract_zh": ""
+   "abstract_zh": "本文探討美國僑民主導的非營利組織所進行的跨國非營利行動，及其對母國公共財與服務的資助與支持。全球各地的僑民社群以多種方式對其母國做出貢獻，並對公共治理產生影響。具體而言，僑民成員對其原籍國從事慈善捐贈行為，包括透過集體與社會匯款。這種僑民捐贈如何有助於原籍國公共財與服務的提供？本研究採用多地點、比較個案研究設計，其中包含在美國、哥倫比亞以及這些場域之間的跨國空間進行的廣泛田野調查。本研究立基於公共治理與非營利組織的理論，實證地建構並進一步探討一個由三類資源組成的架構，這些資源制約著跨國非營利行動—物質、關係與制度資源。物質資源闡明了僑民資助的計畫如何直接支持公共服務的提供。關係資源說明了信任、信譽和透過僑民主導組織建立的深厚社群連結，如何提供接觸網絡和資金來源的機會。制度資源，亦即規範設定，解釋了集體與社會匯款如何有潛力塑造關於非營利部門、慈善捐贈以及更廣泛的公共治理的期望、標準和實踐。"
+  },
+  {
+   "doi": "10.1177/02750740261464911",
+   "title": "Exploring How Demand and Supply Knowledge Can Improve Centralized Public Health Procurement",
+   "abstract": "Despite the growing shift towards procurement centralization among governments around the world, questions remain as to how to increase purchasing within centralized frameworks. While centralized purchasing offers many benefits related to efficiency and quality control, users often prefer more flexible options for purchasing. An unanswered question is how knowledge of user requirements and market trends leads to framework agreements that reduce the inclination for users to purchase goods and services on their own. This study employs healthcare purchasing data from 21 regions in Italy from 2013–2023 to explore how different sources of knowledge about demand and supply affect centralization rates—both in respect to asset-specific and non-asset-specific products. Fixed effects regression results indicate that knowledge of supply gleaned from integrating technical experts into procurement teams enhances centralization for a range of offerings. The influence of demand-related knowledge on centralized purchasing varies by product type, however, with interpersonal exchanges proving more effective for non-asset-specific categories and logistical support mechanisms proving more critical for asset-specific product categories. The results provide longitudinal insights into conditions that are typically studied through cross-sectional data. They also offer important implications for the many countries operating publicly provided health programs, as well as those pursuing broader reforms tied to procurement centralization.",
+   "authors": [
+    "Eric J. Boyer",
+    "Niccolò Cusumano",
+    "Carlos Olmedo",
+    "Veronica Vecchi"
+   ],
+   "journal": "The American Review of Public Administration",
+   "url": "https://doi.org/10.1177/02750740261464911",
+   "date": "2026-07-17",
+   "first_seen": "2026-07-17",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "儘管全球各國政府日益轉向採購集中化，但在集中化框架內如何提高採購量仍是個懸而未決的問題。雖然集中化採購在效率和品質控制方面帶來諸多好處，但使用者通常偏好更具彈性的採購選項。一個未解的問題是，對使用者需求和市場趨勢的了解，如何促成框架協議，進而降低使用者自行採購商品與服務的傾向。本研究利用2013年至2023年間義大利21個地區的醫療採購資料，探討不同來源的需求與供給知識如何影響集中化程度——包括資產專屬產品和非資產專屬產品。固定效果迴歸分析結果顯示，將技術專家納入採購團隊所獲得的供給知識，能提升多種產品的集中化程度。然而，需求相關知識對集中化採購的影響因產品類型而異：人際交流對於非資產專屬類別更為有效，而後勤支援機制對於資產專屬產品類別則更為關鍵。本研究結果提供了對通常透過橫斷面資料研究的條件的縱向見解。這些結果也對許多實施公共醫療計畫的國家，以及那些推動與採購集中化相關的更廣泛改革的國家，提供了重要的啟示。"
   }
  ]
 }
