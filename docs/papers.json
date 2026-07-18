@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-17T22:38:48+00:00",
+ "updated": "2026-07-18T22:37:01+00:00",
  "papers": [
   {
    "doi": "10.1093/jopart/muag018",
@@ -392,6 +392,27 @@
    "abstract_zh": "儘管制度環境塑造公民行為已獲普遍認知，但我們對於反貪腐作為如何影響公民透過正式課責機制挑戰政府作為的意願，仍了解有限。本研究檢視中國省級領導人貪腐定罪如何影響公民發起的行政訴訟，並探討司法救濟的中介角色與地方貪腐環境的調節作用。根據包括超過125萬份司法文件和貪腐起訴案件的全面性資料，我們發現省級領導人貪腐定罪顯著增加公民課責行動，此效應由強化後的司法救濟所中介。然而，當地方貪腐程度較高時，這種直接關係會大幅減弱。這些發現揭示反貪腐作為能催化公民參與課責機構，但其有效性關鍵取決於更廣泛的制度脈絡。本研究透過揭示反貪腐作為和司法審查如何作為制度機制啟動公民發起的法律課責，並重塑公民參與政府課責的激勵結構，從而推進公共行政文獻。"
   },
   {
+   "doi": "10.1080/14719037.2026.2685779",
+   "title": "Performance system design factors that encourage information use: a survey experiment of decision-making by school principals",
+   "abstract": "Performance management scholarship has mostly neglected the behavioural mechanisms through which performance-system design factors – reflecting macro-level institutional and organizational arrangements – shape public managers’ individual-level use of information. We examined such mechanisms by employing a nationwide survey experiment with 394 school principals in Chile that tested how policy-relevant features of the country’s education monitoring system influence their intention to use performance data for decision-making. Our findings show that use intentions increase when managers obtain timely performance information, experience high stakeholder involvement, and have access to training and knowledge-sharing opportunities. However, reporting formats did not affect use intentions. These results provide insights into how targeted adjustments to real-world performance-system design can function as behavioural levers for encouraging evidence-based decision-making by public managers.",
+   "authors": [
+    "Javier Fuenzalida",
+    "Andrés Fernández-Vergara",
+    "Pablo A. González",
+    "Gregg G. Van Ryzin",
+    "Cristóbal Alarcón"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2685779",
+   "date": "2026-07-17",
+   "first_seen": "2026-07-17",
+   "score": 12.0,
+   "matched": [
+    "survey experiment"
+   ],
+   "abstract_zh": "績效管理學術界大多忽略了績效系統設計因素（反映宏觀層次的制度與組織安排）如何透過行為機制，形塑公部門管理者在個人層次上對資訊的使用。本研究透過一項針對智利394位校長的全國性調查實驗，檢視了這些機制，測試該國教育監測系統中與政策相關的特徵，如何影響他們使用績效數據進行決策的意圖。本研究結果顯示，當管理者獲得及時的績效資訊、經歷高度的利害關係人參與，並享有培訓與知識分享機會時，其使用意圖會增加。然而，報告格式並未影響使用意圖。這些結果提供了深入的見解，說明如何針對現實世界績效系統設計進行有針對性的調整，可以作為行為槓桿，以鼓勵公部門管理者進行實證決策。"
+  },
+  {
    "doi": "10.1111/puar.70143",
    "title": "How a Government Bureaucracy Works. Review Essay on Caroline Howard Grøn and Anne Mette Møller. 2024. Public Bureaucracy and Digital Transformation: Structures, Practices and Values. Cham: Palgrave Macmillan (etcetera)",
    "abstract": "",
@@ -504,27 +525,6 @@
     "causal"
    ],
    "abstract_zh": "本研究探討資訊提供如何影響半公營部門非執行董事的判斷品質。依據行為科學的見解，本研究發展並檢驗了假說，採用混合方法設計，結合實驗法 (N = 101) 和團體訪談 (N = 34)。針對非執行董事的實驗，證實了資訊多樣性與判斷中的整合複雜度之間存在因果關係，而整合複雜度是判斷品質的核心指標。然而，團體訪談的結果也突顯了在不損害與執行長 (CEO) 之間信任關係的前提下，蒐集資訊所面臨的挑戰。最後，無論是資訊多樣性還是同步順序，都無法減輕確認偏誤。"
-  },
-  {
-   "doi": "10.1080/14719037.2026.2685779",
-   "title": "Performance system design factors that encourage information use: a survey experiment of decision-making by school principals",
-   "abstract": "",
-   "authors": [
-    "Javier Fuenzalida",
-    "Andrés Fernández-Vergara",
-    "Pablo A. González",
-    "Gregg G. Van Ryzin",
-    "Cristóbal Alarcón"
-   ],
-   "journal": "Public Management Review",
-   "url": "https://doi.org/10.1080/14719037.2026.2685779",
-   "date": "2026-07-17",
-   "first_seen": "2026-07-17",
-   "score": 8.0,
-   "matched": [
-    "survey experiment"
-   ],
-   "abstract_zh": ""
   },
   {
    "doi": "10.1177/02750740261457069",
