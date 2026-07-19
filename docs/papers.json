@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-18T22:37:01+00:00",
+ "updated": "2026-07-19T22:39:47+00:00",
  "papers": [
   {
    "doi": "10.1093/jopart/muag018",
@@ -104,6 +104,26 @@
     "turnover"
    ],
    "abstract_zh": "政治動機的人事異動影響政府官僚體系的合法性與績效。為理解功績制的條件，本文探討階層結構的變異如何調節政府更迭對官僚異動的影響。針對948名挪威高級官僚（1884-2024年）職業生涯的事件史分析揭示，將官僚與部長區隔開來的組織層級，會根據其政治或官僚性質，以不同方式調節政府變革的影響。直接接觸政治任命官員的官僚，在政府更迭期間經歷更高的異動率；而那些與任命官員之間隔著一層常任文官的官僚，其異動率則不受政府更迭的影響。對不同時期和高級官僚角色的進一步分析顯示，單純的層級結構無法完全解釋政治對官僚職業生涯的影響。職位必須在階層上暴露（缺乏中間官僚層級）、功能上政治化（涉及對政治領導層具有戰略重要性的任務），並受到行政政治化（處於政治任命官員的職權範圍內），才能容易受到政治動機異動的影響。本文透過一個關於層級結構如何調節政治動態的理論，檢視140年來政治引發的異動，從而推進了功績制官僚體系中高級官僚政治化的學術研究。"
+  },
+  {
+   "doi": "10.1080/14719037.2026.2702504",
+   "title": "The paradox of co-production: how austerity and structural scarcity reshape street-level discretion and public value in Scotland’s disability support system",
+   "abstract": "Co-production promises empowerment , yet masks austerity's realities. Drawing on qualitative data from across Scotland's disability support services, we apply the Gioia methodology to model links between street-level discretion, public value co-contamination, and citizen adaptation. A ‘public service gap’ forces State Street Level Bureaucrats (SLBs) to ration support, locking vulnerable citizens and third-sector SLBs into forced substitution to compensate for institutional retreat. We conceptualize this as peripheral co-production:necessity-driven participation sustaining service continuity while masking systemic fragility. Extending Street-Level Bureaucracy and Public Value theories, we reframe co-production as a technical compulsion where unpaid, adaptive labour systematically co-contaminates public value.",
+   "authors": [
+    "Seemab Farooqi",
+    "Vicky Lambert"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2702504",
+   "date": "2026-07-16",
+   "first_seen": "2026-07-16",
+   "score": 31.0,
+   "matched": [
+    "discretion",
+    "street-level",
+    "bureaucra"
+   ],
+   "abstract_zh": "協同生產承諾賦權，卻掩蓋了緊縮政策的現實。根據來自蘇格蘭各地身心障礙支持服務的質性資料，我們應用 Gioia 方法論，以建立街頭官僚裁量權、公共價值共同污染與公民適應之間的連結。「公共服務缺口」迫使國家街頭官僚 (SLBs) 配給支持，將弱勢公民與第三部門街頭官僚鎖定於被迫替代，以彌補體制撤退。我們將此概念化為邊緣協同生產：一種需求驅動的參與，維持了服務連續性，同時掩蓋了系統性脆弱性。擴展街頭官僚與公共價值理論，我們將協同生產重新定義為一種技術性強制，其中無償的、適應性勞動系統性地共同污染了公共價值。"
   },
   {
    "doi": "10.1080/14719037.2026.2692614",
@@ -270,25 +290,6 @@
     "causal"
    ],
    "abstract_zh": "近年來，隨機對照實驗與準實驗在公共行政與政策研究中的應用日益增長，提升了建立因果關係的能力。然而，許多研究採用靜態的因果觀念，側重於單一時間點的觀察或時間平均效應，卻忽略了效應如何隨時間變化。這種疏漏會導致問題，因為學術上感興趣的干預措施，例如領導力培訓或新科技的採用，其影響很可能以多種方式呈現。在本文中，我們提出一個概念性框架，用於理解因果效應的時間動態及其對研究假設與設計的意涵。接著，我們引入貝氏變點模型 (BCMs) 作為一種方法學工具，用於偵測因果效應序列的平均值、變異數或趨勢的變化，提供了一種比目視檢查圖表更嚴謹且易於操作的替代方案。隨後，我們透過一個來自模擬數據的說明性範例，以及一個探討密錄器對警察使用武力影響的真實案例，展示了 BCMs 的應用。最後，我們討論了檢視效應的時間變化如何能夠增進對其發生原因和方式的理論理解，並為實務中政策與策略的設計及實施提供參考。"
-  },
-  {
-   "doi": "10.1080/14719037.2026.2702504",
-   "title": "The paradox of co-production: how austerity and structural scarcity reshape street-level discretion and public value in Scotland’s disability support system",
-   "abstract": "",
-   "authors": [
-    "Seemab Farooqi",
-    "Vicky Lambert"
-   ],
-   "journal": "Public Management Review",
-   "url": "https://doi.org/10.1080/14719037.2026.2702504",
-   "date": "2026-07-16",
-   "first_seen": "2026-07-16",
-   "score": 16.0,
-   "matched": [
-    "discretion",
-    "street-level"
-   ],
-   "abstract_zh": ""
   },
   {
    "doi": "10.1093/jopart/muag012",
