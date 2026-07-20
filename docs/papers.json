@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-19T22:39:47+00:00",
+ "updated": "2026-07-20T22:44:52+00:00",
  "papers": [
   {
    "doi": "10.1093/jopart/muag018",
@@ -414,6 +414,25 @@
    "abstract_zh": "績效管理學術界大多忽略了績效系統設計因素（反映宏觀層次的制度與組織安排）如何透過行為機制，形塑公部門管理者在個人層次上對資訊的使用。本研究透過一項針對智利394位校長的全國性調查實驗，檢視了這些機制，測試該國教育監測系統中與政策相關的特徵，如何影響他們使用績效數據進行決策的意圖。本研究結果顯示，當管理者獲得及時的績效資訊、經歷高度的利害關係人參與，並享有培訓與知識分享機會時，其使用意圖會增加。然而，報告格式並未影響使用意圖。這些結果提供了深入的見解，說明如何針對現實世界績效系統設計進行有針對性的調整，可以作為行為槓桿，以鼓勵公部門管理者進行實證決策。"
   },
   {
+   "doi": "10.1080/10967494.2026.2684632",
+   "title": "Does bureaucrat bashing diminish the performance of public servants? Evidence from a survey experiment in The Netherlands",
+   "abstract": "",
+   "authors": [
+    "Julia Wesdorp",
+    "Barbara Vis"
+   ],
+   "journal": "International Public Management Journal",
+   "url": "https://doi.org/10.1080/10967494.2026.2684632",
+   "date": "2026-07-20",
+   "first_seen": "2026-07-20",
+   "score": 12.0,
+   "matched": [
+    "bureaucra",
+    "survey experiment"
+   ],
+   "abstract_zh": ""
+  },
+  {
    "doi": "10.1111/puar.70143",
    "title": "How a Government Bureaucracy Works. Review Essay on Caroline Howard Grøn and Anne Mette Møller. 2024. Public Bureaucracy and Digital Transformation: Structures, Practices and Values. Cham: Palgrave Macmillan (etcetera)",
    "abstract": "",
@@ -786,6 +805,45 @@
    "abstract_zh": "納稅人對於公平稅制及稅收分配方式常有意見分歧。鑑於佛蒙特州最高法院針對教育平等原則的裁定，我們與該州立法委員合作，探討不動產稅制下民眾觀點的政策議題。為探討複雜且高度管制的環境中的稅務民意，我們採用行為公共行政方法進行實驗。本研究發現有三：(1) 我們歸納出納稅人對於不動產稅的四個核心觀點主題：公平性與衡平性、透明度與問責性、公共經費的妥善運用，以及弱勢族群的負擔；(2) 我們證明納稅人觀點與主體性受到不動產稅收分配方式的顯著影響；(3) 我們說明實務界與學術界的合作如何能解決稅務政策設計中固有的張力。"
   },
   {
+   "doi": "10.1080/10967494.2026.2684590",
+   "title": "The social media paradox: Political expression and the bifurcation of bureaucratic values",
+   "abstract": "",
+   "authors": [
+    "Christopher A. Cooper"
+   ],
+   "journal": "International Public Management Journal",
+   "url": "https://doi.org/10.1080/10967494.2026.2684590",
+   "date": "2026-07-20",
+   "first_seen": "2026-07-20",
+   "score": 4.0,
+   "matched": [
+    "bureaucra"
+   ],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.1080/10967494.2026.2674553",
+   "title": "Bureaucratic interest in academic evidence: a field experiment in Tanzania, India and Peru",
+   "abstract": "",
+   "authors": [
+    "Darren Hawkins",
+    "Celeste Beesley",
+    "Daniel Nielson",
+    "João V. Guedes-Neto",
+    "Aubriana Wolferts",
+    "Nicholas Moffitt"
+   ],
+   "journal": "International Public Management Journal",
+   "url": "https://doi.org/10.1080/10967494.2026.2674553",
+   "date": "2026-07-20",
+   "first_seen": "2026-07-20",
+   "score": 4.0,
+   "matched": [
+    "bureaucra"
+   ],
+   "abstract_zh": ""
+  },
+  {
    "doi": "10.1111/puar.70151",
    "title": "Rethinking Budgeting? An Analysis of Budget Theory and Reform for Modernizing Municipal Practice",
    "abstract": "This study examines the persistent gap between budget theory and practice in local governments, using the Government Finance Officers Association's (GFOA) Rethinking Budgeting Initiative as a case study. Analyzing 32 GFOA publications from 2020 to 2024, we identify four key themes in the GFOA's attempt to modernize budgetary decision‐making: public values, behavioral science, coordination and collaboration, and fiscal prudence. Through a narrative synthesis grounded in budget theory, we find normative theories align with reforms emphasizing participatory practices and public values, while descriptive theories underpin traditional fiscal approaches. The endurance of incremental budgeting, despite reformist rhetoric, underscores the challenge of transforming budget practice. Our findings suggest meaningful reform depends on integrating behavioral insights, stakeholder collaboration, and value‐driven goals with theoretical frameworks. Ultimately, this study contributes to scholarly discourse by highlighting opportunities to advance budget theory and improve practitioner engagement, offering a pathway for more adaptive and responsive local government budgeting practices.",
@@ -926,6 +984,22 @@
    "score": 2.0,
    "matched": [],
    "abstract_zh": "知識轉化 (KM) 相關文獻體認到將實證應用於政策所涉及的複雜過程。然而，知識轉化者為促進這些過程所採用的日常實踐，卻難以捕捉與編碼。本研究透過對地方政策制定中知識轉化實踐的實證分析，旨在彌補當前理解上的不足。我們發現，有效的知識轉化具有以下特點：與跨越研究、政策和實務場域的多元行動者進行關係性互動；持續且一致地投入實證應用所處的地方與政策脈絡；以及整合不同類型的知識（包括研究發現、專業知識和生活經驗），以共同回應政策與實務需求。這些知識轉化實踐對於政策制定者與實務工作者如何定義、驗證和使用實證，具有重要意涵。"
+  },
+  {
+   "doi": "10.1093/jopart/muag022",
+   "title": "Striking multiple balances in cross-sector collaborations: How leaders navigate institutional complexity with interdependent leadership behaviors",
+   "abstract": "In cross-sector collaborations (CSCs), leaders must navigate the complex and often conflicting demands of the public, business, and nonprofit sectors. This study explores how leaders manage this institutional complexity through a multi-level framework, drawing on a case study of a tri-sector partnership developing technology for disaster management. Based on evidence from 27 interviews, observations, and documentary material, we identify the leadership repertoire and, as our core contribution, uncover four distinct types of interdependencies between these behaviors: enabling, substituting, stabilizing, and inhibiting. Our findings reveal that leadership in CSCs goes beyond adopting a single style; rather, it requires a strategic orchestration of how different behaviors interact. We identify two overarching strategies (selective targeting and sequential switching) that leaders use to combine complementary behaviors while preventing them from undermining each other. By focusing on leaders’ micro-level agency in response to macro-level sector differences, this study provides a clearer understanding of how interdependent leadership behaviors converge into what we theorize as institutional leadership in CSCs.",
+   "authors": [
+    "Sandra Henninger",
+    "Rick Vogel"
+   ],
+   "journal": "Journal of Public Administration Research and Theory",
+   "url": "https://doi.org/10.1093/jopart/muag022",
+   "date": "2026-07-17",
+   "first_seen": "2026-07-20",
+   "score": 2.0,
+   "matched": [],
+   "abstract_zh": "在跨部門合作（CSC）中，領導者必須應對來自公部門、企業部門與非營利部門複雜且常有衝突的需求。本研究透過一個多層次框架，探討領導者如何管理這種制度性複雜性，並借鑒一個旨在開發災害管理技術的三部門夥伴關係個案研究。根據27次訪談、觀察與文獻資料的證據，我們識別出領導者行為庫，並作為我們的核心貢獻，揭示了這些行為之間四種不同類型的相互依存關係：促成、替代、穩定與抑制。我們的研究結果顯示，CSC中的領導力超越了採用單一風格；相反地，它需要策略性地協調不同行為的互動方式。我們識別出兩種總體策略（選擇性目標設定與序列性轉換），領導者用來結合互補行為，同時防止它們相互破壞。透過關注領導者在微觀層面的能動性，以應對宏觀層面的部門差異，本研究提供了更清晰的理解，說明相互依存的領導行為如何匯聚成我們在CSC中理論化的制度性領導力。"
   },
   {
    "doi": "10.1080/14719037.2026.2685252",
@@ -1312,6 +1386,19 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "儘管全球各國政府日益轉向採購集中化，但在集中化框架內如何提高採購量仍是個懸而未決的問題。雖然集中化採購在效率和品質控制方面帶來諸多好處，但使用者通常偏好更具彈性的採購選項。一個未解的問題是，對使用者需求和市場趨勢的了解，如何促成框架協議，進而降低使用者自行採購商品與服務的傾向。本研究利用2013年至2023年間義大利21個地區的醫療採購資料，探討不同來源的需求與供給知識如何影響集中化程度——包括資產專屬產品和非資產專屬產品。固定效果迴歸分析結果顯示，將技術專家納入採購團隊所獲得的供給知識，能提升多種產品的集中化程度。然而，需求相關知識對集中化採購的影響因產品類型而異：人際交流對於非資產專屬類別更為有效，而後勤支援機制對於資產專屬產品類別則更為關鍵。本研究結果提供了對通常透過橫斷面資料研究的條件的縱向見解。這些結果也對許多實施公共醫療計畫的國家，以及那些推動與採購集中化相關的更廣泛改革的國家，提供了重要的啟示。"
+  },
+  {
+   "doi": "10.1080/10967494.2026.2699606",
+   "title": "Correction",
+   "abstract": "",
+   "authors": [],
+   "journal": "International Public Management Journal",
+   "url": "https://doi.org/10.1080/10967494.2026.2699606",
+   "date": "2026-07-20",
+   "first_seen": "2026-07-20",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
   }
  ]
 }
