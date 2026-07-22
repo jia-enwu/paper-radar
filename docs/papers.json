@@ -1,10 +1,10 @@
 {
- "updated": "2026-07-21T22:43:12+00:00",
+ "updated": "2026-07-22T22:52:45+00:00",
  "papers": [
   {
    "doi": "10.1093/jopart/muag018",
-   "title": "Representative Bureaucracy and Administrative Burdens: Exploring the Intersection of Lived Experience, Gender, and Professional Qualities",
-   "abstract": "Lived experience representative bureaucracy theory has expanded the scope of representative bureaucracy by exploring traits beyond race, ethnicity, and gender. However, scholars have yet to focus on the intersection of symbolic representation, intersectionality, and professional qualities. In this article, we employ lived experience representative bureaucracy theory and intersectionality theory to understand which identities (veteran status, gender, and disability status) and professional qualities shape client preferences on which bureaucrat they want to help them navigate administrative burdens. We analyze data from a conjoint experiment of 964 military veterans, showing that lived experience, intersectionality, and professional qualities matter, with the strongest preferences for employees who are responsive and competent. Regarding identity-based characteristics, veteran status and disability status representation were more salient than gender representation in helping veterans navigate healthcare-related administrative burdens. In line with our expectations grounded in intersectionality theory, we find that veterans with a disability prefer to be served by VA employees with a disability, demonstrating the importance of this combination of lived experiences and intersecting identities. We find further evidence that intersectionality matters among male respondents; the positive effects of veteran status were nullified in cases where the VA employee was transgender, revealing the importance of anti-transgender bias in shaping male veterans’ preferences. Exploratory analyses suggest that weak professional qualities can nullify or reverse the positive effects of shared identity, whereas strong professional qualities can compensate for the absence of representation. This study contributes to the literature by exploring the symbolic representative effects of various forms of lived experience representation alongside gender representation and professional qualities, as well as by examining representative bureaucracy through an intersectional lens. Additionally, our research provides a novel examination of disability status as an important and understudied identity with symbolic representative effects.",
+   "title": "Representative bureaucracy and administrative burdens: exploring the intersection of lived experience, gender, and professional qualities",
+   "abstract": "Lived experience representative bureaucracy theory has expanded the scope of representative bureaucracy by exploring traits beyond race, ethnicity, and gender. However, scholars have yet to focus on the intersection of symbolic representation, intersectionality, and professional qualities. In this article, we employ lived experience representative bureaucracy theory and intersectionality theory to understand which identities (veteran status, disability status, and gender) and professional qualities shape client preferences on which bureaucrat they want to help them navigate administrative burdens. We analyze data from a conjoint experiment of 964 military veterans, showing that lived experience, intersectionality, and professional qualities matter, with the strongest preferences for employees who are responsive and competent. Regarding identity-based characteristics, veteran status and disability status representation were more salient than gender representation in helping veterans navigate healthcare-related administrative burdens. In line with our expectations grounded in intersectionality theory, we find that veterans with a disability prefer to be served by VA employees with a disability, demonstrating the importance of this combination of lived experiences and intersecting identities. We find further evidence that intersectionality matters among male respondents; the positive effects of veteran status were nullified in cases where the VA employee was transgender, revealing the importance of anti-transgender bias in shaping male veterans’ preferences. Exploratory analyses suggest that weak professional qualities can nullify or reverse the positive effects of shared identity, whereas strong professional qualities can compensate for the absence of representation. This study contributes to the literature by exploring the symbolic representative effects of various forms of lived experience representation alongside gender representation and professional qualities, as well as by examining representative bureaucracy through an intersectional lens. Additionally, our research provides a novel examination of disability status as an important and understudied identity with symbolic representative effects.",
    "authors": [
     "Ryan J Lofaro",
     "Elizabeth Bell",
@@ -253,6 +253,25 @@
    "abstract_zh": "在揭弊行為中，社會心理過程扮演著重要角色。儘管先前研究已探討工作群體認同與揭弊行為之間的直接關係，卻忽略了個體的多元認同。本文檢視公共服務動機（PSM）是否調節此關聯，以及公共服務認同顯著性啟動是否強化這種動態。採用一項針對582名中國公務員的問卷實驗，我們發現工作群體認同對揭弊行為的影響取決於PSM，且顯著性啟動邊際上增強了這種交互作用。本文討論了研究發現，並為未來研究提供了方向。"
   },
   {
+   "doi": "10.1080/10967494.2026.2684632",
+   "title": "Does bureaucrat bashing diminish the performance of public servants? Evidence from a survey experiment in The Netherlands",
+   "abstract": "Bureaucrat bashing—the negative views expressed about public servants—is a widespread phenomenon. Does this bureaucrat bashing diminish the performance of public servants, as theoretically expected? We answer this question with a preregistered, original survey experiment among Dutch public servants. Our main results show that bureaucrat bashing does not significantly lower self-reported overall performance. Additional analyses confirm our main results. We discuss how our findings provide valuable insights into bureaucrat bashing and its possible effects in the public sector.",
+   "authors": [
+    "Julia Wesdorp",
+    "Barbara Vis"
+   ],
+   "journal": "International Public Management Journal",
+   "url": "https://doi.org/10.1080/10967494.2026.2684632",
+   "date": "2026-07-20",
+   "first_seen": "2026-07-20",
+   "score": 22.0,
+   "matched": [
+    "bureaucra",
+    "survey experiment"
+   ],
+   "abstract_zh": "對公務員的負面抨擊（指對公務員所表達的負面看法）是一種普遍現象。這種對公務員的負面抨擊是否會如理論預期般，降低公務員的績效？我們透過一項針對荷蘭公務員的預先註冊原創性問卷實驗來回答此問題。我們的主要結果顯示，對公務員的負面抨擊並未顯著降低公務員自我報告的整體績效。額外分析證實了我們的主要結果。我們將討論本研究結果如何為對公務員的負面抨擊及其在公共部門中可能產生的影響提供寶貴見解。"
+  },
+  {
    "doi": "10.1177/0734371x261456288",
    "title": "Political Upheaval and Bureaucratic Behavior: Quasi-Experimental Evidence for Public Sector HRM",
    "abstract": "This study employs a quasi-experimental pre–post research design, exploiting a political uprising in Bangladesh as an exogenous shock to examine its effects on the organizational behaviors of public servants. Drawing on a unique pre- and post-uprising survey, the study categorizes bureaucratic behaviors into situational and dispositional responses. The findings show that political instability primarily disrupts context-dependent organizational dynamics (situational), while core individual values (dispositional) remain comparatively stable. Situational behaviors, such as job satisfaction and inter-service relationships, decline significantly following the regime change due to heightened uncertainty, role ambiguity, and job insecurity. In contrast, dispositional behaviors, such as Public Service Motivation (PSM) and Organizational Citizenship Behavior (OCB), remain resilient, suggesting that deeply internalized values are less vulnerable to political disruptions. By distinguishing between situational and dispositional behaviors, the study contributes to understanding bureaucratic resilience during political crises and offers practical implications for public-sector human resource management following political upheaval.",
@@ -272,6 +291,27 @@
     "job satisfaction"
    ],
    "abstract_zh": "本研究採用準實驗性前測後測研究設計，利用孟加拉國的政治起義作為外生衝擊，以檢視其對公務人員組織行為的影響。本研究根據一份獨特的前起義與後起義調查，將官僚行為歸類為情境性與傾向性反應。研究結果顯示，政治不穩定主要擾亂依賴情境的組織動態（情境性），而核心個人價值觀（傾向性）則相對穩定。情境性行為，例如工作滿意度與跨部門關係，在政權更迭後顯著下降，原因是不確定性增加、角色模糊以及工作不安全感。相較之下，傾向性行為，例如公共服務動機（PSM）與組織公民行為（OCB），仍保持韌性，這表明根深蒂固的內化價值觀較不易受政治動盪影響。透過區分情境性與傾向性行為，本研究有助於理解政治危機期間的官僚韌性，並為政治動盪後的公共部門人力資源管理提供實務意涵。"
+  },
+  {
+   "doi": "10.1080/10967494.2026.2696851",
+   "title": "Using generative AI to evaluate the leadership of emperors and presidents: psychometric validation and implications for public leadership research",
+   "abstract": "",
+   "authors": [
+    "Xuhua Wei",
+    "Zimeng Chen",
+    "Jingting Yu",
+    "Yujiao Du"
+   ],
+   "journal": "International Public Management Journal",
+   "url": "https://doi.org/10.1080/10967494.2026.2696851",
+   "date": "2026-07-22",
+   "first_seen": "2026-07-22",
+   "score": 18.0,
+   "matched": [
+    "ai",
+    "generative"
+   ],
+   "abstract_zh": ""
   },
   {
    "doi": "10.1093/jopart/muag015",
@@ -414,25 +454,6 @@
    "abstract_zh": "績效管理學術界大多忽略了績效系統設計因素（反映宏觀層次的制度與組織安排）如何透過行為機制，形塑公部門管理者在個人層次上對資訊的使用。本研究透過一項針對智利394位校長的全國性調查實驗，檢視了這些機制，測試該國教育監測系統中與政策相關的特徵，如何影響他們使用績效數據進行決策的意圖。本研究結果顯示，當管理者獲得及時的績效資訊、經歷高度的利害關係人參與，並享有培訓與知識分享機會時，其使用意圖會增加。然而，報告格式並未影響使用意圖。這些結果提供了深入的見解，說明如何針對現實世界績效系統設計進行有針對性的調整，可以作為行為槓桿，以鼓勵公部門管理者進行實證決策。"
   },
   {
-   "doi": "10.1080/10967494.2026.2684632",
-   "title": "Does bureaucrat bashing diminish the performance of public servants? Evidence from a survey experiment in The Netherlands",
-   "abstract": "",
-   "authors": [
-    "Julia Wesdorp",
-    "Barbara Vis"
-   ],
-   "journal": "International Public Management Journal",
-   "url": "https://doi.org/10.1080/10967494.2026.2684632",
-   "date": "2026-07-20",
-   "first_seen": "2026-07-20",
-   "score": 12.0,
-   "matched": [
-    "bureaucra",
-    "survey experiment"
-   ],
-   "abstract_zh": ""
-  },
-  {
    "doi": "10.1111/puar.70143",
    "title": "How a Government Bureaucracy Works. Review Essay on Caroline Howard Grøn and Anne Mette Møller. 2024. Public Bureaucracy and Digital Transformation: Structures, Practices and Values. Cham: Palgrave Macmillan (etcetera)",
    "abstract": "",
@@ -505,6 +526,45 @@
     "corruption"
    ],
    "abstract_zh": "我們提出一種新穎的巨量資料方法來衡量貪腐，透過利用受貪腐影響之公開可觀察分配中的統計異常現象。儘管個別貪腐事件仍無法偵測，系統性貪腐卻會透過影響可觀察結果的分布，留下可衡量的統計足跡。我們將此方法應用於衡量俄羅斯交通警察的貪腐，該單位負責核發汽車牌照。具有地位象徵的牌照被發現過度集中於高階與豪華車款品牌中。我們利用這些差異來衡量交通警察的貪腐，並探討此類方法在評估為謀取私利而濫用權力規模方面的潛力。"
+  },
+  {
+   "doi": "10.1080/10967494.2026.2684590",
+   "title": "The social media paradox: Political expression and the bifurcation of bureaucratic values",
+   "abstract": "Bureaucrats’ political activity on social media has received growing attention from various observers who have debated whether such behavior is weakening the bureaucracy’s reputed impartiality, or creating public value by contributing to public discussions. To advance this debate, this article investigates bureaucrats’ political activity on social media with survey data from Canada. Testing hypotheses drawn from four ideal-types depicting different approaches towards social media—imperatively impartial; politically minded, mindfully impartial; megaphone bureaucracy; promiscuously partisan—the empirical results suggest that bureaucrats’ social media activity has led to a paradoxical bifurcation of the bureaucracy into radically different realms of being imperatively impartial and promiscuously partisan. Responding to risk-averse messages from the bureaucracy itself, nonexecutive federal bureaucrats display remarkably low levels of political activity on social media. In contrast, responding to political pressure to promote the government’s messaging, top-ranking federal bureaucrats display high levels of political activity on social media, especially when it comes to partisan content such as reposting official party messages. This social media paradox points to a potentially tragic portrait for the future of governance in the twenty-first century, whereby the integrity of the bureaucracy’s reputed impartiality and the vitality of democratic society, both stand to lose.",
+   "authors": [
+    "Christopher A. Cooper"
+   ],
+   "journal": "International Public Management Journal",
+   "url": "https://doi.org/10.1080/10967494.2026.2684590",
+   "date": "2026-07-20",
+   "first_seen": "2026-07-20",
+   "score": 10.0,
+   "matched": [
+    "bureaucra"
+   ],
+   "abstract_zh": "公務員在社群媒體上的政治活動日益受到各界觀察者的關注，他們爭論此類行為究竟是削弱了官僚體系聲稱的公正性，抑或是透過參與公共討論來創造公共價值。為深化此一辯論，本文運用來自加拿大的調查數據，探討公務員在社群媒體上的政治活動。本文檢驗了源自四種描繪對社群媒體不同取徑的理想類型（即：嚴格公正、政治導向但審慎公正、擴音器式官僚體系、濫情黨派）所提出的假設，實證結果顯示，公務員的社群媒體活動導致官僚體系出現矛盾的兩極分化，分裂為嚴格公正與濫情黨派兩種截然不同的領域。為了回應官僚體系內部規避風險的指示，非主管職聯邦公務員在社群媒體上的政治活動程度顯著偏低。相較之下，為了因應推廣政府訊息的政治壓力，高階聯邦公務員在社群媒體上的政治活動程度偏高，特別是涉及黨派內容時，例如轉發官方政黨訊息。此一社群媒體悖論預示著二十一世紀治理未來可能面臨的悲劇性局面，在此情況下，官僚體系聲稱的公正性之完整性與民主社會的活力，兩者皆將蒙受損失。"
+  },
+  {
+   "doi": "10.1080/10967494.2026.2674553",
+   "title": "Bureaucratic interest in academic evidence: a field experiment in Tanzania, India and Peru",
+   "abstract": "We investigate how different types of messaging by academics impact public servants’ behavioral demand for access to academic evidence by inviting nearly 9,000 national-level government bureaucrats in Tanzania, India and Peru to receive training on an original website that summarizes and graphically depicts findings from hundreds of randomized controlled trials. Implementing well-known interventions from the psychology of choice literature, we sought to test whether “nudges” might work across different national and bureaucratic contexts. We tested randomly assigned messaging characteristics related to messenger identity and social proof. In particular, we randomized whether invitations came from U.S. researchers on location or similar local researchers. We find that bureaucrats were significantly more responsive to U.S. researchers in Peru but not in India or Tanzania. We also randomly assigned information that other bureaucrats in the same ministry had previously expressed interest. Contrary to findings from other populations with similar “social proof” treatments, bureaucrats were less interested when informed that others had already accepted the demonstration. This novel finding is likely due to the institutional context of bureaucracies, where knowledge is more likely to be either a shared resource or a competitive advantage. In this context, others’ access to knowledge disincentivizes individual action rather than communicating a norm. This study offers evidence about some possible approaches and pitfalls to effective dissemination of academic evidence.",
+   "authors": [
+    "Darren Hawkins",
+    "Celeste Beesley",
+    "Daniel Nielson",
+    "João V. Guedes-Neto",
+    "Aubriana Wolferts",
+    "Nicholas Moffitt"
+   ],
+   "journal": "International Public Management Journal",
+   "url": "https://doi.org/10.1080/10967494.2026.2674553",
+   "date": "2026-07-20",
+   "first_seen": "2026-07-20",
+   "score": 10.0,
+   "matched": [
+    "bureaucra"
+   ],
+   "abstract_zh": "我們探討學術界人士不同類型的訊息傳遞方式，如何影響公務員對獲取學術證據的行為需求。我們邀請坦尚尼亞、印度和秘魯近9,000名國家級政府官員，參與一個原創網站的培訓，該網站彙整並圖示化呈現數百項隨機對照試驗的結果。運用決策心理學文獻中廣為人知的干預措施，我們旨在檢驗「推力」（nudges）是否能在不同的國家和官僚體系背景下發揮作用。我們測試了隨機分配的訊息特徵，這些特徵與傳訊者身份和社會認同有關。特別是，我們隨機分配了邀請函是來自當地美國研究人員，還是來自類似的當地研究人員。我們發現，在秘魯，官員對美國研究人員的反應顯著更積極，但在印度或坦尚尼亞則不然。我們也隨機分配了關於同一部會其他官員先前已表達興趣的資訊。與其他群體在類似「社會認同」處理下的發現相反，當被告知其他官員已接受示範時，官員們的興趣反而降低了。這項新穎的發現可能歸因於官僚體系的制度背景，在此背景下，知識更可能是一種共享資源或競爭優勢。在這種情境下，他人獲取知識反而會抑制個體行動，而非傳達一種規範。本研究為有效傳播學術證據提供了一些可能的方法和潛在陷阱的證據。"
   },
   {
    "doi": "10.1111/padm.70072",
@@ -803,45 +863,6 @@
     "transparency"
    ],
    "abstract_zh": "納稅人對於公平稅制及稅收分配方式常有意見分歧。鑑於佛蒙特州最高法院針對教育平等原則的裁定，我們與該州立法委員合作，探討不動產稅制下民眾觀點的政策議題。為探討複雜且高度管制的環境中的稅務民意，我們採用行為公共行政方法進行實驗。本研究發現有三：(1) 我們歸納出納稅人對於不動產稅的四個核心觀點主題：公平性與衡平性、透明度與問責性、公共經費的妥善運用，以及弱勢族群的負擔；(2) 我們證明納稅人觀點與主體性受到不動產稅收分配方式的顯著影響；(3) 我們說明實務界與學術界的合作如何能解決稅務政策設計中固有的張力。"
-  },
-  {
-   "doi": "10.1080/10967494.2026.2684590",
-   "title": "The social media paradox: Political expression and the bifurcation of bureaucratic values",
-   "abstract": "",
-   "authors": [
-    "Christopher A. Cooper"
-   ],
-   "journal": "International Public Management Journal",
-   "url": "https://doi.org/10.1080/10967494.2026.2684590",
-   "date": "2026-07-20",
-   "first_seen": "2026-07-20",
-   "score": 4.0,
-   "matched": [
-    "bureaucra"
-   ],
-   "abstract_zh": ""
-  },
-  {
-   "doi": "10.1080/10967494.2026.2674553",
-   "title": "Bureaucratic interest in academic evidence: a field experiment in Tanzania, India and Peru",
-   "abstract": "",
-   "authors": [
-    "Darren Hawkins",
-    "Celeste Beesley",
-    "Daniel Nielson",
-    "João V. Guedes-Neto",
-    "Aubriana Wolferts",
-    "Nicholas Moffitt"
-   ],
-   "journal": "International Public Management Journal",
-   "url": "https://doi.org/10.1080/10967494.2026.2674553",
-   "date": "2026-07-20",
-   "first_seen": "2026-07-20",
-   "score": 4.0,
-   "matched": [
-    "bureaucra"
-   ],
-   "abstract_zh": ""
   },
   {
    "doi": "10.1111/puar.70151",
@@ -1390,12 +1411,177 @@
   {
    "doi": "10.1080/10967494.2026.2699606",
    "title": "Correction",
-   "abstract": "",
+   "abstract": "Article title: Expanding Kelman’s vision for digital transformation in public procurementAuthors: Winiarska, M. and Kizielewicz, J.Journal: International Public Management Journal procurementDOI:ht...",
    "authors": [],
    "journal": "International Public Management Journal",
    "url": "https://doi.org/10.1080/10967494.2026.2699606",
    "date": "2026-07-20",
    "first_seen": "2026-07-20",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "本文透過提出一個整合技術、組織和制度因素的全面性框架，擴展了 Kelman 在公共採購數位轉型方面的願景。基於系統性文獻回顧和個案研究的實證見解，我們識別出成功數位轉型的關鍵驅動因素和障礙，並強調了領導力、利害關係人參與和法規調適的關鍵作用。所提出的框架為旨在利用數位科技以提升公共採購效率、透明度和問責性的政策制定者和實務工作者，提供了一個實用的指南。此外，它透過突顯採購流程數位轉型所帶來的獨特挑戰和機會，為電子治理和公共部門創新的廣泛論述做出貢獻。"
+  },
+  {
+   "doi": "10.1080/14719037.2026.2703750",
+   "title": "Digital transformations in public welfare services: risks and benefits of digital co-production",
+   "abstract": "",
+   "authors": [
+    "Maria Taivalsaari Røhnebæk",
+    "Sigrid Myklebø",
+    "Inge Hermanrud",
+    "Asbjørn Kårstein"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2703750",
+   "date": "2026-07-22",
+   "first_seen": "2026-07-22",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.1080/10967494.2026.2696853",
+   "title": "Pro-citizen rule-breaking among traffic police: the role of rule formalization and peer dynamics",
+   "abstract": "",
+   "authors": [
+    "Fan Yang"
+   ],
+   "journal": "International Public Management Journal",
+   "url": "https://doi.org/10.1080/10967494.2026.2696853",
+   "date": "2026-07-22",
+   "first_seen": "2026-07-22",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.1080/10967494.2026.2696852",
+   "title": "How far can participatory governance models travel? Evidence from Jordan’s decentralization reforms",
+   "abstract": "",
+   "authors": [
+    "Ahmad Asem Al-Hiari"
+   ],
+   "journal": "International Public Management Journal",
+   "url": "https://doi.org/10.1080/10967494.2026.2696852",
+   "date": "2026-07-22",
+   "first_seen": "2026-07-22",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.1080/10967494.2026.2684439",
+   "title": "Disentangling the notion of value in public services: evidence and future directions from a systematic literature review",
+   "abstract": "",
+   "authors": [
+    "Maria Cucciniello",
+    "Raffaella Saporito",
+    "Eleonora Perobelli",
+    "Stephen Osborne"
+   ],
+   "journal": "International Public Management Journal",
+   "url": "https://doi.org/10.1080/10967494.2026.2684439",
+   "date": "2026-07-22",
+   "first_seen": "2026-07-22",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.1080/10967494.2026.2696855",
+   "title": "Beyond the hassle: how favorable outcomes reduce the subjective experience of administrative burden",
+   "abstract": "",
+   "authors": [
+    "Frederik Godt",
+    "Aske Halling"
+   ],
+   "journal": "International Public Management Journal",
+   "url": "https://doi.org/10.1080/10967494.2026.2696855",
+   "date": "2026-07-22",
+   "first_seen": "2026-07-22",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.1080/10967494.2026.2684482",
+   "title": "What drives perceived job crafting in the public sector? Evidence from a randomized COM-B-informed intervention study",
+   "abstract": "",
+   "authors": [
+    "Filomena Buonocore",
+    "Davide de Gennaro",
+    "Alessandra Lazazzara",
+    "Domenico Salvatore"
+   ],
+   "journal": "International Public Management Journal",
+   "url": "https://doi.org/10.1080/10967494.2026.2684482",
+   "date": "2026-07-22",
+   "first_seen": "2026-07-22",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.1080/10967494.2026.2691390",
+   "title": "Chainsaw or scalpel: which leads to more blame for a service failure when leaders downsize government?",
+   "abstract": "",
+   "authors": [
+    "James Gerard Caillier"
+   ],
+   "journal": "International Public Management Journal",
+   "url": "https://doi.org/10.1080/10967494.2026.2691390",
+   "date": "2026-07-22",
+   "first_seen": "2026-07-22",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.1080/10967494.2026.2684629",
+   "title": "Prior beliefs and the biased interpretation of performance information: the mediating role of attention",
+   "abstract": "",
+   "authors": [
+    "Lei Tao"
+   ],
+   "journal": "International Public Management Journal",
+   "url": "https://doi.org/10.1080/10967494.2026.2684629",
+   "date": "2026-07-22",
+   "first_seen": "2026-07-22",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.1080/10967494.2026.2693112",
+   "title": "Public service delivery under stress: The governance of funeral value-chain services during a pandemic",
+   "abstract": "",
+   "authors": [
+    "Mónica Reig",
+    "Adrià Albareda",
+    "Federica Giardina",
+    "Marc Esteve"
+   ],
+   "journal": "International Public Management Journal",
+   "url": "https://doi.org/10.1080/10967494.2026.2693112",
+   "date": "2026-07-22",
+   "first_seen": "2026-07-22",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.1080/10967494.2026.2684565",
+   "title": "How public managers view Sustainable Development Goals: a Q-study",
+   "abstract": "",
+   "authors": [
+    "Manuela S. Macinati",
+    "Francesca Manes Rossi",
+    "Mariafrancesca Sicilia"
+   ],
+   "journal": "International Public Management Journal",
+   "url": "https://doi.org/10.1080/10967494.2026.2684565",
+   "date": "2026-07-22",
+   "first_seen": "2026-07-22",
    "score": 0.0,
    "matched": [],
    "abstract_zh": ""
