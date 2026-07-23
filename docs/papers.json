@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-22T22:52:45+00:00",
+ "updated": "2026-07-23T22:45:58+00:00",
  "papers": [
   {
    "doi": "10.1093/jopart/muag018",
@@ -397,6 +397,27 @@
    "abstract_zh": "當面臨繁重的工作量和有限的資源時，基層官僚可能會訴諸於任務拖延作為一種因應策略。本研究整合了刺激-個體-反應 (SOR) 模型、社會認知理論 (SCT) 和資源保存理論 (COR)，以闡明官僚拖延的多層次驅動因素。運用來自中國基層官僚的調查數據，我們採用了納入充分性和必要性兩種視角的雙邏輯方法。研究結果透過瓶頸重要性-績效地圖分析 (BIPMA) 視覺化呈現，揭示了干預措施的優先順序。組織認同脫穎而出成為最高優先事項，既是強而有力的充分因素，也是關鍵的必要條件。自我效能對於需要針對性支持的特定次群體構成中度障礙，而公共服務動機則作為一個基礎性先決條件，需要持續維護而非積極提升。結合緩解情緒耗竭的策略，這些見解有助於更具針對性地分配資源，以遏制官僚拖延。本研究透過提供減輕官僚拖延的可行性指導，並透過將雙邏輯分析應用於複雜的組織現象，提供了方法論上的貢獻，從而推進了官僚行為的研究。"
   },
   {
+   "doi": "10.1111/puar.70162",
+   "title": "Recruiting Street‐Level Bureaucrats Through Co‐Design: The Effects of Incorporating Citizen Insights Into Job Advertisements",
+   "abstract": "Street‐level bureaucrats (SLBs) directly affect citizens, making them central to public service delivery. Service success therefore hinges on public sector organizations' ability to recruit competent SLBs. We argue that citizens' perspectives should inform SLB recruitment, especially for contact‐intensive, relational frontline roles. Yet public administration research has not integrated citizens' perspectives into SLB recruitment, despite a broader shift toward a service‐user orientation. We test whether job advertisements co‐designed with citizens increase job seekers' application likelihood. Using a mixed‐method design, including a preregistered experiment, we find that co‐designed job advertisements (a) identify SLB competencies often overlooked in conventional recruitment (Study 1), (b) increase application likelihood regardless of applicants' awareness of citizen involvement (Study 2A), and (c) attract candidates whose values align with service‐user‐oriented organizations by improving person‐job fit (Study 2B). We advance public sector recruitment and SLB research by introducing co‐design as an innovative and effective approach to service‐user‐oriented SLB recruitment.",
+   "authors": [
+    "Jakob Trischler",
+    "Julia Dicenta",
+    "Jasenko Arsenovic",
+    "Marion Büttgen"
+   ],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70162",
+   "date": "2026-07-23",
+   "first_seen": "2026-07-23",
+   "score": 14.0,
+   "matched": [
+    "bureaucra",
+    "recruitment"
+   ],
+   "abstract_zh": "街頭官僚 (SLBs) 直接影響民眾，使其在公共服務提供中扮演核心角色。因此，服務成效取決於公部門組織招募稱職街頭官僚的能力。我們主張，民眾的視角應納入街頭官僚招募的考量，尤其對於需高度互動、關係導向的第一線職位。然而，儘管整體趨勢已轉向服務使用者導向，公共行政研究卻尚未將民眾的視角整合至街頭官僚招募中。我們檢驗與民眾協同設計的職位廣告是否能提高求職者的申請意願。透過混合方法設計，包括一項預先註冊的實驗，我們發現協同設計的職位廣告 (a) 能夠識別傳統招募中常被忽略的街頭官僚能力 (研究一)，(b) 無論申請者是否知曉民眾參與，皆能提高申請意願 (研究二A)，以及 (c) 透過提升人職契合度，吸引價值觀與服務使用者導向組織一致的候選人 (研究二B)。我們藉由引入協同設計作為服務使用者導向街頭官僚招募的創新且有效方法，推進了公部門招募和街頭官僚研究。"
+  },
+  {
    "doi": "10.1111/puar.70159",
    "title": "Reclaiming Weber: Bureaucracy as Democracy's Last Line of Defense",
    "abstract": "Max Weber's rational–legal bureaucracy remains a vital safeguard amid populist backlash, civil service politicization, and democratic backsliding. This article reframes bureaucracy as a conditional democratic safeguard—one that depends on ethical orientation and professional integrity, not technical capacity alone. When legality is hollowed out through obedience or anticipatory compliance, institutions corrode from within. Evidence from recent cases of executive politicization illustrates how ethical substance erodes behind formally intact institutions. By integrating Weber's structural rationality with Waldo's claim that democracy is fundamentally an ethic requiring value‐laden judgment, the article develops the notion of a “compliance trap” and recasts public servants as ethical constitutional agents rather than passive implementers. It also advances a framework for bureaucratic renewal grounded in ethical discipline, participatory design, and professional autonomy, arguing that administrators must be prepared to exercise principled judgment when other democratic safeguards weaken.",
@@ -699,8 +720,8 @@
   },
   {
    "doi": "10.1093/jopart/muag017",
-   "title": "Playing with Time: Data Manipulation within the Performance Evaluation Cycle",
-   "abstract": "Understanding why public organizations manipulate performance data has become an essential theme in public administration scholarship. While prior research has extensively explored the individual and contextual drivers of gaming, the temporal dimension–specifically when manipulation occurs–remains remarkably underexplored. Moving beyond the impact of sporadic political events, this study examines the routine, institutionalized rhythms of the bureaucratic calendar. Utilizing satellite nighttime light data as an objective benchmark to detect distortion in officially reported GDP across 271 Chinese cities (2013–2020), we uncover a systematic, cyclical pattern of strategic gaming. Manipulation is substantial in the first quarter, consistent with political pressure for a “good start”, recedes during the middle of the year, and surges to its annual peak in the fourth quarter (Q4) as the final performance assessment looms. Furthermore, we show that this Q4 effect is contingent on local context: cities with lower fiscal autonomy and reduced marketization exhibit a significantly greater propensity to inflate year-end figures. By uncovering a routine form of manipulation embedded in bureaucratic practices, our study advances theories of performance gaming and sheds light on the strategic use of time in public management.",
+   "title": "Playing with time: data manipulation within the performance evaluation cycle",
+   "abstract": "Understanding why public organizations manipulate performance data has become an essential theme in public administration scholarship. While prior research has extensively explored the individual and contextual drivers of gaming, the temporal dimension—specifically when manipulation occurs—remains remarkably underexplored. Moving beyond the impact of sporadic political events, this study examines the routine, institutionalized rhythms of the bureaucratic calendar. Utilizing satellite nighttime light data as an objective benchmark to detect distortion in officially reported GDP across 271 Chinese cities (2013–2020), we uncover a systematic, cyclical pattern of strategic gaming. Manipulation is substantial in the first quarter, consistent with political pressure for a “good start,” recedes during the middle of the year; and surges to its annual peak in the fourth quarter (Q4) as the final performance assessment looms. Furthermore, we show that this Q4 effect is contingent on local context: cities with lower fiscal autonomy and reduced marketization exhibit a significantly greater propensity to inflate year-end figures. By uncovering a routine form of manipulation embedded in bureaucratic practices, our study advances theories of performance gaming and sheds light on the strategic use of time in public management.",
    "authors": [
     "Jiayuan Li",
     "Zhibin Chen",
@@ -1021,6 +1042,23 @@
    "score": 2.0,
    "matched": [],
    "abstract_zh": "在跨部門合作（CSC）中，領導者必須應對來自公部門、企業部門與非營利部門複雜且常有衝突的需求。本研究透過一個多層次框架，探討領導者如何管理這種制度性複雜性，並借鑒一個旨在開發災害管理技術的三部門夥伴關係個案研究。根據27次訪談、觀察與文獻資料的證據，我們識別出領導者行為庫，並作為我們的核心貢獻，揭示了這些行為之間四種不同類型的相互依存關係：促成、替代、穩定與抑制。我們的研究結果顯示，CSC中的領導力超越了採用單一風格；相反地，它需要策略性地協調不同行為的互動方式。我們識別出兩種總體策略（選擇性目標設定與序列性轉換），領導者用來結合互補行為，同時防止它們相互破壞。透過關注領導者在微觀層面的能動性，以應對宏觀層面的部門差異，本研究提供了更清晰的理解，說明相互依存的領導行為如何匯聚成我們在CSC中理論化的制度性領導力。"
+  },
+  {
+   "doi": "10.1177/02750740261469544",
+   "title": "Tensions Between Client Satisfaction and Employee Motivation in Public Organizations, and Their Reconciliation Through Leadership",
+   "abstract": "Public organizations widely use client satisfaction feedback to assess their employees, reflecting responsiveness and accountability to policy clients. Yet client satisfaction is inherently subjective and heterogeneous, and it often diverges from mission-relevant performance in ways that can compromise employees’ work motivation. This study conceptualizes this issue as a bottom-up democracy–bureaucracy dilemma and examines the role of leadership in mitigating it. Drawing on experimental evidence (n = 740) and open-ended qualitative responses (13,502 words) from frontline investigators in South Korea's National Police Agency, the study finds that low client (i.e., alleged victims) satisfaction despite high investigatory performance impairs officers’ work motivation. Notably, these demotivating effects are attenuated when the agency head explicitly acknowledges the weak link between performance and satisfaction and avoid treating low satisfaction as direct evidence of poor performance, even as client satisfaction remains a formal evaluative benchmark. This sensegiving approach appears to foster perceptions of interactional fairness, empathy, and understanding, thereby significantly improving officers’ experience ofsatisfaction feedback and their trust in the agency head. A broader implication of this study is that reconciling democratic impulses for policy clients and political stakeholders with administrative imperatives to empower the workforce is a unique challenge for public sector leadership.",
+   "authors": [
+    "Inkyu Kang"
+   ],
+   "journal": "The American Review of Public Administration",
+   "url": "https://doi.org/10.1177/02750740261469544",
+   "date": "2026-07-23",
+   "first_seen": "2026-07-23",
+   "score": 2.0,
+   "matched": [
+    "bureaucra"
+   ],
+   "abstract_zh": "公共組織廣泛運用服務對象滿意度回饋來評估其員工，以反映對政策服務對象的回應性與課責性。然而，服務對象滿意度本質上是主觀且異質的，且常與任務相關績效產生分歧，以致於可能損害員工的工作動機。本研究將此議題概念化為一種由下而上的民主－官僚兩難，並探討領導力在緩解此兩難中的作用。本研究根據來自韓國國家警察廳前線調查員的實驗證據 (n = 740) 以及開放式質性回應 (13,502 字)，發現儘管調查績效高，服務對象（即，聲稱受害者）滿意度低仍損害了警員的工作動機。值得注意的是，當機關首長明確承認績效與滿意度之間的薄弱連結，並避免將低滿意度視為績效不佳的直接證據時，這些去動機化效應會減弱，即使服務對象滿意度仍是正式的評估基準。這種意義賦予方法似乎能促進對互動公平性、同理心和理解的感知，從而顯著改善警員對滿意度回饋的體驗以及他們對機關首長的信任。本研究更廣泛的啟示是，調和對政策服務對象和政治利害關係人的民主衝動，與賦予員工權力的行政要求，是公共部門領導力的一項獨特挑戰。"
   },
   {
    "doi": "10.1080/14719037.2026.2685252",
@@ -1424,7 +1462,7 @@
   {
    "doi": "10.1080/14719037.2026.2703750",
    "title": "Digital transformations in public welfare services: risks and benefits of digital co-production",
-   "abstract": "",
+   "abstract": "Digital technologies have the potential to transform public services by enabling digital co-production. This paper presents an illustrative case study set in the Norwegian Labour and Welfare Services (Nav) to explore how these transformations can be conceptualized and theorized. The study contributes by building an integrative framework that can be used to guide research and decision-making on digital co-production across diverse public service sectors. The framework explicates the underlying dilemmas, benefits and risks – and, consequently, the value conflicts and trade-offs involved in digital transformations centred on co-production of services.",
    "authors": [
     "Maria Taivalsaari Røhnebæk",
     "Sigrid Myklebø",
@@ -1437,7 +1475,7 @@
    "first_seen": "2026-07-22",
    "score": 0.0,
    "matched": [],
-   "abstract_zh": ""
+   "abstract_zh": "數位科技藉由促成數位協同生產，具有轉型公共服務的潛力。本文以挪威勞動暨福利服務局 (Nav) 為背景，提出一個說明性個案研究，旨在探討這些轉型如何被概念化與理論化。本研究的貢獻在於建構一個整合性架構，可用於指導跨越多元公共服務領域的數位協同生產相關研究與決策。此架構闡明了以服務協同生產為核心的數位轉型所涉及的潛在困境、效益與風險，以及隨之而來的價值衝突與權衡取捨。"
   },
   {
    "doi": "10.1080/10967494.2026.2696853",
@@ -1582,6 +1620,22 @@
    "url": "https://doi.org/10.1080/10967494.2026.2684565",
    "date": "2026-07-22",
    "first_seen": "2026-07-22",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.1080/14719037.2026.2706536",
+   "title": "Visualizing &amp; strategizing public value: an unexpected path to invisibilizing",
+   "abstract": "",
+   "authors": [
+    "Camille Guirou",
+    "Laurent Beduneau-Wang"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2706536",
+   "date": "2026-07-23",
+   "first_seen": "2026-07-23",
    "score": 0.0,
    "matched": [],
    "abstract_zh": ""
