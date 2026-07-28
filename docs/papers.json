@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-27T22:48:53+00:00",
+ "updated": "2026-07-28T22:49:54+00:00",
  "papers": [
   {
    "doi": "10.1093/jopart/muag018",
@@ -23,6 +23,30 @@
     "conjoint"
    ],
    "abstract_zh": "生活經驗代表性官僚理論透過探討種族、族裔和性別以外的特徵，擴展了代表性官僚的範疇。然而，學者尚未關注象徵性代表、交織性與專業素質之間的交織。本文運用生活經驗代表性官僚理論和交織性理論，以理解哪些身份（退伍軍人身份、性別和身心障礙身份）和專業素質，會影響客戶對於希望由哪位官僚協助他們處理行政負擔的偏好。我們分析了來自964名退伍軍人的聯合實驗數據，結果顯示生活經驗、交織性和專業素質都很重要，其中對於反應迅速且有能力的員工有最強烈的偏好。在基於身份的特徵方面，退伍軍人身份和身心障礙身份的代表性，在協助退伍軍人處理與醫療保健相關的行政負擔時，比性別代表性更為顯著。與我們基於交織性理論的預期一致，我們發現身心障礙退伍軍人偏好由具有身心障礙身份的退伍軍人事務部（VA）員工服務，這顯示了生活經驗和交織身份這種組合的重要性。我們發現進一步的證據顯示，交織性在男性受訪者中也很重要；在VA員工為跨性別者的情況下，退伍軍人身份的正面影響被抵銷，這揭示了反跨性別偏見在形塑男性退伍軍人偏好方面的重要性。探索性分析顯示，較弱的專業素質可以抵銷或逆轉共享身份的正面影響，而強大的專業素質則可以彌補代表性的缺失。本研究透過探討各種形式的生活經驗代表性所產生的象徵性代表效果，以及性別代表性和專業素質，並透過交織性視角檢視代表性官僚，對文獻有所貢獻。此外，我們的研究提供了一個新穎的檢視，將身心障礙身份視為一個重要且未被充分研究、並具有象徵性代表效果的身份。"
+  },
+  {
+   "doi": "10.1080/10967494.2026.2706796",
+   "title": "When officials disagree with AI: public perceptions of bureaucratic discretion in algorithmic governance",
+   "abstract": "",
+   "authors": [
+    "Shangrui Wang",
+    "Yuanmeng Zhang",
+    "Zheng Liang"
+   ],
+   "journal": "International Public Management Journal",
+   "url": "https://doi.org/10.1080/10967494.2026.2706796",
+   "date": "2026-07-28",
+   "first_seen": "2026-07-28",
+   "score": 62.0,
+   "matched": [
+    "ai",
+    "algorithmic governance",
+    "algorithm",
+    "bureaucratic discretion",
+    "discretion",
+    "bureaucra"
+   ],
+   "abstract_zh": ""
   },
   {
    "doi": "10.1080/10967494.2026.2674551",
@@ -335,6 +359,24 @@
    "abstract_zh": ""
   },
   {
+   "doi": "10.1177/02750740261471536",
+   "title": "It's A Matter of Perspective: A Reflexive Thematic Analysis of Civil Servants’ Appraisal and Coping with Negative Civil Servant Stereotypes",
+   "abstract": "Negative civil servant stereotypes are often described as problematic in public administration research. In this study, we investigate municipal employees’ own ideas on whether and how these stereotypes form a problem for public sector work and public services. Using semi-structured interviewing and reflexive thematic analysis and building on psychological literature on appraisal and coping with stereotypes, we identify two themes. First, respondents use different perspectives to understand and explain the stereotypes: They view stereotypes as (1) undeserved and untrue, (2) inevitable and part of the work, (3) understandable misunderstandings, and/or (4) reflections of truth. While these external attributions help respondents cope with the negative stereotypes, they also come with blind spots that could affect their work. Second, respondents think the stereotypes have a bigger impact on the citizen-government relationship, trust, and citizen-state interactions than on civil servants themselves. We discuss the implications for service delivery in the public sector and directions for future research.",
+   "authors": [
+    "Isa Bertram",
+    "Carina Schott"
+   ],
+   "journal": "The American Review of Public Administration",
+   "url": "https://doi.org/10.1177/02750740261471536",
+   "date": "2026-07-28",
+   "first_seen": "2026-07-28",
+   "score": 18.0,
+   "matched": [
+    "civil servant"
+   ],
+   "abstract_zh": "負面公務員刻板印象在公共行政研究中常被描述為一個問題。本研究旨在探討市府員工自身對於這些刻板印象是否以及如何對公共部門工作和公共服務構成問題的看法。本研究透過半結構式訪談和反思性主題分析，並借鑒心理學中關於評估和應對刻板印象的文獻，歸納出兩大主題。首先，受訪者運用不同視角來理解和解釋這些刻板印象：他們將刻板印象視為 (1) 不應得且不真實的，(2) 無可避免且是工作的一部分，(3) 可理解的誤解，以及/或 (4) 真實的反映。儘管這些外部歸因有助於受訪者應對負面刻板印象，但它們也伴隨著可能影響其工作的盲點。其次，受訪者認為這些刻板印象對公民與政府關係、信任以及公民與國家互動的影響，大於對公務員本身的影響。我們討論了這對公共部門服務提供的意涵以及未來研究方向。"
+  },
+  {
    "doi": "10.1093/jopart/muag015",
    "title": "Mapping the temporal evolution of causal effects in public administration and policy research",
    "abstract": "Recent growth in the use of randomized and quasi-experiments in public administration and policy research has advanced the ability to establish cause-and-effect relationships. However, many studies adopt static conceptions of causality, focusing on snapshots or time-averaged effects while overlooking how the effects change over time. This oversight is problematic, as interventions of scholarly interest, such as leadership training or the adoption of new technologies, are likely to produce impacts that unfold in various ways. In this paper, we propose a conceptual framework for understanding the temporal dynamics of causal effects and their implications for research hypotheses and design. We then introduce Bayesian changepoint models (BCMs) as a methodological tool for detecting shifts in the average, variance, or trend of causal effect series, providing a more rigorous yet accessible alternative to visually inspecting graphs. Next, we demonstrate the application of BCMs with an illustrative example derived from simulation data as well as a real-world case examining the effect of body-worn cameras on police officers’ use of force. Finally, we discuss how examining temporal changes in effects can advance theoretical understanding of why and how they occur, as well as inform the design and implementation of policies and strategies in practice.",
@@ -461,6 +503,26 @@
     "recruitment"
    ],
    "abstract_zh": "街頭官僚 (SLBs) 直接影響民眾，使其在公共服務提供中扮演核心角色。因此，服務成效取決於公部門組織招募稱職街頭官僚的能力。我們主張，民眾的視角應納入街頭官僚招募的考量，尤其對於需高度互動、關係導向的第一線職位。然而，儘管整體趨勢已轉向服務使用者導向，公共行政研究卻尚未將民眾的視角整合至街頭官僚招募中。我們檢驗與民眾協同設計的職位廣告是否能提高求職者的申請意願。透過混合方法設計，包括一項預先註冊的實驗，我們發現協同設計的職位廣告 (a) 能夠識別傳統招募中常被忽略的街頭官僚能力 (研究一)，(b) 無論申請者是否知曉民眾參與，皆能提高申請意願 (研究二A)，以及 (c) 透過提升人職契合度，吸引價值觀與服務使用者導向組織一致的候選人 (研究二B)。我們藉由引入協同設計作為服務使用者導向街頭官僚招募的創新且有效方法，推進了公部門招募和街頭官僚研究。"
+  },
+  {
+   "doi": "10.1111/puar.70164",
+   "title": "Linking Decision Roles to Knowledge Utilization in US State Governments: A Mixed‐Method Study",
+   "abstract": "The current movement for evidence‐based policymaking advocates the use of scientific knowledge in government. However, in practice, civil servants often prioritize different types of knowledge depending on their decision‐making roles and the context. Using survey responses from 259 civil servants across three US state governments and 36 semistructured interviews, we employ a mixed‐method approach to understand how civil servants strategically utilize various types of knowledge to meet different role requirements and decision‐making responsibilities. Consistent with our hypotheses, our findings indicate that civil servants involved in policy and legislative roles value political knowledge more, while those in contracting roles place greater importance on experiential knowledge. Contrary to our hypothesis, while civil servants in budgeting roles value political knowledge more than their counterparts in other decision roles, they show no such preference for scientific knowledge. Our qualitative interviews provide possible mechanisms for this unexpected finding.",
+   "authors": [
+    "Shuping Wang",
+    "Yuan (Daniel) Cheng",
+    "Chengxin Xu"
+   ],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70164",
+   "date": "2026-07-28",
+   "first_seen": "2026-07-28",
+   "score": 13.0,
+   "matched": [
+    "civil servant",
+    "legislative"
+   ],
+   "abstract_zh": "當前實證政策制定的倡議，主張在政府部門運用科學知識。然而，實務上，公務員常依其決策角色與情境，優先考量不同類型的知識。本研究透過對來自美國三個州政府的259位公務員進行問卷調查，並輔以36份半結構式訪談，採用混合研究方法，旨在理解公務員如何策略性地運用各類知識，以符合不同的角色要求與決策職責。本研究結果與我們的假設一致，顯示擔任政策與立法職務的公務員更重視政治知識，而負責契約職務者則更看重經驗知識。然而，出乎我們的假設，儘管擔任預算職務的公務員比其他決策職務的同儕更重視政治知識，他們卻未對科學知識展現出類似的偏好。我們的質性訪談為此一意料之外的發現提供了可能的解釋機制。"
   },
   {
    "doi": "10.1111/puar.70159",
@@ -671,6 +733,26 @@
     "causal"
    ],
    "abstract_zh": "本研究探討資訊提供如何影響半公營部門非執行董事的判斷品質。依據行為科學的見解，本研究發展並檢驗了假說，採用混合方法設計，結合實驗法 (N = 101) 和團體訪談 (N = 34)。針對非執行董事的實驗，證實了資訊多樣性與判斷中的整合複雜度之間存在因果關係，而整合複雜度是判斷品質的核心指標。然而，團體訪談的結果也突顯了在不損害與執行長 (CEO) 之間信任關係的前提下，蒐集資訊所面臨的挑戰。最後，無論是資訊多樣性還是同步順序，都無法減輕確認偏誤。"
+  },
+  {
+   "doi": "10.1080/10967494.2026.2691395",
+   "title": "Public service motivation and performance: a meta-analysis of the relationship and its organizational and cultural moderators",
+   "abstract": "",
+   "authors": [
+    "Miaomiao Jiang",
+    "Wim Van den Noortgate",
+    "Manqian Cui",
+    "Jiayuan Li"
+   ],
+   "journal": "International Public Management Journal",
+   "url": "https://doi.org/10.1080/10967494.2026.2691395",
+   "date": "2026-07-28",
+   "first_seen": "2026-07-28",
+   "score": 8.0,
+   "matched": [
+    "public service motivation"
+   ],
+   "abstract_zh": ""
   },
   {
    "doi": "10.1177/02750740261457069",
@@ -1655,6 +1737,22 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "公共價值已成為公共管理的核心關切，然而其在策略決策中的能見度仍是一大挑戰。本文探討視覺工具如何有助於公共價值的視覺化與策略化。本文借鑒於在法國某市鎮進行的行動研究，指出議題地圖透過使公共價值變得可見、可討論且具策略行動性，從而塑造了策略制定過程。我們證明這些工具能引導注意力、支持審議並建構意義，進而創造公共價值。令人驚訝的是，這些工具也產生阻力及隱形化過程：某些價值因此變得不可見。這些發現突顯了視覺化本質上所具有的選擇性與政治性。"
+  },
+  {
+   "doi": "10.1080/10967494.2026.2699232",
+   "title": "Institutional context and performance-based procurement: Evidence from welfare services in three countries",
+   "abstract": "",
+   "authors": [
+    "Yaniv Reingewertz",
+    "Adi Arad"
+   ],
+   "journal": "International Public Management Journal",
+   "url": "https://doi.org/10.1080/10967494.2026.2699232",
+   "date": "2026-07-28",
+   "first_seen": "2026-07-28",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
   }
  ]
 }
