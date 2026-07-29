@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-28T22:49:54+00:00",
+ "updated": "2026-07-29T22:45:53+00:00",
  "papers": [
   {
    "doi": "10.1093/jopart/muag018",
@@ -336,6 +336,26 @@
     "job satisfaction"
    ],
    "abstract_zh": "本研究採用準實驗性前測後測研究設計，利用孟加拉國的政治起義作為外生衝擊，以檢視其對公務人員組織行為的影響。本研究根據一份獨特的前起義與後起義調查，將官僚行為歸類為情境性與傾向性反應。研究結果顯示，政治不穩定主要擾亂依賴情境的組織動態（情境性），而核心個人價值觀（傾向性）則相對穩定。情境性行為，例如工作滿意度與跨部門關係，在政權更迭後顯著下降，原因是不確定性增加、角色模糊以及工作不安全感。相較之下，傾向性行為，例如公共服務動機（PSM）與組織公民行為（OCB），仍保持韌性，這表明根深蒂固的內化價值觀較不易受政治動盪影響。透過區分情境性與傾向性行為，本研究有助於理解政治危機期間的官僚韌性，並為政治動盪後的公共部門人力資源管理提供實務意涵。"
+  },
+  {
+   "doi": "10.1093/jopart/muag023",
+   "title": "Institutionalized Enforcement of Administrative Compliance: State Regulator Use of Noncompliance Burdens",
+   "abstract": "Administrative burden scholarship typically examines rules and regulations affecting access to public benefits during initial citizen-state interactions. Scholars agree that individual burdens function as “hidden politics” because policy changes during implementation through bureaucratic discretion. Less is known about bureaucratic behavior or hidden politics enforced on third-party service providers maintaining compliance. In this article we address this by examining noncompliance burdens imposed on abortion providers to understand if regulators emulate peers’ behavior. Using an institutional theoretical framework and administrative records from the Florida Agency for Health Care Administration (FAHCA) on abortion provider oversight, we construct a directed dyadic event history model using 1540 dyad-year observations to predict isomorphism or divergence of sanction activities across regulatory field offices. We find that regulatory field offices emulate behavior of others based on peer’s previous sanction behavior and oversight workload. We also find that regulators diverge from peers based on the regulatory conditions of their own jurisdiction.",
+   "authors": [
+    "Mingxu (Emma) Li",
+    "Daniel L Fay"
+   ],
+   "journal": "Journal of Public Administration Research and Theory",
+   "url": "https://doi.org/10.1093/jopart/muag023",
+   "date": "2026-07-27",
+   "first_seen": "2026-07-29",
+   "score": 19.0,
+   "matched": [
+    "bureaucratic discretion",
+    "discretion",
+    "bureaucra"
+   ],
+   "abstract_zh": "行政負擔研究通常檢視在公民與國家初次互動時，影響民眾取得公共福利的規章制度。學者們一致認為，個別負擔扮演著「隱藏政治」的角色，因為政策在執行過程中會透過官僚自由裁量權而改變。然而，對於施加於維持合規性的第三方服務提供者之官僚行為或隱藏政治，則鮮為人知。本文旨在透過檢視施加於墮胎服務提供者的不合規負擔，以了解監管者是否會模仿同儕的行為，進而探討此議題。本文運用制度理論框架，並使用佛羅里達州醫療保健管理局 (FAHCA) 關於墮胎服務提供者監督的行政記錄，建構了一個定向雙向事件歷史模型，利用1540個雙向年度觀察值，以預測監管現場辦公室之間懲處活動的同形性或分歧。我們發現，監管現場辦公室會根據同儕先前的懲處行為和監督工作量來模仿他人的行為。我們也發現，監管者會根據其自身管轄區的監管條件而與同儕產生分歧。"
   },
   {
    "doi": "10.1080/10967494.2026.2696851",
@@ -1223,6 +1243,21 @@
    "abstract_zh": "公共組織廣泛運用服務對象滿意度回饋來評估其員工，以反映對政策服務對象的回應性與課責性。然而，服務對象滿意度本質上是主觀且異質的，且常與任務相關績效產生分歧，以致於可能損害員工的工作動機。本研究將此議題概念化為一種由下而上的民主－官僚兩難，並探討領導力在緩解此兩難中的作用。本研究根據來自韓國國家警察廳前線調查員的實驗證據 (n = 740) 以及開放式質性回應 (13,502 字)，發現儘管調查績效高，服務對象（即，聲稱受害者）滿意度低仍損害了警員的工作動機。值得注意的是，當機關首長明確承認績效與滿意度之間的薄弱連結，並避免將低滿意度視為績效不佳的直接證據時，這些去動機化效應會減弱，即使服務對象滿意度仍是正式的評估基準。這種意義賦予方法似乎能促進對互動公平性、同理心和理解的感知，從而顯著改善警員對滿意度回饋的體驗以及他們對機關首長的信任。本研究更廣泛的啟示是，調和對政策服務對象和政治利害關係人的民主衝動，與賦予員工權力的行政要求，是公共部門領導力的一項獨特挑戰。"
   },
   {
+   "doi": "10.1111/puar.70171",
+   "title": "American Administrative Capacity: Decline, Decay, and Resilience By M.Ernita Joaquin and Thomas J.Greitens, Cham, Switzerland: Springer, 2021. 213 pp. $97 (hardcover). ISBN : 978‐3‐030‐80563‐0",
+   "abstract": "",
+   "authors": [
+    "Morgan Dodson"
+   ],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70171",
+   "date": "2026-07-29",
+   "first_seen": "2026-07-29",
+   "score": 2.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
    "doi": "10.1080/14719037.2026.2685252",
    "title": "Unleashing the potential of participative budgeting practices in Public Healthcare Organizations: The drivers of psychology-based budgeting research",
    "abstract": "Since doctors heading operational units have become budget holders, the hybrid nature of doctor-managers exposes them to risks of role ambiguity. Drawing on psychology-based budgeting research, this study explores how participative budgeting (PB) can enhance managerial responses to budgetary responsibilities. Using data from 131 doctor-managers in Italian public healthcare organizations, we found that providing satisfactory budgetary information influences doctor-managers’ perceptions of organizational support (POS). The ‘reciprocating’ response driven by POS strengthens doctor-managers’ motivation to achieve budgetary goals and involvement in PB, acting as an enabling condition for role hybridization. This results in improvements in psychological well-being and organizational identification.",
@@ -1750,6 +1785,22 @@
    "url": "https://doi.org/10.1080/10967494.2026.2699232",
    "date": "2026-07-28",
    "first_seen": "2026-07-28",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.1080/14719037.2026.2708850",
+   "title": "Rethinking plural policing and network governance: internal and external mechanisms in the governance of security",
+   "abstract": "",
+   "authors": [
+    "Charlotte Geertman",
+    "Richard Van Herzeele"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2708850",
+   "date": "2026-07-29",
+   "first_seen": "2026-07-29",
    "score": 0.0,
    "matched": [],
    "abstract_zh": ""
