@@ -1,6 +1,33 @@
 {
- "updated": "2026-07-29T22:45:53+00:00",
+ "updated": "2026-07-30T22:56:11+00:00",
  "papers": [
+  {
+   "doi": "10.1080/10967494.2026.2706796",
+   "title": "When officials disagree with AI: public perceptions of bureaucratic discretion in algorithmic governance",
+   "abstract": "While existing research has examined how officials interact with AI systems, less is known about how citizens evaluate the legitimacy of bureaucratic discretion in relation to AI recommendations. This study develops a theoretical framework that contrasts two competing sources of authority, bureaucratic professionalism and algorithmic rationality, and examines the moderating role of AI explainability. Using a vignette-based survey experiment in China within a public recruitment setting (N = 1,150), we find a pronounced asymmetry in public evaluations. Divergence from AI recommendations significantly reduces perceived legitimacy, whereas adherence has no significant effect. AI explainability modestly enhances legitimacy when officials follow AI recommendations. Exploratory analysis further suggests that greater familiarity with AI may strengthen the tendency to privilege algorithmic outputs. The findings suggest that AI establishes a new benchmark for legitimacy judgements, creating new challenges for the professional authority of public officials in the context of algorithmic governance.",
+   "authors": [
+    "Shangrui Wang",
+    "Yuanmeng Zhang",
+    "Zheng Liang"
+   ],
+   "journal": "International Public Management Journal",
+   "url": "https://doi.org/10.1080/10967494.2026.2706796",
+   "date": "2026-07-28",
+   "first_seen": "2026-07-28",
+   "score": 124.0,
+   "matched": [
+    "ai",
+    "algorithmic governance",
+    "algorithm",
+    "bureaucratic discretion",
+    "discretion",
+    "bureaucra",
+    "recruitment",
+    "survey experiment",
+    "vignette"
+   ],
+   "abstract_zh": "既有研究已探討官員如何與人工智慧（AI）系統互動，但對於公民如何評估官僚裁量權相對於AI建議的正當性，則知之甚少。本研究發展一套理論框架，對比官僚專業主義與演算法理性這兩種相互競爭的權威來源，並檢視AI可解釋性的調節作用。本研究在中國的公職招募情境中，運用情境式問卷實驗（N = 1,150），發現民眾評估存在顯著的不對稱性。偏離AI建議會顯著降低感知正當性，而遵循建議則無顯著影響。當官員遵循AI建議時，AI可解釋性會適度提升正當性。探索性分析進一步指出，對AI的熟悉度越高，可能越會強化偏好演算法產出的傾向。研究結果顯示，AI為正當性判斷建立了一個新的基準，在演算法治理的背景下，為公務員的專業權威帶來新的挑戰。"
+  },
   {
    "doi": "10.1093/jopart/muag018",
    "title": "Representative bureaucracy and administrative burdens: exploring the intersection of lived experience, gender, and professional qualities",
@@ -23,30 +50,6 @@
     "conjoint"
    ],
    "abstract_zh": "生活經驗代表性官僚理論透過探討種族、族裔和性別以外的特徵，擴展了代表性官僚的範疇。然而，學者尚未關注象徵性代表、交織性與專業素質之間的交織。本文運用生活經驗代表性官僚理論和交織性理論，以理解哪些身份（退伍軍人身份、性別和身心障礙身份）和專業素質，會影響客戶對於希望由哪位官僚協助他們處理行政負擔的偏好。我們分析了來自964名退伍軍人的聯合實驗數據，結果顯示生活經驗、交織性和專業素質都很重要，其中對於反應迅速且有能力的員工有最強烈的偏好。在基於身份的特徵方面，退伍軍人身份和身心障礙身份的代表性，在協助退伍軍人處理與醫療保健相關的行政負擔時，比性別代表性更為顯著。與我們基於交織性理論的預期一致，我們發現身心障礙退伍軍人偏好由具有身心障礙身份的退伍軍人事務部（VA）員工服務，這顯示了生活經驗和交織身份這種組合的重要性。我們發現進一步的證據顯示，交織性在男性受訪者中也很重要；在VA員工為跨性別者的情況下，退伍軍人身份的正面影響被抵銷，這揭示了反跨性別偏見在形塑男性退伍軍人偏好方面的重要性。探索性分析顯示，較弱的專業素質可以抵銷或逆轉共享身份的正面影響，而強大的專業素質則可以彌補代表性的缺失。本研究透過探討各種形式的生活經驗代表性所產生的象徵性代表效果，以及性別代表性和專業素質，並透過交織性視角檢視代表性官僚，對文獻有所貢獻。此外，我們的研究提供了一個新穎的檢視，將身心障礙身份視為一個重要且未被充分研究、並具有象徵性代表效果的身份。"
-  },
-  {
-   "doi": "10.1080/10967494.2026.2706796",
-   "title": "When officials disagree with AI: public perceptions of bureaucratic discretion in algorithmic governance",
-   "abstract": "",
-   "authors": [
-    "Shangrui Wang",
-    "Yuanmeng Zhang",
-    "Zheng Liang"
-   ],
-   "journal": "International Public Management Journal",
-   "url": "https://doi.org/10.1080/10967494.2026.2706796",
-   "date": "2026-07-28",
-   "first_seen": "2026-07-28",
-   "score": 62.0,
-   "matched": [
-    "ai",
-    "algorithmic governance",
-    "algorithm",
-    "bureaucratic discretion",
-    "discretion",
-    "bureaucra"
-   ],
-   "abstract_zh": ""
   },
   {
    "doi": "10.1080/10967494.2026.2674551",
@@ -317,6 +320,27 @@
    "abstract_zh": "對公務員的負面抨擊（指對公務員所表達的負面看法）是一種普遍現象。這種對公務員的負面抨擊是否會如理論預期般，降低公務員的績效？我們透過一項針對荷蘭公務員的預先註冊原創性問卷實驗來回答此問題。我們的主要結果顯示，對公務員的負面抨擊並未顯著降低公務員自我報告的整體績效。額外分析證實了我們的主要結果。我們將討論本研究結果如何為對公務員的負面抨擊及其在公共部門中可能產生的影響提供寶貴見解。"
   },
   {
+   "doi": "10.1080/10967494.2026.2691395",
+   "title": "Public service motivation and performance: a meta-analysis of the relationship and its organizational and cultural moderators",
+   "abstract": "Despite a substantial body of empirical work on the relationship between public service motivation (PSM) and performance, there has been considerable variation in the findings. This study identifies and codes 69 relevant studies, representing 237,058 respondents from 20 countries, and conducts a three-level meta-analysis to measure the average relationship between PSM and performance. The findings reveal that PSM positively affects performance (r = 0.203, 95% CI [0.164, 0.241]), but that the relationship between PSM and performance is moderated by the types of public organizations and the cultural context. Theoretical and policy implications are discussed, including the robust capacity of PSM to predict both individual and organizational outcomes. Furthermore, we highlight the necessity of accounting for cultural variations (e.g., individualism vs. collectivism) and advise public managers to create opportunities for employees to see their societal contributions.",
+   "authors": [
+    "Miaomiao Jiang",
+    "Wim Van den Noortgate",
+    "Manqian Cui",
+    "Jiayuan Li"
+   ],
+   "journal": "International Public Management Journal",
+   "url": "https://doi.org/10.1080/10967494.2026.2691395",
+   "date": "2026-07-28",
+   "first_seen": "2026-07-28",
+   "score": 21.0,
+   "matched": [
+    "public service motivation",
+    "psm"
+   ],
+   "abstract_zh": "儘管已有大量實證研究探討公共服務動機 (PSM) 與績效之間的關係，然其研究發現卻存在相當大的變異性。本研究篩選並編碼了69篇相關研究，這些研究涵蓋來自20個國家共237,058名受訪者，並採用三層次統合分析，以衡量公共服務動機與績效之間的平均關係。研究結果揭示，公共服務動機對績效具有正向影響 (r = 0.203, 95% 信賴區間 [0.164, 0.241])，然而，公共服務動機與績效之間的關係受到公共組織類型和文化脈絡的調節。本文探討了其理論與政策意涵，包括公共服務動機在預測個人與組織成果方面的穩健能力。此外，我們強調考量文化變異性 (例如，個人主義與集體主義) 的必要性，並建議公共部門管理者應創造機會，使員工能體認其對社會的貢獻。"
+  },
+  {
    "doi": "10.1177/0734371x261456288",
    "title": "Political Upheaval and Bureaucratic Behavior: Quasi-Experimental Evidence for Public Sector HRM",
    "abstract": "This study employs a quasi-experimental pre–post research design, exploiting a political uprising in Bangladesh as an exogenous shock to examine its effects on the organizational behaviors of public servants. Drawing on a unique pre- and post-uprising survey, the study categorizes bureaucratic behaviors into situational and dispositional responses. The findings show that political instability primarily disrupts context-dependent organizational dynamics (situational), while core individual values (dispositional) remain comparatively stable. Situational behaviors, such as job satisfaction and inter-service relationships, decline significantly following the regime change due to heightened uncertainty, role ambiguity, and job insecurity. In contrast, dispositional behaviors, such as Public Service Motivation (PSM) and Organizational Citizenship Behavior (OCB), remain resilient, suggesting that deeply internalized values are less vulnerable to political disruptions. By distinguishing between situational and dispositional behaviors, the study contributes to understanding bureaucratic resilience during political crises and offers practical implications for public-sector human resource management following political upheaval.",
@@ -395,6 +419,25 @@
     "civil servant"
    ],
    "abstract_zh": "負面公務員刻板印象在公共行政研究中常被描述為一個問題。本研究旨在探討市府員工自身對於這些刻板印象是否以及如何對公共部門工作和公共服務構成問題的看法。本研究透過半結構式訪談和反思性主題分析，並借鑒心理學中關於評估和應對刻板印象的文獻，歸納出兩大主題。首先，受訪者運用不同視角來理解和解釋這些刻板印象：他們將刻板印象視為 (1) 不應得且不真實的，(2) 無可避免且是工作的一部分，(3) 可理解的誤解，以及/或 (4) 真實的反映。儘管這些外部歸因有助於受訪者應對負面刻板印象，但它們也伴隨著可能影響其工作的盲點。其次，受訪者認為這些刻板印象對公民與政府關係、信任以及公民與國家互動的影響，大於對公務員本身的影響。我們討論了這對公共部門服務提供的意涵以及未來研究方向。"
+  },
+  {
+   "doi": "10.1080/14719037.2026.2708832",
+   "title": "Understanding red tape perceptions of street-level bureaucrats: a multilevel cross-country analysis",
+   "abstract": "",
+   "authors": [
+    "Qianhui Li"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2708832",
+   "date": "2026-07-30",
+   "first_seen": "2026-07-30",
+   "score": 18.0,
+   "matched": [
+    "street-level bureaucrat",
+    "street-level",
+    "bureaucra"
+   ],
+   "abstract_zh": ""
   },
   {
    "doi": "10.1093/jopart/muag015",
@@ -755,26 +798,6 @@
    "abstract_zh": "本研究探討資訊提供如何影響半公營部門非執行董事的判斷品質。依據行為科學的見解，本研究發展並檢驗了假說，採用混合方法設計，結合實驗法 (N = 101) 和團體訪談 (N = 34)。針對非執行董事的實驗，證實了資訊多樣性與判斷中的整合複雜度之間存在因果關係，而整合複雜度是判斷品質的核心指標。然而，團體訪談的結果也突顯了在不損害與執行長 (CEO) 之間信任關係的前提下，蒐集資訊所面臨的挑戰。最後，無論是資訊多樣性還是同步順序，都無法減輕確認偏誤。"
   },
   {
-   "doi": "10.1080/10967494.2026.2691395",
-   "title": "Public service motivation and performance: a meta-analysis of the relationship and its organizational and cultural moderators",
-   "abstract": "",
-   "authors": [
-    "Miaomiao Jiang",
-    "Wim Van den Noortgate",
-    "Manqian Cui",
-    "Jiayuan Li"
-   ],
-   "journal": "International Public Management Journal",
-   "url": "https://doi.org/10.1080/10967494.2026.2691395",
-   "date": "2026-07-28",
-   "first_seen": "2026-07-28",
-   "score": 8.0,
-   "matched": [
-    "public service motivation"
-   ],
-   "abstract_zh": ""
-  },
-  {
    "doi": "10.1177/02750740261457069",
    "title": "Experimental Evidence on the Effect of Decision Justification Strategies on Citizen Perceptions of Government",
    "abstract": "Abundant literature documents a range of factors that shape citizen perceptions of government. However, attention to how the justification of a policy decision shapes citizen perceptions remains limited. In this study, we consider how justifications influence citizen trust and legitimacy through a 2 × 2 × 2 pre-registered factorial survey experiment that manipulates justification strategy, policy position, and policy type. Results indicate that opposing positions reduce trust and legitimacy while the context of a highly polarized policy has the opposite effect. Emotive-based strategies decrease trust but do not affect legitimacy. Further, the effect of a supportive or opposing position varies by level of policy polarization.",
@@ -936,6 +959,42 @@
     "diversity"
    ],
    "abstract_zh": "本文提出一個微觀基礎觀點，探討協作治理群體如何以及在何種條件下產生轉型性成果。本文整合了協作、轉型與弔詭相關文獻，旨在提出三個核心命題。首先，為達成轉型性成果的協作構成一個獨特的弔詭脈絡，其中協作張力與轉型張力相互鑲嵌、相互強化，並為該過程的本質構成要素。其次，協作者感知與駕馭張力的認知情感能力（亦即弔詭心態）之多樣性，形塑了協作成果，其中弔詭心態的多樣性將提高轉型性成果的產生機率。第三，指定領導者的弔詭式領導行為，將進一步提高轉型性成果的產生機率。藉由突顯轉型導向協作的雙重挑戰——亦即激發張力以刺激變革，同時加以控制以維持協作——本文將個體層次的認知情感傾向與群體動態及系統層次成果連結起來，為公共行政領域的協作提供更廣泛的理論建構。"
+  },
+  {
+   "doi": "10.1111/puar.70168",
+   "title": "Bureaucracy Remade, Citizens Reconfigured: Accountability, Digitalization, and the Transformation of Public Administration",
+   "abstract": "",
+   "authors": [
+    "Habib Zafarullah"
+   ],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70168",
+   "date": "2026-07-30",
+   "first_seen": "2026-07-30",
+   "score": 6.0,
+   "matched": [
+    "bureaucra"
+   ],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.1111/puar.70163",
+   "title": "The Matthew Effect in American Generosity? Philanthropic Disparities and the Role of Government Support",
+   "abstract": "This study examines how economic, racial, and ecological dimensions of community disadvantage shape philanthropic donations to local human services nonprofit sectors, and whether government support mitigates these place‐based disparities. Using a novel county‐level panel dataset spanning 2000–2019, we combine descriptive analyses with mixed‐effects regression models to estimate both direct and moderating relationships. We find that per capita private donations are significantly lower in economically deprived communities and significantly higher in rural communities, while minority prominence shows no statistically significant association with private giving. While government funding crowds in private donations overall, its moderating role is context specific. Government support does not attenuate philanthropic disparities linked to economic deprivation or minority prominence, but it crowds in private donations more strongly in rural counties than in urban counties. These findings highlight the contingent role of government support and underscore the need for targeted policy strategies to address philanthropic disparities across communities.",
+   "authors": [
+    "Viviana Chiu Sik Wu",
+    "Ji Ma",
+    "Chao Guo"
+   ],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70163",
+   "date": "2026-07-30",
+   "first_seen": "2026-07-30",
+   "score": 6.0,
+   "matched": [
+    "minority"
+   ],
+   "abstract_zh": "本研究探討社區劣勢的經濟、種族和生態面向如何影響流向當地人類服務非營利部門的慈善捐款，以及政府支持是否能緩解這些地方性差異。本研究利用一份涵蓋2000年至2019年的創新縣級追蹤資料集，結合敘述性分析與混合效果迴歸模型，以估計直接與調節關係。我們發現，人均私人捐款在經濟匱乏社區中顯著較低，在鄉村社區中則顯著較高，而少數族裔集中度與私人捐款之間並無統計上的顯著關聯。儘管政府資金整體而言會引導私人捐款，但其調節作用具有情境特定性。政府支持並未減輕與經濟匱乏或少數族裔集中度相關的慈善捐款差異，但在鄉村縣市比在都市縣市更能強力引導私人捐款。這些發現突顯了政府支持的權變角色，並強調了制定有針對性的政策策略之必要性，以解決跨社區的慈善捐款差異。"
   },
   {
    "doi": "10.1093/jopart/muag013",
@@ -1776,7 +1835,7 @@
   {
    "doi": "10.1080/10967494.2026.2699232",
    "title": "Institutional context and performance-based procurement: Evidence from welfare services in three countries",
-   "abstract": "",
+   "abstract": "This study explores why similar performance-based procurement designs produce different outcomes across welfare service settings. Drawing on ten case studies from the United Kingdom, United States, and the Netherlands we develop a three-mechanism framework linking institutional context to procurement outcomes. We propose that outcomes are associated with three interacting factors: institutional distance (the structural gap between what a procurement model requires and what the existing environment provides), institutional logic alignment (the fit between market-based mechanisms and prevailing normative expectations), and organizational learning capacity (the ability of implementing organizations to adapt over time). We apply this framework to two procurement instruments: Most Economically Advantageous Tender (MEAT) and Payment by Results (PbR). Our case analysis suggests that procurement models building on existing institutional infrastructure and aligning with prevailing normative logics tend to produce more stable outcomes, while those requiring departures from established norms are more frequently associated with cream-skimming, market concentration, and implementation drift. While exploratory, these findings suggest that procurement effectiveness may depend less on the choice between MEAT and PbR than on how carefully either instrument is calibrated to its institutional environment.",
    "authors": [
     "Yaniv Reingewertz",
     "Adi Arad"
@@ -1787,12 +1846,12 @@
    "first_seen": "2026-07-28",
    "score": 0.0,
    "matched": [],
-   "abstract_zh": ""
+   "abstract_zh": "本研究旨在探討為何相似的績效導向採購設計，會在不同福利服務場域產生不同的結果。本研究以英國、美國和荷蘭的十個案例研究為基礎，發展出一個連結制度脈絡與採購結果的三機制框架。我們提出，採購結果與三個相互作用的因素相關：制度距離（採購模式所需與現有環境所能提供之間的結構性差距）、制度邏輯一致性（市場導向機制與主流規範期望之間的契合度），以及組織學習能力（執行組織隨時間推移進行調適的能力）。我們將此框架應用於兩種採購工具：最具經濟效益標案（MEAT）和依成果付費（PbR）。我們的案例分析顯示，建立在現有制度基礎設施之上並與主流規範邏輯相符的採購模式，傾向於產生更穩定的結果；而那些需要偏離既定規範的模式，則更常與篩選服務對象、市場集中化和執行偏差相關聯。儘管本研究為探索性質，這些發現指出，採購效益可能較不取決於MEAT和PbR之間的選擇，而更取決於這兩種工具如何仔細地校準其制度環境。"
   },
   {
    "doi": "10.1080/14719037.2026.2708850",
    "title": "Rethinking plural policing and network governance: internal and external mechanisms in the governance of security",
-   "abstract": "",
+   "abstract": "The governance of security has been studied in both criminology and public administration research, but mainly within their separate disciplines. This integrative literature review argues that governance of security research would benefit from integrating insights from both disciplines, specifically the literatures on plural policing and network governance. This results in a reconceptualization of the governance of security that distinguishes between internal and external governance mechanisms. This distinction allows for a more precise positioning of researchers in the study of governance processes and enables more specific operationalization of the governance of security to support further empirical research.",
    "authors": [
     "Charlotte Geertman",
     "Richard Van Herzeele"
@@ -1801,6 +1860,25 @@
    "url": "https://doi.org/10.1080/14719037.2026.2708850",
    "date": "2026-07-29",
    "first_seen": "2026-07-29",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "安全治理在犯罪學和公共行政研究中均有探討，但主要是在各自獨立的學科範疇內進行。本整合性文獻回顧主張，安全治理研究若能整合這兩個學科的洞見，特別是多元警政和網絡治理的相關文獻，將會受益良多。本文因此對安全治理進行重新概念化，區分了內部與外部治理機制。這種區分有助於研究者在治理過程研究中更精確地定位，並能更具體地操作化安全治理，以支持進一步的實證研究。"
+  },
+  {
+   "doi": "10.1080/14719037.2026.2700567",
+   "title": "Social enterprises in the shadow of the State",
+   "abstract": "",
+   "authors": [
+    "Marafioti Elisabetta",
+    "Alessandro Sancino",
+    "Fulvio Scognamiglio",
+    "Francesca Calò",
+    "Luigi Maria Sicca"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2700567",
+   "date": "2026-07-30",
+   "first_seen": "2026-07-30",
    "score": 0.0,
    "matched": [],
    "abstract_zh": ""
