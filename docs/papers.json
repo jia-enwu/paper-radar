@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-30T22:56:11+00:00",
+ "updated": "2026-07-31T22:49:54+00:00",
  "papers": [
   {
    "doi": "10.1080/10967494.2026.2706796",
@@ -214,6 +214,25 @@
    "abstract_zh": "街頭官僚（SLBs）經常在遵守正式規定與幫助公民之間面臨兩難，尤其是在執法情境中。儘管先前關於公共服務的研究主要關注親社會違規（PSRB），本研究將親公民違規（PCRB）概念化為街頭官僚為了公民利益而故意違反規定，此類違規行為在執法情境中會帶來專業和制度風險。本研究採用情境模擬問卷實驗，對733名中國交通警察進行調查，檢視了影響親公民違規的因素。這些警察在由正式官僚規則和地方回應性共同塑造的雙重領導體系下運作。研究結果揭示了三個主要發現。首先，相較於非正式的口頭指令，正式化的書面規定顯著抑制了親公民違規。其次，來自同儕的親公民違規線索顯著增加了警察為幫助公民而違規的意願。第三，這些同儕影響調節了規則正式化對親公民違規的影響，削弱了其抑制作用。使用替代測量的穩健性檢定證實了這些結果。透過將親公民違規引入執法情境研究，本研究突顯了影響街頭官僚決策的因素。"
   },
   {
+   "doi": "10.1080/14719037.2026.2708832",
+   "title": "Understanding red tape perceptions of street-level bureaucrats: a multilevel cross-country analysis",
+   "abstract": "Despite extensive research on red tape’s negative consequences, its antecedents remain underexplored. Building on the psychological process model, this article investigates antecedents of street-level bureaucrats’ red tape perceptions across the micro, meso, and macro levels. Using a dataset of 90,480 teachers across 44 countries, results show that antecedents across all levels relate to teachers’ red tape perceptions. Specifically, red tape perceptions are weaker among teachers having a growth mindset, working in schools with a wide span of control, and living in low uncertainty avoidance and individualism cultures. Across these antecedents, the cultural contexts are particularly important.",
+   "authors": [
+    "Qianhui Li"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2708832",
+   "date": "2026-07-30",
+   "first_seen": "2026-07-30",
+   "score": 27.0,
+   "matched": [
+    "street-level bureaucrat",
+    "street-level",
+    "bureaucra"
+   ],
+   "abstract_zh": "儘管繁文縟節的負面後果已獲廣泛研究，其前因卻仍未充分探討。本文立基於心理歷程模型，探討基層官僚對繁文縟節認知的前因，涵蓋微觀、中觀與宏觀層次。本文採用來自44個國家共90,480名教師的資料集，結果顯示各層次的前因皆與教師對繁文縟節的認知相關。具體而言，在具有成長型思維、於控制幅度較廣的學校工作，以及生活在低不確定性規避和個人主義文化中的教師，其對繁文縟節的認知較弱。在這些前因中，文化脈絡尤為重要。"
+  },
+  {
    "doi": "10.1080/14719037.2026.2685255",
    "title": "Negativity trumps source: exploring the perceptions of AI-advice among public officials",
    "abstract": "The advancement of artificial intelligence (AI) may renew our understanding of evidence-based policymaking. Grounded in motivated reasoning and negativity bias literature, this study adopts a 2 × 2 survey experiment to explore how advice source and valence affect public officials’ trust and policy preference. Findings demonstrate that advice containing negative result exerts disproportionate influence. Moreover, when advice aligns with public officials’ prior policy beliefs, negativity bias amplifies their preference. These findings highlight how cognitive biases impede the public officials’ interpretation to policy advice.",
@@ -419,25 +438,6 @@
     "civil servant"
    ],
    "abstract_zh": "負面公務員刻板印象在公共行政研究中常被描述為一個問題。本研究旨在探討市府員工自身對於這些刻板印象是否以及如何對公共部門工作和公共服務構成問題的看法。本研究透過半結構式訪談和反思性主題分析，並借鑒心理學中關於評估和應對刻板印象的文獻，歸納出兩大主題。首先，受訪者運用不同視角來理解和解釋這些刻板印象：他們將刻板印象視為 (1) 不應得且不真實的，(2) 無可避免且是工作的一部分，(3) 可理解的誤解，以及/或 (4) 真實的反映。儘管這些外部歸因有助於受訪者應對負面刻板印象，但它們也伴隨著可能影響其工作的盲點。其次，受訪者認為這些刻板印象對公民與政府關係、信任以及公民與國家互動的影響，大於對公務員本身的影響。我們討論了這對公共部門服務提供的意涵以及未來研究方向。"
-  },
-  {
-   "doi": "10.1080/14719037.2026.2708832",
-   "title": "Understanding red tape perceptions of street-level bureaucrats: a multilevel cross-country analysis",
-   "abstract": "",
-   "authors": [
-    "Qianhui Li"
-   ],
-   "journal": "Public Management Review",
-   "url": "https://doi.org/10.1080/14719037.2026.2708832",
-   "date": "2026-07-30",
-   "first_seen": "2026-07-30",
-   "score": 18.0,
-   "matched": [
-    "street-level bureaucrat",
-    "street-level",
-    "bureaucra"
-   ],
-   "abstract_zh": ""
   },
   {
    "doi": "10.1093/jopart/muag015",
@@ -798,6 +798,23 @@
    "abstract_zh": "本研究探討資訊提供如何影響半公營部門非執行董事的判斷品質。依據行為科學的見解，本研究發展並檢驗了假說，採用混合方法設計，結合實驗法 (N = 101) 和團體訪談 (N = 34)。針對非執行董事的實驗，證實了資訊多樣性與判斷中的整合複雜度之間存在因果關係，而整合複雜度是判斷品質的核心指標。然而，團體訪談的結果也突顯了在不損害與執行長 (CEO) 之間信任關係的前提下，蒐集資訊所面臨的挑戰。最後，無論是資訊多樣性還是同步順序，都無法減輕確認偏誤。"
   },
   {
+   "doi": "10.1111/puar.70168",
+   "title": "Bureaucracy Remade, Citizens Reconfigured: Accountability, Digitalization, and the Transformation of Public Administration",
+   "abstract": "Something quietly consequential has been unfolding within democratic institutions over the past 40 years, though it rarely announces itself in obvious ways.Two recent books, emerging from different corners of public administration scholarship, circle this transformation from distinct vantage points.Karl Löfgren and Patrik Hall's The New Public Bureaucracy, alongside the edited volume Digital Co-Production of Public Services: Citizens, Challenges and Cases, led by Taco Brandsen, Ina Radtke, A. Paula Rodriguez Müller, and Trui Steen, were not conceived as companions.They speak in different voices and address partially overlapping audiences.Yet, when read side by side, something sparks between them.The tension is not accidental.It is revealing.",
+   "authors": [
+    "Habib Zafarullah"
+   ],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70168",
+   "date": "2026-07-30",
+   "first_seen": "2026-07-30",
+   "score": 8.0,
+   "matched": [
+    "bureaucra"
+   ],
+   "abstract_zh": "過去四十年來，民主體制內悄然發生著深具影響力的變化，儘管這些變化鮮少以顯而易見的方式呈現。兩本近期出版的書籍，分別來自公共行政學術領域的不同面向，從各自獨特的視角探討這項轉變。Karl Löfgren 和 Patrik Hall 合著的《新公共官僚體制》，以及由 Taco Brandsen、Ina Radtke、A. Paula Rodriguez Müller 和 Trui Steen 主編的合輯《公共服務數位協同生產：公民、挑戰與案例》，兩者並非被構思為配套作品。它們的論述語調各異，並面向部分重疊的讀者群。然而，當兩者並列閱讀時，卻能激盪出一些火花。這份張力並非偶然，它深具啟發性。"
+  },
+  {
    "doi": "10.1177/02750740261457069",
    "title": "Experimental Evidence on the Effect of Decision Justification Strategies on Citizen Perceptions of Government",
    "abstract": "Abundant literature documents a range of factors that shape citizen perceptions of government. However, attention to how the justification of a policy decision shapes citizen perceptions remains limited. In this study, we consider how justifications influence citizen trust and legitimacy through a 2 × 2 × 2 pre-registered factorial survey experiment that manipulates justification strategy, policy position, and policy type. Results indicate that opposing positions reduce trust and legitimacy while the context of a highly polarized policy has the opposite effect. Emotive-based strategies decrease trust but do not affect legitimacy. Further, the effect of a supportive or opposing position varies by level of policy polarization.",
@@ -959,23 +976,6 @@
     "diversity"
    ],
    "abstract_zh": "本文提出一個微觀基礎觀點，探討協作治理群體如何以及在何種條件下產生轉型性成果。本文整合了協作、轉型與弔詭相關文獻，旨在提出三個核心命題。首先，為達成轉型性成果的協作構成一個獨特的弔詭脈絡，其中協作張力與轉型張力相互鑲嵌、相互強化，並為該過程的本質構成要素。其次，協作者感知與駕馭張力的認知情感能力（亦即弔詭心態）之多樣性，形塑了協作成果，其中弔詭心態的多樣性將提高轉型性成果的產生機率。第三，指定領導者的弔詭式領導行為，將進一步提高轉型性成果的產生機率。藉由突顯轉型導向協作的雙重挑戰——亦即激發張力以刺激變革，同時加以控制以維持協作——本文將個體層次的認知情感傾向與群體動態及系統層次成果連結起來，為公共行政領域的協作提供更廣泛的理論建構。"
-  },
-  {
-   "doi": "10.1111/puar.70168",
-   "title": "Bureaucracy Remade, Citizens Reconfigured: Accountability, Digitalization, and the Transformation of Public Administration",
-   "abstract": "",
-   "authors": [
-    "Habib Zafarullah"
-   ],
-   "journal": "Public Administration Review",
-   "url": "https://doi.org/10.1111/puar.70168",
-   "date": "2026-07-30",
-   "first_seen": "2026-07-30",
-   "score": 6.0,
-   "matched": [
-    "bureaucra"
-   ],
-   "abstract_zh": ""
   },
   {
    "doi": "10.1111/puar.70163",
@@ -1315,6 +1315,22 @@
    "score": 2.0,
    "matched": [],
    "abstract_zh": ""
+  },
+  {
+   "doi": "10.1111/puar.70166",
+   "title": "The Rise of Midocracy: How NPM and Post‐ NPM Reform Ideas Recombine in Contemporary Public Organizations",
+   "abstract": "This paper introduces and conceptualizes midocracy as an emergent organizational form in the public sector, characterized by the growth and dominance of a professionalized administrative middle layer. The study argues that midocracy draws on elements associated with both New Public Management (NPM) and post‐NPM reform agendas. While administration is essential for coordination, we show how its unchecked expansion can lead to self‐reinforcing dynamics that distance governance from core operations. Midocracy, we contend, reflects a shift from service delivery to symbolic value signaling, strategic abstraction, and polycentric goal‐setting. Our contribution is both conceptual and diagnostic, offering midocracy as a framework for understanding contemporary administrative expansion and its implications for public sector legitimacy and performance. Finally, we relate and critically examine different explanatory accounts of administrative expansion, highlighting how they interact within the dynamics of midocracy.",
+   "authors": [
+    "Gustaf Kastberg Weichselberger",
+    "Johan Alvehus"
+   ],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70166",
+   "date": "2026-07-31",
+   "first_seen": "2026-07-31",
+   "score": 2.0,
+   "matched": [],
+   "abstract_zh": "本文介紹並將「中層行政體制」（midocracy）概念化為公部門一種新興的組織形式，其特點是專業化的行政中介層的成長與主導地位。本研究認為，中層行政體制汲取了與新公共管理（NPM）和後NPM改革議程相關的要素。儘管行政管理對於協調至關重要，但我們指出其不受限制的擴張可能導致自我強化的動態，使治理與核心業務脫節。我們認為，中層行政體制反映了從服務提供轉向象徵性價值傳遞、策略性抽象化以及多中心目標設定的轉變。本研究的貢獻兼具概念性與診斷性，提出中層行政體制作為理解當代行政擴張及其對公部門合法性與績效意涵的分析框架。最後，本文關聯並批判性地審視行政擴張的不同解釋性論述，闡明它們如何在中層行政體制的動態中相互作用。"
   },
   {
    "doi": "10.1080/14719037.2026.2685252",
@@ -1867,7 +1883,7 @@
   {
    "doi": "10.1080/14719037.2026.2700567",
    "title": "Social enterprises in the shadow of the State",
-   "abstract": "",
+   "abstract": "Despite growing interest in social enterprises and public value creation, little attention has been paid to how social enterprises create public value in contexts of state retrenchment and institutional voids. This paper examines FOQUS (FOndazione QUartieri Spagnoli) in Naples through a longitudinal qualitative case study. We identify three mechanisms underpinning public value creation—strategic flexibility, multi-stakeholder ecosystem governance, and storytelling—and four related challenges. Findings show that social enterprises create public value not only through collaboration with public actors but also through autonomous action in the shadow of the State, revealing tensions that characterise public value creation in institutional weak contexts.",
    "authors": [
     "Marafioti Elisabetta",
     "Alessandro Sancino",
@@ -1879,6 +1895,23 @@
    "url": "https://doi.org/10.1080/14719037.2026.2700567",
    "date": "2026-07-30",
    "first_seen": "2026-07-30",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "儘管對社會企業和公共價值創造的興趣日益增長，卻鮮少有研究關注社會企業如何在國家緊縮和制度空缺的背景下創造公共價值。本文透過一項縱向質性個案研究，檢視那不勒斯的FOQUS（FOndazione QUartieri Spagnoli）。我們歸納出支撐公共價值創造的三種機制——策略彈性、多元利害關係人生態系統治理和敘事——以及四項相關挑戰。研究結果顯示，社會企業不僅透過與公共行動者的協作來創造公共價值，也透過在國家權力陰影下的自主行動來達成，揭示了制度脆弱背景下公共價值創造所特有的張力。"
+  },
+  {
+   "doi": "10.1080/14719037.2026.2710762",
+   "title": "The balancing act of public service spaces: understanding service ecosystems and advancing the public service logic",
+   "abstract": "",
+   "authors": [
+    "Hanna Jacqueline Hellgren",
+    "Erik Eriksson",
+    "Andreas Hellström"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2710762",
+   "date": "2026-07-31",
+   "first_seen": "2026-07-31",
    "score": 0.0,
    "matched": [],
    "abstract_zh": ""
