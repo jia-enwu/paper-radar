@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-31T22:49:54+00:00",
+ "updated": "2026-08-01T22:43:15+00:00",
  "papers": [
   {
    "doi": "10.1080/10967494.2026.2706796",
@@ -116,7 +116,7 @@
   },
   {
    "doi": "10.1093/jopart/muag016",
-   "title": "Bureaucratic Turnover Under New Governments: The Moderating Effect of Bureaucratic and Political Layering",
+   "title": "Bureaucratic turnover under new governments: the moderating effect of bureaucratic and political layering",
    "abstract": "Politically motivated personnel turnover affects government bureaucracy’s legitimacy and performance. To understand the conditions of meritocracy, the article explores how variability in hierarchy moderates the effect of government transitions on bureaucratic turnover. Event history analysis of the careers of 948 Norwegian senior bureaucrats (1884–2024) reveals that the organizational layers separating bureaucrats from ministers moderate the effect of government change differently depending on the layer’s political or bureaucratic nature. Bureaucrats directly exposed to political appointees experience heightened turnover during government transitions, while the turnover of bureaucrats separated from appointees by an intervening layer of career employees is unaffected by government transitions. Further analysis of different time periods and senior bureaucratic roles shows that layering alone does not fully explain political influence on bureaucratic careers. Positions must be hierarchically exposed (lacking intervening bureaucratic layers), functionally politicized (involved in tasks that are strategically important to political leadership), and subject to administrative politicization (by being under the purview of political appointees) to be vulnerable to politically motivated turnover. The article advances scholarship on the politicization of senior bureaucrats in merit bureaucracies by examining 140 years of politically induced turnover through a theory of how layering moderates political dynamics.",
    "authors": [
     "Bjørn Mo Forum"
@@ -927,8 +927,8 @@
   },
   {
    "doi": "10.1093/jopart/muag019",
-   "title": "The Voice of the Voiceless: Refugees’ Perceptions of Participation Under Constraint",
-   "abstract": "Refugee camps have evolved into durable governance sites characterized by centralized authority and monopolistic service environments where residents lack ‘exit’ options. While public administration scholarship extensively theorizes the benefits of participation, research often assumes a baseline of stable, democratic institutions, leaving ‘participation under constraint’ underdeveloped. This study examines whether ‘thin’ participation—awareness of feedback mechanisms and consultative outreach—is associated with refugees’ perceived outcomes at individual, community, and institutional levels. Using household-level survey data from 876 households across 33 refugee sites Cox’s Bazar, Bangladesh, we find that both latent awareness and consultation are significantly associated with improved subjective well-being. Our findings reveal a tiered impact: passive awareness correlates with community and institutional gains, while the relational intensity of consultation is required for individual-level improvements. These results suggest that even minimal engagement functions as a vital generative mechanism for institutional legitimacy in high-dependency, non-democratic environments.",
+   "title": "The voice of the voiceless: refugees’ perceptions of participation under constraint",
+   "abstract": "Refugee camps have evolved into durable governance sites characterized by centralized authority and monopolistic service environments where residents lack “exit” options. While public administration scholarship extensively theorizes the benefits of participation, research often assumes a baseline of stable, democratic institutions, leaving “participation under constraint” underdeveloped. This study examines whether “thin” participation—awareness of feedback mechanisms and consultative outreach—is associated with refugees’ perceived outcomes at individual, community, and institutional levels. Using household-level survey data from 876 households across thirty-three refugee sites in Cox’s Bazar, Bangladesh, we find that both latent awareness and consultation are significantly associated with improved subjective well-being. Our findings reveal a tiered impact: passive awareness correlates with community and institutional gains, while the relational intensity of consultation is required for individual-level improvements. These results suggest that even minimal engagement functions as a vital generative mechanism for institutional legitimacy in high-dependency, non-democratic environments.",
    "authors": [
     "Khaldoun AbouAssi",
     "Corbin M Walls"
@@ -1110,6 +1110,42 @@
    "abstract_zh": "大量研究顯示，遵循要求（行政繁瑣與規範）會對個人造成學習、遵循與心理成本。由於成本被概念化為主觀的，大多數研究仰賴自我報告測量。本文透過提問「除了遵循要求之外的因素在多大程度上形塑行政負擔的主觀經驗？」來檢視該方法。我們主張，一個不同於遵循要求的因素，是由公共組織所分配結果的有利性。我們將結果有利性整合到行政負擔框架中，提出 (1) 有利結果會減少主觀感受到的行政負擔，以及 (2) 有利結果會調節遵循要求對行政負擔經驗的影響。我們在兩項研究中檢驗這些預期：一項是對德國生活事件調查（n ≈ 4,000）中真實世界互動的分析，以及一項採用隨機化要求與結果的丹麥調查實驗（n = 1,624）。兩項研究均顯示，有利結果會減少主觀感受到的行政負擔，這引發了關於自我報告的學習、遵循和心理成本在多大程度上反映了對行政要求的反應，而不是公民與國家互動的其他方面的問題。"
   },
   {
+   "doi": "10.1111/puar.70177",
+   "title": "Consolidating Liberal Democracy From Within A Theory of Public Institutional Leadership",
+   "abstract": "Recent developments in also established democracies have made clear that public administration and management research alike have neglected giving scholarly attention to public organizations as institutions. Drawing upon research on leadership of institutions and leadership in public organizations we suggest a theory of public institutional leadership . Public institutional leadership reconnects public management with democracy by suggesting three central dimensions of leadership behaviors that instill and sustain liberal democratic values in public organizations. These behaviors include articulating and reaffirming democratic values through top‐down vision‐setting; building “character” bottom‐up through role modeling and fostering psychological safety to enable dialogue and deliberation around these values as well as demonstrating constrained responsiveness to political principals relative to those values enabled by the cultivation of bureaucratic autonomy. Although the necessity of such behaviors is made salient by rising populism and democratic backsliding, their relevance extends to public management situated in liberal democracies in general.",
+   "authors": [
+    "Sandra Groeneveld",
+    "Heidi Houlberg Salomonsen"
+   ],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70177",
+   "date": "2026-08-01",
+   "first_seen": "2026-08-01",
+   "score": 4.0,
+   "matched": [
+    "bureaucra"
+   ],
+   "abstract_zh": "既有民主國家近來的發展清楚表明，公共行政與管理研究皆忽略了對作為制度的公共組織進行學術探討。本文綜合制度領導與公共組織中領導的研究，提出一套公共制度領導理論。公共制度領導藉由提出領導行為的三個核心面向，將公共管理與民主重新連結，這些行為旨在公共組織中灌輸並維繫自由民主價值。這些行為包括：透過由上而下的願景設定，闡明並重申民主價值；透過樹立榜樣並促進心理安全，由下而上地建立「品格」，以促成圍繞這些價值的對話與審議；以及藉由培養官僚自主性，展現相對於這些價值，對政治主事者受限的回應性。儘管這些行為的必要性因民粹主義興起與民主倒退而日益凸顯，但其適用性廣泛擴及自由民主國家中的公共管理。"
+  },
+  {
+   "doi": "10.1080/14719037.2026.2711106",
+   "title": "Accountability systems and coping in the bureaucratic environment",
+   "abstract": "",
+   "authors": [
+    "Christine H. Roch",
+    "Ellen V. Rubin"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2711106",
+   "date": "2026-08-01",
+   "first_seen": "2026-08-01",
+   "score": 4.0,
+   "matched": [
+    "bureaucra"
+   ],
+   "abstract_zh": ""
+  },
+  {
    "doi": "10.1080/10967494.2026.2691390",
    "title": "Chainsaw or scalpel: which leads to more blame for a service failure when leaders downsize government?",
    "abstract": "The Trump administration’s DOGE attempted to radically downsize U.S. federal agencies. This study aims to clarify whether government leaders are blamed more for service failure when they employ either a DOGE-like (chainsaw) method or a more measured (scalpel) approach. A preregistered experiment was conducted in which respondents were randomly assigned to one of 6 vignettes that presented information about downsizing approaches, a public service failure, and the person or entity directly responsible for the failure. This study produced four main findings. First, people blamed city leaders more for the service failure when they knew a chainsaw approach was used to downsize government, compared to when they were given no information about the approach. Second, people blamed city leaders more when a chainsaw approach was used than when a scalpel approach was used. Third, simply knowing that city leaders had used a downsizing approach was not enough to shift blame away from the frontline employee toward city leaders. Fourth, blame shifted from the frontline employee to city leaders when people learned that a chainsaw approach—rather than a scalpel approach—had been used. The implications for research and practice are that a chainsaw approach is undesirable.",
@@ -1270,8 +1306,8 @@
   },
   {
    "doi": "10.1093/jopart/muag022",
-   "title": "Striking multiple balances in cross-sector collaborations: How leaders navigate institutional complexity with interdependent leadership behaviors",
-   "abstract": "In cross-sector collaborations (CSCs), leaders must navigate the complex and often conflicting demands of the public, business, and nonprofit sectors. This study explores how leaders manage this institutional complexity through a multi-level framework, drawing on a case study of a tri-sector partnership developing technology for disaster management. Based on evidence from 27 interviews, observations, and documentary material, we identify the leadership repertoire and, as our core contribution, uncover four distinct types of interdependencies between these behaviors: enabling, substituting, stabilizing, and inhibiting. Our findings reveal that leadership in CSCs goes beyond adopting a single style; rather, it requires a strategic orchestration of how different behaviors interact. We identify two overarching strategies (selective targeting and sequential switching) that leaders use to combine complementary behaviors while preventing them from undermining each other. By focusing on leaders’ micro-level agency in response to macro-level sector differences, this study provides a clearer understanding of how interdependent leadership behaviors converge into what we theorize as institutional leadership in CSCs.",
+   "title": "Striking multiple balances in cross-sector collaborations: how leaders navigate institutional complexity with interdependent leadership behaviors",
+   "abstract": "In cross-sector collaborations, leaders must navigate the complex and often conflicting demands of the public, business, and nonprofit sectors. This study explores how leaders manage this institutional complexity through a multilevel framework, drawing on a case study of a tri-sector partnership developing technology for disaster management. Based on evidence from 27 interviews, observations, and documentary material, we identify the leadership repertoire and, as our core contribution, uncover four distinct types of interdependencies between these behaviors: enabling, substituting, stabilizing, and inhibiting. Our findings reveal that leadership in cross-sector collaborations goes beyond adopting a single style; rather, it requires a strategic orchestration of how different behaviors interact. We identify two overarching strategies (selective targeting and sequential switching) that leaders use to combine complementary behaviors while preventing them from undermining each other. By focusing on leaders’ microlevel agency in response to macrolevel sector differences, this study provides a clearer understanding of how interdependent leadership behaviors converge into what we theorize as institutional leadership in CSCs.",
    "authors": [
     "Sandra Henninger",
     "Rick Vogel"
@@ -1331,6 +1367,24 @@
    "score": 2.0,
    "matched": [],
    "abstract_zh": "本文介紹並將「中層行政體制」（midocracy）概念化為公部門一種新興的組織形式，其特點是專業化的行政中介層的成長與主導地位。本研究認為，中層行政體制汲取了與新公共管理（NPM）和後NPM改革議程相關的要素。儘管行政管理對於協調至關重要，但我們指出其不受限制的擴張可能導致自我強化的動態，使治理與核心業務脫節。我們認為，中層行政體制反映了從服務提供轉向象徵性價值傳遞、策略性抽象化以及多中心目標設定的轉變。本研究的貢獻兼具概念性與診斷性，提出中層行政體制作為理解當代行政擴張及其對公部門合法性與績效意涵的分析框架。最後，本文關聯並批判性地審視行政擴張的不同解釋性論述，闡明它們如何在中層行政體制的動態中相互作用。"
+  },
+  {
+   "doi": "10.1111/puar.70167",
+   "title": "Social Capital and Policy Compliance in a Polarized Democracy: A Necessary Condition Analysis of COVID Vaccination Rates Across US Counties",
+   "abstract": "Policy compliance, the extent to which citizens adhere to government policies, remains a central test of democratic governance, especially during the COVID‐19 pandemic in the United States. This study examines how distinct forms of social capital—relational, structural (bonding versus bridging), cognitive, and vertical linking—serve as critical preconditions for COVID‐19 vaccination uptake in 2021. Using necessary condition analysis (NCA), we uncover nuanced and context‐specific impacts of distinct social capital on policy compliance. NCA also identifies threshold levels of various social capital required to achieve specific vaccination outcomes, yielding actionable diagnostics for policymakers and administrators. Strategies to raise compliance must align with local social capital configurations, prioritizing bridging in Republican‐leaning counties and relational support and careful use of bridging in Democratic‐leaning counties. The study advances civil society research by pinpointing the civic preconditions under which democratic institutions can function effectively in a polarized environment.",
+   "authors": [
+    "Bin Chen",
+    "Zhiwei Zhang",
+    "Gao Liu",
+    "Kun Huang"
+   ],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70167",
+   "date": "2026-08-01",
+   "first_seen": "2026-08-01",
+   "score": 2.0,
+   "matched": [],
+   "abstract_zh": "政策遵循，即公民遵守政府政策的程度，仍是民主治理的核心考驗，尤其是在美國的COVID-19疫情期間。本研究探討不同形式的社會資本——關係型、結構型（連結型與橋接型）、認知型和垂直連結型——如何作為2021年COVID-19疫苗接種率的關鍵先決條件。運用必要條件分析（NCA），我們揭示了不同社會資本對政策遵循的細緻入微且具脈絡特異性的影響。NCA也識別出實現特定疫苗接種成果所需的各種社會資本閾值水平，為政策制定者和行政人員提供具體可行的診斷。提高遵循度的策略必須與當地社會資本配置相符，在共和黨傾向縣優先考慮橋接型社會資本，而在民主黨傾向縣則優先考慮關係型支持和謹慎使用橋接型社會資本。本研究藉由精確指出在兩極分化環境中民主制度能夠有效運作的公民先決條件，從而推進了公民社會研究。"
   },
   {
    "doi": "10.1080/14719037.2026.2685252",
@@ -1902,7 +1956,7 @@
   {
    "doi": "10.1080/14719037.2026.2710762",
    "title": "The balancing act of public service spaces: understanding service ecosystems and advancing the public service logic",
-   "abstract": "",
+   "abstract": "This article advances Public Service Logic (PSL) by examining how spaces are constructed and navigated within service ecosystems. In this study, ‘space’ is understood as the relational configurations through which actors coordinate, negotiate, and enable action. Based on a study of three citizen-led cross-sector support centres for cancer patients in Sweden, the findings show that the centres address unmet needs, facilitate collaboration, and navigate boundary issues with traditional patient associations. By integrating a spatial perspective into PSL, the study introduces the concept of Public Service Space to explain how cross-sector collaborations sustain service ecosystems through relational arrangements, enabling welfare provision.",
    "authors": [
     "Hanna Jacqueline Hellgren",
     "Erik Eriksson",
@@ -1914,7 +1968,7 @@
    "first_seen": "2026-07-31",
    "score": 0.0,
    "matched": [],
-   "abstract_zh": ""
+   "abstract_zh": "本文透過檢視空間如何在服務生態系統中被建構與運用，以推進公共服務邏輯 (PSL)。在本研究中，「空間」被理解為行動者藉此協調、協商並促成行動的關係配置。本研究以瑞典三個由公民主導、為癌症病患提供服務的跨部門支持中心為研究對象，研究結果顯示，這些中心解決了未滿足的需求，促進了合作，並處理了與傳統病友協會之間的邊界議題。透過將空間視角整合至公共服務邏輯 (PSL) 中，本研究引入了「公共服務空間」的概念，以解釋跨部門合作如何透過關係安排來維持服務生態系統，並促成福利提供。"
   }
  ]
 }
