@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-01T22:43:15+00:00",
+ "updated": "2026-08-02T22:43:34+00:00",
  "papers": [
   {
    "doi": "10.1080/10967494.2026.2706796",
@@ -113,6 +113,28 @@
     "psm"
    ],
    "abstract_zh": "國家政府實現永續發展目標（SDGs）的主要障礙之一，是公務人員對SDGs重要性缺乏認知，以及對如何將其組織目標與SDGs連結缺乏清晰理解。本文探討公務人員對SDGs執行績效的認知程度，藉由闡明其公共服務動機（PSM）和組織承諾所扮演的角色。我們假設，具有較高公共服務動機和組織承諾的公務人員，將能更清楚地認知SDGs執行績效，顯示在實現SDGs的實際績效與其認知之間存在較小的差距。本研究利用對韓國2,161名公務人員進行調查的原始數據，並結合聯合國永續發展解決方案網絡（SDSN）的績效數據，我們的分析結果強烈支持了我們的預測。當公共服務動機和組織承諾分別從觀察到的中位數增加到最大值時，公務人員對SDGs執行績效的認知程度分別提高1.43倍和1.5倍。我們的研究結果具有重要啟示：強化公共服務動機和組織承諾，可以在提高公務人員對SDGs執行績效的認知，並最終促進SDGs的實現方面，發揮核心作用。"
+  },
+  {
+   "doi": "10.1080/14719037.2026.2711106",
+   "title": "Accountability systems and coping in the bureaucratic environment",
+   "abstract": "Advocates for strengthening accountability in government assume stronger consequences will change bureaucratic behavior. This study considers whether more strict accountability regimes change bureaucrats’ discretionary efforts. We consider this puzzle using a conjoint experiment with teachers in New York State. Our results show street-level bureaucrats in high accountability settings prioritize low-performing clients, while street-level bureaucrats in moderate accountability settings prioritize clients exhibiting high levels of effort. Overall, teachers demonstrate a weak preference to provide extra assistance to students who are hardworking and low-performing.",
+   "authors": [
+    "Christine H. Roch",
+    "Ellen V. Rubin"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2711106",
+   "date": "2026-08-01",
+   "first_seen": "2026-08-01",
+   "score": 34.0,
+   "matched": [
+    "discretion",
+    "street-level bureaucrat",
+    "street-level",
+    "bureaucra",
+    "conjoint"
+   ],
+   "abstract_zh": "提倡強化政府問責制的人士認為，更嚴格的後果將改變公務員的行為。本研究旨在探討更嚴格的問責制度是否會改變公務員的裁量性努力。我們透過對紐約州教師進行聯合分析實驗來探討這個難題。我們的研究結果顯示，在高問責環境下的第一線公務員會優先考慮表現不佳的服務對象，而中等問責環境下的第一線公務員則優先考慮展現高度努力的服務對象。總體而言，教師對於向勤奮且表現不佳的學生提供額外協助，展現出微弱的偏好。"
   },
   {
    "doi": "10.1093/jopart/muag016",
@@ -1126,24 +1148,6 @@
     "bureaucra"
    ],
    "abstract_zh": "既有民主國家近來的發展清楚表明，公共行政與管理研究皆忽略了對作為制度的公共組織進行學術探討。本文綜合制度領導與公共組織中領導的研究，提出一套公共制度領導理論。公共制度領導藉由提出領導行為的三個核心面向，將公共管理與民主重新連結，這些行為旨在公共組織中灌輸並維繫自由民主價值。這些行為包括：透過由上而下的願景設定，闡明並重申民主價值；透過樹立榜樣並促進心理安全，由下而上地建立「品格」，以促成圍繞這些價值的對話與審議；以及藉由培養官僚自主性，展現相對於這些價值，對政治主事者受限的回應性。儘管這些行為的必要性因民粹主義興起與民主倒退而日益凸顯，但其適用性廣泛擴及自由民主國家中的公共管理。"
-  },
-  {
-   "doi": "10.1080/14719037.2026.2711106",
-   "title": "Accountability systems and coping in the bureaucratic environment",
-   "abstract": "",
-   "authors": [
-    "Christine H. Roch",
-    "Ellen V. Rubin"
-   ],
-   "journal": "Public Management Review",
-   "url": "https://doi.org/10.1080/14719037.2026.2711106",
-   "date": "2026-08-01",
-   "first_seen": "2026-08-01",
-   "score": 4.0,
-   "matched": [
-    "bureaucra"
-   ],
-   "abstract_zh": ""
   },
   {
    "doi": "10.1080/10967494.2026.2691390",
