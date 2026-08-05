@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-04T22:51:25+00:00",
+ "updated": "2026-08-05T22:46:42+00:00",
  "papers": [
   {
    "doi": "10.1080/10967494.2026.2706796",
@@ -135,6 +135,30 @@
     "conjoint"
    ],
    "abstract_zh": "提倡強化政府問責制的人士認為，更嚴格的後果將改變公務員的行為。本研究旨在探討更嚴格的問責制度是否會改變公務員的裁量性努力。我們透過對紐約州教師進行聯合分析實驗來探討這個難題。我們的研究結果顯示，在高問責環境下的第一線公務員會優先考慮表現不佳的服務對象，而中等問責環境下的第一線公務員則優先考慮展現高度努力的服務對象。總體而言，教師對於向勤奮且表現不佳的學生提供額外協助，展現出微弱的偏好。"
+  },
+  {
+   "doi": "10.1093/jopart/muag020",
+   "title": "Large Language Models and Conversational Counter-Arguments to Anti-Public Sector Bias",
+   "abstract": "Can a good argument change an individual’s mind? In three pre-registered experiments, we explore this question in the domain of public sector organizational performance. We observe human subjects as they engage in conversations with a generative artificial intelligence (AI) programmed to argue in one of seven distinct “styles,” including a confrontational challenger style, a didactic style, and a sycophantic style. We develop a theory of effective argumentation predicting that conversational styles which are pleasant and engaging will be more persuasive than styles which are unpleasant or unstimulating. Contrary to this prediction, we find that conversational styles which challenge subjects’ negative views of government agencies produce significant positive attitude change, while sycophantic styles that indulge those views do not. Troublingly, subjects find the sycophantic styles more enjoyable, less frustrating, and more credible than the challenger styles. This dissociation between user experience and persuasive outcome—what we call “grudging persuasion”—suggests that attitude change does not require a pleasant conversational experience, and that the styles subjects enjoy most may be precisely the ones least likely to move them. Our findings point to a potentially dark side of LLM-based persuasion: sycophantic styles that users find most appealing are the least effective at correcting misinformed views.",
+   "authors": [
+    "John D Marvel",
+    "Sheeling Neo",
+    "Rachel Cho",
+    "Sangwon Ju"
+   ],
+   "journal": "Journal of Public Administration Research and Theory",
+   "url": "https://doi.org/10.1093/jopart/muag020",
+   "date": "2026-08-04",
+   "first_seen": "2026-08-05",
+   "score": 34.0,
+   "matched": [
+    "artificial intelligence",
+    "ai",
+    "large language model",
+    "llm",
+    "generative"
+   ],
+   "abstract_zh": "好的論證能否改變個人的想法？在三項預先註冊的實驗中，我們在公部門組織績效的領域中探討了這個問題。我們觀察受試者與一個被設定以七種不同「風格」進行論證的生成式人工智慧（AI）進行對話，這些風格包括對抗性挑戰者風格、教導式風格和奉承式風格。我們發展了一套有效論證的理論，預測令人愉悅且引人入勝的對話風格將比不愉快或缺乏刺激的風格更具說服力。與此預測相反的是，我們發現挑戰受試者對政府機構負面看法的對話風格能產生顯著的正面態度改變，而迎合這些看法的奉承式風格則否。令人不安的是，受試者認為奉承式風格比挑戰者風格更令人愉快、較不令人沮喪且更具可信度。這種使用者體驗與說服結果之間的分離——我們稱之為「勉強的說服」——表明態度改變不一定需要愉快的對話體驗，且受試者最喜歡的風格可能恰恰是最不可能說服他們的風格。我們的研究結果指出基於大型語言模型（LLM）說服的一個潛在陰暗面：使用者認為最具吸引力的奉承式風格，在糾正錯誤資訊方面最不有效。"
   },
   {
    "doi": "10.1093/jopart/muag016",
@@ -628,7 +652,7 @@
   },
   {
    "doi": "10.1093/jopart/muag021",
-   "title": "Anti-Corruption Efforts and Citizen-Initiated Accountability: Evidence from Administrative Litigation",
+   "title": "Anti-corruption efforts and citizen-initiated accountability: evidence from administrative litigation",
    "abstract": "Despite widespread recognition that institutional environment shapes citizen behavior, we have limited understanding of how anti-corruption efforts influence citizens’ willingness to challenge government actions through formal accountability mechanisms. This study examines how provincial leaders’ corruption convictions affect citizen-initiated administrative litigation in China, exploring the mediating role of judicial remedies and the moderating effect of local corruption environments. Drawing on comprehensive data including over 1.25 million judicial documents and corruption prosecutions, we find that provincial leaders’ corruption convictions significantly increase citizen accountability actions, with this effect mediated by enhanced judicial remedies. However, this direct relationship is substantially weakened when local corruption levels are higher. These findings reveal that anti-corruption efforts can catalyze citizen engagement with accountability institutions, but their effectiveness depends critically on the broader institutional context. This research advances public administration literature by revealing how anti-corruption efforts and judicial review function as institutional mechanisms that activate citizen-initiated legal accountability, reshaping incentive structures for citizen participation in government accountability.",
    "authors": [
     "Weitao He",
