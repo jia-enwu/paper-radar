@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-07T01:27:26+00:00",
+ "updated": "2026-08-07T22:23:08+00:00",
  "papers": [
   {
    "doi": "10.1080/10967494.2026.2706796",
@@ -2046,6 +2046,23 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "公共行政研究已指出制度性壓力與組織能力為數位成熟度 (DM) 的前因，然而這些因素通常被獨立考量。承襲此一脈絡，本研究運用第一手調查資料，透過並列比較制度性壓力，以及政治與行政能力兩者的解釋力，以解釋法蘭德斯（比利時北部地區）地方政府之間數位成熟度的差異。運用多元迴歸分析，我們的研究結果突顯行政能力在推進地方政府數位成熟度方面的關鍵作用。相較之下，且有些出乎意料地，政治能力與制度性壓力似乎扮演著較為有限的角色。這些發現挑戰了現有文獻中的傳統假設，指出制度性壓力可能催化數位轉型 (DT) 的初始階段，而組織能力似乎在維持與推進數位成熟度方面更具影響力。"
+  },
+  {
+   "doi": "10.1080/14719037.2026.2714119",
+   "title": "Navigating the digital transformation: unravelling the dynamic evolution of smart city collaborative governance networks",
+   "abstract": "",
+   "authors": [
+    "Guangdong Wu",
+    "Jiawen Li",
+    "Yanlu Zha"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2714119",
+   "date": "2026-08-07",
+   "first_seen": "2026-08-07",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
   }
  ]
 }
