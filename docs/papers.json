@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-07T22:23:08+00:00",
+ "updated": "2026-08-08T22:16:40+00:00",
  "papers": [
   {
    "doi": "10.1080/10967494.2026.2706796",
@@ -197,6 +197,26 @@
     "bureaucra"
    ],
    "abstract_zh": "協同生產承諾賦權，卻掩蓋了緊縮政策的現實。根據來自蘇格蘭各地身心障礙支持服務的質性資料，我們應用 Gioia 方法論，以建立街頭官僚裁量權、公共價值共同污染與公民適應之間的連結。「公共服務缺口」迫使國家街頭官僚 (SLBs) 配給支持，將弱勢公民與第三部門街頭官僚鎖定於被迫替代，以彌補體制撤退。我們將此概念化為邊緣協同生產：一種需求驅動的參與，維持了服務連續性，同時掩蓋了系統性脆弱性。擴展街頭官僚與公共價值理論，我們將協同生產重新定義為一種技術性強制，其中無償的、適應性勞動系統性地共同污染了公共價值。"
+  },
+  {
+   "doi": "10.1111/padm.70078",
+   "title": "Getting the Priorities Straight: Public Values in AI Adoption",
+   "abstract": "Artificial Intelligence (AI) is adopted in public organizations as a transformative innovation, yet how value prioritizations unfold in AI adoption processes remains underexplored. Therefore, we ask: How do public values unfold in AI adoption processes in public organizations? We conducted a qualitative case study of an AI adoption process at the radiology department of a Dutch academic hospital after the decision to adopt is made and before implementation, using ethnographic fieldwork, interviews, and document analysis. Our findings highlight how public values and the AI adoption process are balanced in the transition from the initiation to the implementation stage. We find a recursive relationship between public values and the AI adoption process. We show an interplay of instrumental and intrinsic values. We highlight the importance of top‐down adoption decisions for how public values are perceived, and we show the importance of public organizations ensuring public values are safeguarded in public‐private partnerships.",
+   "authors": [
+    "Jinke M. Oostvogel",
+    "Matthew M. Young",
+    "Bram Klievink"
+   ],
+   "journal": "Public Administration",
+   "url": "https://doi.org/10.1111/padm.70078",
+   "date": "2026-08-08",
+   "first_seen": "2026-08-08",
+   "score": 31.0,
+   "matched": [
+    "artificial intelligence",
+    "ai"
+   ],
+   "abstract_zh": "人工智慧 (AI) 在公共組織中被採用作為一項轉型創新，然而，價值優先順序在人工智慧採用過程中如何展現仍有待深入探討。因此，本研究旨在探討：公共價值如何在公共組織的人工智慧採用過程中展現？我們針對一所荷蘭學術醫院放射科的人工智慧採用過程進行了一項質性個案研究，該研究是在做出採用決定之後且在實施之前進行的，並採用了民族誌田野調查、訪談和文件分析。我們的研究結果突顯了公共價值與人工智慧採用過程在從啟動階段到實施階段的轉變過程中如何取得平衡。我們發現公共價值與人工智慧採用過程之間存在一種遞迴關係。我們展示了工具性價值與內在價值之間的相互作用。我們突顯了由上而下的採用決策對於公共價值如何被感知的重要性，並且我們展示了公共組織在公私夥伴關係中確保公共價值受到保障的重要性。"
   },
   {
    "doi": "10.1080/14719037.2026.2692614",
@@ -1447,6 +1467,23 @@
    "abstract_zh": "許多美國地方政府面臨環境服務提供方面的挑戰，包括老舊基礎設施和不斷增加的債務。為此，數個州已採納公平市價 (FMV) 法規，旨在鼓勵私人企業收購並投資地方政府公用事業，特別是水務部門。然而，FMV 私有化的影響仍有待深入研究。本研究以政治脫鉤理論為指導，假設 FMV 私有化能改善飲用水公用事業管理和地方現任者的選舉結果。本研究採用雙重差分設計，分析了伊利諾州十五個在該州採納 FMV 法規後出售其公用事業的地方政府，並與三十四個對照組進行比較。結果顯示，FMV 私有化透過減少《安全飲用水法》下的違規行為，改善了人員和技術管理成效，但對現任者的得票率沒有顯著影響。這些發現表明，儘管 FMV 私有化可能透過政治脫鉤提升公用事業管理，但其預期的政治效益仍需進一步探討。"
   },
   {
+   "doi": "10.1111/puar.70176",
+   "title": "Improving Cooperation in Government Purchasing Through Formal‐Relational Contracting",
+   "abstract": "A central challenge in government contracting is fostering cooperation between buyers and sellers where contract terms are incomplete. This article introduces a framework for formal‐relational contracting (FRC) in public sector contexts, where rigid regulations, competing values, and market imperfections make cooperation both difficult and valuable. FRC promotes cooperation through contract terms defining shared goals, guiding principles, and governance mechanisms. We present the theoretical foundations of FRC and examine its potential through 320 government contract management decision simulations where public contract managers acted as government buyers and business sellers facing sequential choices under both FRC contracts and the more conventional formal contracting approach. The results show that FRC increased managers' cooperative behavior by around 30 percentage points compared to formal contracting. Qualitative evidence further suggests that FRC shifted managers' mindsets from adversarial to cooperative. We discuss theoretical and practical implications for how FRC can enhance cooperation and mutual value in government contracting.",
+   "authors": [
+    "Ole Helby Petersen",
+    "Matthew Potoski",
+    "Lena Brogaard"
+   ],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70176",
+   "date": "2026-08-08",
+   "first_seen": "2026-08-08",
+   "score": 2.0,
+   "matched": [],
+   "abstract_zh": "在政府採購中，一個核心挑戰是如何在契約條款不完整的情況下，促進買方與賣方之間的合作。本文提出一個適用於公共部門情境的「正式關係契約」（Formal‐Relational Contracting, FRC）框架，在這些情境中，嚴格的法規、相互競爭的價值觀和市場不完全性，使得合作既困難又彌足珍貴。FRC透過定義共同目標、指導原則和治理機制的契約條款來促進合作。我們闡述了FRC的理論基礎，並透過320次政府契約管理決策模擬來檢視其潛力。在這些模擬中，公共契約經理人分別扮演政府買方和企業賣方，在FRC契約和更傳統的正式契約模式下，面臨依序選擇。結果顯示，相較於正式契約，FRC使經理人的合作行為增加了約30個百分點。質性證據進一步指出，FRC將經理人的心態從對立轉變為合作。我們討論了FRC如何在政府採購中增強合作和共同價值的理論與實務意涵。"
+  },
+  {
    "doi": "10.1080/14719037.2026.2685252",
    "title": "Unleashing the potential of participative budgeting practices in Public Healthcare Organizations: The drivers of psychology-based budgeting research",
    "abstract": "Since doctors heading operational units have become budget holders, the hybrid nature of doctor-managers exposes them to risks of role ambiguity. Drawing on psychology-based budgeting research, this study explores how participative budgeting (PB) can enhance managerial responses to budgetary responsibilities. Using data from 131 doctor-managers in Italian public healthcare organizations, we found that providing satisfactory budgetary information influences doctor-managers’ perceptions of organizational support (POS). The ‘reciprocating’ response driven by POS strengthens doctor-managers’ motivation to achieve budgetary goals and involvement in PB, acting as an enabling condition for role hybridization. This results in improvements in psychological well-being and organizational identification.",
@@ -2050,7 +2087,7 @@
   {
    "doi": "10.1080/14719037.2026.2714119",
    "title": "Navigating the digital transformation: unravelling the dynamic evolution of smart city collaborative governance networks",
-   "abstract": "",
+   "abstract": "Smart city initiatives, as public service innovation, represent a major evolution within state-led meta-governance, requiring complex inter-participant collaboration. Yet scholarship often treats these networks as static, missing how governance structures adapt to digital uncertainties. To fill this gap, this study employs stochastic actor-oriented models and collaborative governance theory to examine the evolution of network structures and participant attributes across 3482 smart city projects in China. Results reveal three governance patterns: government-dominated, government-SOE hybrid, and multi-stakeholder. Transitive triads, age similarity, geographic proximity, and size heterogeneity promote evolution, while outdegree constrains it. Findings guide optimizing partner selection and strengthening adaptive governance.",
    "authors": [
     "Guangdong Wu",
     "Jiawen Li",
@@ -2060,6 +2097,23 @@
    "url": "https://doi.org/10.1080/14719037.2026.2714119",
    "date": "2026-08-07",
    "first_seen": "2026-08-07",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "智慧城市倡議作為公共服務創新，代表著國家主導元治理中的一項重大演進，需要複雜的參與者間協作。然而，學術界常將這些網絡視為靜態，忽略了治理結構如何適應數位不確定性。為彌補此一空缺，本研究運用隨機行動者導向模型與協作治理理論，檢視中國3482個智慧城市專案中網絡結構與參與者屬性的演化。結果揭示了三種治理模式：政府主導型、政府與國有企業混合型，以及多方利害關係人型。遞移三元組、年齡相似性、地理鄰近性及規模異質性促進了演化，而連結出度則限制了其發展。研究結果有助於優化夥伴選擇並強化適應性治理。"
+  },
+  {
+   "doi": "10.1080/14719037.2026.2708842",
+   "title": "Reference points, negativity bias and citizens’ performance evaluations: a replication and extension",
+   "abstract": "",
+   "authors": [
+    "Richard M. Walker",
+    "Jiasheng Zhang",
+    "Bert George"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2708842",
+   "date": "2026-08-08",
+   "first_seen": "2026-08-08",
    "score": 0.0,
    "matched": [],
    "abstract_zh": ""
