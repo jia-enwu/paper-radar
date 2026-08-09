@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-08T22:16:40+00:00",
+ "updated": "2026-08-09T22:18:00+00:00",
  "papers": [
   {
    "doi": "10.1080/10967494.2026.2706796",
@@ -1194,6 +1194,25 @@
    "abstract_zh": "既有民主國家近來的發展清楚表明，公共行政與管理研究皆忽略了對作為制度的公共組織進行學術探討。本文綜合制度領導與公共組織中領導的研究，提出一套公共制度領導理論。公共制度領導藉由提出領導行為的三個核心面向，將公共管理與民主重新連結，這些行為旨在公共組織中灌輸並維繫自由民主價值。這些行為包括：透過由上而下的願景設定，闡明並重申民主價值；透過樹立榜樣並促進心理安全，由下而上地建立「品格」，以促成圍繞這些價值的對話與審議；以及藉由培養官僚自主性，展現相對於這些價值，對政治主事者受限的回應性。儘管這些行為的必要性因民粹主義興起與民主倒退而日益凸顯，但其適用性廣泛擴及自由民主國家中的公共管理。"
   },
   {
+   "doi": "10.1080/14719037.2026.2708842",
+   "title": "Reference points, negativity bias and citizens’ performance evaluations: a replication and extension",
+   "abstract": "Experiments on how cognitive biases, such as social and historical reference points and negativity bias, shape citizens’ evaluations of government performance have produced mixed findings, which typically come from Western contexts and focus on single reference points. To address these gaps, we replicated (N = 3710) and extended (N = 2356) Olsen’s ‘Compared to what?’ to interactions between multiple social and historical reference points in Hong Kong. Very low baselines are found in the replication alongside trivial evidence for the importance of reference points in citizens’ performance evaluations and negativity bias. In the extension, we found that (1) when both social and historical reference points are presented to participants, they have stronger effects when negative information is provided and (2) the effects of combinations of historical and social reference points differ across policy domains. Though survey experiments can be noisy, the study demonstrates the value of replication to question the generalization of cognitive biases.",
+   "authors": [
+    "Richard M. Walker",
+    "Jiasheng Zhang",
+    "Bert George"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2708842",
+   "date": "2026-08-08",
+   "first_seen": "2026-08-08",
+   "score": 4.0,
+   "matched": [
+    "survey experiment"
+   ],
+   "abstract_zh": "關於認知偏誤（例如社會與歷史參考點以及負面偏誤）如何影響公民對政府績效評估的實驗，產生了不一的結果，這些結果通常來自西方脈絡，且側重於單一參考點。為了解決這些不足，我們在香港複製（N = 3710）並擴展（N = 2356）了Olsen的「與什麼相比？」研究，以探討多個社會與歷史參考點之間的交互作用。在複製研究中發現了非常低的基準線，同時，關於參考點在公民績效評估和負面偏誤中的重要性，僅發現了微不足道的證據。在擴展研究中，我們發現 (1) 當同時向參與者呈現社會與歷史參考點時，若提供負面資訊，其影響會更強；以及 (2) 歷史與社會參考點組合的影響在不同政策領域中有所差異。儘管問卷實驗可能存在雜訊，本研究證明了複製研究的價值，以質疑認知偏誤的普遍性。"
+  },
+  {
    "doi": "10.1080/10967494.2026.2691390",
    "title": "Chainsaw or scalpel: which leads to more blame for a service failure when leaders downsize government?",
    "abstract": "The Trump administration’s DOGE attempted to radically downsize U.S. federal agencies. This study aims to clarify whether government leaders are blamed more for service failure when they employ either a DOGE-like (chainsaw) method or a more measured (scalpel) approach. A preregistered experiment was conducted in which respondents were randomly assigned to one of 6 vignettes that presented information about downsizing approaches, a public service failure, and the person or entity directly responsible for the failure. This study produced four main findings. First, people blamed city leaders more for the service failure when they knew a chainsaw approach was used to downsize government, compared to when they were given no information about the approach. Second, people blamed city leaders more when a chainsaw approach was used than when a scalpel approach was used. Third, simply knowing that city leaders had used a downsizing approach was not enough to shift blame away from the frontline employee toward city leaders. Fourth, blame shifted from the frontline employee to city leaders when people learned that a chainsaw approach—rather than a scalpel approach—had been used. The implications for research and practice are that a chainsaw approach is undesirable.",
@@ -2100,23 +2119,6 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "智慧城市倡議作為公共服務創新，代表著國家主導元治理中的一項重大演進，需要複雜的參與者間協作。然而，學術界常將這些網絡視為靜態，忽略了治理結構如何適應數位不確定性。為彌補此一空缺，本研究運用隨機行動者導向模型與協作治理理論，檢視中國3482個智慧城市專案中網絡結構與參與者屬性的演化。結果揭示了三種治理模式：政府主導型、政府與國有企業混合型，以及多方利害關係人型。遞移三元組、年齡相似性、地理鄰近性及規模異質性促進了演化，而連結出度則限制了其發展。研究結果有助於優化夥伴選擇並強化適應性治理。"
-  },
-  {
-   "doi": "10.1080/14719037.2026.2708842",
-   "title": "Reference points, negativity bias and citizens’ performance evaluations: a replication and extension",
-   "abstract": "",
-   "authors": [
-    "Richard M. Walker",
-    "Jiasheng Zhang",
-    "Bert George"
-   ],
-   "journal": "Public Management Review",
-   "url": "https://doi.org/10.1080/14719037.2026.2708842",
-   "date": "2026-08-08",
-   "first_seen": "2026-08-08",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": ""
   }
  ]
 }
