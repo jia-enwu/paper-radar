@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-09T22:18:00+00:00",
+ "updated": "2026-08-10T22:24:47+00:00",
  "papers": [
   {
    "doi": "10.1080/10967494.2026.2706796",
@@ -92,6 +92,24 @@
     "discretion"
    ],
    "abstract_zh": "公共行政領域中的AI系統挑戰了以下前提：價值創造源於管理者在摩爾策略三角（公共價值、正當性與運作能力）各個頂點之間的策略性中介。AI帶來了新的邏輯，重塑了這些頂點及其互動動態。關鍵的是，這些轉變透過我們稱之為「演算法公共價值鎖定」的現象而根深蒂固：偶發性價值定義結晶化為持久的技術基礎設施，難以透過民主程序修正。透過檢視秘魯的SISFOH（一個演算法福利目標鎖定系統），我們揭示了三個相互關聯的轉變：資料管理將正當性重新定義為計算客觀性；標準化分類以狹隘、可量化的方式重新定義公共價值；演算法處理將運作能力從適應性裁量轉變為僵硬的執行。總體而言，這些轉變產生了鎖定效應，可能使公共價值創造與政治協商隔絕。"
+  },
+  {
+   "doi": "10.1177/02750740261473616",
+   "title": "Navigating Ambiguity: Street-Level Managers Discretion in the Implementation of Religious Policy in Divided Societies",
+   "abstract": "This study explores the intersection of religion and state through a single-case, mixed-methods research design, focusing on Israeli state elementary school principals, who administer religious directives embedded in state legislation. We ask: Under what conditions street-level managers’ discretion in policy implementation increases social satisfaction and cohesion? We argue that such discretion increases social satisfaction and cohesion under the following conditions: (1) When state policies are explicitly or implicitly vague and flexible, (2) When official policy is contested among societal groups, and (3) When street-level managers opt to respond to client preferences. In addition, we suggest that public satisfaction with the resulted public services increases when a manager's personal ideology aligns with client attitudes and expectations. The study demonstrates how principals exercise significant discretion in implementing religious policy and thus contributes to broader public administration literature by highlighting the role of street-level managers in navigating policy ambiguity, while mediating societal tensions.",
+   "authors": [
+    "Niva Golan-Nadir"
+   ],
+   "journal": "The American Review of Public Administration",
+   "url": "https://doi.org/10.1177/02750740261473616",
+   "date": "2026-08-10",
+   "first_seen": "2026-08-10",
+   "score": 40.0,
+   "matched": [
+    "discretion",
+    "street-level"
+   ],
+   "abstract_zh": "本研究透過單一案例、混合方法研究設計，探討宗教與國家之間的交會點，並聚焦於以色列國立小學的校長，這些校長負責執行國家立法中內含的宗教指令。我們提問：在何種條件下，街頭官僚在政策執行中的裁量權能提升社會滿意度與凝聚力？我們主張，這種裁量權在以下條件下能提升社會滿意度與凝聚力：(1) 當國家政策明確或隱含地模糊且具彈性時；(2) 當官方政策在社會群體間存在爭議時；以及 (3) 當街頭官僚選擇回應服務對象的偏好時。此外，我們認為，當管理者的個人意識形態與服務對象的態度和期望一致時，公眾對所提供的公共服務的滿意度會提升。本研究闡明了校長在執行宗教政策方面如何行使顯著的裁量權，進而透過強調街頭官僚在處理政策模糊性並調解社會緊張關係中的角色，對更廣泛的公共行政文獻有所貢獻。"
   },
   {
    "doi": "10.1177/0734371x261454322",
