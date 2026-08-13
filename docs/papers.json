@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-12T22:28:35+00:00",
+ "updated": "2026-08-13T22:29:24+00:00",
  "papers": [
   {
    "doi": "10.1080/10967494.2026.2706796",
@@ -576,6 +576,27 @@
     "causal"
    ],
    "abstract_zh": "近年來，隨機對照實驗與準實驗在公共行政與政策研究中的應用日益增長，提升了建立因果關係的能力。然而，許多研究採用靜態的因果觀念，側重於單一時間點的觀察或時間平均效應，卻忽略了效應如何隨時間變化。這種疏漏會導致問題，因為學術上感興趣的干預措施，例如領導力培訓或新科技的採用，其影響很可能以多種方式呈現。在本文中，我們提出一個概念性框架，用於理解因果效應的時間動態及其對研究假設與設計的意涵。接著，我們引入貝氏變點模型 (BCMs) 作為一種方法學工具，用於偵測因果效應序列的平均值、變異數或趨勢的變化，提供了一種比目視檢查圖表更嚴謹且易於操作的替代方案。隨後，我們透過一個來自模擬數據的說明性範例，以及一個探討密錄器對警察使用武力影響的真實案例，展示了 BCMs 的應用。最後，我們討論了檢視效應的時間變化如何能夠增進對其發生原因和方式的理論理解，並為實務中政策與策略的設計及實施提供參考。"
+  },
+  {
+   "doi": "10.1111/puar.70181",
+   "title": "The Gendered Path of Least Resistance: First Entry and Exit Behaviors of Public and Nonprofit Employees",
+   "abstract": "Public and nonprofit organizations exhibit high rates of female employment often attributed to sector structures and social roles. To better understand how individual behaviors dynamically contribute to these distinctive ratios, we deconstruct public and nonprofit employment into gendered patterns of attraction and attachment. Using duration analysis and following a cohort from the National Longitudinal Survey of Youth 1997, this research finds that women demonstrate a higher attraction to their first public and nonprofit job compared to men, evidenced through a faster rate of entry into this employment. There are no significant gender differences when considering the duration of an individual's first stint in these sectors. Additional investigation finds that these sector‐level patterns, when decomposed to account for gender‐dominant professions, are driven by stronger female attraction to female‐dominated professions while masking higher female turnover from male‐dominated professions. Results inform recruitment and retention strategies for public and nonprofit organizations.",
+   "authors": [
+    "Tiana Marrese",
+    "Ying Liu",
+    "Femida Handy"
+   ],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70181",
+   "date": "2026-08-13",
+   "first_seen": "2026-08-13",
+   "score": 17.0,
+   "matched": [
+    "gender",
+    "turnover",
+    "recruitment"
+   ],
+   "abstract_zh": "公部門與非營利組織呈現較高的女性就業率，這通常歸因於部門結構與社會角色。為了更深入了解個體行為如何動態地促成這些獨特的比例，本研究將公部門與非營利組織的就業現象拆解為性別化的吸引與依附模式。運用存活分析並追蹤「1997年全國青年縱貫調查」的世代群體，本研究發現女性對其第一份公部門與非營利組織工作的吸引力高於男性，體現於其進入此類就業的速度更快。然而，當考量個體在這些部門首次任職的持續時間時，在性別上沒有顯著差異。進一步探究發現，這些部門層級的模式，當拆解以考量性別主導的職業時，是由女性對女性主導職業的更強吸引力所驅動，同時掩蓋了女性從男性主導職業中較高的離職率。研究結果可為公部門與非營利組織的招募與留任策略提供參考。"
   },
   {
    "doi": "10.1080/10967494.2026.2684482",
@@ -2294,7 +2315,7 @@
   {
    "doi": "10.1080/14719037.2026.2715612",
    "title": "Should we stay or should we go? Implications of trust in the municipality for second-generation migrants’ behavioural intentions towards the municipality",
-   "abstract": "",
+   "abstract": "Public and political debate increasingly problematizes the relationship between second-generation migrants and public authorities, yet little is known about how they evaluate local government. This study examines behavioural intentions towards municipalities – exit, voice, loyalty and neglect – and assesses how trust, local identification and discrimination shape these responses. Using survey data from second-generation migrants in Dutch municipalities, we find loyalty predominates, while trust, local identification and discrimination shape these orientations towards local government. These findings highlight the central role of trust and inclusion in shaping citizen–state relations and demonstrate the value of integrating migrant-centred perspectives into public administration research.",
    "authors": [
     "Warda Belabas",
     "Koen Migchelbrink"
@@ -2305,7 +2326,7 @@
    "first_seen": "2026-08-12",
    "score": 0.0,
    "matched": [],
-   "abstract_zh": ""
+   "abstract_zh": "公眾與政治辯論越來越將第二代移民與公共當局之間的關係視為問題，然而，對於他們如何評估地方政府卻知之甚少。本研究探討第二代移民對於地方政府的行為意圖——退出、發聲、忠誠與漠視——並評估信任、地方認同與歧視如何形塑這些回應。本研究利用來自荷蘭地方政府中第二代移民的調查數據，發現忠誠度佔主導地位，而信任、地方認同與歧視則形塑了他們對地方政府的這些傾向。這些發現突顯了信任與包容在形塑公民與國家關係中的核心作用，並證明了將以移民為中心的視角整合到公共行政研究中的價值。"
   }
  ]
 }
