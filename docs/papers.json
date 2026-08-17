@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T22:08:26+00:00",
+ "updated": "2026-08-17T22:12:29+00:00",
  "papers": [
   {
    "doi": "10.1080/10967494.2026.2706796",
@@ -155,30 +155,6 @@
    "abstract_zh": "提倡強化政府問責制的人士認為，更嚴格的後果將改變公務員的行為。本研究旨在探討更嚴格的問責制度是否會改變公務員的裁量性努力。我們透過對紐約州教師進行聯合分析實驗來探討這個難題。我們的研究結果顯示，在高問責環境下的第一線公務員會優先考慮表現不佳的服務對象，而中等問責環境下的第一線公務員則優先考慮展現高度努力的服務對象。總體而言，教師對於向勤奮且表現不佳的學生提供額外協助，展現出微弱的偏好。"
   },
   {
-   "doi": "10.1093/jopart/muag020",
-   "title": "Large Language Models and Conversational Counter-Arguments to Anti-Public Sector Bias",
-   "abstract": "Can a good argument change an individual’s mind? In three pre-registered experiments, we explore this question in the domain of public sector organizational performance. We observe human subjects as they engage in conversations with a generative artificial intelligence (AI) programmed to argue in one of seven distinct “styles,” including a confrontational challenger style, a didactic style, and a sycophantic style. We develop a theory of effective argumentation predicting that conversational styles which are pleasant and engaging will be more persuasive than styles which are unpleasant or unstimulating. Contrary to this prediction, we find that conversational styles which challenge subjects’ negative views of government agencies produce significant positive attitude change, while sycophantic styles that indulge those views do not. Troublingly, subjects find the sycophantic styles more enjoyable, less frustrating, and more credible than the challenger styles. This dissociation between user experience and persuasive outcome—what we call “grudging persuasion”—suggests that attitude change does not require a pleasant conversational experience, and that the styles subjects enjoy most may be precisely the ones least likely to move them. Our findings point to a potentially dark side of LLM-based persuasion: sycophantic styles that users find most appealing are the least effective at correcting misinformed views.",
-   "authors": [
-    "John D Marvel",
-    "Sheeling Neo",
-    "Rachel Cho",
-    "Sangwon Ju"
-   ],
-   "journal": "Journal of Public Administration Research and Theory",
-   "url": "https://doi.org/10.1093/jopart/muag020",
-   "date": "2026-08-04",
-   "first_seen": "2026-08-05",
-   "score": 34.0,
-   "matched": [
-    "artificial intelligence",
-    "ai",
-    "large language model",
-    "llm",
-    "generative"
-   ],
-   "abstract_zh": "好的論證能否改變個人的想法？在三項預先註冊的實驗中，我們在公部門組織績效的領域中探討了這個問題。我們觀察受試者與一個被設定以七種不同「風格」進行論證的生成式人工智慧（AI）進行對話，這些風格包括對抗性挑戰者風格、教導式風格和奉承式風格。我們發展了一套有效論證的理論，預測令人愉悅且引人入勝的對話風格將比不愉快或缺乏刺激的風格更具說服力。與此預測相反的是，我們發現挑戰受試者對政府機構負面看法的對話風格能產生顯著的正面態度改變，而迎合這些看法的奉承式風格則否。令人不安的是，受試者認為奉承式風格比挑戰者風格更令人愉快、較不令人沮喪且更具可信度。這種使用者體驗與說服結果之間的分離——我們稱之為「勉強的說服」——表明態度改變不一定需要愉快的對話體驗，且受試者最喜歡的風格可能恰恰是最不可能說服他們的風格。我們的研究結果指出基於大型語言模型（LLM）說服的一個潛在陰暗面：使用者認為最具吸引力的奉承式風格，在糾正錯誤資訊方面最不有效。"
-  },
-  {
    "doi": "10.1093/jopart/muag016",
    "title": "Bureaucratic turnover under new governments: the moderating effect of bureaucratic and political layering",
    "abstract": "Politically motivated personnel turnover affects government bureaucracy’s legitimacy and performance. To understand the conditions of meritocracy, the article explores how variability in hierarchy moderates the effect of government transitions on bureaucratic turnover. Event history analysis of the careers of 948 Norwegian senior bureaucrats (1884–2024) reveals that the organizational layers separating bureaucrats from ministers moderate the effect of government change differently depending on the layer’s political or bureaucratic nature. Bureaucrats directly exposed to political appointees experience heightened turnover during government transitions, while the turnover of bureaucrats separated from appointees by an intervening layer of career employees is unaffected by government transitions. Further analysis of different time periods and senior bureaucratic roles shows that layering alone does not fully explain political influence on bureaucratic careers. Positions must be hierarchically exposed (lacking intervening bureaucratic layers), functionally politicized (involved in tasks that are strategically important to political leadership), and subject to administrative politicization (by being under the purview of political appointees) to be vulnerable to politically motivated turnover. The article advances scholarship on the politicization of senior bureaucrats in merit bureaucracies by examining 140 years of politically induced turnover through a theory of how layering moderates political dynamics.",
@@ -235,6 +211,28 @@
     "ai"
    ],
    "abstract_zh": "人工智慧 (AI) 在公共組織中被採用作為一項轉型創新，然而，價值優先順序在人工智慧採用過程中如何展現仍有待深入探討。因此，本研究旨在探討：公共價值如何在公共組織的人工智慧採用過程中展現？我們針對一所荷蘭學術醫院放射科的人工智慧採用過程進行了一項質性個案研究，該研究是在做出採用決定之後且在實施之前進行的，並採用了民族誌田野調查、訪談和文件分析。我們的研究結果突顯了公共價值與人工智慧採用過程在從啟動階段到實施階段的轉變過程中如何取得平衡。我們發現公共價值與人工智慧採用過程之間存在一種遞迴關係。我們展示了工具性價值與內在價值之間的相互作用。我們突顯了由上而下的採用決策對於公共價值如何被感知的重要性，並且我們展示了公共組織在公私夥伴關係中確保公共價值受到保障的重要性。"
+  },
+  {
+   "doi": "10.1093/jopart/muag020",
+   "title": "Large language models and conversational counter-arguments to antipublic sector bias",
+   "abstract": "Can a good argument change an individual’s mind? In three preregistered experiments, we explore this question in the domain of public sector organizational performance. We observe human subjects as they engage in conversations with a generative artificial intelligence programmed to argue in one of seven distinct “styles,” including a confrontational challenger style, a didactic style, and a sycophantic style. We develop a theory of effective argumentation predicting that conversational styles which are pleasant and engaging will be more persuasive than styles which are unpleasant or unstimulating. Contrary to this prediction, we find that conversational styles which challenge subjects’ negative views of government agencies produce significant positive attitude change, while sycophantic styles that indulge those views do not. Troublingly, subjects find the sycophantic styles more enjoyable, less frustrating, and more credible than the challenger styles. This dissociation between user experience and persuasive outcome—what we call “grudging persuasion”—suggests that attitude change does not require a pleasant conversational experience, and that the styles subjects enjoy most may be precisely the ones least likely to move them. Our findings point to a potentially dark side of large language model-based persuasion: sycophantic styles that users find most appealing are the least effective at correcting misinformed views.",
+   "authors": [
+    "John D Marvel",
+    "Sheeling Neo",
+    "Rachel Cho",
+    "Sangwon Ju"
+   ],
+   "journal": "Journal of Public Administration Research and Theory",
+   "url": "https://doi.org/10.1093/jopart/muag020",
+   "date": "2026-08-04",
+   "first_seen": "2026-08-05",
+   "score": 30.0,
+   "matched": [
+    "artificial intelligence",
+    "large language model",
+    "generative"
+   ],
+   "abstract_zh": "好的論證能否改變個人的想法？在三項預先註冊的實驗中，我們在公部門組織績效的領域中探討了這個問題。我們觀察受試者與一個被設定以七種不同「風格」進行論證的生成式人工智慧（AI）進行對話，這些風格包括對抗性挑戰者風格、教導式風格和奉承式風格。我們發展了一套有效論證的理論，預測令人愉悅且引人入勝的對話風格將比不愉快或缺乏刺激的風格更具說服力。與此預測相反的是，我們發現挑戰受試者對政府機構負面看法的對話風格能產生顯著的正面態度改變，而迎合這些看法的奉承式風格則否。令人不安的是，受試者認為奉承式風格比挑戰者風格更令人愉快、較不令人沮喪且更具可信度。這種使用者體驗與說服結果之間的分離——我們稱之為「勉強的說服」——表明態度改變不一定需要愉快的對話體驗，且受試者最喜歡的風格可能恰恰是最不可能說服他們的風格。我們的研究結果指出基於大型語言模型（LLM）說服的一個潛在陰暗面：使用者認為最具吸引力的奉承式風格，在糾正錯誤資訊方面最不有效。"
   },
   {
    "doi": "10.1080/14719037.2026.2692614",
@@ -521,6 +519,27 @@
    "abstract_zh": "行政負擔研究通常檢視在公民與國家初次互動時，影響民眾取得公共福利的規章制度。學者們一致認為，個別負擔扮演著「隱藏政治」的角色，因為政策在執行過程中會透過官僚自由裁量權而改變。然而，對於施加於維持合規性的第三方服務提供者之官僚行為或隱藏政治，則鮮為人知。本文旨在透過檢視施加於墮胎服務提供者的不合規負擔，以了解監管者是否會模仿同儕的行為，進而探討此議題。本文運用制度理論框架，並使用佛羅里達州醫療保健管理局 (FAHCA) 關於墮胎服務提供者監督的行政記錄，建構了一個定向雙向事件歷史模型，利用1540個雙向年度觀察值，以預測監管現場辦公室之間懲處活動的同形性或分歧。我們發現，監管現場辦公室會根據同儕先前的懲處行為和監督工作量來模仿他人的行為。我們也發現，監管者會根據其自身管轄區的監管條件而與同儕產生分歧。"
   },
   {
+   "doi": "10.1111/padm.70083",
+   "title": "From Social Equity Budgeting to Revenue Equity: Minority Leadership and Local Governments' Exploitative Revenues",
+   "abstract": "Social equity budgeting has gained increasing attention, yet research has largely focused on expenditures while neglecting revenue equity. This study contributes to the literature by examining the relationships between minority population size and local governments' reliance on exploitative revenues, and whether minority political representation moderates this relationship. Drawing on racial threat and political representation theories, we analyze data from 66 Florida counties between 2011 and 2019. Results show that counties with larger minority populations rely more heavily on exploitative revenues, but this relationship diminishes when minority political representation increases. These findings highlight how minority leadership could moderate fiscal practices that disproportionately burden minority communities. More broadly, this study advances the framework of social equity budgeting by shifting the focus from expenditure allocation to revenue generation.",
+   "authors": [
+    "Tingzhong Huang",
+    "Rui Wang",
+    "Can Chen",
+    "Herong Gao"
+   ],
+   "journal": "Public Administration",
+   "url": "https://doi.org/10.1111/padm.70083",
+   "date": "2026-08-16",
+   "first_seen": "2026-08-17",
+   "score": 19.0,
+   "matched": [
+    "representation",
+    "minority"
+   ],
+   "abstract_zh": "社會公平預算日益受到關注，然而研究多半著重於支出，卻忽略了歲入公平性。本研究旨在探討少數族群人口規模與地方政府對剝削性歲入的依賴程度之間的關係，以及少數族群政治代表性是否調節此關係，以充實相關文獻。本研究援引種族威脅理論與政治代表性理論，分析了2011年至2019年間佛羅里達州66個縣的資料。結果顯示，少數族群人口規模較大的縣更嚴重依賴剝削性歲入，但當少數族群政治代表性增加時，此關聯性會降低。這些發現突顯了少數族群領導力如何能調節不成比例地加重少數族群社區負擔的財政措施。更廣泛地來說，本研究透過將焦點從支出分配轉向歲入產生，推進了社會公平預算的框架。"
+  },
+  {
    "doi": "10.1080/10967494.2026.2696851",
    "title": "Using generative AI to evaluate the leadership of emperors and presidents: psychometric validation and implications for public leadership research",
    "abstract": "",
@@ -707,6 +726,26 @@
     "recruitment"
    ],
    "abstract_zh": "街頭官僚 (SLBs) 直接影響民眾，使其在公共服務提供中扮演核心角色。因此，服務成效取決於公部門組織招募稱職街頭官僚的能力。我們主張，民眾的視角應納入街頭官僚招募的考量，尤其對於需高度互動、關係導向的第一線職位。然而，儘管整體趨勢已轉向服務使用者導向，公共行政研究卻尚未將民眾的視角整合至街頭官僚招募中。我們檢驗與民眾協同設計的職位廣告是否能提高求職者的申請意願。透過混合方法設計，包括一項預先註冊的實驗，我們發現協同設計的職位廣告 (a) 能夠識別傳統招募中常被忽略的街頭官僚能力 (研究一)，(b) 無論申請者是否知曉民眾參與，皆能提高申請意願 (研究二A)，以及 (c) 透過提升人職契合度，吸引價值觀與服務使用者導向組織一致的候選人 (研究二B)。我們藉由引入協同設計作為服務使用者導向街頭官僚招募的創新且有效方法，推進了公部門招募和街頭官僚研究。"
+  },
+  {
+   "doi": "10.1111/puar.70172",
+   "title": "Under Pressure: Analyzing LEO Turnover in America's Swing and Pivot Counties for 2016, 2020, 2024",
+   "abstract": "Post‐2024, the United States faces an acute labor crisis marked by accelerating Local Election Official (LEO) attrition. This study examines causal drivers of this exodus, focusing specifically on disproportionate turnover within volatile “swing” and “pivot” counties. Utilizing a mixed‐methods design, using longitudinal data from the Bipartisan Policy Center, US Census Bureau, Elections Voter Survey, MIT Election Data and Science Lab (MEDSL), and the Reed LEO survey, alongside an original dataset compiled from 74 competitive counties and 25 “super landslide” counties. Using Geographic Information Systems, we connect a detailed county profile to spatial mapping of the legal and political environment across the 2016, 2020, and 2024 elections. LEOs in highly competitive jurisdictions face an erosion of institutional trust, serving as a primary catalyst for departure. These volatile jurisdictions highlight where democratic machinery is vulnerable, offering evidence‐based insights for state‐level policy interventions designed to stabilize the public administrative workforce amidst unprecedented hyperpolarization.",
+   "authors": [
+    "Gary Johnson",
+    "Spencer Cragun",
+    "Jake Yoder"
+   ],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70172",
+   "date": "2026-08-16",
+   "first_seen": "2026-08-17",
+   "score": 14.0,
+   "matched": [
+    "turnover",
+    "causal"
+   ],
+   "abstract_zh": "2024年後，美國面臨嚴峻的勞動力危機，其特徵是地方選舉官員 (LEO) 流失加速。本研究探討造成此離職潮的因果驅動因素，特別著重於不穩定之「搖擺」和「關鍵」郡縣中不成比例的人員流動。本研究採用混合方法設計，使用來自兩黨政策中心、美國人口普查局、選舉選民調查、麻省理工學院選舉數據與科學實驗室 (MEDSL) 以及 Reed LEO 調查的縱向數據，並結合從74個競爭激烈郡縣和25個「超級壓倒性勝利」郡縣編纂的原始數據集。運用地理資訊系統 (GIS)，我們將詳細的郡縣概況與2016、2020和2024年選舉期間的法律和政治環境空間映射連結。在競爭激烈司法管轄區的LEO面臨機構信任的侵蝕，這成為他們離職的主要催化劑。這些不穩定的司法管轄區凸顯出民主機制脆弱之處，為旨在穩定公共行政人力、以應對前所未有的高度兩極化之州級政策干預，提供實證洞見。"
   },
   {
    "doi": "10.1111/puar.70164",
@@ -2342,6 +2381,24 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "公眾與政治辯論越來越將第二代移民與公共當局之間的關係視為問題，然而，對於他們如何評估地方政府卻知之甚少。本研究探討第二代移民對於地方政府的行為意圖——退出、發聲、忠誠與漠視——並評估信任、地方認同與歧視如何形塑這些回應。本研究利用來自荷蘭地方政府中第二代移民的調查數據，發現忠誠度佔主導地位，而信任、地方認同與歧視則形塑了他們對地方政府的這些傾向。這些發現突顯了信任與包容在形塑公民與國家關係中的核心作用，並證明了將以移民為中心的視角整合到公共行政研究中的價值。"
+  },
+  {
+   "doi": "10.1111/padm.70084",
+   "title": "Organizational Capacity to Implement Social Equity in Emergency Management: A Local Government Perspective",
+   "abstract": "The emergency management profession and discipline is increasingly embracing social equity as a core value, yet limited attention has been paid to whether local emergency management organizations possess the capacity to implement equity‐focused practices. Drawing on the Capacity Building Framework, this exploratory study analyzes data from a national panel survey of US emergency managers to examine the organizational capacity to advance social equity through the lens of adaptive capacity. The findings reveal that while political, technical, financial, and managerial capacities matter, financial capacity is the most critical constraint. Respondents prioritized additional funding for personnel, community outreach and education, and the development of accessible public resources. The results highlight how resource scarcity shapes the pursuit of equity at the local level and underscores the need to align equity goals with investments in organizational capacity. This study contributes insight into the practical challenges emergency managers face in translating equity commitments into action.",
+   "authors": [
+    "Jason D. Rivera",
+    "Claire Connolly Knox",
+    "Clinton McNair",
+    "Joseph T. Ripberger"
+   ],
+   "journal": "Public Administration",
+   "url": "https://doi.org/10.1111/padm.70084",
+   "date": "2026-08-16",
+   "first_seen": "2026-08-17",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "災害管理專業領域日益將社會公平視為核心價值，然而，卻鮮少關注地方災害管理組織是否具備實施以公平為導向之實務的能力。本探索性研究借鑒能力建構框架，分析了來自一項針對美國災害管理人員的全國性追蹤調查數據，旨在從適應性能力的視角檢視組織推進社會公平的能力。研究結果顯示，儘管政治、技術、財務和管理能力均很重要，但財務能力是最關鍵的限制因素。受訪者優先考慮為人力、社區推廣與教育以及可近用公共資源的開發提供額外資金。結果突顯了資源稀缺如何影響地方層級的公平追求，並強調了將公平目標與組織能力投資相結合的必要性。本研究為災害管理人員在將公平承諾轉化為行動方面所面臨的實際挑戰提供了見解。"
   }
  ]
 }
