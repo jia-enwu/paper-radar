@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17T22:12:29+00:00",
+ "updated": "2026-08-18T22:10:43+00:00",
  "papers": [
   {
    "doi": "10.1080/10967494.2026.2706796",
@@ -1212,6 +1212,23 @@
    "abstract_zh": "本研究探討社區劣勢的經濟、種族和生態面向如何影響流向當地人類服務非營利部門的慈善捐款，以及政府支持是否能緩解這些地方性差異。本研究利用一份涵蓋2000年至2019年的創新縣級追蹤資料集，結合敘述性分析與混合效果迴歸模型，以估計直接與調節關係。我們發現，人均私人捐款在經濟匱乏社區中顯著較低，在鄉村社區中則顯著較高，而少數族裔集中度與私人捐款之間並無統計上的顯著關聯。儘管政府資金整體而言會引導私人捐款，但其調節作用具有情境特定性。政府支持並未減輕與經濟匱乏或少數族裔集中度相關的慈善捐款差異，但在鄉村縣市比在都市縣市更能強力引導私人捐款。這些發現突顯了政府支持的權變角色，並強調了制定有針對性的政策策略之必要性，以解決跨社區的慈善捐款差異。"
   },
   {
+   "doi": "10.1111/puar.70184",
+   "title": "Governing Before the State: Indigenous Javanese Administrative Theory",
+   "abstract": "Public administration scholarship often treats the Weberian ideal type as a universal model of bureaucracy, making governance arrangements that differ from it appear deficient rather than different. A decolonizing approach instead asks whether non‐Western historical records can offer alternative ways of theorizing governance. This study explores that possibility through the Nagarakretagama, a 14th‐century Javanese court eulogy composed by Mpu Prapanca in 1365, which predates Machiavelli's The Prince by 148 years. Qualitative content analysis of all 98 cantos identifies five governance domains: bureaucratic hierarchy, mandala‐based territorial administration, conditional fiscal exemptions, a legal order combining written law and custom, and ceremonial practices integrated with administration. These dimensions show how the Javanese empire organized authority, territory, revenue, law, and legitimacy through institutional arrangements that differ from the Weberian model. Reading this governance system as theory reveals an alternative conceptualization of administration and advances a decolonizing, pluriversal approach to public administration.",
+   "authors": [
+    "Dede Setiono"
+   ],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70184",
+   "date": "2026-08-18",
+   "first_seen": "2026-08-18",
+   "score": 6.0,
+   "matched": [
+    "bureaucra"
+   ],
+   "abstract_zh": "公共行政學術界常將韋伯式理想型視為普遍的官僚體制模型，使得與其不同的治理安排顯得不足而非差異。去殖民化取徑反而探問非西方歷史文獻能否提供另類的治理理論化方式。本研究透過《國家書》（Nagarakretagama）探討此可能性，該書是普拉潘查（Mpu Prapanca）於1365年撰寫的十四世紀爪哇宮廷頌歌，比馬基維利的《君主論》早148年。對全部98首頌歌進行質性內容分析，識別出五個治理領域：官僚層級體系、曼荼羅式領土行政、有條件的財政豁免、結合成文法與習慣法的法律秩序，以及融入行政的儀式性實踐。這些面向展現了爪哇帝國如何透過不同於韋伯模型的制度安排，組織其權威、領土、稅收、法律和合法性。將此治理體系視為理論，揭示了行政的另類概念化，並推進了公共行政的去殖民化、多元宇宙取徑。"
+  },
+  {
    "doi": "10.1093/jopart/muag013",
    "title": "Awareness, Costs, and Take-up of Social Benefits: Evidence from a Field Experiment in China",
    "abstract": "This study examines incomplete participation in social benefit programs by focusing on individual income tax refund claims in China. Despite growing evidence on this issue, there remains a need to directly compare the effectiveness of addressing behavioral barriers versus alleviating administrative burdens in promoting program take-up. Moreover, when administrative burdens are targeted, it is unclear whether reducing learning, compliance, or psychological costs is most effective. To address these questions, we investigate how policy interventions designed to enhance program awareness and reduce participation costs affect individuals’ tax refund take-up. In collaboration with a local taxation bureau in China, we conducted a randomized field experiment involving approximately 23,000 eligible taxpayers assigned to different intervention groups. Using administrative data, we tracked their tax refund filing activities during the settlement period. Results show that awareness-enhancing interventions increased take-up by 2.19 percentage points, whereas cost-reduction efforts yielded limited or unintended negative effects.",
@@ -2399,6 +2416,21 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "災害管理專業領域日益將社會公平視為核心價值，然而，卻鮮少關注地方災害管理組織是否具備實施以公平為導向之實務的能力。本探索性研究借鑒能力建構框架，分析了來自一項針對美國災害管理人員的全國性追蹤調查數據，旨在從適應性能力的視角檢視組織推進社會公平的能力。研究結果顯示，儘管政治、技術、財務和管理能力均很重要，但財務能力是最關鍵的限制因素。受訪者優先考慮為人力、社區推廣與教育以及可近用公共資源的開發提供額外資金。結果突顯了資源稀缺如何影響地方層級的公平追求，並強調了將公平目標與組織能力投資相結合的必要性。本研究為災害管理人員在將公平承諾轉化為行動方面所面臨的實際挑戰提供了見解。"
+  },
+  {
+   "doi": "10.1111/padm.70082",
+   "title": "Agile Digital Transformation and the Rule of Law: Perks and Perils in a Belgian and a Dutch Public Sector Organization",
+   "abstract": "This paper examines the interplay between agile digital transformation and the rule of law within the public sector, focusing on case studies from a semi‐large municipal government in the Netherlands and a department of the Flemish regional government in Belgium. Drawing on expert interviews, the paper explores how agile methods, championed for flexibility, interact with existing administrative routines and affect rule of law principles that prioritize consistency. Theoretically, the paper builds on public administration scholarship concerning administrative routines and the rule of law. Empirically, the paper shows that agile methods align well with administrative routines that prioritize decentralized leadership and collaboration. Moreover, it shows that agile approaches can foster, rather than threaten, the rule of law: many legal uncertainties arise not from agile practices themselves but from existing complexities in laws and policies, highlighting a need for stronger technical precision in lawmaking and administrative awareness in digital implementation.",
+   "authors": [
+    "Shirley Kempeneer"
+   ],
+   "journal": "Public Administration",
+   "url": "https://doi.org/10.1111/padm.70082",
+   "date": "2026-08-18",
+   "first_seen": "2026-08-18",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "本文探討敏捷數位轉型與公共部門法治之間的相互作用，著重於荷蘭一個中型規模市政府以及比利時法蘭德斯地區政府一個部門的案例研究。透過專家訪談，本文探討以靈活性著稱的敏捷方法，如何與既有行政慣例互動，並影響以一致性為優先的法治原則。理論上，本文立基於關於行政慣例與法治的公共行政學術研究。實證上，本文顯示敏捷方法與優先考量分權領導和協作的行政慣例高度契合。此外，本文指出敏捷方法能促進而非威脅法治：許多法律不確定性並非源於敏捷實踐本身，而是源於既有法律和政策的複雜性，凸顯了在立法上需具備更高的技術精確度，以及在數位實施中提升行政意識的必要性。"
   }
  ]
 }
