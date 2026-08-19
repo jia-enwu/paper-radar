@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-18T22:10:43+00:00",
+ "updated": "2026-08-19T22:13:00+00:00",
  "papers": [
   {
    "doi": "10.1080/10967494.2026.2706796",
@@ -973,6 +973,24 @@
    "abstract_zh": "作者聲明無利益衝突。本文不適用資料分享，因為在本研究期間未產生或分析任何資料集。"
   },
   {
+   "doi": "10.1080/10967494.2026.2701849",
+   "title": "Managers as message makers: a conjoint experiment on information framing and citizen support for local sales tax referenda",
+   "abstract": "",
+   "authors": [
+    "Whitney Afonso",
+    "Zachary Mohr"
+   ],
+   "journal": "International Public Management Journal",
+   "url": "https://doi.org/10.1080/10967494.2026.2701849",
+   "date": "2026-08-19",
+   "first_seen": "2026-08-19",
+   "score": 10.0,
+   "matched": [
+    "conjoint"
+   ],
+   "abstract_zh": ""
+  },
+  {
    "doi": "10.1111/padm.70072",
    "title": "Balancing Neutral and Responsive Competences in the Context of Functional Politicization",
    "abstract": "Democratic governments can legitimately expect permanent civil servants to undertake functionally politicized tasks, such as providing political‐tactical advice. However, safeguarding the neutrality and legitimacy of a permanent civil service in the context of functional politicization necessitates that political considerations do not override professional judgment or impede the delivery of free, frank and fearless advice. Although existing research has documented functional politicization in permanent civil services situated in different politico–administrative systems, its behavioral implications remain insufficiently explored. Drawing on a survey of 901 senior permanent civil servants in managerial positions across Denmark's central, regional and local governments, this study finds that the engagement in functionally politicized tasks is associated with a higher likelihood of altering or omitting professional input in response to perceived political pressures. However, the study finds no significant relationship between functional politicization and civil servants' willingness to voice concerns to their superiors, which suggests that their capacity to provide free, frank and fearless advice remains intact.",
@@ -1212,6 +1230,26 @@
    "abstract_zh": "本研究探討社區劣勢的經濟、種族和生態面向如何影響流向當地人類服務非營利部門的慈善捐款，以及政府支持是否能緩解這些地方性差異。本研究利用一份涵蓋2000年至2019年的創新縣級追蹤資料集，結合敘述性分析與混合效果迴歸模型，以估計直接與調節關係。我們發現，人均私人捐款在經濟匱乏社區中顯著較低，在鄉村社區中則顯著較高，而少數族裔集中度與私人捐款之間並無統計上的顯著關聯。儘管政府資金整體而言會引導私人捐款，但其調節作用具有情境特定性。政府支持並未減輕與經濟匱乏或少數族裔集中度相關的慈善捐款差異，但在鄉村縣市比在都市縣市更能強力引導私人捐款。這些發現突顯了政府支持的權變角色，並強調了制定有針對性的政策策略之必要性，以解決跨社區的慈善捐款差異。"
   },
   {
+   "doi": "10.1093/jopart/muag026",
+   "title": "Conditional Compliance: The Role of Sector and Policy Design in State Sexual Misconduct Policy",
+   "abstract": "The role of principal-agent dynamics in performance and accountability reforms has been a recurring theme in public administration research. Yet, less attention has been dedicated to how the intersection of sector and policy design shapes principal-agent dynamics and subsequent policy outcomes. This study theoretically explores and empirically tests how sector and policy design shape the effects of state legislation that seeks to prevent shirking (mismanagement and underreporting) in the context of sexual misconduct outcomes in U.S. colleges and universities. We code every state policy designed to regulate higher education institutions’ management of sexual misconduct from 2007 to 2018 in the U.S. and leverage a Poisson Pseudo-Maximum Likelihood with a staggered difference-in-differences design to identify the effects. Our findings suggest that both sector and policy design matter: public institutions increase reporting in response to prevention policies that promote education and awareness, but prevention policies have no effect on private institutions. Other policies regulating enforcement and infrastructure produce null effects across both sectors. These findings have important implications for principal-agent theory and policy design research on effective methods for reducing shirking in social equity, accountability, and performance reporting.",
+   "authors": [
+    "Jaeyeong Nam",
+    "Daniel L Fay",
+    "Emily Boykin",
+    "Elizabeth Bell"
+   ],
+   "journal": "Journal of Public Administration Research and Theory",
+   "url": "https://doi.org/10.1093/jopart/muag026",
+   "date": "2026-08-18",
+   "first_seen": "2026-08-19",
+   "score": 6.0,
+   "matched": [
+    "difference-in-differences"
+   ],
+   "abstract_zh": "委託人-代理人動態在績效與課責改革中的作用，一直是公共行政研究中反覆出現的主題。然而，對於部門與政策設計的交織如何塑造委託人-代理人動態及後續政策結果，卻較少有研究探討。本研究從理論上探討並實證檢驗部門與政策設計如何影響旨在防止美國大專院校性不當行為結果中怠忽職守（管理不善與低報）的州立法效果。我們編碼了2007年至2018年間美國所有旨在規範高等教育機構性不當行為管理的州政策，並利用卜瓦松偽最大概似法結合交錯式雙重差分設計來識別其效果。我們的研究結果表明，部門與政策設計均有影響：公立機構因應促進教育與意識的預防政策而增加了報告數量，但預防政策對私立機構沒有影響。其他規範執法與基礎設施的政策，對兩個部門而言均產生無效結果。這些發現對於委託人-代理人理論以及關於社會公平、課責與績效報告中減少怠忽職守之有效方法的政策設計研究，具有重要啟示。"
+  },
+  {
    "doi": "10.1111/puar.70184",
    "title": "Governing Before the State: Indigenous Javanese Administrative Theory",
    "abstract": "Public administration scholarship often treats the Weberian ideal type as a universal model of bureaucracy, making governance arrangements that differ from it appear deficient rather than different. A decolonizing approach instead asks whether non‐Western historical records can offer alternative ways of theorizing governance. This study explores that possibility through the Nagarakretagama, a 14th‐century Javanese court eulogy composed by Mpu Prapanca in 1365, which predates Machiavelli's The Prince by 148 years. Qualitative content analysis of all 98 cantos identifies five governance domains: bureaucratic hierarchy, mandala‐based territorial administration, conditional fiscal exemptions, a legal order combining written law and custom, and ceremonial practices integrated with administration. These dimensions show how the Javanese empire organized authority, territory, revenue, law, and legitimacy through institutional arrangements that differ from the Weberian model. Reading this governance system as theory reveals an alternative conceptualization of administration and advances a decolonizing, pluriversal approach to public administration.",
@@ -1394,6 +1432,25 @@
     "survey experiment"
    ],
    "abstract_zh": "關於認知偏誤（例如社會與歷史參考點以及負面偏誤）如何影響公民對政府績效評估的實驗，產生了不一的結果，這些結果通常來自西方脈絡，且側重於單一參考點。為了解決這些不足，我們在香港複製（N = 3710）並擴展（N = 2356）了Olsen的「與什麼相比？」研究，以探討多個社會與歷史參考點之間的交互作用。在複製研究中發現了非常低的基準線，同時，關於參考點在公民績效評估和負面偏誤中的重要性，僅發現了微不足道的證據。在擴展研究中，我們發現 (1) 當同時向參與者呈現社會與歷史參考點時，若提供負面資訊，其影響會更強；以及 (2) 歷史與社會參考點組合的影響在不同政策領域中有所差異。儘管問卷實驗可能存在雜訊，本研究證明了複製研究的價值，以質疑認知偏誤的普遍性。"
+  },
+  {
+   "doi": "10.1111/puar.70178",
+   "title": "To Add Insult to Injury: Exploring the Impact of Policy Inequity on Administrative Burden",
+   "abstract": "The relationship between inequity and administrative burden constitutes a pivotal concern in the realm of public administration and policy, but how policy inequity (i.e., inequity in policy implementation) influences administrative burden has garnered scant attention. The present study employs data about public assistance programs in China spanning from 2015 to 2017 to examine the consequences of policy inequity on administrative burden. The empirical findings underscore that policy inequity augments psychological and compliance costs while concurrently diminishing citizens' participation in welfare programs, thereby indicating that policy inequity intensifies administrative burden. Notably, individual‐level social capital and contextual‐level information transparency in terms of public exposure related to welfare approval and receipt significantly moderate this relationship. Contrary to our theoretical expectations, social capital and public exposure amplify, rather than dampen, the impact of policy inequity on administrative burden. This study highlights the policy inequity lens and offers important implications for burden reduction.",
+   "authors": [
+    "Yongzheng Yang",
+    "Qingqing Zhang",
+    "Peng Liu"
+   ],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70178",
+   "date": "2026-08-19",
+   "first_seen": "2026-08-19",
+   "score": 4.0,
+   "matched": [
+    "transparency"
+   ],
+   "abstract_zh": "不平等與行政負擔之間的關係在公共行政與政策領域中構成一個關鍵議題，但政策不平等（亦即政策執行中的不平等）如何影響行政負擔卻鮮少受到關注。本研究採用中國2015年至2017年公共援助計畫的資料，旨在檢視政策不平等對行政負擔的影響。實證結果顯示，政策不平等增加了心理成本與順從成本，同時降低了公民參與福利計畫的程度，藉此指出政策不平等加劇了行政負擔。值得注意的是，個體層次的社會資本以及情境層次上，在福利核准與領取相關的公開揭露方面的資訊透明度，顯著調節了此關係。與我們的理論預期相反，社會資本與公開揭露放大了而非減弱了政策不平等對行政負擔的影響。本研究強調了政策不平等的視角，並為減輕負擔提供了重要的啟示。"
   },
   {
    "doi": "10.1080/10967494.2026.2691390",
@@ -2431,6 +2488,24 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "本文探討敏捷數位轉型與公共部門法治之間的相互作用，著重於荷蘭一個中型規模市政府以及比利時法蘭德斯地區政府一個部門的案例研究。透過專家訪談，本文探討以靈活性著稱的敏捷方法，如何與既有行政慣例互動，並影響以一致性為優先的法治原則。理論上，本文立基於關於行政慣例與法治的公共行政學術研究。實證上，本文顯示敏捷方法與優先考量分權領導和協作的行政慣例高度契合。此外，本文指出敏捷方法能促進而非威脅法治：許多法律不確定性並非源於敏捷實踐本身，而是源於既有法律和政策的複雜性，凸顯了在立法上需具備更高的技術精確度，以及在數位實施中提升行政意識的必要性。"
+  },
+  {
+   "doi": "10.1080/14719037.2026.2720049",
+   "title": "Public sector innovation management in the shadow: why the overlooked sibling still matters",
+   "abstract": "",
+   "authors": [
+    "Marina Carelli Reis",
+    "Ana Paula Franco Paes Leme Barbosa",
+    "Jacob Brix",
+    "Mario Sergio Salerno"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2720049",
+   "date": "2026-08-19",
+   "first_seen": "2026-08-19",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
   }
  ]
 }
