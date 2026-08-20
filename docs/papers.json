@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-19T22:13:00+00:00",
+ "updated": "2026-08-20T22:15:49+00:00",
  "papers": [
   {
    "doi": "10.1080/10967494.2026.2706796",
@@ -1048,6 +1048,26 @@
    "abstract_zh": "過去四十年來，民主體制內悄然發生著深具影響力的變化，儘管這些變化鮮少以顯而易見的方式呈現。兩本近期出版的書籍，分別來自公共行政學術領域的不同面向，從各自獨特的視角探討這項轉變。Karl Löfgren 和 Patrik Hall 合著的《新公共官僚體制》，以及由 Taco Brandsen、Ina Radtke、A. Paula Rodriguez Müller 和 Trui Steen 主編的合輯《公共服務數位協同生產：公民、挑戰與案例》，兩者並非被構思為配套作品。它們的論述語調各異，並面向部分重疊的讀者群。然而，當兩者並列閱讀時，卻能激盪出一些火花。這份張力並非偶然，它深具啟發性。"
   },
   {
+   "doi": "10.1111/puar.70185",
+   "title": "Democratic Backsliding and Governance Outcomes: Measuring Administrative and Political Channels of Decline",
+   "abstract": "Democratic backsliding has emerged as a defining political challenge of the contemporary era, yet systematic cross‐national evidence linking it to governance outcomes remains scarce. This article argues that backsliding affects governance through two analytically distinct channels: a political accountability channel, whereby weakened contestation and oversight reduce the external costs of poor performance; and an administrative channel, through which executive politicization erodes meritocratic recruitment and bureaucratic impartiality. Using a country‐year panel of 86 countries from 1996 to 2024 and generalized structural equation models, we decompose the direct, indirect, and total effects of backsliding on government effectiveness, regulatory quality, and control of corruption across stages of democratic decline. The findings show that governance deterioration is stage‐specific, channel‐specific, and outcome‐specific, following a nonlinear, U‐shaped pattern in which complete erosion—rather than autocratic reversion—produces the largest governance losses.",
+   "authors": [
+    "David Ibañez",
+    "Ricardo A. Bello‐Gómez"
+   ],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70185",
+   "date": "2026-08-20",
+   "first_seen": "2026-08-20",
+   "score": 8.0,
+   "matched": [
+    "bureaucra",
+    "recruitment",
+    "corruption"
+   ],
+   "abstract_zh": "民主倒退已成為當代一個關鍵的政治挑戰，然而，將其與治理成果連結的系統性跨國證據仍然稀缺。本文主張，民主倒退透過兩個分析上截然不同的管道影響治理：一個是政治課責管道，藉此，弱化的競爭與監督降低了績效不佳的外部成本；另一個是行政管道，透過此，行政部門的政治化侵蝕了功績制招募與官僚公正性。運用涵蓋1996年至2024年間86個國家的國家-年度面板資料，並採用廣義結構方程模型，我們分解了民主倒退對於政府效能、法規品質與貪腐控制的直接、間接與總體效應，橫跨民主衰退的各個階段。研究結果顯示，治理惡化具有階段特定性、管道特定性與成果特定性，並呈現非線性、U型模式，其中，完全的侵蝕—而非專制復辟—導致了最大的治理損失。"
+  },
+  {
    "doi": "10.1177/02750740261457069",
    "title": "Experimental Evidence on the Effect of Decision Justification Strategies on Citizen Perceptions of Government",
    "abstract": "Abundant literature documents a range of factors that shape citizen perceptions of government. However, attention to how the justification of a policy decision shapes citizen perceptions remains limited. In this study, we consider how justifications influence citizen trust and legitimacy through a 2 × 2 × 2 pre-registered factorial survey experiment that manipulates justification strategy, policy position, and policy type. Results indicate that opposing positions reduce trust and legitimacy while the context of a highly polarized policy has the opposite effect. Emotive-based strategies decrease trust but do not affect legitimacy. Further, the effect of a supportive or opposing position varies by level of policy polarization.",
@@ -1793,6 +1813,23 @@
    "abstract_zh": ""
   },
   {
+   "doi": "10.1111/puar.70180",
+   "title": "Expansive Public Service Delivery: Advancing Public Value Governance",
+   "abstract": "Public administration has traditionally emphasized the normative ideal that public agencies have a responsibility to improve the lives of communities through public service delivery. We turn to public libraries to explore possibilities for what we call Expansive Public Service Delivery. Expansive Public Service Delivery is defined by a mission to serve all, professional and ethical responsibilities, and proactive responsiveness through outreach and (re)assessment. Public libraries have long aimed to improve communities and advance democracy by providing open, free information access to all. Today, they also proactively seek to expand their services to underserved groups ensuring their relevance and mission achievement. This research draws from 25 in‐depth qualitative interviews to explore librarian narratives to identify four core responsibilities that constitute Expansive Public Service Delivery. We conclude with a discussion of how service for all, professionalism, ethical responsibility, and reflexive decision‐making around community needs can result in more vibrant, sustainable public organizations.",
+   "authors": [
+    "Mary K. Feeney",
+    "Julie Langer",
+    "Justin M. Stritch"
+   ],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70180",
+   "date": "2026-08-20",
+   "first_seen": "2026-08-20",
+   "score": 2.0,
+   "matched": [],
+   "abstract_zh": "公共行政傳統上強調一種規範性理想，即公共機關負有透過公共服務提供來改善社區生活之責。本研究轉向公共圖書館，以探討我們稱之為「擴展性公共服務提供」的可能性。「擴展性公共服務提供」之定義為：以服務全民為使命，並透過外展服務與（重新）評估，展現專業與倫理責任及主動回應。公共圖書館長期以來致力於透過向全民提供開放且免費的資訊近用，以改善社區並促進民主。現今，他們也主動尋求將服務擴展至服務不足的族群，以確保其相關性與使命達成。本研究取材自 25 份深度質性訪談，探討圖書館員的敘事，以識別出構成擴展性公共服務提供的四項核心責任。本文最後將討論服務全民、專業精神、倫理責任以及圍繞社區需求的反思性決策，如何能促成更具活力且永續的公共組織。"
+  },
+  {
    "doi": "10.1080/14719037.2026.2685252",
    "title": "Unleashing the potential of participative budgeting practices in Public Healthcare Organizations: The drivers of psychology-based budgeting research",
    "abstract": "Since doctors heading operational units have become budget holders, the hybrid nature of doctor-managers exposes them to risks of role ambiguity. Drawing on psychology-based budgeting research, this study explores how participative budgeting (PB) can enhance managerial responses to budgetary responsibilities. Using data from 131 doctor-managers in Italian public healthcare organizations, we found that providing satisfactory budgetary information influences doctor-managers’ perceptions of organizational support (POS). The ‘reciprocating’ response driven by POS strengthens doctor-managers’ motivation to achieve budgetary goals and involvement in PB, acting as an enabling condition for role hybridization. This results in improvements in psychological well-being and organizational identification.",
@@ -2506,6 +2543,21 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": ""
+  },
+  {
+   "doi": "10.1177/02750740261478911",
+   "title": "Partisanship, Public Service Values, and Public Service Recognition Week Proclamations",
+   "abstract": "Since 1985, Public Service Recognition Week acknowledges the role of government employees in American democracy. Building upon the study of public service values, this research investigates gubernatorial proclamations issued in 2025, treating that years as a crucial case for the study of government employee recognition. Despite instability in the U.S. federal government, state-level proclamations illustrate a consistent emphasis on common public service values, including commitment, integrity, and professionalism. The analysis of proclamation content shows some variation in the values emphasized by the two major political parties, but no statistically discernable relationship between gubernatorial party and proclamation issuance. Still, only about one third of U.S. governors issued proclamations for Public Service Recognition Week in 2025, pointing to the need for ongoing scrutiny of employee recognition practices at the state and national level. This research closes by comparing state-level action to presidential proclamations from 1987 to 2024 and discusses implications for the application of public service value theory to the study of state government employment and employee recognition.",
+   "authors": [
+    "Eric S. Zeemering"
+   ],
+   "journal": "The American Review of Public Administration",
+   "url": "https://doi.org/10.1177/02750740261478911",
+   "date": "2026-08-20",
+   "first_seen": "2026-08-20",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "自1985年起，公務人員表揚週旨在肯定公務人員在美國民主體制中的角色。本研究立基於對公共服務價值觀的研究，探討2025年發布的州長文告，將該年度視為研究政府員工表揚的關鍵案例。儘管美國聯邦政府存在不穩定性，州級文告仍展現出對共同公共服務價值觀的一致強調，包括奉獻、廉正和專業精神。對文告內容的分析顯示，兩大主要政黨在強調的價值觀上存在一些差異，但州長所屬政黨與文告發布之間並無統計上顯著的關聯。然而，僅約三分之一的美國州長在2025年發布了公務人員表揚週文告，這顯示需要持續審視州和國家層級的員工表揚做法。本研究最後透過比較州級行動與1987年至2024年間的總統文告，並討論了公共服務價值理論應用於州政府僱用和員工表揚研究的意涵。"
   }
  ]
 }
