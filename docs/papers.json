@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-20T22:15:49+00:00",
+ "updated": "2026-08-21T22:11:51+00:00",
  "papers": [
   {
    "doi": "10.1080/10967494.2026.2706796",
@@ -72,6 +72,28 @@
     "bureaucra"
    ],
    "abstract_zh": "人工智慧 (AI) 越來越多地被運用於第一線官僚互動中，催生了人工智慧第一線官僚 (AI SLBs)。然而，與AI第一線官僚協同工作的特定屬性如何影響對公共部門職位的偏好，仍了解甚少。我們對香港的碩士班應屆畢業生進行了一項離散選擇實驗 (n = 1,320 個觀察值) 和後續訪談 (n = 40 位)，旨在檢視五項AI第一線官僚部署屬性之間的權衡：AI第一線官僚的部署強度、績效、決策自主性、職場AI培訓以及AI技能發展補助。結果顯示，參與者偏好具有較低AI第一線官僚決策自主性、AI績效與人類相當、提供AI相關培訓以及較高AI技能發展補助的公共部門職位。部署強度並非顯著的預測因子。本研究透過識別哪些人機協作屬性對潛在工作者最為重要，推進了AI時代公共部門就業偏好相關的文獻。鑑於來自這個策略性選取群體的發現可能無法推論至所有公共部門求職者，我們呼籲進一步研究，檢視更廣泛涉及公共部門就業的利害關係人。"
+  },
+  {
+   "doi": "10.1177/02750740261478901",
+   "title": "Why Street-Level Bureaucrats Leave: The Effects of Organizational Transparency and Role Conflict",
+   "abstract": "Street-level bureaucrats often lack workplace clarity, which contributes to higher turnover. Drawing on street-level bureaucracy theory and the Job Demands–Resources model, this study examines how organizational transparency and role conflict, two dimensions of workplace clarity, shape turnover intentions among social workers in Chinese nonprofit organizations. Using multilevel data from the China Social Work Longitudinal Study, we find that organizational transparency reduces and role conflict increases turnover intentions. Value fit mediates both relationships, and job autonomy moderates them by enhancing the benefits of organizational transparency and buffering the harms of role conflict. Findings validate the extension of street-level bureaucracy theory to the nonprofit context and offer actionable insights for improving workforce stability in a complex governance environment.",
+   "authors": [
+    "Tingzhong Huang",
+    "Wenyan Tu"
+   ],
+   "journal": "The American Review of Public Administration",
+   "url": "https://doi.org/10.1177/02750740261478901",
+   "date": "2026-08-21",
+   "first_seen": "2026-08-21",
+   "score": 56.0,
+   "matched": [
+    "street-level bureaucrat",
+    "street-level",
+    "bureaucra",
+    "turnover",
+    "transparency"
+   ],
+   "abstract_zh": "街頭官僚常缺乏工作場域清晰度，此乃導致較高離職率的原因。本研究援引街頭官僚理論與工作要求-資源模型，探討組織透明度與角色衝突（此為工作場域清晰度的兩個面向）如何影響中國非營利組織社工人員的離職意圖。運用「中國社會工作縱貫研究」的多層次資料，我們發現組織透明度降低離職意圖，而角色衝突則提高離職意圖。價值契合中介這兩種關係，而工作自主性則透過增強組織透明度的益處並緩衝角色衝突的危害來調節這些關係。研究結果驗證了街頭官僚理論在非營利場域的延伸性，並為在複雜治理環境中提升勞動力穩定性提供了具體可行的見解。"
   },
   {
    "doi": "10.1111/padm.70071",
@@ -1830,6 +1852,29 @@
    "abstract_zh": "公共行政傳統上強調一種規範性理想，即公共機關負有透過公共服務提供來改善社區生活之責。本研究轉向公共圖書館，以探討我們稱之為「擴展性公共服務提供」的可能性。「擴展性公共服務提供」之定義為：以服務全民為使命，並透過外展服務與（重新）評估，展現專業與倫理責任及主動回應。公共圖書館長期以來致力於透過向全民提供開放且免費的資訊近用，以改善社區並促進民主。現今，他們也主動尋求將服務擴展至服務不足的族群，以確保其相關性與使命達成。本研究取材自 25 份深度質性訪談，探討圖書館員的敘事，以識別出構成擴展性公共服務提供的四項核心責任。本文最後將討論服務全民、專業精神、倫理責任以及圍繞社區需求的反思性決策，如何能促成更具活力且永續的公共組織。"
   },
   {
+   "doi": "10.1111/padm.70085",
+   "title": "Face‐to‐Face With Administrative Burdens: Design Simplification, Emotional Costs, and Procedural Outcomes in Digital Welfare Applications",
+   "abstract": "Recent scholarship on administrative burden has increasingly focused on psychological costs, design interventions, and digital burdens. This study combines these interests and examines the psychological costs of negative emotions during administrative encounters at varying levels of digital maturity. Building on affective events theory and employing facial coding in a controlled experiment, the study demonstrates that negative emotions rise during bureaucratic encounters, with frustration resulting in more errors made by applicants. Simplifying the procedure through pre‐filled forms does not reduce negative emotional arousal; however, it enhances satisfaction with the procedure. Vulnerable citizens, as indicated by low education and foreign citizenship, benefit more from this informational integration than other groups, suggesting that procedural redesign can enhance the inclusiveness of public service delivery. Overall, the research advances both scholarly and practical understanding of the emotional dimension of administrative burdens from a process‐oriented perspective, highlighting the persistent challenge of reducing emotional costs to enhance citizen experiences.",
+   "authors": [
+    "Fabian Hattke",
+    "Judith Hattke",
+    "David Hensel",
+    "Pamela Herd",
+    "Janne Kalucza",
+    "Donald Moynihan",
+    "Rick Vogel"
+   ],
+   "journal": "Public Administration",
+   "url": "https://doi.org/10.1111/padm.70085",
+   "date": "2026-08-21",
+   "first_seen": "2026-08-21",
+   "score": 2.0,
+   "matched": [
+    "bureaucra"
+   ],
+   "abstract_zh": "近期關於行政負擔的學術研究越來越關注心理成本、設計介入和數位負擔。本研究結合這些關注點，探討在不同數位成熟度下，行政互動中負面情緒所產生的心理成本。本研究立基於情感事件理論，並在一項控制實驗中採用臉部編碼，結果顯示在官僚互動中負面情緒會升高，且挫折感會導致申請人犯下更多錯誤。透過預填表格簡化程序並未減少負面情緒的激發；然而，它卻能提升對程序的滿意度。弱勢公民，表現為低教育程度和外國公民身份者，從這種資訊整合中獲益比其他群體更多，這表明程序再設計能提升公共服務提供的包容性。總體而言，本研究從過程導向的角度，增進了學術和實務兩方面對行政負擔情感層面的理解，突顯了減少情感成本以提升公民體驗的持續挑戰。"
+  },
+  {
    "doi": "10.1080/14719037.2026.2685252",
    "title": "Unleashing the potential of participative budgeting practices in Public Healthcare Organizations: The drivers of psychology-based budgeting research",
    "abstract": "Since doctors heading operational units have become budget holders, the hybrid nature of doctor-managers exposes them to risks of role ambiguity. Drawing on psychology-based budgeting research, this study explores how participative budgeting (PB) can enhance managerial responses to budgetary responsibilities. Using data from 131 doctor-managers in Italian public healthcare organizations, we found that providing satisfactory budgetary information influences doctor-managers’ perceptions of organizational support (POS). The ‘reciprocating’ response driven by POS strengthens doctor-managers’ motivation to achieve budgetary goals and involvement in PB, acting as an enabling condition for role hybridization. This results in improvements in psychological well-being and organizational identification.",
@@ -2558,6 +2603,26 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "自1985年起，公務人員表揚週旨在肯定公務人員在美國民主體制中的角色。本研究立基於對公共服務價值觀的研究，探討2025年發布的州長文告，將該年度視為研究政府員工表揚的關鍵案例。儘管美國聯邦政府存在不穩定性，州級文告仍展現出對共同公共服務價值觀的一致強調，包括奉獻、廉正和專業精神。對文告內容的分析顯示，兩大主要政黨在強調的價值觀上存在一些差異，但州長所屬政黨與文告發布之間並無統計上顯著的關聯。然而，僅約三分之一的美國州長在2025年發布了公務人員表揚週文告，這顯示需要持續審視州和國家層級的員工表揚做法。本研究最後透過比較州級行動與1987年至2024年間的總統文告，並討論了公共服務價值理論應用於州政府僱用和員工表揚研究的意涵。"
+  },
+  {
+   "doi": "10.1080/14719037.2026.2720045",
+   "title": "Towards inclusive prosperity: comparative analysis of Indigenous procurement policies in Canada, Australia, and New Zealand",
+   "abstract": "",
+   "authors": [
+    "Irene Henriques",
+    "Rick Colbourne",
+    "Christian Eva",
+    "Jesse Pirini",
+    "Barbara Allen",
+    "Ana Maria Peredo"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2720045",
+   "date": "2026-08-21",
+   "first_seen": "2026-08-21",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
   }
  ]
 }
