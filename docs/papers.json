@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21T22:11:51+00:00",
+ "updated": "2026-08-22T22:11:17+00:00",
  "papers": [
   {
    "doi": "10.1080/10967494.2026.2706796",
@@ -500,6 +500,24 @@
    "abstract_zh": "我們探討公民對行為干預的支持，區分透過選擇設計（推力，Nudge）利用公民有限理性（bounded rationality）的干預措施，以及透過審議式論壇（思力，Think）促進反思以挑戰有限理性的干預措施。我們也檢視政府信任在形塑這些偏好上的作用。兩項涉及3,010名美國參與者的實驗結果顯示，公民更願意支持「思力」而非「推力」。相較於「思力」，「推力」的採用似乎不會影響政府信任；然而，鼓勵更高程度的政府信任對「推力」的支持有比對「思力」更強的影響。"
   },
   {
+   "doi": "10.1080/10967494.2026.2701849",
+   "title": "Managers as message makers: a conjoint experiment on information framing and citizen support for local sales tax referenda",
+   "abstract": "Local option sales taxes in the United States are an interesting form of direct democracy that is influenced directly by public managers. The referenda, or ballot measures, in which people vote on sales taxes have multiple features that can be presented in a variety of ways. As such, they represent a unique opportunity to study the behavioral impact of options and information on citizen choice. With this research, we develop a novel experiment that uses the logic of a conjoint design by varying all of the key features in the referenda, but presents that information in a paragraph form that mimics the format of actual referenda. Results of this sales tax ballot conjoint experiment show that, in general, people only focus on a few key pieces of information, but specific sub-groups are interested in more and different features of the proposed sales tax. This suggests that managers may have more influence among key demographics, and knowing the attributes that matter to those demographics may help shape how sales tax ballot referenda are presented.",
+   "authors": [
+    "Whitney Afonso",
+    "Zachary Mohr"
+   ],
+   "journal": "International Public Management Journal",
+   "url": "https://doi.org/10.1080/10967494.2026.2701849",
+   "date": "2026-08-19",
+   "first_seen": "2026-08-19",
+   "score": 20.0,
+   "matched": [
+    "conjoint"
+   ],
+   "abstract_zh": "美國的「地方選擇性銷售稅」是一種有趣的直接民主形式，直接受到公共管理者的影響。人們針對銷售稅進行投票的公民投票案（或稱投票議案）具有多種特徵，且能以多種方式呈現。因此，它們提供了一個獨特的機會，以研究選項與資訊對公民選擇的行為影響。本研究開發了一項新穎的實驗，採用聯合設計（conjoint design）的邏輯，透過改變公民投票案中的所有關鍵特徵，並以模仿實際公民投票案格式的段落形式呈現這些資訊。這項銷售稅投票聯合實驗的結果顯示，一般而言，人們僅專注於少數關鍵資訊，但特定次群體對擬議銷售稅的更多且不同特徵感興趣。這表明管理者可能在關鍵人口群體中擁有更大的影響力，且了解這些人口群體所重視的屬性，可能有助於形塑銷售稅公民投票案的呈現方式。"
+  },
+  {
    "doi": "10.1177/0734371x261456288",
    "title": "Political Upheaval and Bureaucratic Behavior: Quasi-Experimental Evidence for Public Sector HRM",
    "abstract": "This study employs a quasi-experimental pre–post research design, exploiting a political uprising in Bangladesh as an exogenous shock to examine its effects on the organizational behaviors of public servants. Drawing on a unique pre- and post-uprising survey, the study categorizes bureaucratic behaviors into situational and dispositional responses. The findings show that political instability primarily disrupts context-dependent organizational dynamics (situational), while core individual values (dispositional) remain comparatively stable. Situational behaviors, such as job satisfaction and inter-service relationships, decline significantly following the regime change due to heightened uncertainty, role ambiguity, and job insecurity. In contrast, dispositional behaviors, such as Public Service Motivation (PSM) and Organizational Citizenship Behavior (OCB), remain resilient, suggesting that deeply internalized values are less vulnerable to political disruptions. By distinguishing between situational and dispositional behaviors, the study contributes to understanding bureaucratic resilience during political crises and offers practical implications for public-sector human resource management following political upheaval.",
@@ -638,6 +656,28 @@
     "recruitment"
    ],
    "abstract_zh": "公部門與非營利組織呈現較高的女性就業率，這通常歸因於部門結構與社會角色。為了更深入了解個體行為如何動態地促成這些獨特的比例，本研究將公部門與非營利組織的就業現象拆解為性別化的吸引與依附模式。運用存活分析並追蹤「1997年全國青年縱貫調查」的世代群體，本研究發現女性對其第一份公部門與非營利組織工作的吸引力高於男性，體現於其進入此類就業的速度更快。然而，當考量個體在這些部門首次任職的持續時間時，在性別上沒有顯著差異。進一步探究發現，這些部門層級的模式，當拆解以考量性別主導的職業時，是由女性對女性主導職業的更強吸引力所驅動，同時掩蓋了女性從男性主導職業中較高的離職率。研究結果可為公部門與非營利組織的招募與留任策略提供參考。"
+  },
+  {
+   "doi": "10.1111/puar.70188",
+   "title": "Tax Mobilization in Africa: Is the Secret Hidden in Women's Political Empowerment?",
+   "abstract": "This article examines the effects of women's political empowerment (WPE) on tax revenue mobilization using a panel sample of 41 African countries over the 2000–2022 period. Utilizing the system Generalized Method of Moments, the empirical results demonstrate that WPE significantly enhances tax revenue mobilization in Africa. This finding remains robust to alternative measures of both WPE and tax revenue. Furthermore, beyond a specific turning point, increased WPE tends to diminish tax revenue mobilization. Finally, the study highlights that WPE operates through several transmission channels, including corruption control, the size of the informal economy, and female labor force participation. In terms of public policy, strengthening gender quotas within the African political sphere is crucial to enhancing tax mobilization. Nonetheless, given the threshold effects identified in this relationship, policymakers must prioritize the quality of women's political representation rather than focusing solely on increasing their numerical representation within political decision‐making circles.",
+   "authors": [
+    "Gaston Brice Nkoumou Ngoa",
+    "Donald Ferdinand Okere Atanga",
+    "Marie Laure Belomo Onguene"
+   ],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70188",
+   "date": "2026-08-22",
+   "first_seen": "2026-08-22",
+   "score": 17.0,
+   "matched": [
+    "representation",
+    "gender quota",
+    "gender",
+    "corruption"
+   ],
+   "abstract_zh": "本研究旨在探討女性政治賦權 (WPE) 對稅收動員的影響，採用2000年至2022年間41個非洲國家的面板樣本。運用系統廣義動差法，實證結果顯示WPE顯著提升非洲的稅收動員能力。這項發現對於WPE和稅收的替代衡量方式仍具穩健性。此外，超過某個特定轉折點後，WPE的增加反而會降低稅收動員能力。最後，本研究指出WPE透過數個傳遞管道發揮作用，包括貪腐控制、非正式經濟規模以及女性勞動參與率。在公共政策方面，強化非洲政治領域中的性別配額對於提升稅收動員至關重要。然而，鑑於此關係中存在門檻效應，政策制定者必須優先考慮女性政治代表的品質，而非僅僅著重於增加她們在政治決策圈中的人數。"
   },
   {
    "doi": "10.1080/10967494.2026.2684482",
@@ -995,24 +1035,6 @@
    "abstract_zh": "作者聲明無利益衝突。本文不適用資料分享，因為在本研究期間未產生或分析任何資料集。"
   },
   {
-   "doi": "10.1080/10967494.2026.2701849",
-   "title": "Managers as message makers: a conjoint experiment on information framing and citizen support for local sales tax referenda",
-   "abstract": "",
-   "authors": [
-    "Whitney Afonso",
-    "Zachary Mohr"
-   ],
-   "journal": "International Public Management Journal",
-   "url": "https://doi.org/10.1080/10967494.2026.2701849",
-   "date": "2026-08-19",
-   "first_seen": "2026-08-19",
-   "score": 10.0,
-   "matched": [
-    "conjoint"
-   ],
-   "abstract_zh": ""
-  },
-  {
    "doi": "10.1111/padm.70072",
    "title": "Balancing Neutral and Responsive Competences in the Context of Functional Politicization",
    "abstract": "Democratic governments can legitimately expect permanent civil servants to undertake functionally politicized tasks, such as providing political‐tactical advice. However, safeguarding the neutrality and legitimacy of a permanent civil service in the context of functional politicization necessitates that political considerations do not override professional judgment or impede the delivery of free, frank and fearless advice. Although existing research has documented functional politicization in permanent civil services situated in different politico–administrative systems, its behavioral implications remain insufficiently explored. Drawing on a survey of 901 senior permanent civil servants in managerial positions across Denmark's central, regional and local governments, this study finds that the engagement in functionally politicized tasks is associated with a higher likelihood of altering or omitting professional input in response to perceived political pressures. However, the study finds no significant relationship between functional politicization and civil servants' willingness to voice concerns to their superiors, which suggests that their capacity to provide free, frank and fearless advice remains intact.",
@@ -1088,6 +1110,25 @@
     "corruption"
    ],
    "abstract_zh": "民主倒退已成為當代一個關鍵的政治挑戰，然而，將其與治理成果連結的系統性跨國證據仍然稀缺。本文主張，民主倒退透過兩個分析上截然不同的管道影響治理：一個是政治課責管道，藉此，弱化的競爭與監督降低了績效不佳的外部成本；另一個是行政管道，透過此，行政部門的政治化侵蝕了功績制招募與官僚公正性。運用涵蓋1996年至2024年間86個國家的國家-年度面板資料，並採用廣義結構方程模型，我們分解了民主倒退對於政府效能、法規品質與貪腐控制的直接、間接與總體效應，橫跨民主衰退的各個階段。研究結果顯示，治理惡化具有階段特定性、管道特定性與成果特定性，並呈現非線性、U型模式，其中，完全的侵蝕—而非專制復辟—導致了最大的治理損失。"
+  },
+  {
+   "doi": "10.1111/puar.70187",
+   "title": "Sifting Through: Federal Separations in 2025 and Their Implications for Knowledge Loss and Agency Capacity",
+   "abstract": "The federal service experienced unprecedented turnover in the first year of the second Trump administration. Early reports have documented the substantial losses of personnel and the politicization and antagonism underlying those changes. This research breaks down separations over the past year, with a focus on the Deferred Resignation Program (DRP), to understand where turnover occurred and how it affected organizational knowledge and capacity. The analysis examines federal workforce data from January 2015 to December 2025 and reveals that the federal service lost substantial expertise and experience through both voluntary and involuntary means of separation. These results shed light on the fallout from 2025 executive actions, clarify the implications for government capacity, and point out prospective pathways for mitigating damages to the federal service moving forward.",
+   "authors": [
+    "M. Blake Emidy",
+    "Anmol Soni",
+    "Evan Mistur"
+   ],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70187",
+   "date": "2026-08-22",
+   "first_seen": "2026-08-22",
+   "score": 8.0,
+   "matched": [
+    "turnover"
+   ],
+   "abstract_zh": "聯邦公務體系在第二屆川普政府執政第一年經歷了前所未有的離職潮。初步報告已揭示了大量人員流失，以及這些變革背後的政治化與對立。本研究剖析了過去一年的離職情況，聚焦於延遲辭職計畫 (DRP)，旨在了解離職發生的地點及其對組織知識與能力的影響。本分析檢視了從2015年1月至2025年12月的聯邦公務員數據，顯示聯邦公務體系透過自願與非自願兩種離職方式，流失了大量專業知識與經驗。本研究結果闡明了2025年行政命令的後果，釐清了對政府運作能力的影響，並指出未來減輕對聯邦公務體系損害的可能途徑。"
   },
   {
    "doi": "10.1177/02750740261457069",
@@ -1495,6 +1536,23 @@
    "abstract_zh": "不平等與行政負擔之間的關係在公共行政與政策領域中構成一個關鍵議題，但政策不平等（亦即政策執行中的不平等）如何影響行政負擔卻鮮少受到關注。本研究採用中國2015年至2017年公共援助計畫的資料，旨在檢視政策不平等對行政負擔的影響。實證結果顯示，政策不平等增加了心理成本與順從成本，同時降低了公民參與福利計畫的程度，藉此指出政策不平等加劇了行政負擔。值得注意的是，個體層次的社會資本以及情境層次上，在福利核准與領取相關的公開揭露方面的資訊透明度，顯著調節了此關係。與我們的理論預期相反，社會資本與公開揭露放大了而非減弱了政策不平等對行政負擔的影響。本研究強調了政策不平等的視角，並為減輕負擔提供了重要的啟示。"
   },
   {
+   "doi": "10.1111/puar.70190",
+   "title": "Informal Authority, Legitimacy Transition, and Institutional Change: A Theory of Advisory Capture",
+   "abstract": "How do informal actors achieve rapid bureaucratic dismantlement without formal authority? Analyzing the Department of Government Efficiency (DOGE) initiative, this article argues that when performance‐based legitimacy displaces procedural legitimacy as the dominant evaluative framework, informal actors can bypass established safeguards and reshape government institutions. Three concepts capture this process: advisory capture , legitimacy regime transition , and constrained coercion . The analysis reveals that dismantlement targets agencies based on political vulnerability rather than functional logic, that informal authority becomes institutionalized through formal rulemaking such as the Schedule Policy/Career rule, and that judicial review operates as ongoing contestation rather than definitive constraint. Protecting democratic governance requires defending not only formal rules but the legitimacy regimes within which those rules derive meaning.",
+   "authors": [
+    "Byunggeor Moon"
+   ],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70190",
+   "date": "2026-08-22",
+   "first_seen": "2026-08-22",
+   "score": 4.0,
+   "matched": [
+    "bureaucra"
+   ],
+   "abstract_zh": "非正式行動者如何在缺乏正式權力下，快速拆解官僚體系？本文透過分析政府效率部（DOGE）的倡議，主張當績效導向合法性取代程序合法性，成為主導的評估框架時，非正式行動者便能規避既定保障措施，並重塑政府機構。三個概念捕捉了此一過程：諮詢俘獲、合法性體制轉型，以及受限脅迫。分析顯示，解構的目標機構是基於政治脆弱性而非功能邏輯；非正式權力透過正式法規制定（例如「職務表政策/職業規則」）而制度化；且司法審查是持續的爭議而非決定性的限制。保護民主治理不僅需要捍衛正式規則，更要捍衛這些規則賴以獲得意義的合法性體制。"
+  },
+  {
    "doi": "10.1080/10967494.2026.2691390",
    "title": "Chainsaw or scalpel: which leads to more blame for a service failure when leaders downsize government?",
    "abstract": "The Trump administration’s DOGE attempted to radically downsize U.S. federal agencies. This study aims to clarify whether government leaders are blamed more for service failure when they employ either a DOGE-like (chainsaw) method or a more measured (scalpel) approach. A preregistered experiment was conducted in which respondents were randomly assigned to one of 6 vignettes that presented information about downsizing approaches, a public service failure, and the person or entity directly responsible for the failure. This study produced four main findings. First, people blamed city leaders more for the service failure when they knew a chainsaw approach was used to downsize government, compared to when they were given no information about the approach. Second, people blamed city leaders more when a chainsaw approach was used than when a scalpel approach was used. Third, simply knowing that city leaders had used a downsizing approach was not enough to shift blame away from the frontline employee toward city leaders. Fourth, blame shifted from the frontline employee to city leaders when people learned that a chainsaw approach—rather than a scalpel approach—had been used. The implications for research and practice are that a chainsaw approach is undesirable.",
@@ -1833,6 +1891,26 @@
    "score": 2.0,
    "matched": [],
    "abstract_zh": ""
+  },
+  {
+   "doi": "10.1080/14719037.2026.2720049",
+   "title": "Public sector innovation management in the shadow: why the overlooked sibling still matters",
+   "abstract": "This paper examines innovation management as a deliberate organizational arrangement through which public organizations seek to remain relevant in contexts of uncertainty, technological and societal changes, and bureaucratic constraints. Drawing on a multiple-case study of five national police agencies, the study analyzes what works well and less well in systematic innovation management arrangements. While all agencies established innovation units with similar responsibilities, they differed in how innovation management systems were configured and sustained. Three configurations are identified – Strong Heavyweight, Light Heavyweight, and Lightweight – showing how enabling and constraining mechanisms help explain variation in innovation capacity across highly institutionalized public-sector contexts.",
+   "authors": [
+    "Marina Carelli Reis",
+    "Ana Paula Franco Paes Leme Barbosa",
+    "Jacob Brix",
+    "Mario Sergio Salerno"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2720049",
+   "date": "2026-08-19",
+   "first_seen": "2026-08-19",
+   "score": 2.0,
+   "matched": [
+    "bureaucra"
+   ],
+   "abstract_zh": "本文旨在探討創新管理作為一種刻意的組織安排，公部門組織藉此在不確定性、科技與社會變遷以及官僚體制限制的脈絡中維持其重要性。本研究借鑒對五個國家警察機關的多案例研究，分析系統性創新管理安排中成效與不足之處。儘管各機關皆成立了職責相近的創新單位，但其創新管理系統的建構與維繫方式卻有所差異。本研究歸納出三種配置——強重量級、輕重量級和輕量級——揭示了促成與限制機制如何有助於解釋在高度制度化的公部門脈絡中創新能力的差異。"
   },
   {
    "doi": "10.1111/puar.70180",
@@ -2572,24 +2650,6 @@
    "abstract_zh": "本文探討敏捷數位轉型與公共部門法治之間的相互作用，著重於荷蘭一個中型規模市政府以及比利時法蘭德斯地區政府一個部門的案例研究。透過專家訪談，本文探討以靈活性著稱的敏捷方法，如何與既有行政慣例互動，並影響以一致性為優先的法治原則。理論上，本文立基於關於行政慣例與法治的公共行政學術研究。實證上，本文顯示敏捷方法與優先考量分權領導和協作的行政慣例高度契合。此外，本文指出敏捷方法能促進而非威脅法治：許多法律不確定性並非源於敏捷實踐本身，而是源於既有法律和政策的複雜性，凸顯了在立法上需具備更高的技術精確度，以及在數位實施中提升行政意識的必要性。"
   },
   {
-   "doi": "10.1080/14719037.2026.2720049",
-   "title": "Public sector innovation management in the shadow: why the overlooked sibling still matters",
-   "abstract": "",
-   "authors": [
-    "Marina Carelli Reis",
-    "Ana Paula Franco Paes Leme Barbosa",
-    "Jacob Brix",
-    "Mario Sergio Salerno"
-   ],
-   "journal": "Public Management Review",
-   "url": "https://doi.org/10.1080/14719037.2026.2720049",
-   "date": "2026-08-19",
-   "first_seen": "2026-08-19",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": ""
-  },
-  {
    "doi": "10.1177/02750740261478911",
    "title": "Partisanship, Public Service Values, and Public Service Recognition Week Proclamations",
    "abstract": "Since 1985, Public Service Recognition Week acknowledges the role of government employees in American democracy. Building upon the study of public service values, this research investigates gubernatorial proclamations issued in 2025, treating that years as a crucial case for the study of government employee recognition. Despite instability in the U.S. federal government, state-level proclamations illustrate a consistent emphasis on common public service values, including commitment, integrity, and professionalism. The analysis of proclamation content shows some variation in the values emphasized by the two major political parties, but no statistically discernable relationship between gubernatorial party and proclamation issuance. Still, only about one third of U.S. governors issued proclamations for Public Service Recognition Week in 2025, pointing to the need for ongoing scrutiny of employee recognition practices at the state and national level. This research closes by comparing state-level action to presidential proclamations from 1987 to 2024 and discusses implications for the application of public service value theory to the study of state government employment and employee recognition.",
@@ -2607,7 +2667,7 @@
   {
    "doi": "10.1080/14719037.2026.2720045",
    "title": "Towards inclusive prosperity: comparative analysis of Indigenous procurement policies in Canada, Australia, and New Zealand",
-   "abstract": "",
+   "abstract": "Indigenous procurement is widely promoted as an instrument of economic reconciliation, yet headline gains often mask limited transformational impact. Applying McCrudden’s social procurement framework, we conduct a systematic cross-national comparison of identity-specific procurement architectures across Canada, Australia, and Aotearoa New Zealand. We show that contract values cluster heavily within major metropolitan hubs and narrow industry sectors, leaving remote and early-stage community enterprises marginalized. Furthermore, persistent cross-national data gaps and aggregated reporting conceal these structural inequities while enabling policy distortions like fronting. We recommend structural reforms including regional benchmarks and independent auditing to align procurement with genuine Indigenous economic sovereignty.",
    "authors": [
     "Irene Henriques",
     "Rick Colbourne",
@@ -2622,7 +2682,7 @@
    "first_seen": "2026-08-21",
    "score": 0.0,
    "matched": [],
-   "abstract_zh": ""
+   "abstract_zh": "原住民族採購被廣泛推廣為實現經濟和解的工具，然而其帳面成果往往掩蓋了有限的轉型成效。應用McCrudden的社會採購框架，我們對加拿大、澳洲和奧特亞羅瓦紐西蘭的身份特定採購架構進行了系統性的跨國比較。我們發現契約金額大量集中於主要都會區和狹窄的產業部門，使得偏遠地區及初期發展的社區企業遭到邊緣化。此外，持續存在的跨國資料缺口和彙總報告掩蓋了這些結構性不平等，同時助長了掛名行為等政策扭曲。我們建議進行結構性改革，包括區域性基準和獨立稽核，以使採購與真正的原住民族經濟主權保持一致。"
   }
  ]
 }
