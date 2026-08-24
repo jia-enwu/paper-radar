@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T22:09:14+00:00",
+ "updated": "2026-08-24T22:14:15+00:00",
  "papers": [
   {
    "doi": "10.1080/10967494.2026.2706796",
@@ -441,6 +441,26 @@
     "survey experiment"
    ],
    "abstract_zh": "對公務員的負面抨擊（指對公務員所表達的負面看法）是一種普遍現象。這種對公務員的負面抨擊是否會如理論預期般，降低公務員的績效？我們透過一項針對荷蘭公務員的預先註冊原創性問卷實驗來回答此問題。我們的主要結果顯示，對公務員的負面抨擊並未顯著降低公務員自我報告的整體績效。額外分析證實了我們的主要結果。我們將討論本研究結果如何為對公務員的負面抨擊及其在公共部門中可能產生的影響提供寶貴見解。"
+  },
+  {
+   "doi": "10.1111/padm.70077",
+   "title": "Does Gender Budgeting Improve Women's Well‐Being, Equality, and Empowerment?",
+   "abstract": "The United Nations' fifth Sustainable Development Goal calls for gender equality and empowerment. Gender budgeting (GB) has been proposed as a potential mechanism to reduce gender disparities. This is a novel approach to budgeting that considers the impact of public spending on women and other underrepresented groups. Despite its growing popularity, spreading to over 80 countries since its launch in the 1980s, the effectiveness of GB remains less understood. This study tests whether GB has led to tangible improvements in women's well‐being, equality, and empowerment. We use an event study research design with staggered adoption to analyze data across 47 countries from 2000 to 2023. Our analyses of average and heterogeneous treatment effects reveal short‐ and long‐term impacts; notably, we find significant reductions in maternal mortality ratios and adolescent birth rates, as well as improvements in women's political empowerment.",
+   "authors": [
+    "Marjorie De la Cruz",
+    "Milena I. Neshkova",
+    "Yoon‐Jung Choi"
+   ],
+   "journal": "Public Administration",
+   "url": "https://doi.org/10.1111/padm.70077",
+   "date": "2026-08-24",
+   "first_seen": "2026-08-24",
+   "score": 22.0,
+   "matched": [
+    "gender",
+    "gender budgeting"
+   ],
+   "abstract_zh": "聯合國第五項永續發展目標呼籲實現性別平等與賦權。性別預算（GB）已被提出作為減少性別差距的潛在機制。這是一種新穎的預算編列方法，旨在考量公共支出對女性及其他弱勢群體的影響。儘管性別預算自1980年代推出以來日益普及，已推廣至全球超過80個國家，但其有效性仍有待深入了解。本研究旨在檢驗性別預算是否已為女性的福祉、平等與賦權帶來實質改善。我們採用結合錯開採納的事件研究設計，分析2000年至2023年間47個國家的數據。我們對平均與異質性處理效果的分析揭示了短期與長期影響；值得注意的是，我們發現孕產婦死亡率和青少年生育率顯著下降，以及女性政治賦權的改善。"
   },
   {
    "doi": "10.1080/10967494.2026.2691395",
@@ -1551,6 +1571,25 @@
     "bureaucra"
    ],
    "abstract_zh": "非正式行動者如何在缺乏正式權力下，快速拆解官僚體系？本文透過分析政府效率部（DOGE）的倡議，主張當績效導向合法性取代程序合法性，成為主導的評估框架時，非正式行動者便能規避既定保障措施，並重塑政府機構。三個概念捕捉了此一過程：諮詢俘獲、合法性體制轉型，以及受限脅迫。分析顯示，解構的目標機構是基於政治脆弱性而非功能邏輯；非正式權力透過正式法規制定（例如「職務表政策/職業規則」）而制度化；且司法審查是持續的爭議而非決定性的限制。保護民主治理不僅需要捍衛正式規則，更要捍衛這些規則賴以獲得意義的合法性體制。"
+  },
+  {
+   "doi": "10.1177/02750740261478906",
+   "title": "Cultural Theory, Political Ideology, and Burden Tolerance: The Role of Core Beliefs in Shaping Support for Administrative Burdens",
+   "abstract": "Administrative burdens embedded within many public policies are often politically contentious, such that core values and belief systems can drive either support or opposition. In this paper, we use survey data from US respondents to replicate and extend previous research on the public acceptance of administrative burdens in general. First, we confirm the measure's validity by examining its effects on beliefs across policies that range from highly polarized to less politically contentious. Second, we test the relationship between tolerance of administrative burden and cultural theory (CT) variables that tap into worldview orientations related to hierarchy, egalitarianism, individualism, and fatalism, which previous research has found predictive of policy preferences across a wide range of domains, even after accounting for political ideology and partisanship. We hypothesize that egalitarians and individualists will generally be less tolerant of burdens, while hierarchs will be more accepting of burdensome requirements. However, this effect varies depending on the nature of the burdens and how they relate to perceived threats for each worldview.",
+   "authors": [
+    "Thomas Rabovsky",
+    "Matthew C. Nowlin",
+    "Emily Mee"
+   ],
+   "journal": "The American Review of Public Administration",
+   "url": "https://doi.org/10.1177/02750740261478906",
+   "date": "2026-08-24",
+   "first_seen": "2026-08-24",
+   "score": 4.0,
+   "matched": [
+    "predictive"
+   ],
+   "abstract_zh": "內嵌於許多公共政策中的行政負擔，往往具有政治爭議性，核心價值觀和信仰體系可能驅動人們對其支持或反對。本文利用美國受訪者的調查數據，旨在複製並拓展先前關於公眾對行政負擔普遍接受度的研究。首先，我們透過檢視該衡量指標對橫跨從高度兩極化到較少政治爭議性政策之信念的影響，以確認其效度。其次，我們檢驗行政負擔容忍度與文化理論 (CT) 變項之間的關係，這些變項探討了與層級、平等主義、個人主義和宿命論相關的世界觀取向，先前研究發現這些變項即使在考量了政治意識形態和黨派歸屬之後，仍可預測廣泛領域的政策偏好。我們假設平等主義者和個人主義者通常對負擔的容忍度較低，而層級主義者則較能接受繁瑣的要求。然而，這種影響會因負擔的性質以及它們如何與不同世界觀所感知到的威脅相關而異。"
   },
   {
    "doi": "10.1080/10967494.2026.2691390",
@@ -2683,6 +2722,24 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "原住民族採購被廣泛推廣為實現經濟和解的工具，然而其帳面成果往往掩蓋了有限的轉型成效。應用McCrudden的社會採購框架，我們對加拿大、澳洲和奧特亞羅瓦紐西蘭的身份特定採購架構進行了系統性的跨國比較。我們發現契約金額大量集中於主要都會區和狹窄的產業部門，使得偏遠地區及初期發展的社區企業遭到邊緣化。此外，持續存在的跨國資料缺口和彙總報告掩蓋了這些結構性不平等，同時助長了掛名行為等政策扭曲。我們建議進行結構性改革，包括區域性基準和獨立稽核，以使採購與真正的原住民族經濟主權保持一致。"
+  },
+  {
+   "doi": "10.1111/padm.70087",
+   "title": "Rethinking Top Public Management Through Relational Dynamics: A Systems‐Informed Study of Senior Executives",
+   "abstract": "The complex nature of top public managerial work is widely acknowledged in theory but rarely examined empirically. Existing research has mostly analyzed bivariate relationships among core components of top managerial work in government, including managers' attributes, practices, outcomes, and contexts. Drawing on a systems‐based framework, we investigate how effective top managerial work unfolds as a complex relational practice. We analyze seven cases of long‐serving, distinguished Chilean senior executives through a comprehensive and process‐oriented lens, based on 27 semi‐structured interviews with the managers and members of their personal and professional networks. Our findings indicate how the relational dynamics in which senior public executives engage shape their managerial attributes and practices. Specifically, strategizing, motivation building, and technical expertise are best understood as emerging primarily through interactions within agencies and with external sociopolitical environments. These results qualify perspectives that explain senior public management effectiveness by overemphasizing executives' individual attributes and views, and underscore the need for personnel policies and governance environments that equip managers with the capacities called for by a systems approach to top public management.",
+   "authors": [
+    "Ximena Pizarro‐Bore",
+    "Javier Fuenzalida",
+    "Norma M. Riccucci",
+    "Constanza Faune"
+   ],
+   "journal": "Public Administration",
+   "url": "https://doi.org/10.1111/padm.70087",
+   "date": "2026-08-23",
+   "first_seen": "2026-08-24",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "高階公共管理工作的複雜性在理論上廣泛被認可，卻鮮少有實證研究。既有研究主要分析了政府高階管理工作核心要素（包括管理者的特質、實踐、成果和脈絡）之間的雙變項關係。本研究援引系統取向框架，探討有效的高階管理工作如何作為一種複雜的關係實踐而展開。我們透過全面且著重過程的視角，分析了七位長期任職且表現卓越的智利高階主管案例，研究資料來自對這些主管及其個人與專業網絡成員進行的27次半結構式訪談。我們的研究結果顯示，高階公共主管所參與的關係動態塑造了他們的管理特質與實踐。具體而言，策略制定、動機建立和專業技術最能被理解為主要透過機關內部的互動以及與外部社會政治環境的互動而產生。這些結果修正了過度強調主管個人特質和觀點來解釋高階公共管理效能的觀點，並強調需要人事政策和治理環境來賦予管理者系統取向的高階公共管理所需的能力。"
   }
  ]
 }
