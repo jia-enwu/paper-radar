@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T22:13:36+00:00",
+ "updated": "2026-08-27T02:21:39+00:00",
  "papers": [
   {
    "doi": "10.1080/10967494.2026.2706796",
@@ -50,6 +50,29 @@
     "conjoint"
    ],
    "abstract_zh": "生活經驗代表性官僚理論透過探討種族、族裔和性別以外的特徵，擴展了代表性官僚的範疇。然而，學者尚未關注象徵性代表、交織性與專業素質之間的交織。本文運用生活經驗代表性官僚理論和交織性理論，以理解哪些身份（退伍軍人身份、性別和身心障礙身份）和專業素質，會影響客戶對於希望由哪位官僚協助他們處理行政負擔的偏好。我們分析了來自964名退伍軍人的聯合實驗數據，結果顯示生活經驗、交織性和專業素質都很重要，其中對於反應迅速且有能力的員工有最強烈的偏好。在基於身份的特徵方面，退伍軍人身份和身心障礙身份的代表性，在協助退伍軍人處理與醫療保健相關的行政負擔時，比性別代表性更為顯著。與我們基於交織性理論的預期一致，我們發現身心障礙退伍軍人偏好由具有身心障礙身份的退伍軍人事務部（VA）員工服務，這顯示了生活經驗和交織身份這種組合的重要性。我們發現進一步的證據顯示，交織性在男性受訪者中也很重要；在VA員工為跨性別者的情況下，退伍軍人身份的正面影響被抵銷，這揭示了反跨性別偏見在形塑男性退伍軍人偏好方面的重要性。探索性分析顯示，較弱的專業素質可以抵銷或逆轉共享身份的正面影響，而強大的專業素質則可以彌補代表性的缺失。本研究透過探討各種形式的生活經驗代表性所產生的象徵性代表效果，以及性別代表性和專業素質，並透過交織性視角檢視代表性官僚，對文獻有所貢獻。此外，我們的研究提供了一個新穎的檢視，將身心障礙身份視為一個重要且未被充分研究、並具有象徵性代表效果的身份。"
+  },
+  {
+   "doi": "10.1111/padm.70086",
+   "title": "Negotiating Presence: The Dynamics of Passive Representation Among Ultra‐Orthodox Women in Public Organizations",
+   "abstract": "Studies in representative bureaucracy have focused on whether passive representation translates into active representation. We shift this analytical lens by conceptualizing passive representation not as a static demographic condition or a preliminary stage, but as a dynamic organizational process. Drawing on 15 in‐depth interviews and a focus group with 14 ultra‐Orthodox women serving in mid‐ and senior‐level public positions in Israel, we examine how passive representation is enacted, negotiated, and gradually institutionalized in male‐dominated settings. Findings show how women's underrepresentation structures their entry and advancement through informal expectations and gendered networks, and how women “negotiate presence” by building legitimacy through heightened professionalism, creative networking in the face of gender segregation, and strategic engagement with supportive leaders. Through mentoring and gate‐opening practices, our participants created ripple effects that increased access for others over time. We argue that passive representation is a relational and evolving mechanism shaped by role interpretations and organizational constraints, reshaping access and participation even without formal policy changes.",
+   "authors": [
+    "Maayan Davidovitz",
+    "Rachel Gali Cinamon"
+   ],
+   "journal": "Public Administration",
+   "url": "https://doi.org/10.1111/padm.70086",
+   "date": "2026-08-26",
+   "first_seen": "2026-08-27",
+   "score": 60.0,
+   "matched": [
+    "representative bureaucracy",
+    "active representation",
+    "passive representation",
+    "representation",
+    "gender",
+    "bureaucra"
+   ],
+   "abstract_zh": "關於代表性官僚體制的研究，多半著重於消極代表是否能轉化為積極代表。本文轉變此分析視角，將消極代表概念化為動態的組織過程，而非靜態的人口統計條件或初步階段。本文以 15 份深度訪談和一場由 14 位在以色列擔任中高階公共職位的極端正統派女性參與的焦點團體為基礎，探討在男性主導的環境中，消極代表如何被實踐、協商並逐步制度化。研究結果顯示，女性的低代表性如何透過非正式期望和性別化的網絡，影響其進入和晉升；以及女性如何透過提升專業性、在性別隔離下創造性地建立人際網絡，並策略性地與支持性領導者互動，以建立合法性並「協商其存在」。透過指導和開放機會的實踐，我們的參與者產生了漣漪效應，隨著時間推移增加了他人獲得機會的管道。我們主張，消極代表是一種關係性且不斷演變的機制，它受角色詮釋和組織限制所塑造，即使沒有正式的政策變革，也能重塑機會和參與。"
   },
   {
    "doi": "10.1080/10967494.2026.2674551",
@@ -1151,6 +1174,24 @@
    "abstract_zh": "聯邦公務體系在第二屆川普政府執政第一年經歷了前所未有的離職潮。初步報告已揭示了大量人員流失，以及這些變革背後的政治化與對立。本研究剖析了過去一年的離職情況，聚焦於延遲辭職計畫 (DRP)，旨在了解離職發生的地點及其對組織知識與能力的影響。本分析檢視了從2015年1月至2025年12月的聯邦公務員數據，顯示聯邦公務體系透過自願與非自願兩種離職方式，流失了大量專業知識與經驗。本研究結果闡明了2025年行政命令的後果，釐清了對政府運作能力的影響，並指出未來減輕對聯邦公務體系損害的可能途徑。"
   },
   {
+   "doi": "10.1080/14719037.2026.2723226",
+   "title": "Gender inequality at the street level explained: redoing gender through informal practices",
+   "abstract": "",
+   "authors": [
+    "Ofri Shalev Greenman",
+    "Einat Lavee"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2723226",
+   "date": "2026-08-26",
+   "first_seen": "2026-08-27",
+   "score": 8.0,
+   "matched": [
+    "gender"
+   ],
+   "abstract_zh": ""
+  },
+  {
    "doi": "10.1177/02750740261457069",
    "title": "Experimental Evidence on the Effect of Decision Justification Strategies on Citizen Perceptions of Government",
    "abstract": "Abundant literature documents a range of factors that shape citizen perceptions of government. However, attention to how the justification of a policy decision shapes citizen perceptions remains limited. In this study, we consider how justifications influence citizen trust and legitimacy through a 2 × 2 × 2 pre-registered factorial survey experiment that manipulates justification strategy, policy position, and policy type. Results indicate that opposing positions reduce trust and legitimacy while the context of a highly polarized policy has the opposite effect. Emotive-based strategies decrease trust but do not affect legitimacy. Further, the effect of a supportive or opposing position varies by level of policy polarization.",
@@ -1590,6 +1631,25 @@
     "predictive"
    ],
    "abstract_zh": "內嵌於許多公共政策中的行政負擔，往往具有政治爭議性，核心價值觀和信仰體系可能驅動人們對其支持或反對。本文利用美國受訪者的調查數據，旨在複製並拓展先前關於公眾對行政負擔普遍接受度的研究。首先，我們透過檢視該衡量指標對橫跨從高度兩極化到較少政治爭議性政策之信念的影響，以確認其效度。其次，我們檢驗行政負擔容忍度與文化理論 (CT) 變項之間的關係，這些變項探討了與層級、平等主義、個人主義和宿命論相關的世界觀取向，先前研究發現這些變項即使在考量了政治意識形態和黨派歸屬之後，仍可預測廣泛領域的政策偏好。我們假設平等主義者和個人主義者通常對負擔的容忍度較低，而層級主義者則較能接受繁瑣的要求。然而，這種影響會因負擔的性質以及它們如何與不同世界觀所感知到的威脅相關而異。"
+  },
+  {
+   "doi": "10.1177/02750740261478910",
+   "title": "Disparity in Police Disciplinary Outcomes: The Mediating Effect of Complaint Disposition for Organizational Outgroups",
+   "abstract": "In response to demands for greater police accountability, many departments have adopted policies designed to better regulate the use of force and to make it easier to investigate and punish officers accused of wrongdoing. While not widespread, there is some evidence that these changes have increased disciplinary actions. However, it remains uncertain whether police discipline has been applied equitably across racial and gender groups within departments. Drawing on multiple bodies of scholarship, we develop the expectation that, because of their status as members of organizational outgroups, Black, Hispanic and female officers are likely to be disciplined at higher rates. Importantly, we also argue that racial, ethnic and gender differences in disciplinary outcomes are at least partially mediated by the way in which police departments treat complaints against these officers. We test these hypotheses in data from Chicago's Civilian Office of Police Accountability (COPA) from 1971 through 2018. Analyses of over 249,000 allegations indicate that female and Black officers and officers face a higher likelihood of reprimand and suspension compared to White male officers. Differences across these groups are entirely explained, however, by the greater likelihood that complaints against these officers are deemed sufficiently supported by evidence to warrant disciplinary action. We conclude by discussing the broader implications for understanding employee discipline and the potential impact of recent efforts to enhance police accountability.",
+   "authors": [
+    "Jill Nicholson-Crotty",
+    "Courtney Hahm",
+    "Sean Nicholson-Crotty"
+   ],
+   "journal": "The American Review of Public Administration",
+   "url": "https://doi.org/10.1177/02750740261478910",
+   "date": "2026-08-26",
+   "first_seen": "2026-08-27",
+   "score": 4.0,
+   "matched": [
+    "gender"
+   ],
+   "abstract_zh": "為回應提升警察問責制的要求，許多警政單位已採行政策，旨在更妥善規範武力使用，並使調查和懲處被指控行為不當的員警更容易。儘管尚未普及，但有證據顯示這些變革已增加了懲戒行動。然而，警察懲戒是否已在各單位內部的不同種族和性別群體之間公平應用，仍不確定。借鑒多個學術領域的研究，我們預期非裔、拉丁裔和女性員警因其作為組織外群體成員的地位，更可能受到較高比例的懲戒。重要的是，我們也主張懲戒結果中的種族、族裔和性別差異，至少部分地由警政單位處理針對這些員警的投訴方式所中介。我們利用芝加哥警察問責平民辦公室（COPA）從1971年至2018年的數據來檢驗這些假設。對超過249,000項指控的分析顯示，相較於白人男性員警，女性和非裔員警面臨較高的訓斥和停職可能性。然而，這些群體之間的差異完全可由針對這些員警的投訴更有可能被認為有足夠證據支持，以致應採取懲戒行動來解釋。最後，我們討論對於理解員工懲戒的更廣泛意涵，以及近期提升警察問責制努力的潛在影響。"
   },
   {
    "doi": "10.1080/10967494.2026.2691390",
@@ -2740,6 +2800,37 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "高階公共管理工作的複雜性在理論上廣泛被認可，卻鮮少有實證研究。既有研究主要分析了政府高階管理工作核心要素（包括管理者的特質、實踐、成果和脈絡）之間的雙變項關係。本研究援引系統取向框架，探討有效的高階管理工作如何作為一種複雜的關係實踐而展開。我們透過全面且著重過程的視角，分析了七位長期任職且表現卓越的智利高階主管案例，研究資料來自對這些主管及其個人與專業網絡成員進行的27次半結構式訪談。我們的研究結果顯示，高階公共主管所參與的關係動態塑造了他們的管理特質與實踐。具體而言，策略制定、動機建立和專業技術最能被理解為主要透過機關內部的互動以及與外部社會政治環境的互動而產生。這些結果修正了過度強調主管個人特質和觀點來解釋高階公共管理效能的觀點，並強調需要人事政策和治理環境來賦予管理者系統取向的高階公共管理所需的能力。"
+  },
+  {
+   "doi": "10.1080/14719037.2026.2720755",
+   "title": "Beyond monolithic state logic: how top-down accountability shapes policy implementation",
+   "abstract": "",
+   "authors": [
+    "W. G. Will Zhao"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2720755",
+   "date": "2026-08-26",
+   "first_seen": "2026-08-27",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.1080/14719037.2026.2720043",
+   "title": "Contingent capacity: navigating organizational dependency in Dutch municipal energy transitions",
+   "abstract": "",
+   "authors": [
+    "Negin Salimi",
+    "Stijn van Hiele"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2720043",
+   "date": "2026-08-26",
+   "first_seen": "2026-08-27",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
   }
  ]
 }
