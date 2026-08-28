@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-27T02:21:39+00:00",
+ "updated": "2026-08-28T05:54:29+00:00",
  "papers": [
   {
    "doi": "10.1080/10967494.2026.2706796",
@@ -198,6 +198,28 @@
     "conjoint"
    ],
    "abstract_zh": "提倡強化政府問責制的人士認為，更嚴格的後果將改變公務員的行為。本研究旨在探討更嚴格的問責制度是否會改變公務員的裁量性努力。我們透過對紐約州教師進行聯合分析實驗來探討這個難題。我們的研究結果顯示，在高問責環境下的第一線公務員會優先考慮表現不佳的服務對象，而中等問責環境下的第一線公務員則優先考慮展現高度努力的服務對象。總體而言，教師對於向勤奮且表現不佳的學生提供額外協助，展現出微弱的偏好。"
+  },
+  {
+   "doi": "10.1080/14719037.2026.2723226",
+   "title": "Gender inequality at the street level explained: redoing gender through informal practices",
+   "abstract": "This study examines whether gendered differences in discretion shape inequality among street-level bureaucrats (SLBs). Focusing on the provision of informal personal resources (IFRs) to clients, we analyzed 59 in-depth interviews with social workers in Israel. While both women and men engage in extensive informal practices, their scope and form differ. Two mechanisms drive the reproduction of inequality: invisibility versus visibility of IFRs, and boundary setting between personal and professional spheres. These findings reveal that discretion in implementation not only is gendered but also reproduces conventional hierarchies, intensifying gender inequality at the street level of public administration.",
+   "authors": [
+    "Ofri Shalev Greenman",
+    "Einat Lavee"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2723226",
+   "date": "2026-08-26",
+   "first_seen": "2026-08-27",
+   "score": 33.0,
+   "matched": [
+    "gender",
+    "discretion",
+    "street-level bureaucrat",
+    "street-level",
+    "bureaucra"
+   ],
+   "abstract_zh": "本研究探討第一線官僚（SLBs）在自由裁量權上的性別差異是否會形塑不平等。本研究聚焦於社工人員向案主提供非正式個人資源（IFRs）的情形，分析了對以色列59位社工人員進行的深度訪談。儘管女性和男性都廣泛地運用非正式做法，但其範圍與形式卻有所差異。兩種機制促成了不平等的再製：非正式個人資源（IFRs）的不可見性與可見性，以及個人與專業領域之間的界線劃定。這些研究結果顯示，執行上的自由裁量權不僅具有性別意涵，而且再製了傳統的階層結構，加劇了公共行政第一線的性別不平等。"
   },
   {
    "doi": "10.1093/jopart/muag016",
@@ -505,6 +527,28 @@
     "psm"
    ],
    "abstract_zh": "儘管已有大量實證研究探討公共服務動機 (PSM) 與績效之間的關係，然其研究發現卻存在相當大的變異性。本研究篩選並編碼了69篇相關研究，這些研究涵蓋來自20個國家共237,058名受訪者，並採用三層次統合分析，以衡量公共服務動機與績效之間的平均關係。研究結果揭示，公共服務動機對績效具有正向影響 (r = 0.203, 95% 信賴區間 [0.164, 0.241])，然而，公共服務動機與績效之間的關係受到公共組織類型和文化脈絡的調節。本文探討了其理論與政策意涵，包括公共服務動機在預測個人與組織成果方面的穩健能力。此外，我們強調考量文化變異性 (例如，個人主義與集體主義) 的必要性，並建議公共部門管理者應創造機會，使員工能體認其對社會的貢獻。"
+  },
+  {
+   "doi": "10.1093/jopart/muag027",
+   "title": "Civil Servants and Democratic Backsliding: The Role of Managerial Signals",
+   "abstract": "Political efforts to weaken democratic institutions place civil servants in a dilemma between political responsiveness and protecting democratic values. As civil servants are embedded in the political-administrative hierarchy, we argue that signals from their direct hierarchical superiors are critical to understand how civil servants address this dilemma. Using a randomized survey experiment among Norwegian national-level civil servants (N = 1,446) and ordered logistic regression models, we find that democratic backsliding increases opposition to government wishes, internal and external voice, and consideration of exit from the organization. Managerial signals moderate these effects: civil servants are more inclined to voice concerns or consider exit when managers signal responsiveness to government wishes. In a conceptual replication and extension among US federal, state and local civil servants (N = 504) using ordered logistic regression models, we likewise find a greater inclination to exit if the manager signals responsiveness to government wishes, but also that respondents are less inclined to voice concerns to the manager. Overall, our findings imply that managerial signals within the political-administrative hierarchy are shaping civil servants’ immediate reactions to democratic backsliding.",
+   "authors": [
+    "Mads Pieter van Luttervelt",
+    "Mathias Rask Østergaard-Nielsen",
+    "Martin Bækgaard",
+    "Zuzana Murdoch",
+    "Benny Geys"
+   ],
+   "journal": "Journal of Public Administration Research and Theory",
+   "url": "https://doi.org/10.1093/jopart/muag027",
+   "date": "2026-08-27",
+   "first_seen": "2026-08-28",
+   "score": 21.0,
+   "matched": [
+    "civil servant",
+    "survey experiment"
+   ],
+   "abstract_zh": "政治上削弱民主制度的作為，使公務員在政治回應性與保護民主價值之間陷入兩難。由於公務員身處政治行政層級體系中，我們認為，來自其直接層級主管的訊號，對於理解公務員如何應對此兩難至關重要。透過對挪威國家級公務員（N = 1,446）進行隨機問卷實驗，並使用順序邏輯迴歸模型，我們發現民主倒退會增加公務員對政府意願的反對、內部與外部發聲，以及離職傾向。管理層的訊號會調節這些影響：當主管表示對政府意願的回應性時，公務員更傾向於表達擔憂或考慮離職。在一項針對美國聯邦、州及地方公務員（N = 504）的概念性複製與延伸研究中，同樣使用順序邏輯迴歸模型，我們發現如果主管表示對政府意願的回應性，公務員的離職傾向更高，但受訪者也較不傾向於向主管表達擔憂。總體而言，我們的發現指出，政治行政層級體系中的管理層訊號，正在形塑公務員對民主倒退的即時反應。"
   },
   {
    "doi": "10.1111/puar.70173",
@@ -1118,6 +1162,24 @@
    "abstract_zh": "本研究探討資訊提供如何影響半公營部門非執行董事的判斷品質。依據行為科學的見解，本研究發展並檢驗了假說，採用混合方法設計，結合實驗法 (N = 101) 和團體訪談 (N = 34)。針對非執行董事的實驗，證實了資訊多樣性與判斷中的整合複雜度之間存在因果關係，而整合複雜度是判斷品質的核心指標。然而，團體訪談的結果也突顯了在不損害與執行長 (CEO) 之間信任關係的前提下，蒐集資訊所面臨的挑戰。最後，無論是資訊多樣性還是同步順序，都無法減輕確認偏誤。"
   },
   {
+   "doi": "10.1080/14719037.2026.2720755",
+   "title": "Beyond monolithic state logic: how top-down accountability shapes policy implementation",
+   "abstract": "How does top-down accountability shape policy implementation? Drawing on institutional logics, this paper distinguishes two state sub-logics: ‘high-stakes context logic’ emphasizing centralized control during crises, and ‘routine governance logic’ allowing discretion during day-to-day administration. These sub-logics condition the perceived legitimacy of accountability demands, felt accountability, and behavioural responses. A survey experiment with over 800 public service respondents shows that, under high-stakes logic, intensified accountability progressively improve compliance, whereas under routine logic, moderate accountability produces optimal compliance, with high-intensity accountability yielding diminishing returns. These findings challenge binary views of accountability and reveal how within-logic variations may alter governance mechanisms.",
+   "authors": [
+    "W. G. Will Zhao"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2720755",
+   "date": "2026-08-26",
+   "first_seen": "2026-08-27",
+   "score": 9.0,
+   "matched": [
+    "discretion",
+    "survey experiment"
+   ],
+   "abstract_zh": "由上而下的課責機制如何形塑政策執行？本文援引制度邏輯，區辨出兩種國家次級邏輯：「高風險情境邏輯」強調危機時期的中央集權控制，以及「常規治理邏輯」允許日常行政中的裁量權。這些次級邏輯制約著課責要求的感知合法性、感知課責以及行為反應。一項針對八百多名公務人員受訪者的問卷實驗結果顯示，在高風險情境邏輯下，強化課責能逐步提升順從度；然而在常規治理邏輯下，適度課責能產生最佳順從度，而高強度課責則產生邊際效益遞減。這些研究發現挑戰了課責的二元觀點，並揭示了邏輯內部的變異如何改變治理機制。"
+  },
+  {
    "doi": "10.1111/puar.70168",
    "title": "Bureaucracy Remade, Citizens Reconfigured: Accountability, Digitalization, and the Transformation of Public Administration",
    "abstract": "Something quietly consequential has been unfolding within democratic institutions over the past 40 years, though it rarely announces itself in obvious ways.Two recent books, emerging from different corners of public administration scholarship, circle this transformation from distinct vantage points.Karl Löfgren and Patrik Hall's The New Public Bureaucracy, alongside the edited volume Digital Co-Production of Public Services: Citizens, Challenges and Cases, led by Taco Brandsen, Ina Radtke, A. Paula Rodriguez Müller, and Trui Steen, were not conceived as companions.They speak in different voices and address partially overlapping audiences.Yet, when read side by side, something sparks between them.The tension is not accidental.It is revealing.",
@@ -1172,24 +1234,6 @@
     "turnover"
    ],
    "abstract_zh": "聯邦公務體系在第二屆川普政府執政第一年經歷了前所未有的離職潮。初步報告已揭示了大量人員流失，以及這些變革背後的政治化與對立。本研究剖析了過去一年的離職情況，聚焦於延遲辭職計畫 (DRP)，旨在了解離職發生的地點及其對組織知識與能力的影響。本分析檢視了從2015年1月至2025年12月的聯邦公務員數據，顯示聯邦公務體系透過自願與非自願兩種離職方式，流失了大量專業知識與經驗。本研究結果闡明了2025年行政命令的後果，釐清了對政府運作能力的影響，並指出未來減輕對聯邦公務體系損害的可能途徑。"
-  },
-  {
-   "doi": "10.1080/14719037.2026.2723226",
-   "title": "Gender inequality at the street level explained: redoing gender through informal practices",
-   "abstract": "",
-   "authors": [
-    "Ofri Shalev Greenman",
-    "Einat Lavee"
-   ],
-   "journal": "Public Management Review",
-   "url": "https://doi.org/10.1080/14719037.2026.2723226",
-   "date": "2026-08-26",
-   "first_seen": "2026-08-27",
-   "score": 8.0,
-   "matched": [
-    "gender"
-   ],
-   "abstract_zh": ""
   },
   {
    "doi": "10.1177/02750740261457069",
@@ -2052,6 +2096,24 @@
    "abstract_zh": "近期關於行政負擔的學術研究越來越關注心理成本、設計介入和數位負擔。本研究結合這些關注點，探討在不同數位成熟度下，行政互動中負面情緒所產生的心理成本。本研究立基於情感事件理論，並在一項控制實驗中採用臉部編碼，結果顯示在官僚互動中負面情緒會升高，且挫折感會導致申請人犯下更多錯誤。透過預填表格簡化程序並未減少負面情緒的激發；然而，它卻能提升對程序的滿意度。弱勢公民，表現為低教育程度和外國公民身份者，從這種資訊整合中獲益比其他群體更多，這表明程序再設計能提升公共服務提供的包容性。總體而言，本研究從過程導向的角度，增進了學術和實務兩方面對行政負擔情感層面的理解，突顯了減少情感成本以提升公民體驗的持續挑戰。"
   },
   {
+   "doi": "10.1080/14719037.2026.2720043",
+   "title": "Contingent capacity: navigating organizational dependency in Dutch municipal energy transitions",
+   "abstract": "Municipalities implementing energy transition mandates rely on contingent workers to fill capacity and expertise gaps, raising concerns about dependency and knowledge loss. Drawing on Resource Dependence Theory and client–consultant literature, this study develops a framework capturing the feedback loop between external reliance and internal capacity development. Fifteen interviews across six Dutch municipalities show that labour shortages and temporary subsidies drive contingent hiring, while short contracts and limited knowledge transfer heighten dependency. Municipalities facing similar constraints diverge through knowledge integration, governance arrangements, and relational dynamics. It advances public administration scholarship by conceptualising dependency as a process rather than structural outcome.",
+   "authors": [
+    "Negin Salimi",
+    "Stijn van Hiele"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2720043",
+   "date": "2026-08-26",
+   "first_seen": "2026-08-27",
+   "score": 2.0,
+   "matched": [
+    "hiring"
+   ],
+   "abstract_zh": "執行能源轉型任務的地方政府仰賴契約人員來彌補能力與專業知識的缺口，這引發了對依賴性與知識流失的擔憂。本研究借鑒資源依賴理論以及客戶-顧問關係文獻，發展出一個框架，以呈現外部依賴與內部能力發展之間的循環回饋。對六個荷蘭地方政府進行的十五次訪談顯示，人力短缺與臨時性補助驅動了契約人員的聘用，而短期契約與有限的知識移轉則加劇了依賴性。面臨相似限制的地方政府，透過知識整合、治理機制與關係動態而呈現分歧。本研究藉由將依賴性概念化為一個過程而非結構性結果，推進了公共行政學術。"
+  },
+  {
    "doi": "10.1080/14719037.2026.2685252",
    "title": "Unleashing the potential of participative budgeting practices in Public Healthcare Organizations: The drivers of psychology-based budgeting research",
    "abstract": "Since doctors heading operational units have become budget holders, the hybrid nature of doctor-managers exposes them to risks of role ambiguity. Drawing on psychology-based budgeting research, this study explores how participative budgeting (PB) can enhance managerial responses to budgetary responsibilities. Using data from 131 doctor-managers in Italian public healthcare organizations, we found that providing satisfactory budgetary information influences doctor-managers’ perceptions of organizational support (POS). The ‘reciprocating’ response driven by POS strengthens doctor-managers’ motivation to achieve budgetary goals and involvement in PB, acting as an enabling condition for role hybridization. This results in improvements in psychological well-being and organizational identification.",
@@ -2800,37 +2862,6 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "高階公共管理工作的複雜性在理論上廣泛被認可，卻鮮少有實證研究。既有研究主要分析了政府高階管理工作核心要素（包括管理者的特質、實踐、成果和脈絡）之間的雙變項關係。本研究援引系統取向框架，探討有效的高階管理工作如何作為一種複雜的關係實踐而展開。我們透過全面且著重過程的視角，分析了七位長期任職且表現卓越的智利高階主管案例，研究資料來自對這些主管及其個人與專業網絡成員進行的27次半結構式訪談。我們的研究結果顯示，高階公共主管所參與的關係動態塑造了他們的管理特質與實踐。具體而言，策略制定、動機建立和專業技術最能被理解為主要透過機關內部的互動以及與外部社會政治環境的互動而產生。這些結果修正了過度強調主管個人特質和觀點來解釋高階公共管理效能的觀點，並強調需要人事政策和治理環境來賦予管理者系統取向的高階公共管理所需的能力。"
-  },
-  {
-   "doi": "10.1080/14719037.2026.2720755",
-   "title": "Beyond monolithic state logic: how top-down accountability shapes policy implementation",
-   "abstract": "",
-   "authors": [
-    "W. G. Will Zhao"
-   ],
-   "journal": "Public Management Review",
-   "url": "https://doi.org/10.1080/14719037.2026.2720755",
-   "date": "2026-08-26",
-   "first_seen": "2026-08-27",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": ""
-  },
-  {
-   "doi": "10.1080/14719037.2026.2720043",
-   "title": "Contingent capacity: navigating organizational dependency in Dutch municipal energy transitions",
-   "abstract": "",
-   "authors": [
-    "Negin Salimi",
-    "Stijn van Hiele"
-   ],
-   "journal": "Public Management Review",
-   "url": "https://doi.org/10.1080/14719037.2026.2720043",
-   "date": "2026-08-26",
-   "first_seen": "2026-08-27",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": ""
   }
  ]
 }
