@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-28T05:54:29+00:00",
+ "updated": "2026-08-29T03:24:57+00:00",
  "papers": [
   {
    "doi": "10.1080/10967494.2026.2706796",
@@ -1122,6 +1122,29 @@
    "abstract_zh": "作者聲明無利益衝突。本文不適用資料分享，因為在本研究期間未產生或分析任何資料集。"
   },
   {
+   "doi": "10.1111/puar.70175",
+   "title": "Toward a Gender Sensitive and Locally Rooted co‐Production Approach: Insights From Implementing Child Stunting Eradication Program in Indonesia",
+   "abstract": "Co‐production is a complex and nuanced field of social action that operates at multiple levels of the policy cycle, closely interconnecting the roles, motivations, and outcomes of different social actors. But how co‐production practices are shaped by gender is often overlooked. This article highlights the complexity of co‐production practices within Indonesia's ambitious national strategy to reduce child stunting. Based on qualitative research of three local government areas implementing stunting intervention programs, we draw on the ‘Four Co(s)’ framework to explore variations across co‐commissioning, co‐design, co‐delivery, and co‐assessment. Ongoing challenges to the eradication of stunting in some areas highlight the tense intersections between early marriage, poverty and rural and technological disadvantage. But as we argue, it is also dependent on social actors, especially women, who serve as catalysts. Future research that pays closer attention to the inherently gendered expressions of co‐production is both theoretically and practically necessary.",
+   "authors": [
+    "Sulikah Asmorowati",
+    "Violeta Schubert",
+    "Mary S. Mangai",
+    "Jusuf Irianto",
+    "Tri Yuniningsih",
+    "Saskia Intandivanty Kamalia Anggika",
+    "Wilujeng Dwi Windhiari"
+   ],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70175",
+   "date": "2026-08-28",
+   "first_seen": "2026-08-29",
+   "score": 10.0,
+   "matched": [
+    "gender"
+   ],
+   "abstract_zh": "協同生產是一個複雜且細緻的社會行動領域，它運作於政策週期的多個層次，並緊密連結不同社會行動者的角色、動機與成果。然而，協同生產實踐如何受性別形塑卻常被忽視。本文旨在探討印尼旨在減少兒童發育遲緩的雄心勃勃國家策略中，協同生產實踐的複雜性。根據對三個實施發育遲緩干預計畫的地方政府區域進行的質性研究，我們借鑒「四個共同」框架，探討共同委託、共同設計、共同交付與共同評估之間的變異。在某些地區，消除發育遲緩所面臨的持續挑戰，凸顯了早期婚姻、貧困以及鄉村與技術劣勢之間緊張的交織點。然而，正如我們所主張的，它也取決於扮演催化劑角色的社會行動者，特別是女性。未來的研究應更密切關注協同生產內在的性別化展現，這在理論和實踐上都具有必要性。"
+  },
+  {
    "doi": "10.1111/padm.70072",
    "title": "Balancing Neutral and Responsive Competences in the Context of Functional Politicization",
    "abstract": "Democratic governments can legitimately expect permanent civil servants to undertake functionally politicized tasks, such as providing political‐tactical advice. However, safeguarding the neutrality and legitimacy of a permanent civil service in the context of functional politicization necessitates that political considerations do not override professional judgment or impede the delivery of free, frank and fearless advice. Although existing research has documented functional politicization in permanent civil services situated in different politico–administrative systems, its behavioral implications remain insufficiently explored. Drawing on a survey of 901 senior permanent civil servants in managerial positions across Denmark's central, regional and local governments, this study finds that the engagement in functionally politicized tasks is associated with a higher likelihood of altering or omitting professional input in response to perceived political pressures. However, the study finds no significant relationship between functional politicization and civil servants' willingness to voice concerns to their superiors, which suggests that their capacity to provide free, frank and fearless advice remains intact.",
@@ -1254,6 +1277,24 @@
     "survey experiment"
    ],
    "abstract_zh": "豐富文獻探討了形塑公民政府觀感的諸多因素。然而，對於政策決策的正當性如何形塑公民觀感的關注仍屬有限。本研究透過一項2 × 2 × 2預先註冊的因子式問卷實驗，探討政策正當性如何影響公民信任與政府合法性，該實驗操弄了正當化策略、政策立場與政策類型。結果顯示，對立立場會降低信任與合法性，而高度兩極化政策的情境則產生相反效果。情感訴求策略會降低信任，但不影響合法性。此外，支持或反對立場的效果會因政策兩極化程度而異。"
+  },
+  {
+   "doi": "10.1111/puar.70191",
+   "title": "Coordination Costs and Homelessness Housing Form Choice",
+   "abstract": "Local implementers have discretion in selecting forms of housing for the homeless, yet the determinants of these choices remain poorly understood. Using the institutional collective action (ICA) framework, this study examines California's Homekey program to assess how coordination demands shape decisions among hotel conversions, multifamily acquisitions, and modular or new construction. Drawing on binary logistic, generalized estimating equation (GEE), and multinomial logistic models, we find that larger projects and those designated as permanent housing are significantly more likely to pursue hotel conversions. Housing authorities—owing to their specialized missions and lower form‐specific coordination costs—are over six times more likely than cities to select multifamily acquisition. Local vacancy constraints further steer implementers away from modular or new construction and toward hotel conversions. These results demonstrate that implementation form is not a neutral technical decision but an institutional response to coordination challenges embedded in intergovernmental and interorganizational contexts.",
+   "authors": [
+    "Edmund Poku Adu",
+    "Julius A. Nukpezah"
+   ],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70191",
+   "date": "2026-08-29",
+   "first_seen": "2026-08-29",
+   "score": 7.0,
+   "matched": [
+    "discretion"
+   ],
+   "abstract_zh": "地方執行者在選擇無家者住房形式方面擁有裁量權，然而這些選擇的決定因素仍鮮為人知。本研究運用制度性集體行動（ICA）架構，檢視加州的Homekey計畫，以評估協調需求如何形塑旅館改建、多戶住宅收購以及模組化或新建工程之間的決策。\n\n本研究採用二元羅吉斯迴歸、廣義估計方程式（GEE）及多項羅吉斯迴歸模型，發現規模較大的專案以及被指定為永久性住房的專案，顯著更有可能選擇旅館改建。住宅主管機關由於其專業任務和較低的特定形式協調成本，選擇多戶住宅收購的可能性比市政府高出六倍以上。此外，當地空置限制進一步促使執行者避開模組化或新建工程，轉而選擇旅館改建。\n\n這些結果顯示，實施形式並非中立的技術性決策，而是對根植於政府間與組織間脈絡中協調挑戰的制度性回應。"
   },
   {
    "doi": "10.1111/puar.70145",
@@ -2114,6 +2155,45 @@
    "abstract_zh": "執行能源轉型任務的地方政府仰賴契約人員來彌補能力與專業知識的缺口，這引發了對依賴性與知識流失的擔憂。本研究借鑒資源依賴理論以及客戶-顧問關係文獻，發展出一個框架，以呈現外部依賴與內部能力發展之間的循環回饋。對六個荷蘭地方政府進行的十五次訪談顯示，人力短缺與臨時性補助驅動了契約人員的聘用，而短期契約與有限的知識移轉則加劇了依賴性。面臨相似限制的地方政府，透過知識整合、治理機制與關係動態而呈現分歧。本研究藉由將依賴性概念化為一個過程而非結構性結果，推進了公共行政學術。"
   },
   {
+   "doi": "10.1111/puar.70183",
+   "title": "Celebrating 85 Years",
+   "abstract": "",
+   "authors": [],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70183",
+   "date": "2026-08-28",
+   "first_seen": "2026-08-29",
+   "score": 2.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.1111/puar.70182",
+   "title": "American Society for Public Administration Code of Ethics",
+   "abstract": "",
+   "authors": [],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70182",
+   "date": "2026-08-28",
+   "first_seen": "2026-08-29",
+   "score": 2.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.1111/puar.70194",
+   "title": "Issue Information",
+   "abstract": "",
+   "authors": [],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70194",
+   "date": "2026-08-28",
+   "first_seen": "2026-08-29",
+   "score": 2.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
    "doi": "10.1080/14719037.2026.2685252",
    "title": "Unleashing the potential of participative budgeting practices in Public Healthcare Organizations: The drivers of psychology-based budgeting research",
    "abstract": "Since doctors heading operational units have become budget holders, the hybrid nature of doctor-managers exposes them to risks of role ambiguity. Drawing on psychology-based budgeting research, this study explores how participative budgeting (PB) can enhance managerial responses to budgetary responsibilities. Using data from 131 doctor-managers in Italian public healthcare organizations, we found that providing satisfactory budgetary information influences doctor-managers’ perceptions of organizational support (POS). The ‘reciprocating’ response driven by POS strengthens doctor-managers’ motivation to achieve budgetary goals and involvement in PB, acting as an enabling condition for role hybridization. This results in improvements in psychological well-being and organizational identification.",
@@ -2862,6 +2942,24 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "高階公共管理工作的複雜性在理論上廣泛被認可，卻鮮少有實證研究。既有研究主要分析了政府高階管理工作核心要素（包括管理者的特質、實踐、成果和脈絡）之間的雙變項關係。本研究援引系統取向框架，探討有效的高階管理工作如何作為一種複雜的關係實踐而展開。我們透過全面且著重過程的視角，分析了七位長期任職且表現卓越的智利高階主管案例，研究資料來自對這些主管及其個人與專業網絡成員進行的27次半結構式訪談。我們的研究結果顯示，高階公共主管所參與的關係動態塑造了他們的管理特質與實踐。具體而言，策略制定、動機建立和專業技術最能被理解為主要透過機關內部的互動以及與外部社會政治環境的互動而產生。這些結果修正了過度強調主管個人特質和觀點來解釋高階公共管理效能的觀點，並強調需要人事政策和治理環境來賦予管理者系統取向的高階公共管理所需的能力。"
+  },
+  {
+   "doi": "10.1080/14719037.2026.2724517",
+   "title": "Can cooperation between a city and a region lead to a robust solution during a polycrisis? – the case of Czechia",
+   "abstract": "",
+   "authors": [
+    "Michal Plaček",
+    "Juraj Nemec",
+    "David Špaček",
+    "Eduard Bakoš"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2724517",
+   "date": "2026-08-28",
+   "first_seen": "2026-08-29",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
   }
  ]
 }
