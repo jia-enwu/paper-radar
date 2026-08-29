@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-29T03:24:57+00:00",
+ "updated": "2026-08-29T23:40:24+00:00",
  "papers": [
   {
    "doi": "10.1080/10967494.2026.2706796",
@@ -2168,12 +2168,12 @@
    "abstract_zh": ""
   },
   {
-   "doi": "10.1111/puar.70182",
-   "title": "American Society for Public Administration Code of Ethics",
+   "doi": "10.1111/puar.70194",
+   "title": "Issue Information",
    "abstract": "",
    "authors": [],
    "journal": "Public Administration Review",
-   "url": "https://doi.org/10.1111/puar.70182",
+   "url": "https://doi.org/10.1111/puar.70194",
    "date": "2026-08-28",
    "first_seen": "2026-08-29",
    "score": 2.0,
@@ -2181,12 +2181,12 @@
    "abstract_zh": ""
   },
   {
-   "doi": "10.1111/puar.70194",
-   "title": "Issue Information",
+   "doi": "10.1111/puar.70182",
+   "title": "American Society for Public Administration Code of Ethics",
    "abstract": "",
    "authors": [],
    "journal": "Public Administration Review",
-   "url": "https://doi.org/10.1111/puar.70194",
+   "url": "https://doi.org/10.1111/puar.70182",
    "date": "2026-08-28",
    "first_seen": "2026-08-29",
    "score": 2.0,
@@ -2946,7 +2946,7 @@
   {
    "doi": "10.1080/14719037.2026.2724517",
    "title": "Can cooperation between a city and a region lead to a robust solution during a polycrisis? – the case of Czechia",
-   "abstract": "",
+   "abstract": "The goal of this article is to explore whether municipal and regional cooperation can provide robust governance solutions during a polycrisis. The methodology of the article is based on a single-country case study from Czechia. The case study focuses on coping with the COVID-19 pandemic and the refugee crisis resulting from the war in Ukraine. We demonstrate how cooperation between a city and a region contributed to robust solutions and improved the lives of local communities. Although municipal and regional cooperation can potentially create significant positive effects that align with the definition of robust governance, this potential is not fully realized in Czechia. The main reasons for this untapped potential are failures of the central government, a lack of leadership and strategic focus, and the absence of formalized learning.",
    "authors": [
     "Michal Plaček",
     "Juraj Nemec",
@@ -2959,7 +2959,7 @@
    "first_seen": "2026-08-29",
    "score": 0.0,
    "matched": [],
-   "abstract_zh": ""
+   "abstract_zh": "本文旨在探討在複合式危機下，地方政府與區域合作能否提供穩健的治理方案。本文採用以捷克為例的單一國家個案研究方法，聚焦於因應 COVID-19 疫情以及烏克蘭戰爭所造成的難民危機。我們展示了城市與區域之間的合作如何促成穩健的解決方案，並改善了在地社群的生活。儘管地方政府與區域合作潛在能產生符合穩健治理定義的顯著正面效益，然而此潛力在捷克並未完全實現。造成此潛力未被充分發揮的主要原因為中央政府的失職、缺乏領導與策略焦點，以及缺乏制度化學習。"
   }
  ]
 }
