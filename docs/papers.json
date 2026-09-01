@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-01T00:52:20+00:00",
+ "updated": "2026-09-01T23:38:29+00:00",
  "papers": [
   {
    "doi": "10.1080/10967494.2026.2706796",
@@ -2233,6 +2233,37 @@
    "score": 2.0,
    "matched": [],
    "abstract_zh": ""
+  },
+  {
+   "doi": "10.1111/puar.70196",
+   "title": "Increasing Equitable Access in Public Service: A Descriptive Study About Accessible Materials",
+   "abstract": "As the digital footprint of public service expands, the need for accessible materials for individuals with disabilities grows. Public servants must consider accessibility in the creation of all materials, from websites to PDFs to audio and visual media. However, research around accessible material creation in public service has been limited. This study uses data from a 2024 survey of MPA alumni from five universities to identify their familiarity with accessible material creation, including their awareness of their own organization's policies, processes, and training. The findings reveal that respondent awareness of their own organization's practices was correlated with higher familiarity in generating accessible materials. However, many respondents did not know about their organization's practices, identifying the need for increased dialogue about this essential element of social equity and inclusion. As such, suggestions for organizations to improve their practices around accessible material creation along with ideas for continued research are shared.",
+   "authors": [
+    "Michelle Allgood"
+   ],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70196",
+   "date": "2026-09-01",
+   "first_seen": "2026-09-01",
+   "score": 2.0,
+   "matched": [],
+   "abstract_zh": "隨著公共服務的數位足跡日益擴大，身心障礙人士對無障礙資料的需求也隨之增長。公務人員在製作所有資料時，從網站、PDF檔案到影音媒體，都必須考量其無障礙性。然而，關於公共服務領域無障礙資料製作的研究一直相當有限。本研究利用2024年對五所大學公共行政碩士（MPA）校友的調查數據，旨在探討他們對無障礙資料製作的熟悉程度，包括他們對所屬組織政策、流程和培訓的認知。研究結果顯示，受訪者對其所屬組織實務的了解與製作無障礙資料的熟悉度呈現正相關。然而，許多受訪者對其組織的實務不甚了解，突顯了需要加強對話，以討論社會公平與共融此一關鍵要素。因此，本研究提出了組織改進無障礙資料製作實踐的建議，並分享了對後續研究的啟發。"
+  },
+  {
+   "doi": "10.1111/puar.70192",
+   "title": "The Role of Public Administrators in Building a Robust Liberal Democracy",
+   "abstract": "After decades of expansion, liberal democracy is threatened by autocratic populists. These actors exploit widening gaps between leaders and citizens, as well as growing political polarization in the population, to consolidate executive power by undermining courts, sidelining elected assemblies, discrediting public administrators, and intimidating both opposition and the press. This alarming predicament begs the question of what enterprising role public administrators can play in curbing the rise of autocratic populism by reconnecting elected politicians with diverse and polarized population groups while fostering alignment among them. To this end, public administrators are conceptualized as bridgebuilders promoting interactive political leadership along the vertical axis of the political system; as mediators fostering agreement, accommodation, or compromise between polarized groups along the horizontal axis; and as institutional architects linking representative democracy and collaborative governance arenas. This expanded role of public administrators as democratic guardians and protagonists raises important questions regarding its legitimacy.",
+   "authors": [
+    "Eva Sørensen",
+    "Jacob Torfing"
+   ],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70192",
+   "date": "2026-09-01",
+   "first_seen": "2026-09-01",
+   "score": 2.0,
+   "matched": [],
+   "abstract_zh": "經過數十年來的擴張，自由民主正受到獨裁民粹主義者的威脅。這些行動者利用領導者與公民之間日益擴大的鴻溝，以及民眾中日益加劇的政治兩極化，透過破壞法院、邊緣化民選議會、詆毀公務人員，並恐嚇反對派和媒體，以鞏固行政權力。這種令人擔憂的困境引發了一個問題：公務人員可以扮演什麼積極進取的角色，透過重新連結民選政治人物與多元且兩極化的民眾群體，同時促進他們之間的協調一致，以遏制獨裁民粹主義的崛起？為此，公務人員被概念化為：在政治體系垂直軸線上促進互動式政治領導的「橋樑建造者」；在水平軸線上促進兩極化群體達成協議、調適或妥協的「調解者」；以及連結代議民主與協作治理場域的「制度建築師」。公務人員作為民主守護者和主要參與者的這種擴展角色，引發了關於其正當性的重要問題。"
   },
   {
    "doi": "10.1080/14719037.2026.2685252",
