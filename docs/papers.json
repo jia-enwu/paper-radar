@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-01T23:38:29+00:00",
+ "updated": "2026-09-02T23:40:16+00:00",
  "papers": [
   {
    "doi": "10.1080/10967494.2026.2706796",
@@ -196,6 +196,26 @@
     "psm"
    ],
    "abstract_zh": "國家政府實現永續發展目標（SDGs）的主要障礙之一，是公務人員對SDGs重要性缺乏認知，以及對如何將其組織目標與SDGs連結缺乏清晰理解。本文探討公務人員對SDGs執行績效的認知程度，藉由闡明其公共服務動機（PSM）和組織承諾所扮演的角色。我們假設，具有較高公共服務動機和組織承諾的公務人員，將能更清楚地認知SDGs執行績效，顯示在實現SDGs的實際績效與其認知之間存在較小的差距。本研究利用對韓國2,161名公務人員進行調查的原始數據，並結合聯合國永續發展解決方案網絡（SDSN）的績效數據，我們的分析結果強烈支持了我們的預測。當公共服務動機和組織承諾分別從觀察到的中位數增加到最大值時，公務人員對SDGs執行績效的認知程度分別提高1.43倍和1.5倍。我們的研究結果具有重要啟示：強化公共服務動機和組織承諾，可以在提高公務人員對SDGs執行績效的認知，並最終促進SDGs的實現方面，發揮核心作用。"
+  },
+  {
+   "doi": "10.1177/02750740261481775",
+   "title": "Why Government Turns to AI – What Citizens Believe and How it Matters. Survey Evidence from Germany and the Netherlands",
+   "abstract": "What do citizens believe to be guiding motives behind the increasing adoption of artificial intelligence (AI) in government, and how are these beliefs related to AI acceptance? Drawing on moral judgment theory, the present article argues that the presumed intentions behind AI use matter for citizens’ evaluations of this use. It studies how citizens’ beliefs about public values motives are associated with AI acceptance across four types of AI use that involve different citizen-state relationships. The analysis uses survey data from 2072 respondents in Germany and the Netherlands and finds that that acceptance of AI use hinges on whether citizens believe that government AI adoption is guided by performance-related values – efficiency, effectiveness, productivity. Beliefs about procedure-related public values motives – impartiality, equal treatment, transparency – do not matter. The findings have implications for how to engender public support for government AI use and for understanding imbalances in public values driving AI adoption.",
+   "authors": [
+    "Pascal D. Koenig"
+   ],
+   "journal": "The American Review of Public Administration",
+   "url": "https://doi.org/10.1177/02750740261481775",
+   "date": "2026-09-02",
+   "first_seen": "2026-09-02",
+   "score": 35.0,
+   "matched": [
+    "artificial intelligence",
+    "ai",
+    "gender",
+    "transparency"
+   ],
+   "abstract_zh": "民眾認為政府日益採納人工智慧（AI）背後的主導動機為何？這些信念又與AI的接受度有何關聯？本文援引道德判斷理論，主張人工智慧使用背後的推定意圖，對於公民對此類使用的評估至關重要。本文探討公民對於公共價值動機的信念，如何與橫跨四種涉及不同公民與國家關係的人工智慧使用類型之接受度相關聯。本分析採用來自德國和荷蘭2072名受訪者的問卷資料，結果發現人工智慧的接受度取決於公民是否相信政府採納人工智慧是受到績效相關價值（即效率、效能、生產力）的引導。而對於程序相關公共價值動機（即公正性、平等對待、透明度）的信念則沒有影響。這些研究結果對於如何爭取公眾對政府人工智慧使用的支持，以及理解驅動人工智慧採納的公共價值失衡，具有重要意涵。"
   },
   {
    "doi": "10.1080/14719037.2026.2711106",
@@ -2209,12 +2229,12 @@
    "abstract_zh": ""
   },
   {
-   "doi": "10.1111/puar.70183",
-   "title": "Celebrating 85 Years",
+   "doi": "10.1111/puar.70182",
+   "title": "American Society for Public Administration Code of Ethics",
    "abstract": "",
    "authors": [],
    "journal": "Public Administration Review",
-   "url": "https://doi.org/10.1111/puar.70183",
+   "url": "https://doi.org/10.1111/puar.70182",
    "date": "2026-08-28",
    "first_seen": "2026-08-29",
    "score": 2.0,
@@ -2222,12 +2242,12 @@
    "abstract_zh": ""
   },
   {
-   "doi": "10.1111/puar.70182",
-   "title": "American Society for Public Administration Code of Ethics",
+   "doi": "10.1111/puar.70183",
+   "title": "Celebrating 85 Years",
    "abstract": "",
    "authors": [],
    "journal": "Public Administration Review",
-   "url": "https://doi.org/10.1111/puar.70182",
+   "url": "https://doi.org/10.1111/puar.70183",
    "date": "2026-08-28",
    "first_seen": "2026-08-29",
    "score": 2.0,
@@ -3047,6 +3067,24 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "稱職的公部門人力對於永續發展至關重要。在政府採購領域，採購改革能否支持永續發展目標，取決於具備所需職能與專業地位，能將改革轉化為行政實踐的人力。本研究借鑒制度理論與策略性公共人力資源管理，探討黎巴嫩在2021年第244號政府採購法下，政府採購領域的人力專業化如何被建構與制度化。本研究採用以文件為基礎的質性個案研究方法，分析2020年至2025年間產出的法律文件、技術報告、職能框架與培訓教材。研究結果顯示，政府採購領域的人力專業化透過職能框架、認證措施與專業培訓系統而推進。然而，人力專業化在公務體系中的嵌入程度仍不均勻。本研究對策略性公共人力資源管理與採購治理學術研究有所貢獻，並為全球南方治理受限場域的人力專業化提供見解。"
+  },
+  {
+   "doi": "10.1177/02750740261481818",
+   "title": "Culture as Administrative Infrastructure: Crisis Governance and Community Recovery After the Maui Wildfires",
+   "abstract": "Despite growing attention to culture in public administration responses to crisis events, culture is often treated as background context rather than as part of the administrative infrastructure through which governance occurs. This article extends the theory of administrative capacity by arguing that culture can function as administrative infrastructure in post-disaster public management. Using qualitative interviews with community members, grassroots organizers, and nonprofit leaders in Maui, as well as public forum data collected within 12 months of the 2023 Maui wildfires, we examine how culture shaped legitimacy, coordination, authority, and recovery capacity in the aftermath of disaster. Findings show that culturally grounded relationships to land, water, community, and history shaped how residents interpreted formal recovery efforts, mobilized outside government systems, asserted authority over rebuilding, and defined what recovery should mean. We develop a culture as administrative infrastructure framework that shows how culturally grounded forms of authority, resistance, and place-based knowledge reveal the limits of culturally neutral administrative systems. The article contributes to public administration theory by showing that administrative capacity is not only built through agencies, resources, procedures, and networks, but also through culturally embedded systems of legitimacy, knowledge, authority, and collective care.",
+   "authors": [
+    "Lauren Azevedo",
+    "Ratna B. Dougherty",
+    "Kaila Witkowski",
+    "Christa L. Remington"
+   ],
+   "journal": "The American Review of Public Administration",
+   "url": "https://doi.org/10.1177/02750740261481818",
+   "date": "2026-09-02",
+   "first_seen": "2026-09-02",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "儘管公共行政應對危機事件時對文化的關注日益增加，文化卻常被視為背景脈絡，而非治理過程中的行政基礎設施一部分。本文透過論證文化在災後公共管理中可作為行政基礎設施，進而擴展行政能力理論。本文運用對茂宜島社區成員、草根組織者和非營利組織領導者的質性訪談，以及在2023年茂宜島野火發生後12個月內收集的公開論壇資料，檢視文化如何在災後形塑正當性、協調、權威和復原能力。研究結果顯示，居民與土地、水、社區和歷史之間植根於文化的關係，形塑了他們如何詮釋正式的復原工作、在政府體系之外動員、對重建主張權威，以及定義復原的意義。我們發展了一個「文化即行政基礎設施」的框架，該框架揭示了植根於文化的權威形式、抵抗和在地知識，如何顯現文化中立行政體系的局限性。本文透過指出行政能力不僅透過機關、資源、程序和網絡建立，也透過文化嵌入的正當性、知識、權威和集體關懷體系建立，從而對公共行政理論有所貢獻。"
   }
  ]
 }
