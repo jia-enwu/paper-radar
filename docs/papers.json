@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-03T23:37:44+00:00",
+ "updated": "2026-09-04T23:30:54+00:00",
  "papers": [
   {
    "doi": "10.1080/10967494.2026.2706796",
@@ -238,28 +238,6 @@
     "conjoint"
    ],
    "abstract_zh": "提倡強化政府問責制的人士認為，更嚴格的後果將改變公務員的行為。本研究旨在探討更嚴格的問責制度是否會改變公務員的裁量性努力。我們透過對紐約州教師進行聯合分析實驗來探討這個難題。我們的研究結果顯示，在高問責環境下的第一線公務員會優先考慮表現不佳的服務對象，而中等問責環境下的第一線公務員則優先考慮展現高度努力的服務對象。總體而言，教師對於向勤奮且表現不佳的學生提供額外協助，展現出微弱的偏好。"
-  },
-  {
-   "doi": "10.1080/14719037.2026.2723226",
-   "title": "Gender inequality at the street level explained: redoing gender through informal practices",
-   "abstract": "This study examines whether gendered differences in discretion shape inequality among street-level bureaucrats (SLBs). Focusing on the provision of informal personal resources (IFRs) to clients, we analyzed 59 in-depth interviews with social workers in Israel. While both women and men engage in extensive informal practices, their scope and form differ. Two mechanisms drive the reproduction of inequality: invisibility versus visibility of IFRs, and boundary setting between personal and professional spheres. These findings reveal that discretion in implementation not only is gendered but also reproduces conventional hierarchies, intensifying gender inequality at the street level of public administration.",
-   "authors": [
-    "Ofri Shalev Greenman",
-    "Einat Lavee"
-   ],
-   "journal": "Public Management Review",
-   "url": "https://doi.org/10.1080/14719037.2026.2723226",
-   "date": "2026-08-26",
-   "first_seen": "2026-08-27",
-   "score": 33.0,
-   "matched": [
-    "gender",
-    "discretion",
-    "street-level bureaucrat",
-    "street-level",
-    "bureaucra"
-   ],
-   "abstract_zh": "本研究探討第一線官僚（SLBs）在自由裁量權上的性別差異是否會形塑不平等。本研究聚焦於社工人員向案主提供非正式個人資源（IFRs）的情形，分析了對以色列59位社工人員進行的深度訪談。儘管女性和男性都廣泛地運用非正式做法，但其範圍與形式卻有所差異。兩種機制促成了不平等的再製：非正式個人資源（IFRs）的不可見性與可見性，以及個人與專業領域之間的界線劃定。這些研究結果顯示，執行上的自由裁量權不僅具有性別意涵，而且再製了傳統的階層結構，加劇了公共行政第一線的性別不平等。"
   },
   {
    "doi": "10.1093/jopart/muag016",
@@ -607,42 +585,6 @@
     "survey experiment"
    ],
    "abstract_zh": "越來越多的實驗性公共行政研究探討公共服務中的結構性安排，例如將服務交付委託給公共或私人行為者，如何影響公民對服務失敗的歸責。然而，這些歸責背後的機制卻鮮為人知。本文探討兩種機制，著重於公民對政治人物的因果責任（對服務交付的感知控制）和職能責任（確保服務品質的感知職責）的中介作用。一項以英國為基礎、針對地方垃圾收集失敗的問卷調查實驗，採用因果中介分析來檢驗這些機制。結果顯示，較高程度的委託主要透過降低公民對政治人物在服務交付上的控制感知來減少歸責。相較之下，沒有強烈證據顯示透過感知職責的中介作用，這表明基於角色的職能責任預期更難以改變。這些發現為不同的公共服務交付方式如何影響服務績效的歸責提供了新的見解。"
-  },
-  {
-   "doi": "10.1080/14719037.2026.2711108",
-   "title": "Citizens’ support for behavioural public policy and trust in government: evidence from two online experiments",
-   "abstract": "We explore citizens’ support for behavioral interventions by distinguishing interventions that exploit citizens’ bounded rationality through choice architecture (Nudge) from those that challenge bounded rationality by promoting reflection through deliberative forums (Think). We also examine the role of trust in government in shaping these preferences. Findings from two experiments involving 3,010 US participants show that citizens are more willing to support Think rather than Nudge. Whereas the adoption of Nudge, as compared to Think, does not seem to influence trust in government, encouraging higher levels of trust in government has a stronger effect on support for Nudge than for Think.",
-   "authors": [
-    "Paolo Belardinelli",
-    "Martin Lodge"
-   ],
-   "journal": "Public Management Review",
-   "url": "https://doi.org/10.1080/14719037.2026.2711108",
-   "date": "2026-08-11",
-   "first_seen": "2026-08-11",
-   "score": 20.0,
-   "matched": [
-    "trust in government"
-   ],
-   "abstract_zh": "我們探討公民對行為干預的支持，區分透過選擇設計（推力，Nudge）利用公民有限理性（bounded rationality）的干預措施，以及透過審議式論壇（思力，Think）促進反思以挑戰有限理性的干預措施。我們也檢視政府信任在形塑這些偏好上的作用。兩項涉及3,010名美國參與者的實驗結果顯示，公民更願意支持「思力」而非「推力」。相較於「思力」，「推力」的採用似乎不會影響政府信任；然而，鼓勵更高程度的政府信任對「推力」的支持有比對「思力」更強的影響。"
-  },
-  {
-   "doi": "10.1080/10967494.2026.2701849",
-   "title": "Managers as message makers: a conjoint experiment on information framing and citizen support for local sales tax referenda",
-   "abstract": "Local option sales taxes in the United States are an interesting form of direct democracy that is influenced directly by public managers. The referenda, or ballot measures, in which people vote on sales taxes have multiple features that can be presented in a variety of ways. As such, they represent a unique opportunity to study the behavioral impact of options and information on citizen choice. With this research, we develop a novel experiment that uses the logic of a conjoint design by varying all of the key features in the referenda, but presents that information in a paragraph form that mimics the format of actual referenda. Results of this sales tax ballot conjoint experiment show that, in general, people only focus on a few key pieces of information, but specific sub-groups are interested in more and different features of the proposed sales tax. This suggests that managers may have more influence among key demographics, and knowing the attributes that matter to those demographics may help shape how sales tax ballot referenda are presented.",
-   "authors": [
-    "Whitney Afonso",
-    "Zachary Mohr"
-   ],
-   "journal": "International Public Management Journal",
-   "url": "https://doi.org/10.1080/10967494.2026.2701849",
-   "date": "2026-08-19",
-   "first_seen": "2026-08-19",
-   "score": 20.0,
-   "matched": [
-    "conjoint"
-   ],
-   "abstract_zh": "美國的「地方選擇性銷售稅」是一種有趣的直接民主形式，直接受到公共管理者的影響。人們針對銷售稅進行投票的公民投票案（或稱投票議案）具有多種特徵，且能以多種方式呈現。因此，它們提供了一個獨特的機會，以研究選項與資訊對公民選擇的行為影響。本研究開發了一項新穎的實驗，採用聯合設計（conjoint design）的邏輯，透過改變公民投票案中的所有關鍵特徵，並以模仿實際公民投票案格式的段落形式呈現這些資訊。這項銷售稅投票聯合實驗的結果顯示，一般而言，人們僅專注於少數關鍵資訊，但特定次群體對擬議銷售稅的更多且不同特徵感興趣。這表明管理者可能在關鍵人口群體中擁有更大的影響力，且了解這些人口群體所重視的屬性，可能有助於形塑銷售稅公民投票案的呈現方式。"
   },
   {
    "doi": "10.1177/0734371x261456288",
@@ -1147,7 +1089,7 @@
   {
    "doi": "10.1111/padm.70081",
    "title": "AI Innovations in Public Services: The Case of National Libraries. By InesMergel and CarstenSchmidt (eds.), Cham, Switzerland: Springer Nature, 2026, 222 pp. hardcover ISBN: 978‐3‐032‐01343‐9; eBook ISBN: 978‐3‐032‐01344‐6. Open Access (eBook).",
-   "abstract": "The author declares no conflicts of interest. Data sharing not applicable to this article as no datasets were generated or analysed during the current study.",
+   "abstract": "",
    "authors": [
     "Abdollah Zeraatpisheh"
    ],
@@ -1160,6 +1102,24 @@
     "ai"
    ],
    "abstract_zh": "作者聲明無利益衝突。本文不適用資料分享，因為在本研究期間未產生或分析任何資料集。"
+  },
+  {
+   "doi": "10.1080/10967494.2026.2701849",
+   "title": "Managers as message makers: a conjoint experiment on information framing and citizen support for local sales tax referenda",
+   "abstract": "",
+   "authors": [
+    "Whitney Afonso",
+    "Zachary Mohr"
+   ],
+   "journal": "International Public Management Journal",
+   "url": "https://doi.org/10.1080/10967494.2026.2701849",
+   "date": "2026-08-19",
+   "first_seen": "2026-08-19",
+   "score": 10.0,
+   "matched": [
+    "conjoint"
+   ],
+   "abstract_zh": "美國的「地方選擇性銷售稅」是一種有趣的直接民主形式，直接受到公共管理者的影響。人們針對銷售稅進行投票的公民投票案（或稱投票議案）具有多種特徵，且能以多種方式呈現。因此，它們提供了一個獨特的機會，以研究選項與資訊對公民選擇的行為影響。本研究開發了一項新穎的實驗，採用聯合設計（conjoint design）的邏輯，透過改變公民投票案中的所有關鍵特徵，並以模仿實際公民投票案格式的段落形式呈現這些資訊。這項銷售稅投票聯合實驗的結果顯示，一般而言，人們僅專注於少數關鍵資訊，但特定次群體對擬議銷售稅的更多且不同特徵感興趣。這表明管理者可能在關鍵人口群體中擁有更大的影響力，且了解這些人口群體所重視的屬性，可能有助於形塑銷售稅公民投票案的呈現方式。"
   },
   {
    "doi": "10.1111/puar.70175",
@@ -1246,24 +1206,6 @@
    "abstract_zh": "本研究探討資訊提供如何影響半公營部門非執行董事的判斷品質。依據行為科學的見解，本研究發展並檢驗了假說，採用混合方法設計，結合實驗法 (N = 101) 和團體訪談 (N = 34)。針對非執行董事的實驗，證實了資訊多樣性與判斷中的整合複雜度之間存在因果關係，而整合複雜度是判斷品質的核心指標。然而，團體訪談的結果也突顯了在不損害與執行長 (CEO) 之間信任關係的前提下，蒐集資訊所面臨的挑戰。最後，無論是資訊多樣性還是同步順序，都無法減輕確認偏誤。"
   },
   {
-   "doi": "10.1080/14719037.2026.2720755",
-   "title": "Beyond monolithic state logic: how top-down accountability shapes policy implementation",
-   "abstract": "How does top-down accountability shape policy implementation? Drawing on institutional logics, this paper distinguishes two state sub-logics: ‘high-stakes context logic’ emphasizing centralized control during crises, and ‘routine governance logic’ allowing discretion during day-to-day administration. These sub-logics condition the perceived legitimacy of accountability demands, felt accountability, and behavioural responses. A survey experiment with over 800 public service respondents shows that, under high-stakes logic, intensified accountability progressively improve compliance, whereas under routine logic, moderate accountability produces optimal compliance, with high-intensity accountability yielding diminishing returns. These findings challenge binary views of accountability and reveal how within-logic variations may alter governance mechanisms.",
-   "authors": [
-    "W. G. Will Zhao"
-   ],
-   "journal": "Public Management Review",
-   "url": "https://doi.org/10.1080/14719037.2026.2720755",
-   "date": "2026-08-26",
-   "first_seen": "2026-08-27",
-   "score": 9.0,
-   "matched": [
-    "discretion",
-    "survey experiment"
-   ],
-   "abstract_zh": "由上而下的課責機制如何形塑政策執行？本文援引制度邏輯，區辨出兩種國家次級邏輯：「高風險情境邏輯」強調危機時期的中央集權控制，以及「常規治理邏輯」允許日常行政中的裁量權。這些次級邏輯制約著課責要求的感知合法性、感知課責以及行為反應。一項針對八百多名公務人員受訪者的問卷實驗結果顯示，在高風險情境邏輯下，強化課責能逐步提升順從度；然而在常規治理邏輯下，適度課責能產生最佳順從度，而高強度課責則產生邊際效益遞減。這些研究發現挑戰了課責的二元觀點，並揭示了邏輯內部的變異如何改變治理機制。"
-  },
-  {
    "doi": "10.1111/puar.70168",
    "title": "Bureaucracy Remade, Citizens Reconfigured: Accountability, Digitalization, and the Transformation of Public Administration",
    "abstract": "Something quietly consequential has been unfolding within democratic institutions over the past 40 years, though it rarely announces itself in obvious ways.Two recent books, emerging from different corners of public administration scholarship, circle this transformation from distinct vantage points.Karl Löfgren and Patrik Hall's The New Public Bureaucracy, alongside the edited volume Digital Co-Production of Public Services: Citizens, Challenges and Cases, led by Taco Brandsen, Ina Radtke, A. Paula Rodriguez Müller, and Trui Steen, were not conceived as companions.They speak in different voices and address partially overlapping audiences.Yet, when read side by side, something sparks between them.The tension is not accidental.It is revealing.",
@@ -1279,6 +1221,24 @@
     "bureaucra"
    ],
    "abstract_zh": "過去四十年來，民主體制內悄然發生著深具影響力的變化，儘管這些變化鮮少以顯而易見的方式呈現。兩本近期出版的書籍，分別來自公共行政學術領域的不同面向，從各自獨特的視角探討這項轉變。Karl Löfgren 和 Patrik Hall 合著的《新公共官僚體制》，以及由 Taco Brandsen、Ina Radtke、A. Paula Rodriguez Müller 和 Trui Steen 主編的合輯《公共服務數位協同生產：公民、挑戰與案例》，兩者並非被構思為配套作品。它們的論述語調各異，並面向部分重疊的讀者群。然而，當兩者並列閱讀時，卻能激盪出一些火花。這份張力並非偶然，它深具啟發性。"
+  },
+  {
+   "doi": "10.1080/14719037.2026.2711108",
+   "title": "Citizens’ support for behavioural public policy and trust in government: evidence from two online experiments",
+   "abstract": "",
+   "authors": [
+    "Paolo Belardinelli",
+    "Martin Lodge"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2711108",
+   "date": "2026-08-11",
+   "first_seen": "2026-08-11",
+   "score": 8.0,
+   "matched": [
+    "trust in government"
+   ],
+   "abstract_zh": "我們探討公民對行為干預的支持，區分透過選擇設計（推力，Nudge）利用公民有限理性（bounded rationality）的干預措施，以及透過審議式論壇（思力，Think）促進反思以挑戰有限理性的干預措施。我們也檢視政府信任在形塑這些偏好上的作用。兩項涉及3,010名美國參與者的實驗結果顯示，公民更願意支持「思力」而非「推力」。相較於「思力」，「推力」的採用似乎不會影響政府信任；然而，鼓勵更高程度的政府信任對「推力」的支持有比對「思力」更強的影響。"
   },
   {
    "doi": "10.1111/puar.70185",
@@ -1318,6 +1278,24 @@
     "turnover"
    ],
    "abstract_zh": "聯邦公務體系在第二屆川普政府執政第一年經歷了前所未有的離職潮。初步報告已揭示了大量人員流失，以及這些變革背後的政治化與對立。本研究剖析了過去一年的離職情況，聚焦於延遲辭職計畫 (DRP)，旨在了解離職發生的地點及其對組織知識與能力的影響。本分析檢視了從2015年1月至2025年12月的聯邦公務員數據，顯示聯邦公務體系透過自願與非自願兩種離職方式，流失了大量專業知識與經驗。本研究結果闡明了2025年行政命令的後果，釐清了對政府運作能力的影響，並指出未來減輕對聯邦公務體系損害的可能途徑。"
+  },
+  {
+   "doi": "10.1080/14719037.2026.2723226",
+   "title": "Gender inequality at the street level explained: redoing gender through informal practices",
+   "abstract": "",
+   "authors": [
+    "Ofri Shalev Greenman",
+    "Einat Lavee"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2723226",
+   "date": "2026-08-26",
+   "first_seen": "2026-08-27",
+   "score": 8.0,
+   "matched": [
+    "gender"
+   ],
+   "abstract_zh": "本研究探討第一線官僚（SLBs）在自由裁量權上的性別差異是否會形塑不平等。本研究聚焦於社工人員向案主提供非正式個人資源（IFRs）的情形，分析了對以色列59位社工人員進行的深度訪談。儘管女性和男性都廣泛地運用非正式做法，但其範圍與形式卻有所差異。兩種機制促成了不平等的再製：非正式個人資源（IFRs）的不可見性與可見性，以及個人與專業領域之間的界線劃定。這些研究結果顯示，執行上的自由裁量權不僅具有性別意涵，而且再製了傳統的階層結構，加劇了公共行政第一線的性別不平等。"
   },
   {
    "doi": "10.1177/02750740261457069",
@@ -1703,25 +1681,6 @@
     "bureaucra"
    ],
    "abstract_zh": "既有民主國家近來的發展清楚表明，公共行政與管理研究皆忽略了對作為制度的公共組織進行學術探討。本文綜合制度領導與公共組織中領導的研究，提出一套公共制度領導理論。公共制度領導藉由提出領導行為的三個核心面向，將公共管理與民主重新連結，這些行為旨在公共組織中灌輸並維繫自由民主價值。這些行為包括：透過由上而下的願景設定，闡明並重申民主價值；透過樹立榜樣並促進心理安全，由下而上地建立「品格」，以促成圍繞這些價值的對話與審議；以及藉由培養官僚自主性，展現相對於這些價值，對政治主事者受限的回應性。儘管這些行為的必要性因民粹主義興起與民主倒退而日益凸顯，但其適用性廣泛擴及自由民主國家中的公共管理。"
-  },
-  {
-   "doi": "10.1080/14719037.2026.2708842",
-   "title": "Reference points, negativity bias and citizens’ performance evaluations: a replication and extension",
-   "abstract": "Experiments on how cognitive biases, such as social and historical reference points and negativity bias, shape citizens’ evaluations of government performance have produced mixed findings, which typically come from Western contexts and focus on single reference points. To address these gaps, we replicated (N = 3710) and extended (N = 2356) Olsen’s ‘Compared to what?’ to interactions between multiple social and historical reference points in Hong Kong. Very low baselines are found in the replication alongside trivial evidence for the importance of reference points in citizens’ performance evaluations and negativity bias. In the extension, we found that (1) when both social and historical reference points are presented to participants, they have stronger effects when negative information is provided and (2) the effects of combinations of historical and social reference points differ across policy domains. Though survey experiments can be noisy, the study demonstrates the value of replication to question the generalization of cognitive biases.",
-   "authors": [
-    "Richard M. Walker",
-    "Jiasheng Zhang",
-    "Bert George"
-   ],
-   "journal": "Public Management Review",
-   "url": "https://doi.org/10.1080/14719037.2026.2708842",
-   "date": "2026-08-08",
-   "first_seen": "2026-08-08",
-   "score": 4.0,
-   "matched": [
-    "survey experiment"
-   ],
-   "abstract_zh": "關於認知偏誤（例如社會與歷史參考點以及負面偏誤）如何影響公民對政府績效評估的實驗，產生了不一的結果，這些結果通常來自西方脈絡，且側重於單一參考點。為了解決這些不足，我們在香港複製（N = 3710）並擴展（N = 2356）了Olsen的「與什麼相比？」研究，以探討多個社會與歷史參考點之間的交互作用。在複製研究中發現了非常低的基準線，同時，關於參考點在公民績效評估和負面偏誤中的重要性，僅發現了微不足道的證據。在擴展研究中，我們發現 (1) 當同時向參與者呈現社會與歷史參考點時，若提供負面資訊，其影響會更強；以及 (2) 歷史與社會參考點組合的影響在不同政策領域中有所差異。儘管問卷實驗可能存在雜訊，本研究證明了複製研究的價值，以質疑認知偏誤的普遍性。"
   },
   {
    "doi": "10.1111/puar.70178",
@@ -2138,26 +2097,6 @@
    "abstract_zh": ""
   },
   {
-   "doi": "10.1080/14719037.2026.2720049",
-   "title": "Public sector innovation management in the shadow: why the overlooked sibling still matters",
-   "abstract": "This paper examines innovation management as a deliberate organizational arrangement through which public organizations seek to remain relevant in contexts of uncertainty, technological and societal changes, and bureaucratic constraints. Drawing on a multiple-case study of five national police agencies, the study analyzes what works well and less well in systematic innovation management arrangements. While all agencies established innovation units with similar responsibilities, they differed in how innovation management systems were configured and sustained. Three configurations are identified – Strong Heavyweight, Light Heavyweight, and Lightweight – showing how enabling and constraining mechanisms help explain variation in innovation capacity across highly institutionalized public-sector contexts.",
-   "authors": [
-    "Marina Carelli Reis",
-    "Ana Paula Franco Paes Leme Barbosa",
-    "Jacob Brix",
-    "Mario Sergio Salerno"
-   ],
-   "journal": "Public Management Review",
-   "url": "https://doi.org/10.1080/14719037.2026.2720049",
-   "date": "2026-08-19",
-   "first_seen": "2026-08-19",
-   "score": 2.0,
-   "matched": [
-    "bureaucra"
-   ],
-   "abstract_zh": "本文旨在探討創新管理作為一種刻意的組織安排，公部門組織藉此在不確定性、科技與社會變遷以及官僚體制限制的脈絡中維持其重要性。本研究借鑒對五個國家警察機關的多案例研究，分析系統性創新管理安排中成效與不足之處。儘管各機關皆成立了職責相近的創新單位，但其創新管理系統的建構與維繫方式卻有所差異。本研究歸納出三種配置——強重量級、輕重量級和輕量級——揭示了促成與限制機制如何有助於解釋在高度制度化的公部門脈絡中創新能力的差異。"
-  },
-  {
    "doi": "10.1111/puar.70180",
    "title": "Expansive Public Service Delivery: Advancing Public Value Governance",
    "abstract": "Public administration has traditionally emphasized the normative ideal that public agencies have a responsibility to improve the lives of communities through public service delivery. We turn to public libraries to explore possibilities for what we call Expansive Public Service Delivery. Expansive Public Service Delivery is defined by a mission to serve all, professional and ethical responsibilities, and proactive responsiveness through outreach and (re)assessment. Public libraries have long aimed to improve communities and advance democracy by providing open, free information access to all. Today, they also proactively seek to expand their services to underserved groups ensuring their relevance and mission achievement. This research draws from 25 in‐depth qualitative interviews to explore librarian narratives to identify four core responsibilities that constitute Expansive Public Service Delivery. We conclude with a discussion of how service for all, professionalism, ethical responsibility, and reflexive decision‐making around community needs can result in more vibrant, sustainable public organizations.",
@@ -2198,22 +2137,17 @@
    "abstract_zh": "近期關於行政負擔的學術研究越來越關注心理成本、設計介入和數位負擔。本研究結合這些關注點，探討在不同數位成熟度下，行政互動中負面情緒所產生的心理成本。本研究立基於情感事件理論，並在一項控制實驗中採用臉部編碼，結果顯示在官僚互動中負面情緒會升高，且挫折感會導致申請人犯下更多錯誤。透過預填表格簡化程序並未減少負面情緒的激發；然而，它卻能提升對程序的滿意度。弱勢公民，表現為低教育程度和外國公民身份者，從這種資訊整合中獲益比其他群體更多，這表明程序再設計能提升公共服務提供的包容性。總體而言，本研究從過程導向的角度，增進了學術和實務兩方面對行政負擔情感層面的理解，突顯了減少情感成本以提升公民體驗的持續挑戰。"
   },
   {
-   "doi": "10.1080/14719037.2026.2720043",
-   "title": "Contingent capacity: navigating organizational dependency in Dutch municipal energy transitions",
-   "abstract": "Municipalities implementing energy transition mandates rely on contingent workers to fill capacity and expertise gaps, raising concerns about dependency and knowledge loss. Drawing on Resource Dependence Theory and client–consultant literature, this study develops a framework capturing the feedback loop between external reliance and internal capacity development. Fifteen interviews across six Dutch municipalities show that labour shortages and temporary subsidies drive contingent hiring, while short contracts and limited knowledge transfer heighten dependency. Municipalities facing similar constraints diverge through knowledge integration, governance arrangements, and relational dynamics. It advances public administration scholarship by conceptualising dependency as a process rather than structural outcome.",
-   "authors": [
-    "Negin Salimi",
-    "Stijn van Hiele"
-   ],
-   "journal": "Public Management Review",
-   "url": "https://doi.org/10.1080/14719037.2026.2720043",
-   "date": "2026-08-26",
-   "first_seen": "2026-08-27",
+   "doi": "10.1111/puar.70183",
+   "title": "Celebrating 85 Years",
+   "abstract": "",
+   "authors": [],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70183",
+   "date": "2026-08-28",
+   "first_seen": "2026-08-29",
    "score": 2.0,
-   "matched": [
-    "hiring"
-   ],
-   "abstract_zh": "執行能源轉型任務的地方政府仰賴契約人員來彌補能力與專業知識的缺口，這引發了對依賴性與知識流失的擔憂。本研究借鑒資源依賴理論以及客戶-顧問關係文獻，發展出一個框架，以呈現外部依賴與內部能力發展之間的循環回饋。對六個荷蘭地方政府進行的十五次訪談顯示，人力短缺與臨時性補助驅動了契約人員的聘用，而短期契約與有限的知識移轉則加劇了依賴性。面臨相似限制的地方政府，透過知識整合、治理機制與關係動態而呈現分歧。本研究藉由將依賴性概念化為一個過程而非結構性結果，推進了公共行政學術。"
+   "matched": [],
+   "abstract_zh": ""
   },
   {
    "doi": "10.1111/puar.70194",
@@ -2235,19 +2169,6 @@
    "authors": [],
    "journal": "Public Administration Review",
    "url": "https://doi.org/10.1111/puar.70182",
-   "date": "2026-08-28",
-   "first_seen": "2026-08-29",
-   "score": 2.0,
-   "matched": [],
-   "abstract_zh": ""
-  },
-  {
-   "doi": "10.1111/puar.70183",
-   "title": "Celebrating 85 Years",
-   "abstract": "",
-   "authors": [],
-   "journal": "Public Administration Review",
-   "url": "https://doi.org/10.1111/puar.70183",
    "date": "2026-08-28",
    "first_seen": "2026-08-29",
    "score": 2.0,
@@ -2284,6 +2205,23 @@
    "score": 2.0,
    "matched": [],
    "abstract_zh": "經過數十年來的擴張，自由民主正受到獨裁民粹主義者的威脅。這些行動者利用領導者與公民之間日益擴大的鴻溝，以及民眾中日益加劇的政治兩極化，透過破壞法院、邊緣化民選議會、詆毀公務人員，並恐嚇反對派和媒體，以鞏固行政權力。這種令人擔憂的困境引發了一個問題：公務人員可以扮演什麼積極進取的角色，透過重新連結民選政治人物與多元且兩極化的民眾群體，同時促進他們之間的協調一致，以遏制獨裁民粹主義的崛起？為此，公務人員被概念化為：在政治體系垂直軸線上促進互動式政治領導的「橋樑建造者」；在水平軸線上促進兩極化群體達成協議、調適或妥協的「調解者」；以及連結代議民主與協作治理場域的「制度建築師」。公務人員作為民主守護者和主要參與者的這種擴展角色，引發了關於其正當性的重要問題。"
+  },
+  {
+   "doi": "10.1111/puar.70189",
+   "title": "The Practice and Origins of Performance Measurement: Assessing the Sunnyvale Model, 1984–2023",
+   "abstract": "Few regulatory reforms are as celebrated or emulated as the performance measurement system of Sunnyvale, California, which inspired the Government Performance and Results Act of 1993 and countless other national and local efforts. This study presents the first longitudinal, cross‐programmatic analysis of a performance measurement system, introducing a digital archival approach to analyze 152 performance indicators across 35,000 pages of documents from 1984 to 2023, supplemented with interviews of key stakeholders. Even if Sunnyvale's system initially functioned as an exemplar of performance‐based decision‐making, it deteriorated with weakened commitment and, more importantly, sustained significant implementation costs while its benefits reduced over time. The findings illustrate three core trade‐offs for performance measurement systems: measuring what matters (the “quantity‐quality” tradeoff); ensuring continuity while allowing for adaptation (the “continuity‐flexibility” tradeoff); and ensuring accountability without having implementation detract from productivity (the “accountability‐productivity” tradeoff).",
+   "authors": [
+    "Joyce Kasing Tagal",
+    "Derek Ouyang",
+    "Daniel E. Ho"
+   ],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70189",
+   "date": "2026-09-04",
+   "first_seen": "2026-09-04",
+   "score": 2.0,
+   "matched": [],
+   "abstract_zh": "很少有法規改革能像加州桑尼維爾市的績效衡量系統那樣備受讚譽或效仿，該系統啟發了1993年政府績效與成果法案以及無數其他國家和地方的努力。本研究首次針對績效衡量系統進行縱貫性、跨計畫分析，採用數位檔案分析方法，分析了1984年至2023年間橫跨35,000頁文件中的152個績效指標，並輔以對主要利害關係人的訪談。儘管桑尼維爾市的系統最初是作為績效導向決策的典範運作，卻因承諾減弱而惡化，更重要的是，它承受了巨大的實施成本，同時其效益卻隨時間遞減。研究結果闡明了績效衡量系統所面臨的三個核心權衡：衡量重要事項（「數量-品質」權衡）；確保連續性同時允許調適（「連續性-彈性」權衡）；以及確保問責性同時不影響生產力（「問責性-生產力」權衡）。"
   },
   {
    "doi": "10.1080/14719037.2026.2685252",
@@ -2889,7 +2827,7 @@
   {
    "doi": "10.1080/14719037.2026.2714119",
    "title": "Navigating the digital transformation: unravelling the dynamic evolution of smart city collaborative governance networks",
-   "abstract": "Smart city initiatives, as public service innovation, represent a major evolution within state-led meta-governance, requiring complex inter-participant collaboration. Yet scholarship often treats these networks as static, missing how governance structures adapt to digital uncertainties. To fill this gap, this study employs stochastic actor-oriented models and collaborative governance theory to examine the evolution of network structures and participant attributes across 3482 smart city projects in China. Results reveal three governance patterns: government-dominated, government-SOE hybrid, and multi-stakeholder. Transitive triads, age similarity, geographic proximity, and size heterogeneity promote evolution, while outdegree constrains it. Findings guide optimizing partner selection and strengthening adaptive governance.",
+   "abstract": "",
    "authors": [
     "Guangdong Wu",
     "Jiawen Li",
@@ -2902,6 +2840,23 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "智慧城市倡議作為公共服務創新，代表著國家主導元治理中的一項重大演進，需要複雜的參與者間協作。然而，學術界常將這些網絡視為靜態，忽略了治理結構如何適應數位不確定性。為彌補此一空缺，本研究運用隨機行動者導向模型與協作治理理論，檢視中國3482個智慧城市專案中網絡結構與參與者屬性的演化。結果揭示了三種治理模式：政府主導型、政府與國有企業混合型，以及多方利害關係人型。遞移三元組、年齡相似性、地理鄰近性及規模異質性促進了演化，而連結出度則限制了其發展。研究結果有助於優化夥伴選擇並強化適應性治理。"
+  },
+  {
+   "doi": "10.1080/14719037.2026.2708842",
+   "title": "Reference points, negativity bias and citizens’ performance evaluations: a replication and extension",
+   "abstract": "",
+   "authors": [
+    "Richard M. Walker",
+    "Jiasheng Zhang",
+    "Bert George"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2708842",
+   "date": "2026-08-08",
+   "first_seen": "2026-08-08",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "關於認知偏誤（例如社會與歷史參考點以及負面偏誤）如何影響公民對政府績效評估的實驗，產生了不一的結果，這些結果通常來自西方脈絡，且側重於單一參考點。為了解決這些不足，我們在香港複製（N = 3710）並擴展（N = 2356）了Olsen的「與什麼相比？」研究，以探討多個社會與歷史參考點之間的交互作用。在複製研究中發現了非常低的基準線，同時，關於參考點在公民績效評估和負面偏誤中的重要性，僅發現了微不足道的證據。在擴展研究中，我們發現 (1) 當同時向參與者呈現社會與歷史參考點時，若提供負面資訊，其影響會更強；以及 (2) 歷史與社會參考點組合的影響在不同政策領域中有所差異。儘管問卷實驗可能存在雜訊，本研究證明了複製研究的價值，以質疑認知偏誤的普遍性。"
   },
   {
    "doi": "10.1111/padm.70080",
@@ -2936,7 +2891,7 @@
   {
    "doi": "10.1080/14719037.2026.2715612",
    "title": "Should we stay or should we go? Implications of trust in the municipality for second-generation migrants’ behavioural intentions towards the municipality",
-   "abstract": "Public and political debate increasingly problematizes the relationship between second-generation migrants and public authorities, yet little is known about how they evaluate local government. This study examines behavioural intentions towards municipalities – exit, voice, loyalty and neglect – and assesses how trust, local identification and discrimination shape these responses. Using survey data from second-generation migrants in Dutch municipalities, we find loyalty predominates, while trust, local identification and discrimination shape these orientations towards local government. These findings highlight the central role of trust and inclusion in shaping citizen–state relations and demonstrate the value of integrating migrant-centred perspectives into public administration research.",
+   "abstract": "",
    "authors": [
     "Warda Belabas",
     "Koen Migchelbrink"
@@ -2983,6 +2938,24 @@
    "abstract_zh": "本文探討敏捷數位轉型與公共部門法治之間的相互作用，著重於荷蘭一個中型規模市政府以及比利時法蘭德斯地區政府一個部門的案例研究。透過專家訪談，本文探討以靈活性著稱的敏捷方法，如何與既有行政慣例互動，並影響以一致性為優先的法治原則。理論上，本文立基於關於行政慣例與法治的公共行政學術研究。實證上，本文顯示敏捷方法與優先考量分權領導和協作的行政慣例高度契合。此外，本文指出敏捷方法能促進而非威脅法治：許多法律不確定性並非源於敏捷實踐本身，而是源於既有法律和政策的複雜性，凸顯了在立法上需具備更高的技術精確度，以及在數位實施中提升行政意識的必要性。"
   },
   {
+   "doi": "10.1080/14719037.2026.2720049",
+   "title": "Public sector innovation management in the shadow: why the overlooked sibling still matters",
+   "abstract": "",
+   "authors": [
+    "Marina Carelli Reis",
+    "Ana Paula Franco Paes Leme Barbosa",
+    "Jacob Brix",
+    "Mario Sergio Salerno"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2720049",
+   "date": "2026-08-19",
+   "first_seen": "2026-08-19",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "本文旨在探討創新管理作為一種刻意的組織安排，公部門組織藉此在不確定性、科技與社會變遷以及官僚體制限制的脈絡中維持其重要性。本研究借鑒對五個國家警察機關的多案例研究，分析系統性創新管理安排中成效與不足之處。儘管各機關皆成立了職責相近的創新單位，但其創新管理系統的建構與維繫方式卻有所差異。本研究歸納出三種配置——強重量級、輕重量級和輕量級——揭示了促成與限制機制如何有助於解釋在高度制度化的公部門脈絡中創新能力的差異。"
+  },
+  {
    "doi": "10.1177/02750740261478911",
    "title": "Partisanship, Public Service Values, and Public Service Recognition Week Proclamations",
    "abstract": "Since 1985, Public Service Recognition Week acknowledges the role of government employees in American democracy. Building upon the study of public service values, this research investigates gubernatorial proclamations issued in 2025, treating that years as a crucial case for the study of government employee recognition. Despite instability in the U.S. federal government, state-level proclamations illustrate a consistent emphasis on common public service values, including commitment, integrity, and professionalism. The analysis of proclamation content shows some variation in the values emphasized by the two major political parties, but no statistically discernable relationship between gubernatorial party and proclamation issuance. Still, only about one third of U.S. governors issued proclamations for Public Service Recognition Week in 2025, pointing to the need for ongoing scrutiny of employee recognition practices at the state and national level. This research closes by comparing state-level action to presidential proclamations from 1987 to 2024 and discusses implications for the application of public service value theory to the study of state government employment and employee recognition.",
@@ -3000,7 +2973,7 @@
   {
    "doi": "10.1080/14719037.2026.2720045",
    "title": "Towards inclusive prosperity: comparative analysis of Indigenous procurement policies in Canada, Australia, and New Zealand",
-   "abstract": "Indigenous procurement is widely promoted as an instrument of economic reconciliation, yet headline gains often mask limited transformational impact. Applying McCrudden’s social procurement framework, we conduct a systematic cross-national comparison of identity-specific procurement architectures across Canada, Australia, and Aotearoa New Zealand. We show that contract values cluster heavily within major metropolitan hubs and narrow industry sectors, leaving remote and early-stage community enterprises marginalized. Furthermore, persistent cross-national data gaps and aggregated reporting conceal these structural inequities while enabling policy distortions like fronting. We recommend structural reforms including regional benchmarks and independent auditing to align procurement with genuine Indigenous economic sovereignty.",
+   "abstract": "",
    "authors": [
     "Irene Henriques",
     "Rick Colbourne",
@@ -3036,9 +3009,40 @@
    "abstract_zh": "高階公共管理工作的複雜性在理論上廣泛被認可，卻鮮少有實證研究。既有研究主要分析了政府高階管理工作核心要素（包括管理者的特質、實踐、成果和脈絡）之間的雙變項關係。本研究援引系統取向框架，探討有效的高階管理工作如何作為一種複雜的關係實踐而展開。我們透過全面且著重過程的視角，分析了七位長期任職且表現卓越的智利高階主管案例，研究資料來自對這些主管及其個人與專業網絡成員進行的27次半結構式訪談。我們的研究結果顯示，高階公共主管所參與的關係動態塑造了他們的管理特質與實踐。具體而言，策略制定、動機建立和專業技術最能被理解為主要透過機關內部的互動以及與外部社會政治環境的互動而產生。這些結果修正了過度強調主管個人特質和觀點來解釋高階公共管理效能的觀點，並強調需要人事政策和治理環境來賦予管理者系統取向的高階公共管理所需的能力。"
   },
   {
+   "doi": "10.1080/14719037.2026.2720755",
+   "title": "Beyond monolithic state logic: how top-down accountability shapes policy implementation",
+   "abstract": "",
+   "authors": [
+    "W. G. Will Zhao"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2720755",
+   "date": "2026-08-26",
+   "first_seen": "2026-08-27",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "由上而下的課責機制如何形塑政策執行？本文援引制度邏輯，區辨出兩種國家次級邏輯：「高風險情境邏輯」強調危機時期的中央集權控制，以及「常規治理邏輯」允許日常行政中的裁量權。這些次級邏輯制約著課責要求的感知合法性、感知課責以及行為反應。一項針對八百多名公務人員受訪者的問卷實驗結果顯示，在高風險情境邏輯下，強化課責能逐步提升順從度；然而在常規治理邏輯下，適度課責能產生最佳順從度，而高強度課責則產生邊際效益遞減。這些研究發現挑戰了課責的二元觀點，並揭示了邏輯內部的變異如何改變治理機制。"
+  },
+  {
+   "doi": "10.1080/14719037.2026.2720043",
+   "title": "Contingent capacity: navigating organizational dependency in Dutch municipal energy transitions",
+   "abstract": "",
+   "authors": [
+    "Negin Salimi",
+    "Stijn van Hiele"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2720043",
+   "date": "2026-08-26",
+   "first_seen": "2026-08-27",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "執行能源轉型任務的地方政府仰賴契約人員來彌補能力與專業知識的缺口，這引發了對依賴性與知識流失的擔憂。本研究借鑒資源依賴理論以及客戶-顧問關係文獻，發展出一個框架，以呈現外部依賴與內部能力發展之間的循環回饋。對六個荷蘭地方政府進行的十五次訪談顯示，人力短缺與臨時性補助驅動了契約人員的聘用，而短期契約與有限的知識移轉則加劇了依賴性。面臨相似限制的地方政府，透過知識整合、治理機制與關係動態而呈現分歧。本研究藉由將依賴性概念化為一個過程而非結構性結果，推進了公共行政學術。"
+  },
+  {
    "doi": "10.1080/14719037.2026.2724517",
    "title": "Can cooperation between a city and a region lead to a robust solution during a polycrisis? – the case of Czechia",
-   "abstract": "The goal of this article is to explore whether municipal and regional cooperation can provide robust governance solutions during a polycrisis. The methodology of the article is based on a single-country case study from Czechia. The case study focuses on coping with the COVID-19 pandemic and the refugee crisis resulting from the war in Ukraine. We demonstrate how cooperation between a city and a region contributed to robust solutions and improved the lives of local communities. Although municipal and regional cooperation can potentially create significant positive effects that align with the definition of robust governance, this potential is not fully realized in Czechia. The main reasons for this untapped potential are failures of the central government, a lack of leadership and strategic focus, and the absence of formalized learning.",
+   "abstract": "",
    "authors": [
     "Michal Plaček",
     "Juraj Nemec",
