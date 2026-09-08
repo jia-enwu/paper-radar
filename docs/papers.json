@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-07T23:50:40+00:00",
+ "updated": "2026-09-08T23:47:55+00:00",
  "papers": [
   {
    "doi": "10.1080/10967494.2026.2706796",
@@ -216,6 +216,28 @@
     "transparency"
    ],
    "abstract_zh": "民眾認為政府日益採納人工智慧（AI）背後的主導動機為何？這些信念又與AI的接受度有何關聯？本文援引道德判斷理論，主張人工智慧使用背後的推定意圖，對於公民對此類使用的評估至關重要。本文探討公民對於公共價值動機的信念，如何與橫跨四種涉及不同公民與國家關係的人工智慧使用類型之接受度相關聯。本分析採用來自德國和荷蘭2072名受訪者的問卷資料，結果發現人工智慧的接受度取決於公民是否相信政府採納人工智慧是受到績效相關價值（即效率、效能、生產力）的引導。而對於程序相關公共價值動機（即公正性、平等對待、透明度）的信念則沒有影響。這些研究結果對於如何爭取公眾對政府人工智慧使用的支持，以及理解驅動人工智慧採納的公共價值失衡，具有重要意涵。"
+  },
+  {
+   "doi": "10.1111/padm.70090",
+   "title": "How Artificial Intelligence Facilitates Collaborative Governance? Research on Mechanisms and Multi‐Dimensional Effects Based on Triple Entities",
+   "abstract": "Collaborative governance is becoming a practical imperative. At the same time, resolving complex public affairs could offer opportunities to overcome bottlenecks, while Artificial Intelligence (AI) could help. This study draws on polycentric governance theory and multilayer network theory to explain why collaborative governance could occur and how it could be influenced by AI, respectively. Mathematical deductions from both micro and macro perspectives are employed to reinforce this theoretical viewpoint. Using Chinese cities as a case study, the impact of AI on collaborative governance has been tested in practice, supported by benchmark regression and subsequent tests for endogeneity and robustness. Mechanism tests demonstrate AI's functions by advancing digital government, lifting corporate transparency, and improving public knowledge. Moreover, econometric evidence from difference‐in‐differences, threshold regressions, and spatial econometric models robustly addresses concerns about AI. This study offers a quantifiable multi‐stakeholder governance framework and actionable policy insights for China and the Global South.",
+   "authors": [
+    "Zhuocheng Lu",
+    "Fei Fan",
+    "Zhennan Yang",
+    "Song Wang"
+   ],
+   "journal": "Public Administration",
+   "url": "https://doi.org/10.1111/padm.70090",
+   "date": "2026-09-08",
+   "first_seen": "2026-09-08",
+   "score": 35.0,
+   "matched": [
+    "artificial intelligence",
+    "ai",
+    "transparency"
+   ],
+   "abstract_zh": "協同治理正日益成為實務上的必要。同時，解決複雜的公共事務可提供克服瓶頸的機會，而人工智慧（AI）則能提供協助。本研究借鑒多中心治理理論與多層次網絡理論，分別解釋協同治理為何會發生以及其如何受AI影響。本研究運用從微觀與宏觀兩個視角進行的數學推導，以強化此一理論觀點。本研究以中國城市為案例，在實踐中檢驗了AI對協同治理的影響，並輔以基準迴歸以及後續的內生性與穩健性檢定。機制檢定闡明了AI透過推動數位政府、提升企業透明度以及增進公眾知識來發揮其功能。此外，來自雙重差分、門檻迴歸與空間計量經濟模型的計量經濟學證據，有力地解決了對AI的疑慮。本研究為中國與全球南方提供了可量化的多方利害關係人治理框架以及具實用價值的政策啟示。"
   },
   {
    "doi": "10.1080/14719037.2026.2711106",
@@ -1818,6 +1840,23 @@
    "abstract_zh": "為回應提升警察問責制的要求，許多警政單位已採行政策，旨在更妥善規範武力使用，並使調查和懲處被指控行為不當的員警更容易。儘管尚未普及，但有證據顯示這些變革已增加了懲戒行動。然而，警察懲戒是否已在各單位內部的不同種族和性別群體之間公平應用，仍不確定。借鑒多個學術領域的研究，我們預期非裔、拉丁裔和女性員警因其作為組織外群體成員的地位，更可能受到較高比例的懲戒。重要的是，我們也主張懲戒結果中的種族、族裔和性別差異，至少部分地由警政單位處理針對這些員警的投訴方式所中介。我們利用芝加哥警察問責平民辦公室（COPA）從1971年至2018年的數據來檢驗這些假設。對超過249,000項指控的分析顯示，相較於白人男性員警，女性和非裔員警面臨較高的訓斥和停職可能性。然而，這些群體之間的差異完全可由針對這些員警的投訴更有可能被認為有足夠證據支持，以致應採取懲戒行動來解釋。最後，我們討論對於理解員工懲戒的更廣泛意涵，以及近期提升警察問責制努力的潛在影響。"
   },
   {
+   "doi": "10.1093/jopart/muag028",
+   "title": "A Model of Agency Behavior in Participatory Budgeting: A Resource Dependence Perspective",
+   "abstract": "Based on resource dependence theory, this article theorizes why government agencies adopt citizen proposals in participatory budgeting. Agencies depend on the executive budget office and the legislature for budget approval, which makes them face uncertainty in securing budgets from these political principals. In this context, agencies can adopt citizen proposals to present their requests as reflecting citizen demands, thereby increasing the probability of approval. Building on this logic, this study argues that the greater the uncertainty agencies face in their dependencies on principals, the more likely they are to depend on proposals. This argument is tested using multilevel mixed-effects logistic regression based on citizen proposals (N = 3,609) submitted through Korea’s national participatory budgeting initiative from 2020 through 2023. The results show that agencies with less financial support from the legislature or those with smaller budgets are more likely to adopt proposals, as they face greater uncertainty due to unstable budgetary flows or fewer response options to manage resource instability. Agencies are also more likely to adopt proposals when they previously secured greater funding through proposal adoption, but this effect weakens for larger-budget agencies or those receiving greater legislative support. These findings emphasize the strategic nature of proposal adoption and the role of resource dependence in agency responses to proposals.",
+   "authors": [
+    "Seunghyun Kim"
+   ],
+   "journal": "Journal of Public Administration Research and Theory",
+   "url": "https://doi.org/10.1093/jopart/muag028",
+   "date": "2026-09-06",
+   "first_seen": "2026-09-08",
+   "score": 4.0,
+   "matched": [
+    "legislative"
+   ],
+   "abstract_zh": ""
+  },
+  {
    "doi": "10.1080/10967494.2026.2691390",
    "title": "Chainsaw or scalpel: which leads to more blame for a service failure when leaders downsize government?",
    "abstract": "The Trump administration’s DOGE attempted to radically downsize U.S. federal agencies. This study aims to clarify whether government leaders are blamed more for service failure when they employ either a DOGE-like (chainsaw) method or a more measured (scalpel) approach. A preregistered experiment was conducted in which respondents were randomly assigned to one of 6 vignettes that presented information about downsizing approaches, a public service failure, and the person or entity directly responsible for the failure. This study produced four main findings. First, people blamed city leaders more for the service failure when they knew a chainsaw approach was used to downsize government, compared to when they were given no information about the approach. Second, people blamed city leaders more when a chainsaw approach was used than when a scalpel approach was used. Third, simply knowing that city leaders had used a downsizing approach was not enough to shift blame away from the frontline employee toward city leaders. Fourth, blame shifted from the frontline employee to city leaders when people learned that a chainsaw approach—rather than a scalpel approach—had been used. The implications for research and practice are that a chainsaw approach is undesirable.",
@@ -2236,19 +2275,6 @@
    "abstract_zh": "執行能源轉型任務的地方政府仰賴契約人員來彌補能力與專業知識的缺口，這引發了對依賴性與知識流失的擔憂。本研究借鑒資源依賴理論以及客戶-顧問關係文獻，發展出一個框架，以呈現外部依賴與內部能力發展之間的循環回饋。對六個荷蘭地方政府進行的十五次訪談顯示，人力短缺與臨時性補助驅動了契約人員的聘用，而短期契約與有限的知識移轉則加劇了依賴性。面臨相似限制的地方政府，透過知識整合、治理機制與關係動態而呈現分歧。本研究藉由將依賴性概念化為一個過程而非結構性結果，推進了公共行政學術。"
   },
   {
-   "doi": "10.1111/puar.70182",
-   "title": "American Society for Public Administration Code of Ethics",
-   "abstract": "",
-   "authors": [],
-   "journal": "Public Administration Review",
-   "url": "https://doi.org/10.1111/puar.70182",
-   "date": "2026-08-28",
-   "first_seen": "2026-08-29",
-   "score": 2.0,
-   "matched": [],
-   "abstract_zh": ""
-  },
-  {
    "doi": "10.1111/puar.70194",
    "title": "Issue Information",
    "abstract": "",
@@ -2268,6 +2294,19 @@
    "authors": [],
    "journal": "Public Administration Review",
    "url": "https://doi.org/10.1111/puar.70183",
+   "date": "2026-08-28",
+   "first_seen": "2026-08-29",
+   "score": 2.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.1111/puar.70182",
+   "title": "American Society for Public Administration Code of Ethics",
+   "abstract": "",
+   "authors": [],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70182",
    "date": "2026-08-28",
    "first_seen": "2026-08-29",
    "score": 2.0,
@@ -3126,7 +3165,7 @@
   {
    "doi": "10.1080/14719037.2026.2725795",
    "title": "Performance-measurement systems as actors and boundary objects: a sociomaterial perspective to the provision of prison services",
-   "abstract": "",
+   "abstract": "The paper explores the performance-measurement systems (PMSs) used in the provision of prison services (and their non-human agent role) to reflect on: the role PMSs play in inter-organisational relationships; the boundary objects that connect human and non-human actors across inter-organisational levels; and what affordances such connections generate. The study focuses on the English prison sector, drawing on document analysis and interviews. The findings show that PMSs represent both active non-human agents and boundary objects. The positioning of the actors involved can be seen as a second-order boundary object. Moreover, PMSs can generate affordances that go beyond the initially-intended purposes.",
    "authors": [
     "Noel Hyndman",
     "Mariannunziata Liguori"
@@ -3137,7 +3176,7 @@
    "first_seen": "2026-09-07",
    "score": 0.0,
    "matched": [],
-   "abstract_zh": ""
+   "abstract_zh": "本文探討應用於監獄服務提供中的績效衡量系統（PMSs）及其非人類代理人角色，旨在反思：績效衡量系統在組織間關係中的作用；連結跨組織層級的人類與非人類行動者的邊界客體；以及這些連結所產生的「可供性」。本研究聚焦於英國監獄部門，透過文件分析與訪談進行資料蒐集。研究結果顯示，績效衡量系統既是活躍的非人類代理人，也是邊界客體。相關行動者的定位可被視為一種二階邊界客體。此外，績效衡量系統所產生的「可供性」可能超越其最初預期目的。"
   },
   {
    "doi": "10.1111/padm.70093",
@@ -3154,6 +3193,43 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "當政治人物未直接參與政策過程時，政策創業家如何改變政策？儘管公共政策學者已探討政治人物避免直接參與政策設計的條件，但對於在政治行動者缺席時，政策創業家所採用的策略卻較少著墨。本研究以「Roim Rachok」（「展望未來」）計畫為案例，該計畫旨在促進自閉症類群人士納入以色列國防軍。透過文本分析以及對該計畫成員進行30份深度訪談，我們藉由探討政策創業家如何獨立推動政策變革，以彌補此一學術空白。研究結果顯示，政策創業家透過制度化的協作網絡進行運作。他們也善用以色列的安全挑戰作為一個結構化的框架，以推動他們的新政策。此外，他們創建了組織基礎設施。最後，他們致力於與其合作的安全組織建立信任。"
+  },
+  {
+   "doi": "10.1080/14719037.2026.2725793",
+   "title": "When tasks feel unjustified: effects of illegitimate tasks on public servants’ citizen-oriented boundary-spanning behaviours",
+   "abstract": "",
+   "authors": [
+    "Nhung Nguyen",
+    "Luu Trong Tuan",
+    "Diep Nguyen",
+    "Dinh Cong Khai",
+    "Tuyen Nguyen"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2725793",
+   "date": "2026-09-08",
+   "first_seen": "2026-09-08",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.1111/padm.70088",
+   "title": "Strategies for Public Administration Research: Insights From the Scholarship of Christopher Hood",
+   "abstract": "In an era of time constraints and publication pressures, scholars risk becoming entrenched in familiar approaches. Christopher Hood's public administration scholarship reminds us that excellence often arises from a broad exploration of ideas. This paper identifies three core elements of Hood's research practice. First, a deep skepticism toward dominant narratives, which often revealed hidden complexities. Second, careful selection of temporal frames: this often meant adopting remarkably long time‐horizons to reveal patterns in administrative and policy reform. Third, genuine interdisciplinarity. While firmly rooted in public administration, Hood drew on concepts, evidence, and methods from a wide range of disciplines. Analyzing how these three elements interacted in Hood's work, the paper reflects on how adopting aspects of his approach can help scholars produce work of lasting value. Hood's legacy is therefore not only a record of past achievement but also a practical guide to navigating the contemporary academic environment.",
+   "authors": [
+    "Ruth Dixon",
+    "Rozana Himaz",
+    "Maia King",
+    "Barbara Maria Piotrowska"
+   ],
+   "journal": "Public Administration",
+   "url": "https://doi.org/10.1111/padm.70088",
+   "date": "2026-09-08",
+   "first_seen": "2026-09-08",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "在時間限制與出版壓力日益嚴峻的時代，學者容易固守既有方法。克里斯多福·胡德 (Christopher Hood) 的公共行政學術研究提醒我們，卓越往往源於對思想的廣泛探索。本文指出胡德研究實踐的三個核心要素。首先，他對主流論述抱持深刻懷疑，這往往揭示了隱藏的複雜性。其次，他精心選擇時間視角：這通常代表他會採納極長的時間尺度，以揭露行政與政策改革中的規律。第三，真正的跨學科性。儘管他深耕公共行政領域，胡德仍從廣泛的學科中汲取概念、證據和方法。本文分析了這三個要素在胡德研究中的互動方式，並反思了採納其部分方法如何能幫助學者產出具有持久價值的作品。因此，胡德的遺產不僅是過去成就的記錄，更是一個應對當代學術環境的實用指南。"
   }
  ]
 }
