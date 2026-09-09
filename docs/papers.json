@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-08T23:47:55+00:00",
+ "updated": "2026-09-09T23:37:31+00:00",
  "papers": [
   {
    "doi": "10.1080/10967494.2026.2706796",
@@ -1854,6 +1854,26 @@
    "matched": [
     "legislative"
    ],
+   "abstract_zh": "本文基於資源依賴理論，探討政府機關在參與式預算中採納公民提案的原因。機關仰賴行政預算機關與立法機關核准預算，這使其在從這些政治上級機關取得預算時面臨不確定性。在此背景下，機關可採納公民提案，將其請求呈現為反映公民需求，從而增加預算核准的可能性。基於此邏輯，本研究主張機關在對上級機關的依賴中面臨的不確定性越大，其越可能仰賴公民提案。\n\n本研究利用多層次混合效應邏輯迴歸，檢驗此論點，資料來源為2020年至2023年間透過韓國國家參與式預算倡議提交的公民提案（N = 3,609）。結果顯示，從立法機關獲得較少經費支持或預算規模較小的機關，更可能採納提案，因為其預算流動不穩定，或管理資源不穩定性的回應選項較少，因而面臨更大的不確定性。機關若先前透過採納提案獲得更多經費，也更可能採納提案，但此效應對於預算規模較大的機關或獲得較多立法機關支持的機關而言會減弱。這些發現強調了提案採納的策略性，以及資源依賴在機關回應提案中的作用。"
+  },
+  {
+   "doi": "10.1080/14719037.2026.2729794",
+   "title": "A fish rots from the head down: unpacking the trickle-down effect of leaders’ unethical pro-organizational behaviour (UPB) in the Chinese public sector",
+   "abstract": "",
+   "authors": [
+    "Cheng Chen",
+    "Shuwei Zhang",
+    "Peng Wen",
+    "Yiting Zhang"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2729794",
+   "date": "2026-09-09",
+   "first_seen": "2026-09-09",
+   "score": 4.0,
+   "matched": [
+    "unethical"
+   ],
    "abstract_zh": ""
   },
   {
@@ -3230,6 +3250,25 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "在時間限制與出版壓力日益嚴峻的時代，學者容易固守既有方法。克里斯多福·胡德 (Christopher Hood) 的公共行政學術研究提醒我們，卓越往往源於對思想的廣泛探索。本文指出胡德研究實踐的三個核心要素。首先，他對主流論述抱持深刻懷疑，這往往揭示了隱藏的複雜性。其次，他精心選擇時間視角：這通常代表他會採納極長的時間尺度，以揭露行政與政策改革中的規律。第三，真正的跨學科性。儘管他深耕公共行政領域，胡德仍從廣泛的學科中汲取概念、證據和方法。本文分析了這三個要素在胡德研究中的互動方式，並反思了採納其部分方法如何能幫助學者產出具有持久價值的作品。因此，胡德的遺產不僅是過去成就的記錄，更是一個應對當代學術環境的實用指南。"
+  },
+  {
+   "doi": "10.1080/14719037.2026.2731444",
+   "title": "Unlocking the transformative potential of design: reflections from practice on navigating barriers to designing for societal transformation",
+   "abstract": "",
+   "authors": [
+    "Geert Brinkman",
+    "Arwin van Buuren",
+    "Suzan Christiaanse",
+    "Irene Fierloos",
+    "Wiesje Korf"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2731444",
+   "date": "2026-09-09",
+   "first_seen": "2026-09-09",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
   }
  ]
 }
