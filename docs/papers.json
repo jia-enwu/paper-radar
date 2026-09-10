@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-09T23:37:31+00:00",
+ "updated": "2026-09-10T23:31:24+00:00",
  "papers": [
   {
    "doi": "10.1080/10967494.2026.2706796",
@@ -1342,6 +1342,26 @@
    "abstract_zh": "聯邦公務體系在第二屆川普政府執政第一年經歷了前所未有的離職潮。初步報告已揭示了大量人員流失，以及這些變革背後的政治化與對立。本研究剖析了過去一年的離職情況，聚焦於延遲辭職計畫 (DRP)，旨在了解離職發生的地點及其對組織知識與能力的影響。本分析檢視了從2015年1月至2025年12月的聯邦公務員數據，顯示聯邦公務體系透過自願與非自願兩種離職方式，流失了大量專業知識與經驗。本研究結果闡明了2025年行政命令的後果，釐清了對政府運作能力的影響，並指出未來減輕對聯邦公務體系損害的可能途徑。"
   },
   {
+   "doi": "10.1111/puar.70186",
+   "title": "Restoring the Deformed Administrative State? Bureaucratic Repair After Illiberal Rule",
+   "abstract": "While scholarship has documented how populist and authoritarian‐leaning executives deform bureaucratic institutions, post‐illiberal reconstruction has only begun to receive attention. This paper develops an exploratory framework distinguishing four repair strategies (neutralizing, rectifying, balancing, and democratic hardening) and two repair modes (formal‐institutional and normative‐capacity repair). Applying the heuristic to Poland, Brazil, and Hungary, we posit that the selection and limits of repair strategies follow the gap between the depth of illiberal entrenchment and the legal‐political capacity of successor governments to overcome veto players and enact rectifying reforms. Within the periods observed, formal‐institutional repair has outpaced the reconstruction of professional norms, expertise, and trust, and repair has produced layered administrative orders in which illiberal‐era instruments partly persist and thus remain available to future governments. Administrative repair is thus structurally asymmetric. Democratic successors can rebuild the administrative state, but they are unlikely to restore it to the status quo ante.",
+   "authors": [
+    "Michael W. Bauer",
+    "Daniel Kovarek",
+    "Bárbara Motta",
+    "Andrzej Schultz"
+   ],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70186",
+   "date": "2026-09-10",
+   "first_seen": "2026-09-10",
+   "score": 8.0,
+   "matched": [
+    "bureaucra"
+   ],
+   "abstract_zh": "儘管學術研究已記錄民粹主義和威權傾向的行政首長如何扭曲官僚機構，但非自由主義後的重建才剛開始受到關注。本文提出一個探索性框架，區分四種修復策略（中和化、糾正化、平衡化和民主強化）以及兩種修復模式（形式制度性修復和規範能力修復）。將此啟發式方法應用於波蘭、巴西和匈牙利，我們主張修復策略的選擇與其限制，取決於非自由主義根深蒂固的程度，以及繼任政府克服否決者並實施糾正性改革的法律政治能力之間的落差。在所觀察的時期內，形式制度性修復已超越專業規範、專業知識和信任的重建；修復也產生了分層的行政秩序，其中非自由主義時期的工具部分持續存在，並因此仍可供未來政府使用。行政修復因此具有結構上的不對稱性。民主繼任者可以重建行政國家，但不太可能將其恢復到原狀。"
+  },
+  {
    "doi": "10.1177/02750740261457069",
    "title": "Experimental Evidence on the Effect of Decision Justification Strategies on Citizen Perceptions of Government",
    "abstract": "Abundant literature documents a range of factors that shape citizen perceptions of government. However, attention to how the justification of a policy decision shapes citizen perceptions remains limited. In this study, we consider how justifications influence citizen trust and legitimacy through a 2 × 2 × 2 pre-registered factorial survey experiment that manipulates justification strategy, policy position, and policy type. Results indicate that opposing positions reduce trust and legitimacy while the context of a highly polarized policy has the opposite effect. Emotive-based strategies decrease trust but do not affect legitimacy. Further, the effect of a supportive or opposing position varies by level of policy polarization.",
@@ -2308,12 +2328,12 @@
    "abstract_zh": ""
   },
   {
-   "doi": "10.1111/puar.70183",
-   "title": "Celebrating 85 Years",
+   "doi": "10.1111/puar.70182",
+   "title": "American Society for Public Administration Code of Ethics",
    "abstract": "",
    "authors": [],
    "journal": "Public Administration Review",
-   "url": "https://doi.org/10.1111/puar.70183",
+   "url": "https://doi.org/10.1111/puar.70182",
    "date": "2026-08-28",
    "first_seen": "2026-08-29",
    "score": 2.0,
@@ -2321,12 +2341,12 @@
    "abstract_zh": ""
   },
   {
-   "doi": "10.1111/puar.70182",
-   "title": "American Society for Public Administration Code of Ethics",
+   "doi": "10.1111/puar.70183",
+   "title": "Celebrating 85 Years",
    "abstract": "",
    "authors": [],
    "journal": "Public Administration Review",
-   "url": "https://doi.org/10.1111/puar.70182",
+   "url": "https://doi.org/10.1111/puar.70183",
    "date": "2026-08-28",
    "first_seen": "2026-08-29",
    "score": 2.0,
@@ -2380,6 +2400,21 @@
    "score": 2.0,
    "matched": [],
    "abstract_zh": "很少有法規改革能像加州桑尼維爾市的績效衡量系統那樣備受讚譽或效仿，該系統啟發了1993年政府績效與成果法案以及無數其他國家和地方的努力。本研究首次針對績效衡量系統進行縱貫性、跨計畫分析，採用數位檔案分析方法，分析了1984年至2023年間橫跨35,000頁文件中的152個績效指標，並輔以對主要利害關係人的訪談。儘管桑尼維爾市的系統最初是作為績效導向決策的典範運作，卻因承諾減弱而惡化，更重要的是，它承受了巨大的實施成本，同時其效益卻隨時間遞減。研究結果闡明了績效衡量系統所面臨的三個核心權衡：衡量重要事項（「數量-品質」權衡）；確保連續性同時允許調適（「連續性-彈性」權衡）；以及確保問責性同時不影響生產力（「問責性-生產力」權衡）。"
+  },
+  {
+   "doi": "10.1093/jopart/muag029",
+   "title": "Institutional Conversion and Digital Transformation in Local Governments: A Longitudinal Analysis of Trajectories",
+   "abstract": "This article asks a central question in digital government research: why do local governments operating under similar institutional conditions follow sharply different digital transformation trajectories over time? Drawing on theories of gradual institutional change, the study conceptualizes digital transformation not as a discrete adoption outcome, but as a process of institutional conversion through which technological capacity is translated into sustained digital service provision. Information governance is theorized as the key conditioning mechanism linking technological resources to durable organizational outcomes. The analysis combines longitudinal panel models, fixed-effects estimators, and trajectory-based clustering using a panel of all Brazilian municipalities (MUNIC/IBGE; N = 5,569) across seven waves between 2004 and 2024. Results show that increases in technological capacity are associated with subsequent gains in digital services, but these effects are gradual and conditional. Information governance significantly shapes how municipalities mobilize and stabilize technological resources over time, while interaction models reveal non-linear and diminishing returns consistent with institutional coordination limits. Trajectory analyses identify four distinct patterns of digital transformation, ranging from ‘institutionalized pioneers’ to ‘persistent stagnation’, demonstrating that digital development unfolds through path-dependent and institutionally anchored trajectories rather than through simple convergence. The article contributes to public administration research in three ways: provides rare longitudinal evidence on local digital transformation over two decades; integrates institutional change theory into digital government research by conceptualizing governance as a mechanism of institutional conversion; and advances a trajectory-based explanation of digital transformation that shifts attention from episodic technological adoption to cumulative institutional processes shaping long-run administrative performance.",
+   "authors": [
+    "Adalmir de Oliveira Gomes"
+   ],
+   "journal": "Journal of Public Administration Research and Theory",
+   "url": "https://doi.org/10.1093/jopart/muag029",
+   "date": "2026-09-09",
+   "first_seen": "2026-09-10",
+   "score": 2.0,
+   "matched": [],
+   "abstract_zh": "本文探討數位政府研究中的一個核心問題：為何在相似制度條件下運作的地方政府，其數位轉型軌跡會隨著時間推移而呈現顯著差異？本研究借鑒漸進式制度變革理論，將數位轉型概念化為一個制度轉化過程，而非單次的採納結果，此過程將技術能力轉化為持續的數位服務提供。資訊治理被視為連結技術資源與持久組織成果的關鍵條件機制。本分析結合縱向面板模型、固定效果估計量以及基於軌跡的聚類分析，使用2004年至2024年間七個波次的所有巴西市鎮（MUNIC/IBGE；N = 5,569）面板資料。結果顯示，技術能力的提升與隨後數位服務的增長相關，但這些影響是漸進且有條件的。資訊治理顯著影響市鎮如何隨著時間推移動員和穩定技術資源，而交互作用模型揭示了與制度協調限制一致的非線性且遞減的報酬。軌跡分析識別出四種不同的數位轉型模式，從「制度化先驅」到「持續停滯」不等，表明數位發展是透過路徑依賴且制度錨定的軌跡展開，而非簡單的趨同。本文從三個方面對公共行政研究做出貢獻：首先，提供了關於地方數位轉型跨越二十年的珍貴縱向證據；其次，透過將治理概念化為制度轉化機制，將制度變革理論整合到數位政府研究中；最後，提出一種基於軌跡的數位轉型解釋，將注意力從偶發的技術採納轉向塑造長期行政績效的累積性制度過程。"
   },
   {
    "doi": "10.1080/14719037.2026.2685252",
@@ -3269,6 +3304,22 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": ""
+  },
+  {
+   "doi": "10.1111/padm.70089",
+   "title": "How Were Governance Pathways Formed for Public Service Co‐Production? A Contingency Perspective",
+   "abstract": "This study addresses the under‐theorized formation of specific co‐production arrangements by exploring governance pathway formation. Using 76 community regeneration projects in Shanghai, we identify a parsimonious two‐level typology: State‐led co‐production (comprising sub‐type A: state as operator and sub‐type B: non‐state as operator ) and Citizen‐led co‐production (comprising sub‐type C: volunteers as operator and sub‐type D: users as operator ). Findings reveal pathway emergence is contingent upon configurations of providers' capabilities, citizen empowerment, political leadership, and public service characteristics, reflecting logics associated with Neo‐Weberian State, New Public Management, and New Public Governance paradigms. The study shifts focus from static lists to dynamic governance pathways by proposing a configurational contingency framework that explains how governance logics are activated by specific contextual conditions.",
+   "authors": [
+    "Huanming Wang",
+    "Bing Ran"
+   ],
+   "journal": "Public Administration",
+   "url": "https://doi.org/10.1111/padm.70089",
+   "date": "2026-09-09",
+   "first_seen": "2026-09-10",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "本研究旨在透過探索治理路徑的形成，處理特定協同生產安排在理論化方面的不足。本研究以上海76個社區再生計畫為研究對象，歸納出一個精簡的兩層次類型學：政府主導的協同生產（包含子類型A：政府作為執行者，以及子類型B：非政府作為執行者）與公民主導的協同生產（包含子類型C：志工作為執行者，以及子類型D：使用者作為執行者）。研究結果顯示，路徑的形成取決於提供者能力、公民賦權、政治領導和公共服務特性的配置，並反映了與新韋伯國家、新公共管理和新公共治理典範相關的邏輯。本研究透過提出一個配置權變架構，將焦點從靜態清單轉向動態治理路徑，該架構解釋了治理邏輯如何被特定的情境條件所啟動。"
   }
  ]
 }
