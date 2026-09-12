@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-11T23:39:24+00:00",
+ "updated": "2026-09-12T23:32:29+00:00",
  "papers": [
   {
    "doi": "10.1080/10967494.2026.2706796",
@@ -383,6 +383,29 @@
     "generative"
    ],
    "abstract_zh": "好的論證能否改變個人的想法？在三項預先註冊的實驗中，我們在公部門組織績效的領域中探討了這個問題。我們觀察受試者與一個被設定以七種不同「風格」進行論證的生成式人工智慧（AI）進行對話，這些風格包括對抗性挑戰者風格、教導式風格和奉承式風格。我們發展了一套有效論證的理論，預測令人愉悅且引人入勝的對話風格將比不愉快或缺乏刺激的風格更具說服力。與此預測相反的是，我們發現挑戰受試者對政府機構負面看法的對話風格能產生顯著的正面態度改變，而迎合這些看法的奉承式風格則否。令人不安的是，受試者認為奉承式風格比挑戰者風格更令人愉快、較不令人沮喪且更具可信度。這種使用者體驗與說服結果之間的分離——我們稱之為「勉強的說服」——表明態度改變不一定需要愉快的對話體驗，且受試者最喜歡的風格可能恰恰是最不可能說服他們的風格。我們的研究結果指出基於大型語言模型（LLM）說服的一個潛在陰暗面：使用者認為最具吸引力的奉承式風格，在糾正錯誤資訊方面最不有效。"
+  },
+  {
+   "doi": "10.1111/padm.70091",
+   "title": "Inspired to Serve: Exposure to Moral Models to Enhance Public Service Motivation",
+   "abstract": "Public service motivation (PSM) is widely recognized as a predictor of positive outcomes, yet relatively little is known about how it can be deliberately cultivated. Drawing on conservation of resources (COR) theory, the present research investigates whether and how exposure to moral exemplars embedded in public‐sector training enhances PSM. Employing a multi‐method design that combines a recall experiment with a field survey, we find that exposure to uncommon moral exemplars elicits moral elevation, which functions as a replenishment of psychological resources and, in turn, strengthens public employees' PSM. Moreover, this mediating mechanism is moderated by cognitive load, such that public employees experiencing greater cognitive demands derive stronger motivational benefits from moral elevation. By identifying moral elevation as a psychological resource mechanism and cognitive load as a boundary condition, this research opens the “black box” of PSM development. It highlights how training can serve as an institutional platform for delivering specific moral content that cultivates and sustains public employees' motivation to serve.",
+   "authors": [
+    "Xiaoyu Wang",
+    "James L. Perry",
+    "Yuming Wang",
+    "Dingxiang Chen",
+    "Bangcheng Liu"
+   ],
+   "journal": "Public Administration",
+   "url": "https://doi.org/10.1111/padm.70091",
+   "date": "2026-09-11",
+   "first_seen": "2026-09-12",
+   "score": 30.0,
+   "matched": [
+    "public employee",
+    "public service motivation",
+    "psm"
+   ],
+   "abstract_zh": "公職服務動機 (PSM) 被廣泛認為是正向結果的預測因子，然而對於如何刻意培養它卻知之甚少。本研究借鑒資源保存理論 (COR)，探討公部門訓練中融入道德典範的接觸，是否以及如何提升公職服務動機 (PSM)。採用結合回憶實驗與實地調查的多重方法設計，我們發現接觸不尋常的道德典範會引發道德昇華，其作用是補充心理資源，進而強化公務員的 PSM。此外，此中介機制受到認知負荷的調節，使得經歷較大認知需求的公務員能從道德昇華中獲得更強的動機效益。透過將道德昇華識別為一種心理資源機制，並將認知負荷識別為邊界條件，本研究開啟了 PSM 發展的「黑盒子」。本研究強調訓練如何能作為一個制度性平台，用於傳遞特定的道德內容，以培養並維持公務員的服務動機。"
   },
   {
    "doi": "10.1080/14719037.2026.2692614",
@@ -1774,6 +1797,23 @@
    "abstract_zh": "參與式與協作式治理 (P&amp;CG) 廣受肯定，被視為一種制度載體，透過邀請受影響的利害關係人參與具包容性與審議性的政策過程，以實現公共決策的民主化。本文主張，P&amp;CG 中對民主正當性的潛在訴求，實質上隱含著對特定（且常受意識形態限制）正義觀的承諾。民主在規範上絕非單一，它涵蓋相互競爭的正義原則，這些原則導致分歧且有時相互衝突的設計準則。有鑑於此，本文呼籲從籠統的民主論述轉向對正義更精確的理論化，將其視為 P&amp;CG 中實際運作的核心規範依據。為達此目的，本文概述了一個分析框架，將治理設計的三個核心維度（投入、過程和產出）對應到相應的正義領域：代表性正義、程序性正義和分配性正義。系統性地剖析每個領域內多元且相互衝突的倫理原則，揭示了不同的正義原則如何產生獨特的治理困境與權衡取捨。"
   },
   {
+   "doi": "10.1111/puar.70200",
+   "title": "The “Professional Mortality” Problem in Early City Management: A Study of Organized Denial",
+   "abstract": "The early city management profession experienced appalling rates of attrition. This problem of “professional mortality” had been clearly recognized by the end of World War I: causes of attrition included threats and violence against managers, intense political interference in managers' work, and interpersonal missteps. Yet the organized management profession and advocates of the manager plan actively ignored threats and were unwilling to respond collectively or officially to political interference; leading scholars recognized but did not publicly discuss common interpersonal problems faced by managers. This silence on the underlying causes of turnover marked an effort to protect the manager plan's viability in the face of growing electoral opposition during the 1920s, placing the interests of the profession above its practicing members. The optimistic, rationalist discourses of advocates, scholars, and professional leaders rested on self‐conscious denial of uncomfortable realities; a full historical accounting may help avoid repeating these mistakes.",
+   "authors": [
+    "Ben Merriman"
+   ],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70200",
+   "date": "2026-09-12",
+   "first_seen": "2026-09-12",
+   "score": 5.0,
+   "matched": [
+    "turnover"
+   ],
+   "abstract_zh": "早期市政管理專業面臨驚人的離職率。這種「專業死亡率」的問題在第一次世界大戰結束時已明確被認知：離職原因包括管理者遭受的威脅與暴力、對管理者工作的強烈政治干預，以及人際關係上的失誤。然而，組織化的管理專業和市經理制擁護者主動忽視威脅，且不願集體或官方地對政治干預做出回應；知名學者雖然認知到，卻未公開討論管理者普遍面臨的人際問題。這種對離職根本原因的沉默，顯示出在1920年代面對日益增長的選舉反對聲浪時，保護市經理制可行性的一種努力，將該專業的利益置於其執業成員之上。擁護者、學者和專業領導者的樂觀理性主義論述，建立在對令人不安現實的刻意否認之上；一個全面的歷史檢視或許有助於避免重蹈覆轍。"
+  },
+  {
    "doi": "10.1111/puar.70157",
    "title": "Selection Method, Partisanship, and Performance of Government Oversight Functions",
    "abstract": "This study examines how the selection of public sector leaders affects organizational outcomes, especially in oversight functions where independence is expected. Political economy literature suggests that elected leaders better respond to voter preferences, while appointed leaders possess more expertise. Drawing on public administration theories of political control of the bureaucracy, we posit that, regardless of the selection method, public sector leaders as agents are subject to the influence of political principals with authority over the selection process. When the principal's interest is not aligned with the public interest, as seen in government oversight functions, its influence could compromise the performance of the selected leaders. Focusing on state auditors, the study finds that on average, selection methods are not correlated with audit findings, but an auditor whose political principal shares the same party affiliation as the auditee (the state governor) is less likely to identify financial management deficiencies.",
@@ -2413,12 +2453,12 @@
    "abstract_zh": "執行能源轉型任務的地方政府仰賴契約人員來彌補能力與專業知識的缺口，這引發了對依賴性與知識流失的擔憂。本研究借鑒資源依賴理論以及客戶-顧問關係文獻，發展出一個框架，以呈現外部依賴與內部能力發展之間的循環回饋。對六個荷蘭地方政府進行的十五次訪談顯示，人力短缺與臨時性補助驅動了契約人員的聘用，而短期契約與有限的知識移轉則加劇了依賴性。面臨相似限制的地方政府，透過知識整合、治理機制與關係動態而呈現分歧。本研究藉由將依賴性概念化為一個過程而非結構性結果，推進了公共行政學術。"
   },
   {
-   "doi": "10.1111/puar.70182",
-   "title": "American Society for Public Administration Code of Ethics",
+   "doi": "10.1111/puar.70183",
+   "title": "Celebrating 85 Years",
    "abstract": "",
    "authors": [],
    "journal": "Public Administration Review",
-   "url": "https://doi.org/10.1111/puar.70182",
+   "url": "https://doi.org/10.1111/puar.70183",
    "date": "2026-08-28",
    "first_seen": "2026-08-29",
    "score": 2.0,
@@ -2426,12 +2466,12 @@
    "abstract_zh": ""
   },
   {
-   "doi": "10.1111/puar.70183",
-   "title": "Celebrating 85 Years",
+   "doi": "10.1111/puar.70182",
+   "title": "American Society for Public Administration Code of Ethics",
    "abstract": "",
    "authors": [],
    "journal": "Public Administration Review",
-   "url": "https://doi.org/10.1111/puar.70183",
+   "url": "https://doi.org/10.1111/puar.70182",
    "date": "2026-08-28",
    "first_seen": "2026-08-29",
    "score": 2.0,
@@ -3494,6 +3534,23 @@
    "url": "https://doi.org/10.1111/padm.70069",
    "date": "2026-09-11",
    "first_seen": "2026-09-11",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.1080/14719037.2026.2725790",
+   "title": "Introducing public management and global sporting mega-events: public value, ecosystems, learning and temporality",
+   "abstract": "",
+   "authors": [
+    "Alex G. Gillett",
+    "Kevin D. Tennent",
+    "Michael Macaulay"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2725790",
+   "date": "2026-09-12",
+   "first_seen": "2026-09-12",
    "score": 0.0,
    "matched": [],
    "abstract_zh": ""
