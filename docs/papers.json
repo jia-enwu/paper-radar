@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-12T23:32:29+00:00",
+ "updated": "2026-09-13T23:45:02+00:00",
  "papers": [
   {
    "doi": "10.1080/10967494.2026.2706796",
@@ -957,6 +957,25 @@
    "abstract_zh": "街頭官僚（SLBs）在政策模糊不清的情況下與民眾互動時，經常運用尋求同情策略。然而，民眾對這些策略的回應仍鮮少被探討。本研究因此探討，在政策模糊不清的情況下，街頭官僚的尋求同情策略是否能促進受檢者的合作回應。我們在中國進行了問卷實驗，採用四個橫跨緊急與常規監管情境的真實世界執法情境。結果顯示，街頭官僚的尋求同情策略顯著提升了受檢者的配合意願、對執法的接受度、對街頭官僚的情感同情，以及支持意圖。此外，尋求同情策略的成效在緊急情境中比在常規監管情境中更為顯著。這些發現指出，尋求同情是一種情境敏感且未受充分重視的機制，街頭官僚可藉此減少對立、建立建設性關係，並提升第一線執法的效能與感知合法性。"
   },
   {
+   "doi": "10.1080/10967494.2026.2691398",
+   "title": "When police officers surrender: the effect of citizen incivility on withdrawal and turnover",
+   "abstract": "Why do seemingly minor acts of citizen disrespect matter for police retention? Drawing on Conservation of Resources (COR) theory and sociometer theory, this study examines how citizen incivility shapes officers’ withdrawal processes over time. Using a three-wave longitudinal survey of 1,397 police officers, we test whether baseline exposure to citizen incivility predicts subsequent trajectories of work disengagement and turnover intention. We argue that citizen incivility functions as a low intensity but psychologically consequential interpersonal cue that subtly threatens officers’ perceived social standing, depleting psychological resources, fostering disengagement, and ultimately increasing turnover intention. We further propose that perceived organizational support (POS), as a valued resource and a signal of institutional recognition, buffers these adverse effects. Results confirm that citizen incivility indirectly predicts turnover intention through disengagement, and that POS attenuates this pathway. These findings advance understanding of resource-loss dynamics in public service contexts and highlight the protective role of organizational support in sustaining frontline engagement and retention.",
+   "authors": [
+    "Mathieu Molines",
+    "Martin Storme",
+    "Cathy Y. Guo"
+   ],
+   "journal": "International Public Management Journal",
+   "url": "https://doi.org/10.1080/10967494.2026.2691398",
+   "date": "2026-09-11",
+   "first_seen": "2026-09-11",
+   "score": 15.0,
+   "matched": [
+    "turnover"
+   ],
+   "abstract_zh": "公民看似輕微的無禮行為為何會影響警察的留任？本研究援引資源保存理論（COR）與社會測量理論，探討公民的無禮行為如何隨著時間推移影響警察的離職過程。本研究採用針對1,397名警察進行的三波追蹤調查，檢驗初始接觸公民無禮行為的程度是否能預測後續工作疏離與離職意圖的發展軌跡。我們主張，公民的無禮行為是一種強度不高但具有心理影響的人際線索，它微妙地威脅警察感知到的社會地位，耗盡其心理資源，助長工作疏離，並最終增加離職意圖。我們進一步提出，感知組織支持（POS）作為一種有價值的資源和機構認可的訊號，能緩衝這些不利影響。結果證實，公民的無禮行為透過工作疏離間接預測離職意圖，且感知組織支持能減弱此路徑。這些研究結果增進了對公共服務情境中資源流失動態的理解，並突顯組織支持在維持第一線人員投入與留任方面的保護作用。"
+  },
+  {
    "doi": "10.1111/padm.70068",
    "title": "A Replication of “Emotional Responses to Bureaucratic Red Tape”",
    "abstract": "Why does bureaucracy often sting the public, evoking negative sentiment even when its rules are well‐designed? This study addresses this paradox through a laboratory experiment in the Chinese context ( N = 280), replicating and extending a seminal study by Hattke et al. (2020) on emotional responses to red tape. Employing physiological measures, including facial expression analysis and electrodermal activity, we examined the effects of red tape, rule functionality, and, as a key theoretical extension, rule transparency on public emotions within a simulated government subsidy application scenario. The findings confirm that red tape, particularly administrative burden, is a robust antecedent of negative emotions. More critically, the study reveals the profound limitations of informational strategies: neither explaining a rule's function nor enhancing its transparency could soothe negative emotions, let alone elicit positive ones. This research contributes by demonstrating, through cross‐cultural validation and theoretical extension, that in citizen‐state interactions, the experiential costs of a procedure often override its cognitive rationality. This insight offers a crucial directive for public service design: governments should prioritize minimizing experiential costs through process simplification, while strategically leveraging transparency to manage negative expectations and compensating for the inherent emotional deficits of bureaucracy by enhancing interactional quality.",
@@ -1309,6 +1328,25 @@
     "vignette"
    ],
    "abstract_zh": "政府與公務人員皆面臨負面偏誤，但傳達公務服務的卓越表現是否有助於解決公眾信任與參與度下降的問題？儘管學術研究已探討當政府或承包商表現不佳時，公眾如何歸咎責任，但對於正面層面的關注卻少得多。當員工與機構超越職責要求時，功勞是如何歸屬的？本研究透過情境問卷實驗來填補此一研究缺口，旨在探討契約外包如何影響公眾將功勞歸屬給聯邦、州及地方各級政府的服務提供者與個別員工。結果顯示，功勞更可能歸屬給第三方提供者，而非直接提供服務的政府。然而，在個別員工層面，當有卓越表現時，公眾偏好將功勞歸屬給公務人員，尤其是在聯邦政府層級。本研究結果對契約外包、績效與問責具有啟示，或許分享更多公務服務的正面故事能促進公眾更正向的看法。"
+  },
+  {
+   "doi": "10.1080/10967494.2026.2718926",
+   "title": "Public service equity and stakeholder satisfaction: evidence from 56 countries on how parents, teachers, and students respond to gender gaps in education",
+   "abstract": "This study examines how gender equity in educational achievement relates to the satisfaction of three key stakeholders: students, parents, and teachers. Using cross-national panel data from the Trends in International Mathematics and Science Study (TIMSS), covering 56 countries from 2011 to 2019, we link gender gaps in student math and science performance to student and parent satisfaction with schooling, as well as teacher satisfaction with their jobs. We find that gender inequity is associated with lower satisfaction, but parents with a female student and higher SES respond to the gender inequity the most. These findings extend the citizen satisfaction and public service equity literatures by showing that different stakeholders in the same public service system can respond quite differently to inequities, with implications for how governments communicate about and address performance gaps and equity concerns.",
+   "authors": [
+    "Seung-Ho An",
+    "Suyeon Jo",
+    "Kenneth J Meier"
+   ],
+   "journal": "International Public Management Journal",
+   "url": "https://doi.org/10.1080/10967494.2026.2718926",
+   "date": "2026-09-11",
+   "first_seen": "2026-09-11",
+   "score": 10.0,
+   "matched": [
+    "gender"
+   ],
+   "abstract_zh": "本研究探討教育成就中的性別平等如何關聯到三個主要利害關係人（學生、家長和教師）的滿意度。本研究利用來自「國際數學與科學教育成就趨勢調查」（TIMSS）的跨國追蹤資料，涵蓋2011年至2019年間的56個國家，將學生在數學和科學表現上的性別差距，連結到學生和家長對學校教育的滿意度，以及教師對其工作的滿意度。研究結果顯示，性別不平等與較低的滿意度相關，但擁有女學生且社經地位較高的家長對性別不平等的反應最為顯著。這些研究結果透過揭示同一公共服務系統中不同利害關係人對不平等的反應可能大相逕庭，從而擴展了公民滿意度與公共服務公平性相關文獻，並對政府如何溝通並處理績效差距和公平性問題具有啟示。"
   },
   {
    "doi": "10.1111/padm.70072",
@@ -1702,25 +1740,6 @@
    "abstract_zh": "公共行政學術界常將韋伯式理想型視為普遍的官僚體制模型，使得與其不同的治理安排顯得不足而非差異。去殖民化取徑反而探問非西方歷史文獻能否提供另類的治理理論化方式。本研究透過《國家書》（Nagarakretagama）探討此可能性，該書是普拉潘查（Mpu Prapanca）於1365年撰寫的十四世紀爪哇宮廷頌歌，比馬基維利的《君主論》早148年。對全部98首頌歌進行質性內容分析，識別出五個治理領域：官僚層級體系、曼荼羅式領土行政、有條件的財政豁免、結合成文法與習慣法的法律秩序，以及融入行政的儀式性實踐。這些面向展現了爪哇帝國如何透過不同於韋伯模型的制度安排，組織其權威、領土、稅收、法律和合法性。將此治理體系視為理論，揭示了行政的另類概念化，並推進了公共行政的去殖民化、多元宇宙取徑。"
   },
   {
-   "doi": "10.1080/10967494.2026.2691398",
-   "title": "When police officers surrender: the effect of citizen incivility on withdrawal and turnover",
-   "abstract": "",
-   "authors": [
-    "Mathieu Molines",
-    "Martin Storme",
-    "Cathy Y. Guo"
-   ],
-   "journal": "International Public Management Journal",
-   "url": "https://doi.org/10.1080/10967494.2026.2691398",
-   "date": "2026-09-11",
-   "first_seen": "2026-09-11",
-   "score": 6.0,
-   "matched": [
-    "turnover"
-   ],
-   "abstract_zh": ""
-  },
-  {
    "doi": "10.1093/jopart/muag013",
    "title": "Awareness, Costs, and Take-up of Social Benefits: Evidence from a Field Experiment in China",
    "abstract": "This study examines incomplete participation in social benefit programs by focusing on individual income tax refund claims in China. Despite growing evidence on this issue, there remains a need to directly compare the effectiveness of addressing behavioral barriers versus alleviating administrative burdens in promoting program take-up. Moreover, when administrative burdens are targeted, it is unclear whether reducing learning, compliance, or psychological costs is most effective. To address these questions, we investigate how policy interventions designed to enhance program awareness and reduce participation costs affect individuals’ tax refund take-up. In collaboration with a local taxation bureau in China, we conducted a randomized field experiment involving approximately 23,000 eligible taxpayers assigned to different intervention groups. Using administrative data, we tracked their tax refund filing activities during the settlement period. Results show that awareness-enhancing interventions increased take-up by 2.19 percentage points, whereas cost-reduction efforts yielded limited or unintended negative effects.",
@@ -2012,25 +2031,6 @@
    "score": 4.0,
    "matched": [
     "unethical"
-   ],
-   "abstract_zh": ""
-  },
-  {
-   "doi": "10.1080/10967494.2026.2718926",
-   "title": "Public service equity and stakeholder satisfaction: evidence from 56 countries on how parents, teachers, and students respond to gender gaps in education",
-   "abstract": "",
-   "authors": [
-    "Seung-Ho An",
-    "Suyeon Jo",
-    "Kenneth J Meier"
-   ],
-   "journal": "International Public Management Journal",
-   "url": "https://doi.org/10.1080/10967494.2026.2718926",
-   "date": "2026-09-11",
-   "first_seen": "2026-09-11",
-   "score": 4.0,
-   "matched": [
-    "gender"
    ],
    "abstract_zh": ""
   },
@@ -2453,6 +2453,19 @@
    "abstract_zh": "執行能源轉型任務的地方政府仰賴契約人員來彌補能力與專業知識的缺口，這引發了對依賴性與知識流失的擔憂。本研究借鑒資源依賴理論以及客戶-顧問關係文獻，發展出一個框架，以呈現外部依賴與內部能力發展之間的循環回饋。對六個荷蘭地方政府進行的十五次訪談顯示，人力短缺與臨時性補助驅動了契約人員的聘用，而短期契約與有限的知識移轉則加劇了依賴性。面臨相似限制的地方政府，透過知識整合、治理機制與關係動態而呈現分歧。本研究藉由將依賴性概念化為一個過程而非結構性結果，推進了公共行政學術。"
   },
   {
+   "doi": "10.1111/puar.70194",
+   "title": "Issue Information",
+   "abstract": "The American Society for Public Administration (ASPA) is a nonpartisan organization of more than 9,000 scholars, administrators, public managers, and students in the United States, and abroad.ASPA is committed to the advancement of excellence in",
+   "authors": [],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70194",
+   "date": "2026-08-28",
+   "first_seen": "2026-08-29",
+   "score": 2.0,
+   "matched": [],
+   "abstract_zh": "美國公共行政學會 (ASPA) 是一個無黨派組織，其成員包含來自美國及海外、超過九千名的學者、行政人員、公共管理者及學生。ASPA 致力於提升在"
+  },
+  {
    "doi": "10.1111/puar.70183",
    "title": "Celebrating 85 Years",
    "abstract": "",
@@ -2472,19 +2485,6 @@
    "authors": [],
    "journal": "Public Administration Review",
    "url": "https://doi.org/10.1111/puar.70182",
-   "date": "2026-08-28",
-   "first_seen": "2026-08-29",
-   "score": 2.0,
-   "matched": [],
-   "abstract_zh": ""
-  },
-  {
-   "doi": "10.1111/puar.70194",
-   "title": "Issue Information",
-   "abstract": "",
-   "authors": [],
-   "journal": "Public Administration Review",
-   "url": "https://doi.org/10.1111/puar.70194",
    "date": "2026-08-28",
    "first_seen": "2026-08-29",
    "score": 2.0,
@@ -3495,7 +3495,7 @@
   {
    "doi": "10.1080/10967494.2026.2712553",
    "title": "Collaborative platforms in digital government: structural and cultural barriers to coordination",
-   "abstract": "",
+   "abstract": "Collaborative platforms are increasingly used to coordinate digital public services across organizational boundaries, yet how they function in practice remains poorly understood. This study examines the coordination challenges such platforms face, drawing on Norway’s “life event” initiatives—programs designed to deliver integrated, user-centered digital services across government sectors. Based on document analysis and semi-structured interviews with 22 government actors and platform coordinators, the study finds that while collaborative platforms are designed to enable cross-sectoral interaction and co-creation, their effectiveness is constrained by structural barriers—including limited resources, unclear roles, and unsupportive regulatory frameworks—and by cultural tensions over norms, expectations, and interpretations of responsibility. These findings clarify the concept of collaborative platforms in public management research, showing how coordination challenges shape their operation and outcomes. The study contributes to digital governance scholarship by identifying the difficulties public managers face in steering and sustaining scalable collaborative arrangements for digital transformation and public service delivery.",
    "authors": [
     "Barbara Zyzak"
    ],
@@ -3505,7 +3505,7 @@
    "first_seen": "2026-09-11",
    "score": 0.0,
    "matched": [],
-   "abstract_zh": ""
+   "abstract_zh": "協作平台日益被用於協調跨組織界線的數位公共服務，然而其在實務上的運作方式仍鮮為人知。本研究借鑒挪威的「生命事件」倡議（旨在跨政府部門提供整合性、以使用者為中心的數位服務之計畫），探討此類平台所面臨的協調挑戰。本研究透過文件分析以及對22位政府官員和平台協調者的半結構式訪談，發現協作平台雖旨在促進跨部門互動與共創，其成效卻受到結構性障礙（包括資源有限、角色不明確以及缺乏支持性的法規框架）以及因規範、期望和責任詮釋所產生的文化張力所限制。這些發現闡明了公共管理研究中協作平台的概念，揭示了協調挑戰如何影響其運作與成果。本研究透過識別公共管理者在引導和維持數位轉型與公共服務提供之可擴展協作安排方面所面臨的困難，對數位治理學術領域有所貢獻。"
   },
   {
    "doi": "10.1080/10967494.2026.2711769",
@@ -3541,7 +3541,7 @@
   {
    "doi": "10.1080/14719037.2026.2725790",
    "title": "Introducing public management and global sporting mega-events: public value, ecosystems, learning and temporality",
-   "abstract": "",
+   "abstract": "We are delighted to introduce this Special Issue which collects authors and studies from around the world; qualitative and quantitative, current, historic, and longitudinal. Each paper contributes ...",
    "authors": [
     "Alex G. Gillett",
     "Kevin D. Tennent",
@@ -3553,7 +3553,7 @@
    "first_seen": "2026-09-12",
    "score": 0.0,
    "matched": [],
-   "abstract_zh": ""
+   "abstract_zh": "我們很榮幸推出本特刊，彙集了來自世界各地的作者與研究；內容涵蓋質性與量化、當代、歷史性及縱貫性研究。每篇論文皆貢獻..."
   }
  ]
 }
