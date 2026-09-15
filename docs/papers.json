@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-15T00:03:14+00:00",
+ "updated": "2026-09-15T23:47:47+00:00",
  "papers": [
   {
    "doi": "10.1080/10967494.2026.2706796",
@@ -2453,12 +2453,12 @@
    "abstract_zh": "執行能源轉型任務的地方政府仰賴契約人員來彌補能力與專業知識的缺口，這引發了對依賴性與知識流失的擔憂。本研究借鑒資源依賴理論以及客戶-顧問關係文獻，發展出一個框架，以呈現外部依賴與內部能力發展之間的循環回饋。對六個荷蘭地方政府進行的十五次訪談顯示，人力短缺與臨時性補助驅動了契約人員的聘用，而短期契約與有限的知識移轉則加劇了依賴性。面臨相似限制的地方政府，透過知識整合、治理機制與關係動態而呈現分歧。本研究藉由將依賴性概念化為一個過程而非結構性結果，推進了公共行政學術。"
   },
   {
-   "doi": "10.1111/puar.70183",
-   "title": "Celebrating 85 Years",
+   "doi": "10.1111/puar.70182",
+   "title": "American Society for Public Administration Code of Ethics",
    "abstract": "",
    "authors": [],
    "journal": "Public Administration Review",
-   "url": "https://doi.org/10.1111/puar.70183",
+   "url": "https://doi.org/10.1111/puar.70182",
    "date": "2026-08-28",
    "first_seen": "2026-08-29",
    "score": 2.0,
@@ -2466,12 +2466,12 @@
    "abstract_zh": ""
   },
   {
-   "doi": "10.1111/puar.70182",
-   "title": "American Society for Public Administration Code of Ethics",
+   "doi": "10.1111/puar.70183",
+   "title": "Celebrating 85 Years",
    "abstract": "",
    "authors": [],
    "journal": "Public Administration Review",
-   "url": "https://doi.org/10.1111/puar.70182",
+   "url": "https://doi.org/10.1111/puar.70183",
    "date": "2026-08-28",
    "first_seen": "2026-08-29",
    "score": 2.0,
@@ -3569,6 +3569,38 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "我們很榮幸推出本特刊，彙集了來自世界各地的作者與研究；內容涵蓋質性與量化、當代、歷史性及縱貫性研究。每篇論文皆貢獻..."
+  },
+  {
+   "doi": "10.1080/14719037.2026.2726494",
+   "title": "Insider or outsider: negative performance feedback and top manager succession in the public sector",
+   "abstract": "",
+   "authors": [
+    "Siqi Chen",
+    "Jiaheng Ling"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2726494",
+   "date": "2026-09-15",
+   "first_seen": "2026-09-15",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.1080/14719037.2026.2733942",
+   "title": "Revisiting the political-social dimension of public value",
+   "abstract": "",
+   "authors": [
+    "Ana Luiza Terra Costa Mathias",
+    "Rosa Maria Fischer"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2733942",
+   "date": "2026-09-15",
+   "first_seen": "2026-09-15",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
   }
  ]
 }
