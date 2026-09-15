@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-13T23:45:02+00:00",
+ "updated": "2026-09-15T00:03:14+00:00",
  "papers": [
   {
    "doi": "10.1080/10967494.2026.2706796",
@@ -2453,19 +2453,6 @@
    "abstract_zh": "執行能源轉型任務的地方政府仰賴契約人員來彌補能力與專業知識的缺口，這引發了對依賴性與知識流失的擔憂。本研究借鑒資源依賴理論以及客戶-顧問關係文獻，發展出一個框架，以呈現外部依賴與內部能力發展之間的循環回饋。對六個荷蘭地方政府進行的十五次訪談顯示，人力短缺與臨時性補助驅動了契約人員的聘用，而短期契約與有限的知識移轉則加劇了依賴性。面臨相似限制的地方政府，透過知識整合、治理機制與關係動態而呈現分歧。本研究藉由將依賴性概念化為一個過程而非結構性結果，推進了公共行政學術。"
   },
   {
-   "doi": "10.1111/puar.70194",
-   "title": "Issue Information",
-   "abstract": "The American Society for Public Administration (ASPA) is a nonpartisan organization of more than 9,000 scholars, administrators, public managers, and students in the United States, and abroad.ASPA is committed to the advancement of excellence in",
-   "authors": [],
-   "journal": "Public Administration Review",
-   "url": "https://doi.org/10.1111/puar.70194",
-   "date": "2026-08-28",
-   "first_seen": "2026-08-29",
-   "score": 2.0,
-   "matched": [],
-   "abstract_zh": "美國公共行政學會 (ASPA) 是一個無黨派組織，其成員包含來自美國及海外、超過九千名的學者、行政人員、公共管理者及學生。ASPA 致力於提升在"
-  },
-  {
    "doi": "10.1111/puar.70183",
    "title": "Celebrating 85 Years",
    "abstract": "",
@@ -2490,6 +2477,19 @@
    "score": 2.0,
    "matched": [],
    "abstract_zh": ""
+  },
+  {
+   "doi": "10.1111/puar.70194",
+   "title": "Issue Information",
+   "abstract": "The American Society for Public Administration (ASPA) is a nonpartisan organization of more than 9,000 scholars, administrators, public managers, and students in the United States, and abroad.ASPA is committed to the advancement of excellence in",
+   "authors": [],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70194",
+   "date": "2026-08-28",
+   "first_seen": "2026-08-29",
+   "score": 2.0,
+   "matched": [],
+   "abstract_zh": "美國公共行政學會 (ASPA) 是一個無黨派組織，其成員包含來自美國及海外、超過九千名的學者、行政人員、公共管理者及學生。ASPA 致力於提升在"
   },
   {
    "doi": "10.1111/puar.70196",
@@ -2571,6 +2571,21 @@
    "score": 2.0,
    "matched": [],
    "abstract_zh": "成果導向合約（OBCs）圍繞可衡量成果組織公共服務提供，然而對於不同投資者如何參與這些工具，目前所知甚少。本文探討投資者導向（社會導向、財務導向或雙重目的導向）如何形塑全球OBCs中的投資者承諾。本文運用包含全球338份合約的資料集，結合描述性分析、迴歸模型和質性訪談，以探討投資者導向與投資規模之間的關係。我們假設涉及社會導向投資者的OBCs，其投資水準高於涉及財務導向或雙重目的導向投資者的OBCs。與此預測一致，社會導向投資者持續投入較大的金額，而財務導向和雙重目的導向投資者通常投入較少的資金。這些模式挑戰了OBCs的一個核心前提：即這類工具將為公共服務動員大量主流私人資本。訪談證據指出聲譽風險、對當地情況了解有限以及成果衡量複雜性為關鍵阻礙。"
+  },
+  {
+   "doi": "10.1111/puar.70204",
+   "title": "Elites, Policies and State Reconfiguration: Transforming the French Welfare Regime. By WilliamGenieys and Mohammad‐SaïdDarviche, Cham, Switzerland: Palgrave Macmillan, 2023. 209 pp. $169.99 (hardcover). ISBN: 978‐3‐03‐141581‐4",
+   "abstract": "",
+   "authors": [
+    "Hasan Isgandar"
+   ],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70204",
+   "date": "2026-09-14",
+   "first_seen": "2026-09-15",
+   "score": 2.0,
+   "matched": [],
+   "abstract_zh": ""
   },
   {
    "doi": "10.1080/14719037.2026.2685252",
