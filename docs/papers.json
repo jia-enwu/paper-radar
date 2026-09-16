@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-15T23:47:47+00:00",
+ "updated": "2026-09-16T23:58:14+00:00",
  "papers": [
   {
    "doi": "10.1080/10967494.2026.2706796",
@@ -729,6 +729,23 @@
     "conjoint"
    ],
    "abstract_zh": "美國的「地方選擇性銷售稅」是一種有趣的直接民主形式，直接受到公共管理者的影響。人們針對銷售稅進行投票的公民投票案（或稱投票議案）具有多種特徵，且能以多種方式呈現。因此，它們提供了一個獨特的機會，以研究選項與資訊對公民選擇的行為影響。本研究開發了一項新穎的實驗，採用聯合設計（conjoint design）的邏輯，透過改變公民投票案中的所有關鍵特徵，並以模仿實際公民投票案格式的段落形式呈現這些資訊。這項銷售稅投票聯合實驗的結果顯示，一般而言，人們僅專注於少數關鍵資訊，但特定次群體對擬議銷售稅的更多且不同特徵感興趣。這表明管理者可能在關鍵人口群體中擁有更大的影響力，且了解這些人口群體所重視的屬性，可能有助於形塑銷售稅公民投票案的呈現方式。"
+  },
+  {
+   "doi": "10.1080/10967494.2026.2714943",
+   "title": "The promises and pitfalls of AI in public service: a review of AI snake oil,",
+   "abstract": "",
+   "authors": [
+    "Julie Beasley"
+   ],
+   "journal": "International Public Management Journal",
+   "url": "https://doi.org/10.1080/10967494.2026.2714943",
+   "date": "2026-09-16",
+   "first_seen": "2026-09-16",
+   "score": 20.0,
+   "matched": [
+    "ai"
+   ],
+   "abstract_zh": ""
   },
   {
    "doi": "10.1177/0734371x261456288",
@@ -1740,6 +1757,42 @@
    "abstract_zh": "公共行政學術界常將韋伯式理想型視為普遍的官僚體制模型，使得與其不同的治理安排顯得不足而非差異。去殖民化取徑反而探問非西方歷史文獻能否提供另類的治理理論化方式。本研究透過《國家書》（Nagarakretagama）探討此可能性，該書是普拉潘查（Mpu Prapanca）於1365年撰寫的十四世紀爪哇宮廷頌歌，比馬基維利的《君主論》早148年。對全部98首頌歌進行質性內容分析，識別出五個治理領域：官僚層級體系、曼荼羅式領土行政、有條件的財政豁免、結合成文法與習慣法的法律秩序，以及融入行政的儀式性實踐。這些面向展現了爪哇帝國如何透過不同於韋伯模型的制度安排，組織其權威、領土、稅收、法律和合法性。將此治理體系視為理論，揭示了行政的另類概念化，並推進了公共行政的去殖民化、多元宇宙取徑。"
   },
   {
+   "doi": "10.1080/14719037.2026.2726494",
+   "title": "Insider or outsider: negative performance feedback and top manager succession in the public sector",
+   "abstract": "Facing performance pressure, public organizations frequently experience top manager turnover, yet how they select successors is understudied. This study argues negative performance feedback (NPF) critically influences successor origin. Based on 2,045 TM turnovers , we find that NPF reduces the odds of internal succession by 41.7%. Internal promotion history strengthens external successor selection by signalling a break from discredited routines, while exploratory learning emphasis reinforces external selection as strategic identity. This research advances public management by offering a dynamic, antecedent-based explanation for TM selection, challenging monolithic views of organizational history, and highlighting successor origin as a strategic governance tool.",
+   "authors": [
+    "Siqi Chen",
+    "Jiaheng Ling"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2726494",
+   "date": "2026-09-15",
+   "first_seen": "2026-09-15",
+   "score": 6.0,
+   "matched": [
+    "turnover"
+   ],
+   "abstract_zh": "面臨績效壓力，公部門組織頻繁經歷高階主管異動，然而其繼任者選擇方式卻鮮有探討。本研究主張負面績效回饋 (NPF) 關鍵性地影響繼任者來源。根據2,045筆高階主管異動資料，我們發現NPF降低內部繼任的機率達41.7%。內部升遷歷史藉由預示與失靈常規的決裂，強化外部繼任者選擇；而對探索性學習的重視，則將外部選擇強化為策略性定位。本研究透過為高階主管選擇提供動態且基於前因的解釋，推進公共管理領域，挑戰組織歷史的單一論觀點，並突顯繼任者來源作為一項策略性治理工具。"
+  },
+  {
+   "doi": "10.1080/10967494.2026.2723042",
+   "title": "Preferences for symbolic representation: identity, context, and selection of mental health providers",
+   "abstract": "",
+   "authors": [
+    "Austin M. McCrea",
+    "Nathan Favero"
+   ],
+   "journal": "International Public Management Journal",
+   "url": "https://doi.org/10.1080/10967494.2026.2723042",
+   "date": "2026-09-16",
+   "first_seen": "2026-09-16",
+   "score": 6.0,
+   "matched": [
+    "representation"
+   ],
+   "abstract_zh": ""
+  },
+  {
    "doi": "10.1093/jopart/muag013",
    "title": "Awareness, Costs, and Take-up of Social Benefits: Evidence from a Field Experiment in China",
    "abstract": "This study examines incomplete participation in social benefit programs by focusing on individual income tax refund claims in China. Despite growing evidence on this issue, there remains a need to directly compare the effectiveness of addressing behavioral barriers versus alleviating administrative burdens in promoting program take-up. Moreover, when administrative burdens are targeted, it is unclear whether reducing learning, compliance, or psychological costs is most effective. To address these questions, we investigate how policy interventions designed to enhance program awareness and reduce participation costs affect individuals’ tax refund take-up. In collaboration with a local taxation bureau in China, we conducted a randomized field experiment involving approximately 23,000 eligible taxpayers assigned to different intervention groups. Using administrative data, we tracked their tax refund filing activities during the settlement period. Results show that awareness-enhancing interventions increased take-up by 2.19 percentage points, whereas cost-reduction efforts yielded limited or unintended negative effects.",
@@ -2453,17 +2506,17 @@
    "abstract_zh": "執行能源轉型任務的地方政府仰賴契約人員來彌補能力與專業知識的缺口，這引發了對依賴性與知識流失的擔憂。本研究借鑒資源依賴理論以及客戶-顧問關係文獻，發展出一個框架，以呈現外部依賴與內部能力發展之間的循環回饋。對六個荷蘭地方政府進行的十五次訪談顯示，人力短缺與臨時性補助驅動了契約人員的聘用，而短期契約與有限的知識移轉則加劇了依賴性。面臨相似限制的地方政府，透過知識整合、治理機制與關係動態而呈現分歧。本研究藉由將依賴性概念化為一個過程而非結構性結果，推進了公共行政學術。"
   },
   {
-   "doi": "10.1111/puar.70182",
-   "title": "American Society for Public Administration Code of Ethics",
-   "abstract": "",
+   "doi": "10.1111/puar.70194",
+   "title": "Issue Information",
+   "abstract": "The American Society for Public Administration (ASPA) is a nonpartisan organization of more than 9,000 scholars, administrators, public managers, and students in the United States, and abroad.ASPA is committed to the advancement of excellence in",
    "authors": [],
    "journal": "Public Administration Review",
-   "url": "https://doi.org/10.1111/puar.70182",
+   "url": "https://doi.org/10.1111/puar.70194",
    "date": "2026-08-28",
    "first_seen": "2026-08-29",
    "score": 2.0,
    "matched": [],
-   "abstract_zh": ""
+   "abstract_zh": "美國公共行政學會 (ASPA) 是一個無黨派組織，其成員包含來自美國及海外、超過九千名的學者、行政人員、公共管理者及學生。ASPA 致力於提升在"
   },
   {
    "doi": "10.1111/puar.70183",
@@ -2479,17 +2532,17 @@
    "abstract_zh": ""
   },
   {
-   "doi": "10.1111/puar.70194",
-   "title": "Issue Information",
-   "abstract": "The American Society for Public Administration (ASPA) is a nonpartisan organization of more than 9,000 scholars, administrators, public managers, and students in the United States, and abroad.ASPA is committed to the advancement of excellence in",
+   "doi": "10.1111/puar.70182",
+   "title": "American Society for Public Administration Code of Ethics",
+   "abstract": "",
    "authors": [],
    "journal": "Public Administration Review",
-   "url": "https://doi.org/10.1111/puar.70194",
+   "url": "https://doi.org/10.1111/puar.70182",
    "date": "2026-08-28",
    "first_seen": "2026-08-29",
    "score": 2.0,
    "matched": [],
-   "abstract_zh": "美國公共行政學會 (ASPA) 是一個無黨派組織，其成員包含來自美國及海外、超過九千名的學者、行政人員、公共管理者及學生。ASPA 致力於提升在"
+   "abstract_zh": ""
   },
   {
    "doi": "10.1111/puar.70196",
@@ -3571,25 +3624,9 @@
    "abstract_zh": "我們很榮幸推出本特刊，彙集了來自世界各地的作者與研究；內容涵蓋質性與量化、當代、歷史性及縱貫性研究。每篇論文皆貢獻..."
   },
   {
-   "doi": "10.1080/14719037.2026.2726494",
-   "title": "Insider or outsider: negative performance feedback and top manager succession in the public sector",
-   "abstract": "",
-   "authors": [
-    "Siqi Chen",
-    "Jiaheng Ling"
-   ],
-   "journal": "Public Management Review",
-   "url": "https://doi.org/10.1080/14719037.2026.2726494",
-   "date": "2026-09-15",
-   "first_seen": "2026-09-15",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": ""
-  },
-  {
    "doi": "10.1080/14719037.2026.2733942",
    "title": "Revisiting the political-social dimension of public value",
-   "abstract": "",
+   "abstract": "Public value research increasingly recognizes that societal value is generated by public, private, philanthropic, and hybrid actors. However, empirical tools for identifying public value beyond the state remain underdeveloped, particularly regarding its political-social dimension. This study operationalizes this dimension by identifying and analytically defining eight constituent elements. It draws on a multiple case study of three Brazilian social enterprises, combining document analysis, field visits, and semi-structured interviews. Findings clarify the dimension’s components and demonstrate how they can be identified in organizational practices and relationships. The study advances empirical approaches to public value and extends research to non-state actors in a non-European context.",
    "authors": [
     "Ana Luiza Terra Costa Mathias",
     "Rosa Maria Fischer"
@@ -3600,7 +3637,88 @@
    "first_seen": "2026-09-15",
    "score": 0.0,
    "matched": [],
+   "abstract_zh": "公共價值研究日益體認到，社會價值是由公部門、私部門、慈善機構和混合型行動者所共同創造的。然而，用於識別超越國家範疇的公共價值的實證工具仍未充分發展，尤其是在其政治社會面向方面。本研究透過識別並分析性地定義八個構成要素，將此面向操作化。本研究採用以三家巴西社會企業為對象的多重個案研究，結合了文件分析、實地訪查和半結構式訪談。研究結果闡明了此面向的組成部分，並展示了如何在組織實踐和關係中識別它們。本研究推進了公共價值的實證方法，並將研究擴展到非歐洲脈絡下的非國家行動者。"
+  },
+  {
+   "doi": "10.1080/14719037.2026.2733934",
+   "title": "From co-production to value co-creation: NGOs as catalysts of cyclical public value in rural China",
+   "abstract": "",
+   "authors": [
+    "Jingjing Cai",
+    "Kaisar Kaher"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2733934",
+   "date": "2026-09-16",
+   "first_seen": "2026-09-16",
+   "score": 0.0,
+   "matched": [],
    "abstract_zh": ""
+  },
+  {
+   "doi": "10.1080/14719037.2026.2720763",
+   "title": "Welfare State Convergence or Robustness? Comparing Nonprofit Marketization Patterns Across Belgium, Sweden and the United States",
+   "abstract": "",
+   "authors": [
+    "Ben Suykens",
+    "Johan Hvenmark",
+    "ChiaKo Hung",
+    "Aaron Van Steenlandt",
+    "Bram Verschuere"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2720763",
+   "date": "2026-09-16",
+   "first_seen": "2026-09-16",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.1080/14719037.2026.2729793",
+   "title": "Brake or bridge? The dual impact of clientelism on hospital corporatization in Iran",
+   "abstract": "",
+   "authors": [
+    "Maryam Zahmatkesh",
+    "Ian Kirkpatrick"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2729793",
+   "date": "2026-09-16",
+   "first_seen": "2026-09-16",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.1080/10967494.2026.2719908",
+   "title": "Fairness and equity in hybrid work: insights from the Ontario Public Service",
+   "abstract": "",
+   "authors": [
+    "Maria Gintova"
+   ],
+   "journal": "International Public Management Journal",
+   "url": "https://doi.org/10.1080/10967494.2026.2719908",
+   "date": "2026-09-16",
+   "first_seen": "2026-09-16",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.1111/padm.70094",
+   "title": "From Civic Tech to DOGE : The Role of Tech Movements in the American Administrative State",
+   "abstract": "The second Trump administration saw the Department of Government Efficiency (DOGE), a group of outsider technologists given extraordinary power to pursue a massive downsizing of the federal government. They also displaced an alternative approach: the civic tech movement. Civic tech for government applies technology, data, and human‐centered design to improve policy implementation, fueled by prosocial motivation, promising to increase state capacity in a way that centers attention on public service clients. This article explains the origins of civic tech for government in the US setting, its core values, and evolution. The movement grew in prominence and influence from 2014 to 2024, making steady inroads into government but never gaining sufficient power to implement profound change. The conflicting origins, philosophy, and power between civic tech and DOGE offer contrasting visions for how tech can reshape the American administrative state.",
+   "authors": [
+    "Donald Moynihan"
+   ],
+   "journal": "Public Administration",
+   "url": "https://doi.org/10.1111/padm.70094",
+   "date": "2026-09-16",
+   "first_seen": "2026-09-16",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "第二次川普政府期間，政府效率部（DOGE）應運而生，這是一個由外部科技專家組成的團體，被賦予非凡權力，旨在推動聯邦政府的大規模精簡。他們同時也排擠了另一種替代方案：公民科技運動。政府公民科技運用科技、數據和以人為本的設計來改善政策執行，其動力來自親社會動機，承諾以公共服務對象為核心的方式提升國家治理能力。本文闡述了政府公民科技在美國脈絡中的起源、核心價值及其演變。這項運動從2014年到2024年間，聲勢與影響力俱增，穩步進入政府體系，但從未獲得足夠權力以實施深遠變革。公民科技與DOGE之間在起源、理念和權力上的衝突，為科技如何重塑美國行政國家提供了截然不同的願景。"
   }
  ]
 }
