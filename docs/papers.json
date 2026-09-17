@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-16T23:58:14+00:00",
+ "updated": "2026-09-17T23:48:30+00:00",
  "papers": [
   {
    "doi": "10.1080/10967494.2026.2706796",
@@ -595,6 +595,45 @@
    "abstract_zh": "負責任的演算法化指的是在公共部門應用演算法時，同時維護公共價值。歐盟、經濟合作暨發展組織（OECD）及其他機構所提出的負責任演算法化途徑，均從理性視角出發，並強調形式化的結構與程序。本文透過補充「自然視角」來完善此一觀點，該視角強調意義建構與實際實踐。本文運用此一自然視角，對荷蘭三個領域（監管、警務和醫療保健）的演算法化進行了一系列民族誌研究。我們的研究結果顯示，政府組織的演算法化是一個新興、政治性、開放且碎片化的過程，而非如負責任演算法化的理性途徑所假設的，是預先結構化、中立、封閉且簡單的。這意味著理性途徑未能為建立負責任的演算法化提供一個全面的基礎。我們總結認為，為維護公共價值，公共部門的演算法化不僅需要正視被動責任，也需要正視主動責任。"
   },
   {
+   "doi": "10.1080/10967494.2026.2714943",
+   "title": "The promises and pitfalls of AI in public service: a review of AI snake oil,",
+   "abstract": "In their recent and first coauthored book, computer science scholars, Arvind Narayanan and Sayash Kapoor address promises and pitfalls with the “dawn of AI” (Narayanan and Kapoor 2024:3) amid the e...",
+   "authors": [
+    "Julie Beasley"
+   ],
+   "journal": "International Public Management Journal",
+   "url": "https://doi.org/10.1080/10967494.2026.2714943",
+   "date": "2026-09-16",
+   "first_seen": "2026-09-16",
+   "score": 25.0,
+   "matched": [
+    "ai"
+   ],
+   "abstract_zh": "資訊科學學者阿爾文德·納拉亞南和薩亞什·卡普爾在其近期首次合著的書中，探討了『人工智慧的黎明』（Narayanan and Kapoor 2024:3）所伴隨的承諾與陷阱，並在電子..."
+  },
+  {
+   "doi": "10.1111/padm.70095",
+   "title": "The Right Key for the Right Lock: How Government Response Methods and Demand Types Affect Citizen Satisfaction",
+   "abstract": "Faced with diverse and complex demands from citizens, the government has consistently sought ways to enhance its ability to respond. Metaphorically, citizens' needs can be viewed as locks, and the government requires keys to unlock them. Artificial intelligence (AI) is an innovative new key offering a fresh paradigm for unlocking the door to high citizen satisfaction. Drawing on government responsiveness theory, this study applies a 2 × 3 between‐subjects survey experiment to explore the impact of government response methods (traditional responses, AI‐enabled responses) and citizen demand types (consultation, complaint/help‐seeking, suggestions) on citizen satisfaction. Findings show that AI‐enabled government responses significantly increase citizen satisfaction compared to traditional approaches. Among demand types, consultation yields the highest satisfaction, while suggestion results in the lowest. Further, the satisfaction level is significantly influenced by the interaction effect between response method and demand type. Perceived fairness mediates the relationship between government responses and citizen satisfaction, with citizen participation experience having a moderating effect. This study offers new insights into increasing citizen satisfaction from the perspective of government responses. It reveals the content‐dependent nature of AI‐enabled government responses, helping the government create unique AI response strategies and enhance digital interaction with citizens.",
+   "authors": [
+    "Na Tang",
+    "Wenjia Huang",
+    "Nana Huang",
+    "Mengyao Zhang"
+   ],
+   "journal": "Public Administration",
+   "url": "https://doi.org/10.1111/padm.70095",
+   "date": "2026-09-17",
+   "first_seen": "2026-09-17",
+   "score": 25.0,
+   "matched": [
+    "artificial intelligence",
+    "ai",
+    "survey experiment"
+   ],
+   "abstract_zh": "面對公民多元且複雜的需求，政府持續尋求提升其回應能力的方法。形象地說，公民的需求猶如鎖，而政府需要鑰匙來開啟這些鎖。人工智慧 (AI) 是一把創新的新式鑰匙，為開啟高公民滿意度之門提供了一個嶄新的典範。本研究立基於政府回應性理論，採用 2 × 3 受試者間問卷實驗設計，探討政府回應方式 (傳統回應、AI 輔助回應) 與公民需求類型 (諮詢、抱怨/求助、建議) 對公民滿意度的影響。\n\n研究結果顯示，相較於傳統方式，AI 輔助的政府回應顯著提升公民滿意度。在需求類型中，諮詢獲得最高的滿意度，而建議則最低。此外，滿意度水準顯著受到回應方式與需求類型之間交互作用效果的影響。感知公平性中介了政府回應與公民滿意度之間的關係，而公民參與經驗則具有調節作用。本研究從政府回應的角度，為提升公民滿意度提供了新的見解。它揭示了 AI 輔助政府回應的內容依賴特性，有助於政府制定獨特的 AI 回應策略，並增強與公民的數位互動。"
+  },
+  {
    "doi": "10.1080/10967494.2026.2684632",
    "title": "Does bureaucrat bashing diminish the performance of public servants? Evidence from a survey experiment in The Netherlands",
    "abstract": "Bureaucrat bashing—the negative views expressed about public servants—is a widespread phenomenon. Does this bureaucrat bashing diminish the performance of public servants, as theoretically expected? We answer this question with a preregistered, original survey experiment among Dutch public servants. Our main results show that bureaucrat bashing does not significantly lower self-reported overall performance. Additional analyses confirm our main results. We discuss how our findings provide valuable insights into bureaucrat bashing and its possible effects in the public sector.",
@@ -632,6 +671,26 @@
     "gender budgeting"
    ],
    "abstract_zh": "聯合國第五項永續發展目標呼籲實現性別平等與賦權。性別預算（GB）已被提出作為減少性別差距的潛在機制。這是一種新穎的預算編列方法，旨在考量公共支出對女性及其他弱勢群體的影響。儘管性別預算自1980年代推出以來日益普及，已推廣至全球超過80個國家，但其有效性仍有待深入了解。本研究旨在檢驗性別預算是否已為女性的福祉、平等與賦權帶來實質改善。我們採用結合錯開採納的事件研究設計，分析2000年至2023年間47個國家的數據。我們對平均與異質性處理效果的分析揭示了短期與長期影響；值得注意的是，我們發現孕產婦死亡率和青少年生育率顯著下降，以及女性政治賦權的改善。"
+  },
+  {
+   "doi": "10.1080/10967494.2026.2723042",
+   "title": "Preferences for symbolic representation: identity, context, and selection of mental health providers",
+   "abstract": "Citizens often favor public servants who resemble them demographically, but studies also indicate that this preference for symbolic representation may be unevenly distributed, shaped by individuals’ own lived experiences. Against this backdrop, we ask: in what contexts do citizens express a preference for symbolic representation? Focusing on publicly-supported mental health services as an empirical case, we field a conjoint experiment depicting provider information in a format informed by real-world listings. We find that preferences for symbolic representation are most apparent for social groups that have experienced significant marginalization—women, non-binary respondents, and people of color. Meanwhile, factors describing the organizational context in which services are provided—wait times and modality of service provision—do not appear to consistently moderate the preference for symbolic representation. These results underscore the importance of macro factors, such as systemic racism and sexism, in shaping individual preferences for bureaucratic representation.",
+   "authors": [
+    "Austin M. McCrea",
+    "Nathan Favero"
+   ],
+   "journal": "International Public Management Journal",
+   "url": "https://doi.org/10.1080/10967494.2026.2723042",
+   "date": "2026-09-16",
+   "first_seen": "2026-09-16",
+   "score": 22.0,
+   "matched": [
+    "representation",
+    "bureaucra",
+    "conjoint"
+   ],
+   "abstract_zh": "民眾普遍偏好在人口統計特徵上與其相似的公務員，然而，研究亦指出這種對象徵性代表的偏好可能分佈不均，並受個人生活經驗的形塑。在此背景下，我們探討：民眾在何種情境下會表達對象徵性代表的偏好？本研究以政府支持的心理健康服務作為實證案例，進行了一項聯合實驗，其中呈現的服務提供者資訊格式參考了真實世界的清單。我們發現，對象徵性代表的偏好對於經歷過顯著邊緣化的社會群體——女性、非二元性別受訪者以及有色人種——最為明顯。同時，描述服務提供組織脈絡的因素——等候時間與服務提供方式——似乎未能持續調節對象徵性代表的偏好。這些結果突顯了宏觀因素（例如系統性種族主義和性別歧視）在形塑個人對官僚代表偏好方面的重要性。"
   },
   {
    "doi": "10.1080/10967494.2026.2691395",
@@ -729,23 +788,6 @@
     "conjoint"
    ],
    "abstract_zh": "美國的「地方選擇性銷售稅」是一種有趣的直接民主形式，直接受到公共管理者的影響。人們針對銷售稅進行投票的公民投票案（或稱投票議案）具有多種特徵，且能以多種方式呈現。因此，它們提供了一個獨特的機會，以研究選項與資訊對公民選擇的行為影響。本研究開發了一項新穎的實驗，採用聯合設計（conjoint design）的邏輯，透過改變公民投票案中的所有關鍵特徵，並以模仿實際公民投票案格式的段落形式呈現這些資訊。這項銷售稅投票聯合實驗的結果顯示，一般而言，人們僅專注於少數關鍵資訊，但特定次群體對擬議銷售稅的更多且不同特徵感興趣。這表明管理者可能在關鍵人口群體中擁有更大的影響力，且了解這些人口群體所重視的屬性，可能有助於形塑銷售稅公民投票案的呈現方式。"
-  },
-  {
-   "doi": "10.1080/10967494.2026.2714943",
-   "title": "The promises and pitfalls of AI in public service: a review of AI snake oil,",
-   "abstract": "",
-   "authors": [
-    "Julie Beasley"
-   ],
-   "journal": "International Public Management Journal",
-   "url": "https://doi.org/10.1080/10967494.2026.2714943",
-   "date": "2026-09-16",
-   "first_seen": "2026-09-16",
-   "score": 20.0,
-   "matched": [
-    "ai"
-   ],
-   "abstract_zh": ""
   },
   {
    "doi": "10.1177/0734371x261456288",
@@ -1721,8 +1763,8 @@
   },
   {
    "doi": "10.1093/jopart/muag026",
-   "title": "Conditional Compliance: The Role of Sector and Policy Design in State Sexual Misconduct Policy",
-   "abstract": "The role of principal-agent dynamics in performance and accountability reforms has been a recurring theme in public administration research. Yet, less attention has been dedicated to how the intersection of sector and policy design shapes principal-agent dynamics and subsequent policy outcomes. This study theoretically explores and empirically tests how sector and policy design shape the effects of state legislation that seeks to prevent shirking (mismanagement and underreporting) in the context of sexual misconduct outcomes in U.S. colleges and universities. We code every state policy designed to regulate higher education institutions’ management of sexual misconduct from 2007 to 2018 in the U.S. and leverage a Poisson Pseudo-Maximum Likelihood with a staggered difference-in-differences design to identify the effects. Our findings suggest that both sector and policy design matter: public institutions increase reporting in response to prevention policies that promote education and awareness, but prevention policies have no effect on private institutions. Other policies regulating enforcement and infrastructure produce null effects across both sectors. These findings have important implications for principal-agent theory and policy design research on effective methods for reducing shirking in social equity, accountability, and performance reporting.",
+   "title": "Conditional compliance: the role of sector and policy design in state sexual misconduct policy",
+   "abstract": "The role of principal-agent dynamics in performance and accountability reforms has been a recurring theme in public administration research. Yet, less attention has been dedicated to how the intersection of sector and policy design shapes principal-agent dynamics and subsequent policy outcomes. This study theoretically explores and empirically tests how sector and policy design shape the effects of state legislation that seeks to prevent shirking (mismanagement and underreporting) in the context of sexual misconduct outcomes in US colleges and universities. We code every state policy designed to regulate higher education institutions’ management of sexual misconduct from 2007 to 2018 in the US and leverage a Poisson pseudo-maximum likelihood with a staggered difference-in-differences design to identify the effects. Our findings suggest that both sector and policy design matter: public institutions increase reporting in response to prevention policies that promote education and awareness, but prevention policies have no effect on private institutions. Other policies regulating enforcement and infrastructure produce null effects across both sectors. These findings have important implications for principal-agent theory and policy design research on effective methods for reducing shirking in social equity, accountability, and performance reporting.",
    "authors": [
     "Jaeyeong Nam",
     "Daniel L Fay",
@@ -1773,24 +1815,6 @@
     "turnover"
    ],
    "abstract_zh": "面臨績效壓力，公部門組織頻繁經歷高階主管異動，然而其繼任者選擇方式卻鮮有探討。本研究主張負面績效回饋 (NPF) 關鍵性地影響繼任者來源。根據2,045筆高階主管異動資料，我們發現NPF降低內部繼任的機率達41.7%。內部升遷歷史藉由預示與失靈常規的決裂，強化外部繼任者選擇；而對探索性學習的重視，則將外部選擇強化為策略性定位。本研究透過為高階主管選擇提供動態且基於前因的解釋，推進公共管理領域，挑戰組織歷史的單一論觀點，並突顯繼任者來源作為一項策略性治理工具。"
-  },
-  {
-   "doi": "10.1080/10967494.2026.2723042",
-   "title": "Preferences for symbolic representation: identity, context, and selection of mental health providers",
-   "abstract": "",
-   "authors": [
-    "Austin M. McCrea",
-    "Nathan Favero"
-   ],
-   "journal": "International Public Management Journal",
-   "url": "https://doi.org/10.1080/10967494.2026.2723042",
-   "date": "2026-09-16",
-   "first_seen": "2026-09-16",
-   "score": 6.0,
-   "matched": [
-    "representation"
-   ],
-   "abstract_zh": ""
   },
   {
    "doi": "10.1093/jopart/muag013",
@@ -1884,6 +1908,23 @@
     "turnover"
    ],
    "abstract_zh": "早期市政管理專業面臨驚人的離職率。這種「專業死亡率」的問題在第一次世界大戰結束時已明確被認知：離職原因包括管理者遭受的威脅與暴力、對管理者工作的強烈政治干預，以及人際關係上的失誤。然而，組織化的管理專業和市經理制擁護者主動忽視威脅，且不願集體或官方地對政治干預做出回應；知名學者雖然認知到，卻未公開討論管理者普遍面臨的人際問題。這種對離職根本原因的沉默，顯示出在1920年代面對日益增長的選舉反對聲浪時，保護市經理制可行性的一種努力，將該專業的利益置於其執業成員之上。擁護者、學者和專業領導者的樂觀理性主義論述，建立在對令人不安現實的刻意否認之上；一個全面的歷史檢視或許有助於避免重蹈覆轍。"
+  },
+  {
+   "doi": "10.1111/puar.70203",
+   "title": "Routledge Handbook on Crisis, Polycrisis, and Public Administration. By KimMoloney, Gloria J.Billingsley, Bok GyoJeong, PabloSanabria‐Pulido, Tonya E.Thornton, and EricZeemering, New York, New York: Routledge, 2025. 390 pp. $280.00 (hardback) ( eBook $58.39). ISBN: 978‐1‐00‐333363‐0",
+   "abstract": "The only constant in life is change, and for public administrators, responding to crisis and polycrisis has become the norm.Effective crisis management is now an essential skill for public managers, as even a slight delay in response, miscommunication, or insufficient skill can result in the loss of life or property.Recent scholarly discussions at the ASPA Conference highlighted that the last period of relative normalcy was in 2019, prior to the COVID-19 pandemic, and there is skepticism about whether life will ever feel normal again.While there may be different perspectives on this, it is evident that we will never go back, and while types of crises will change, they are here to stay.Therefore, we must plan, prepare, and respond to them better.The Routledge Handbook on Crisis, Polycrisis and Public Administration (Moloney et al. 2025) brings together research, reviews, reflections, and global perspectives on crises from around the world.This review begins with a summary of the book, outlines its main arguments, discusses its limitations, and assesses its contribution to public administration scholarship and practice.Although the conceptual birth of the book may be rooted in the global pandemic, make no mistake: this book is not all about COVID-19.The book starts with a broader-than-expected definition of crisis.Beyond the expected natural disasters, such as hurricanes, storms, earthquakes, and wildfires, the list of crises also includes an aging workforce, cybersecurity, debt, unemployment, rising crime rates, hunger, domestic violence, and so on.This expanded perspective is both refreshing and thoughtprovoking, as many of these persistent and complex issues have traditionally not been classified as crises.In public administration, these problems are called wicked problems (Rittel and Webber 1973), and there is a tendency to accept that they are here to stay and that we have to focus on managing rather than solving them, as they do not have a true or false solution but rather better or worse ones.The book places some of these issues under the umbrella of crisis and polycrisis and suggests analyzing them through the lens of crises.Furthermore, the book provides global perspectives by covering crises from around the world and has a wide and rich representation of the United States, Germany, Ireland, the United Kingdom, the Netherlands, Ghana, South Korea, South Africa, Colombia, El Salvador, Ecuador, Argentina, and Mexico, as well as islands such as Mauritius, Reunion Island, and Madagascar.Methodologically, the book employs qualitative, quantitative, and mixed-methods research, including single-case studies, comparative analyses across several countries, and multistate surveys.",
+   "authors": [
+    "Tamara Dimitrijevska‐Markoski"
+   ],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70203",
+   "date": "2026-09-17",
+   "first_seen": "2026-09-17",
+   "score": 5.0,
+   "matched": [
+    "representation"
+   ],
+   "abstract_zh": "人生唯一不變的就是變，而對於公共行政人員而言，因應危機與多重危機已成為常態。有效的危機管理現已成為公共管理者不可或缺的技能，因為即使是輕微的應變延遲、溝通失誤或技能不足，都可能導致生命或財產的損失。最近在美國公共行政學會（ASPA）會議上的學術討論指出，相對正常的時期是2019年，即COVID-19疫情爆發之前，並且對於生活是否能再次恢復正常感到懷疑。儘管對此可能存在不同觀點，但顯而易見的是，我們已無法回頭，且雖然危機的類型會改變，但它們將持續存在。因此，我們必須更好地規劃、準備並應對這些危機。《勞特利奇危機、多重危機與公共行政手冊》（Moloney 等人，2025年）匯集了來自世界各地關於危機的研究、評論、反思和全球視角。本書評首先概述了該書的內容，闡述其主要論點，討論其局限性，並評估其對公共行政學術研究與實踐的貢獻。儘管本書的構思可能源於全球疫情，但請勿誤解：本書並非完全圍繞COVID-19展開。本書以一個超出預期的廣泛危機定義作為開端。除了預期的自然災害，例如颶風、風暴、地震和野火之外，危機清單還包括勞動力老化、網路安全、債務、失業、犯罪率上升、飢餓、家庭暴力等等。這種擴展的視角既令人耳目一新又引人深思，因為其中許多持續且複雜的問題傳統上並未被歸類為危機。在公共行政領域，這些問題被稱為「棘手問題」（wicked problems）（Rittel 和 Webber，1973年），人們傾向於接受它們將持續存在，並且我們必須專注於管理而非解決它們，因為它們沒有絕對的對錯解方，只有相對較好或較差的解決方案。本書將其中一些問題納入危機和多重危機的範疇，並建議透過危機的視角來分析它們。此外，本書透過涵蓋世界各地的危機來提供全球視角，並廣泛且豐富地呈現了來自美國、德國、愛爾蘭、英國、荷蘭、迦納、韓國、南非、哥倫比亞、薩爾瓦多、厄瓜多、阿根廷和墨西哥，以及模里西斯、留尼旺島和馬達加斯加等島嶼的案例。在方法論上，本書採用了質性、量化和混合方法研究，包括單一案例研究、跨多國比較分析和多州調查。"
   },
   {
    "doi": "10.1111/puar.70157",
@@ -2519,12 +2560,12 @@
    "abstract_zh": "美國公共行政學會 (ASPA) 是一個無黨派組織，其成員包含來自美國及海外、超過九千名的學者、行政人員、公共管理者及學生。ASPA 致力於提升在"
   },
   {
-   "doi": "10.1111/puar.70183",
-   "title": "Celebrating 85 Years",
+   "doi": "10.1111/puar.70182",
+   "title": "American Society for Public Administration Code of Ethics",
    "abstract": "",
    "authors": [],
    "journal": "Public Administration Review",
-   "url": "https://doi.org/10.1111/puar.70183",
+   "url": "https://doi.org/10.1111/puar.70182",
    "date": "2026-08-28",
    "first_seen": "2026-08-29",
    "score": 2.0,
@@ -2532,12 +2573,12 @@
    "abstract_zh": ""
   },
   {
-   "doi": "10.1111/puar.70182",
-   "title": "American Society for Public Administration Code of Ethics",
+   "doi": "10.1111/puar.70183",
+   "title": "Celebrating 85 Years",
    "abstract": "",
    "authors": [],
    "journal": "Public Administration Review",
-   "url": "https://doi.org/10.1111/puar.70182",
+   "url": "https://doi.org/10.1111/puar.70183",
    "date": "2026-08-28",
    "first_seen": "2026-08-29",
    "score": 2.0,
@@ -2639,6 +2680,23 @@
    "score": 2.0,
    "matched": [],
    "abstract_zh": ""
+  },
+  {
+   "doi": "10.1080/10967494.2026.2719908",
+   "title": "Fairness and equity in hybrid work: insights from the Ontario Public Service",
+   "abstract": "Hybrid work—alternating between office and remote locations—has become the norm across Canadian public services, yet questions remain about whether it is implemented fairly. In 2022, the Ontario Public Service (OPS) mandated three in-office days per week, then announced in August 2025 that all employees must return to the office full-time. Based on qualitative content analysis of OPS subreddit data and semi-structured interviews with Indigenous and Black public servants, this paper explores perspectives on hybrid work, focusing on fairness and equity. It examines access to hybrid arrangements, consistency in implementation and enforcement, and impacts on recruitment and retention. Findings reveal concerns about unequal access, inconsistent enforcement, and disproportionate burdens on racialized public servants, along with implications for recruiting and retaining talent. Fairness and equity should therefore be central considerations in public sector hybrid work and return-to-office policies, given their impacts on recruiting and retaining a diverse government workforce.",
+   "authors": [
+    "Maria Gintova"
+   ],
+   "journal": "International Public Management Journal",
+   "url": "https://doi.org/10.1080/10967494.2026.2719908",
+   "date": "2026-09-16",
+   "first_seen": "2026-09-16",
+   "score": 2.0,
+   "matched": [
+    "recruitment"
+   ],
+   "abstract_zh": "混合辦公模式——在辦公室和遠端地點之間交替——已成為加拿大各級公共服務部門的常態，然而，關於其執行是否公平的問題依然存在。2022年，安大略省公共服務部門 (OPS) 規定員工每週三天進辦公室，隨後於2025年8月宣布所有員工必須全職返回辦公室。本文根據對OPS subreddit資料的質性內容分析，以及對原住民和黑人公務員的半結構式訪談，探討了對混合辦公模式的看法，著重於公平性和平等性。本文檢視了混合辦公安排的可近性、實施和執行的一致性，以及對招募和留任的影響。研究結果揭示了對不平等的近用機會、不一致的執行，以及對種族化公務員造成不成比例負擔的擔憂，同時也對招募和留住人才產生影響。因此，鑑於公平性和平等性對招募和留任多元化政府勞動力的影響，它們應成為公共部門混合辦公和返回辦公室政策的核心考量。"
   },
   {
    "doi": "10.1080/14719037.2026.2685252",
@@ -3642,7 +3700,7 @@
   {
    "doi": "10.1080/14719037.2026.2733934",
    "title": "From co-production to value co-creation: NGOs as catalysts of cyclical public value in rural China",
-   "abstract": "",
+   "abstract": "This study explores how NGOs facilitate the transition from co-production to value co-creation in rural ecological governance through a case study of the Guanba River Basin, China. Drawing on qualitative evidence and social network analysis, it reveals that NGOs’ front-loaded participation in problem framing, planning, and rule formation creates institutional and relational foundations for collaborative governance. Beyond boundary-spanning roles, NGOs function as institutional intermediaries that reshape governance arrangements and enhance local capacity. Value co-creation emerges through institutional embeddedness, actor absorption, and adaptive governance within a recursive ecosystem. This study provides an institutionally grounded explanation of how externally facilitated co-production evolves into locally sustained value co-creation.",
    "authors": [
     "Jingjing Cai",
     "Kaisar Kaher"
@@ -3653,7 +3711,7 @@
    "first_seen": "2026-09-16",
    "score": 0.0,
    "matched": [],
-   "abstract_zh": ""
+   "abstract_zh": "本文旨在探討非政府組織（NGOs）如何透過對中國官壩河流域的個案研究，促進鄉村生態治理中從「共同生產」（co-production）轉變為「價值共創」（value co-creation）的過程。本研究運用質性證據與社會網絡分析，揭示了非政府組織前期投入的參與，在問題界定、規劃與規則制定方面，為協同治理建立了制度與關係基礎。除了跨界連結的角色外，非政府組織也扮演制度中介者（institutional intermediaries）的角色，重新塑造治理安排並提升地方能力。價值共創透過制度嵌入、行動者吸納以及遞迴生態系統中的調適性治理而產生。本研究提供一個以制度為基礎的解釋，闡明外部促進的共同生產如何演變為地方永續的價值共創。"
   },
   {
    "doi": "10.1080/14719037.2026.2720763",
@@ -3684,21 +3742,6 @@
    ],
    "journal": "Public Management Review",
    "url": "https://doi.org/10.1080/14719037.2026.2729793",
-   "date": "2026-09-16",
-   "first_seen": "2026-09-16",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": ""
-  },
-  {
-   "doi": "10.1080/10967494.2026.2719908",
-   "title": "Fairness and equity in hybrid work: insights from the Ontario Public Service",
-   "abstract": "",
-   "authors": [
-    "Maria Gintova"
-   ],
-   "journal": "International Public Management Journal",
-   "url": "https://doi.org/10.1080/10967494.2026.2719908",
    "date": "2026-09-16",
    "first_seen": "2026-09-16",
    "score": 0.0,
