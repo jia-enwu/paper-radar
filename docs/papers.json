@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-17T23:48:30+00:00",
+ "updated": "2026-09-18T23:42:49+00:00",
  "papers": [
   {
    "doi": "10.1080/10967494.2026.2706796",
@@ -2560,12 +2560,12 @@
    "abstract_zh": "美國公共行政學會 (ASPA) 是一個無黨派組織，其成員包含來自美國及海外、超過九千名的學者、行政人員、公共管理者及學生。ASPA 致力於提升在"
   },
   {
-   "doi": "10.1111/puar.70182",
-   "title": "American Society for Public Administration Code of Ethics",
+   "doi": "10.1111/puar.70183",
+   "title": "Celebrating 85 Years",
    "abstract": "",
    "authors": [],
    "journal": "Public Administration Review",
-   "url": "https://doi.org/10.1111/puar.70182",
+   "url": "https://doi.org/10.1111/puar.70183",
    "date": "2026-08-28",
    "first_seen": "2026-08-29",
    "score": 2.0,
@@ -2573,12 +2573,12 @@
    "abstract_zh": ""
   },
   {
-   "doi": "10.1111/puar.70183",
-   "title": "Celebrating 85 Years",
+   "doi": "10.1111/puar.70182",
+   "title": "American Society for Public Administration Code of Ethics",
    "abstract": "",
    "authors": [],
    "journal": "Public Administration Review",
-   "url": "https://doi.org/10.1111/puar.70183",
+   "url": "https://doi.org/10.1111/puar.70182",
    "date": "2026-08-28",
    "first_seen": "2026-08-29",
    "score": 2.0,
@@ -3762,6 +3762,22 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "第二次川普政府期間，政府效率部（DOGE）應運而生，這是一個由外部科技專家組成的團體，被賦予非凡權力，旨在推動聯邦政府的大規模精簡。他們同時也排擠了另一種替代方案：公民科技運動。政府公民科技運用科技、數據和以人為本的設計來改善政策執行，其動力來自親社會動機，承諾以公共服務對象為核心的方式提升國家治理能力。本文闡述了政府公民科技在美國脈絡中的起源、核心價值及其演變。這項運動從2014年到2024年間，聲勢與影響力俱增，穩步進入政府體系，但從未獲得足夠權力以實施深遠變革。公民科技與DOGE之間在起源、理念和權力上的衝突，為科技如何重塑美國行政國家提供了截然不同的願景。"
+  },
+  {
+   "doi": "10.1080/14719037.2026.2733924",
+   "title": "Unpacking local government responsiveness to social media: evidence from Mexico",
+   "abstract": "",
+   "authors": [
+    "Guillermo M. Cejudo",
+    "Fernando Nieto-Morales"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2733924",
+   "date": "2026-09-18",
+   "first_seen": "2026-09-18",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
   }
  ]
 }
