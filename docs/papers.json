@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-18T23:42:49+00:00",
+ "updated": "2026-09-19T23:44:40+00:00",
  "papers": [
   {
    "doi": "10.1080/10967494.2026.2706796",
@@ -2547,6 +2547,19 @@
    "abstract_zh": "執行能源轉型任務的地方政府仰賴契約人員來彌補能力與專業知識的缺口，這引發了對依賴性與知識流失的擔憂。本研究借鑒資源依賴理論以及客戶-顧問關係文獻，發展出一個框架，以呈現外部依賴與內部能力發展之間的循環回饋。對六個荷蘭地方政府進行的十五次訪談顯示，人力短缺與臨時性補助驅動了契約人員的聘用，而短期契約與有限的知識移轉則加劇了依賴性。面臨相似限制的地方政府，透過知識整合、治理機制與關係動態而呈現分歧。本研究藉由將依賴性概念化為一個過程而非結構性結果，推進了公共行政學術。"
   },
   {
+   "doi": "10.1111/puar.70182",
+   "title": "American Society for Public Administration Code of Ethics",
+   "abstract": "",
+   "authors": [],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70182",
+   "date": "2026-08-28",
+   "first_seen": "2026-08-29",
+   "score": 2.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
    "doi": "10.1111/puar.70194",
    "title": "Issue Information",
    "abstract": "The American Society for Public Administration (ASPA) is a nonpartisan organization of more than 9,000 scholars, administrators, public managers, and students in the United States, and abroad.ASPA is committed to the advancement of excellence in",
@@ -2566,19 +2579,6 @@
    "authors": [],
    "journal": "Public Administration Review",
    "url": "https://doi.org/10.1111/puar.70183",
-   "date": "2026-08-28",
-   "first_seen": "2026-08-29",
-   "score": 2.0,
-   "matched": [],
-   "abstract_zh": ""
-  },
-  {
-   "doi": "10.1111/puar.70182",
-   "title": "American Society for Public Administration Code of Ethics",
-   "abstract": "",
-   "authors": [],
-   "journal": "Public Administration Review",
-   "url": "https://doi.org/10.1111/puar.70182",
    "date": "2026-08-28",
    "first_seen": "2026-08-29",
    "score": 2.0,
@@ -3766,7 +3766,7 @@
   {
    "doi": "10.1080/14719037.2026.2733924",
    "title": "Unpacking local government responsiveness to social media: evidence from Mexico",
-   "abstract": "",
+   "abstract": "Local governments worldwide increasingly adopt social media to engage citizens. What factors make governments more likely to respond to citizens on social media? We explore how Mexican municipal governments use Facebook to interact with citizens, with a mixed-methods approach analysing data from 635 municipalities. Using a crisp-set qualitative comparative analysis, we distinguish between general responsiveness (channel setup) and interactive responsiveness (substantive engagement). Small municipalities are more likely to engage citizens when adaptive potential and formal participation policies are present. In contrast, larger cities show responsiveness when they have available resources, established participation rules and policies, and a propitious environment.",
    "authors": [
     "Guillermo M. Cejudo",
     "Fernando Nieto-Morales"
@@ -3777,7 +3777,25 @@
    "first_seen": "2026-09-18",
    "score": 0.0,
    "matched": [],
-   "abstract_zh": ""
+   "abstract_zh": "全球各地的地方政府越來越多地採用社群媒體與公民互動。究竟哪些因素使得政府更有可能在社群媒體上回應公民？本文採用混合方法，分析來自635個墨西哥市級政府的資料，探討其如何使用臉書與公民互動。透過清晰集質性比較分析，我們區分了一般回應性（頻道設置）與互動回應性（實質互動）。研究發現，小型市鎮在具備適應潛力及正式參與政策時，更有可能與公民互動。相較之下，大型城市則在擁有可用資源、既定的參與規範與政策，以及有利的環境時，展現出回應性。"
+  },
+  {
+   "doi": "10.1177/0734371x261481345",
+   "title": "Organizational Resilience in Public Workforce Transitions: A Case Study of Continuity and Change under the DOGE Reforms",
+   "abstract": "This qualitative case study examines how a federal field detachment sustained operational continuity during the initial implementation of the Department of Government Efficiency (DOGE) workforce reforms. Centered on the loss of a clearance-restricted Security Officer, the study draws on interviews, surveys, and organizational artifacts to examine how responsibilities were redistributed under constrained staffing conditions. Findings indicate that mission-essential operations were maintained through task redistribution, knowledge capture, leadership, and informal coordination; however, these adaptive responses also increased workload concentration, exposed dependence on undocumented institutional knowledge, and heightened reliance on individual effort. The study distinguishes operational continuity from organizational resilience by demonstrating that sustained mission performance can mask underlying degradation in organizational capacity. The findings extend beyond the DOGE reforms and offer practical lessons for workforce restructuring, continuity planning, succession management, and organizational resilience across public and private organizations.",
+   "authors": [
+    "Justin P. Johnson",
+    "Greg Lockhart",
+    "Erick Yokomizo",
+    "Matthew W. Hurtienne"
+   ],
+   "journal": "Review of Public Personnel Administration",
+   "url": "https://doi.org/10.1177/0734371x261481345",
+   "date": "2026-09-19",
+   "first_seen": "2026-09-19",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "本質性個案研究探討一個聯邦外勤單位在政府效率部 (DOGE) 人力改革初期實施期間，如何維持營運持續性。本研究以一名受限於安全許可的保全人員離職為核心，透過訪談、問卷調查和組織文物，檢視在人力受限的條件下職責如何重新分配。研究結果顯示，關鍵任務營運透過任務重新分配、知識擷取、領導力以及非正式協調得以維持；然而，這些應變措施也增加了工作量集中、暴露出對未文件化機構知識的依賴，並加劇了對個人努力的依賴。本研究透過證明持續的任務績效可能掩蓋組織能力潛在的退化，區分了營運持續性與組織韌性。這些研究結果超越了DOGE改革的範疇，並為公共和私人組織的人力重組、營運持續規劃、繼任管理以及組織韌性提供了實用啟示。"
   }
  ]
 }
