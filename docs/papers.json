@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-19T23:44:40+00:00",
+ "updated": "2026-09-20T23:40:13+00:00",
  "papers": [
   {
    "doi": "10.1080/10967494.2026.2706796",
@@ -2547,19 +2547,6 @@
    "abstract_zh": "執行能源轉型任務的地方政府仰賴契約人員來彌補能力與專業知識的缺口，這引發了對依賴性與知識流失的擔憂。本研究借鑒資源依賴理論以及客戶-顧問關係文獻，發展出一個框架，以呈現外部依賴與內部能力發展之間的循環回饋。對六個荷蘭地方政府進行的十五次訪談顯示，人力短缺與臨時性補助驅動了契約人員的聘用，而短期契約與有限的知識移轉則加劇了依賴性。面臨相似限制的地方政府，透過知識整合、治理機制與關係動態而呈現分歧。本研究藉由將依賴性概念化為一個過程而非結構性結果，推進了公共行政學術。"
   },
   {
-   "doi": "10.1111/puar.70182",
-   "title": "American Society for Public Administration Code of Ethics",
-   "abstract": "",
-   "authors": [],
-   "journal": "Public Administration Review",
-   "url": "https://doi.org/10.1111/puar.70182",
-   "date": "2026-08-28",
-   "first_seen": "2026-08-29",
-   "score": 2.0,
-   "matched": [],
-   "abstract_zh": ""
-  },
-  {
    "doi": "10.1111/puar.70194",
    "title": "Issue Information",
    "abstract": "The American Society for Public Administration (ASPA) is a nonpartisan organization of more than 9,000 scholars, administrators, public managers, and students in the United States, and abroad.ASPA is committed to the advancement of excellence in",
@@ -2571,6 +2558,19 @@
    "score": 2.0,
    "matched": [],
    "abstract_zh": "美國公共行政學會 (ASPA) 是一個無黨派組織，其成員包含來自美國及海外、超過九千名的學者、行政人員、公共管理者及學生。ASPA 致力於提升在"
+  },
+  {
+   "doi": "10.1111/puar.70182",
+   "title": "American Society for Public Administration Code of Ethics",
+   "abstract": "",
+   "authors": [],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70182",
+   "date": "2026-08-28",
+   "first_seen": "2026-08-29",
+   "score": 2.0,
+   "matched": [],
+   "abstract_zh": ""
   },
   {
    "doi": "10.1111/puar.70183",
@@ -3716,7 +3716,7 @@
   {
    "doi": "10.1080/14719037.2026.2720763",
    "title": "Welfare State Convergence or Robustness? Comparing Nonprofit Marketization Patterns Across Belgium, Sweden and the United States",
-   "abstract": "",
+   "abstract": "New Public Management (NPM) reforms are argued to have induced welfare state convergence in public sector organizing. However, this argument has been examined mainly at the discourse and decision-making level, leaving the adoption of NPM reforms at the organizational level underexplored. Taking non-profit marketization as a case, this study draws on survey data from non-profits across three welfare states to examine the extent to which (a) different marketization patterns appear and (b) these patterns are explained by contextual differences. Findings suggest that welfare state robustness, not convergence, is the superior frame of reference at the organizational level.",
    "authors": [
     "Ben Suykens",
     "Johan Hvenmark",
@@ -3730,7 +3730,7 @@
    "first_seen": "2026-09-16",
    "score": 0.0,
    "matched": [],
-   "abstract_zh": ""
+   "abstract_zh": "新公共管理 (NPM) 改革被認為導致了公共部門組織方式的福利國家趨同。然而，這一論點主要在論述與決策層面進行了檢視，使得新公共管理改革在組織層面的採納情況探討不足。本研究以非營利組織市場化為案例，利用來自三個福利國家非營利組織的調查數據，旨在檢視 (a) 是否出現了不同的市場化模式，以及 (b) 這些模式是否能以情境差異加以解釋。研究結果顯示，在組織層面，福利國家韌性而非趨同，是更優越的參考框架。"
   },
   {
    "doi": "10.1080/14719037.2026.2729793",
