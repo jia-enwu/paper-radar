@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-20T23:40:13+00:00",
+ "updated": "2026-09-22T00:20:54+00:00",
  "papers": [
   {
    "doi": "10.1080/10967494.2026.2706796",
@@ -2129,6 +2129,24 @@
    "abstract_zh": ""
   },
   {
+   "doi": "10.1080/14719037.2026.2731445",
+   "title": "Bricolage in bureaucracies: public leadership and bricolage behaviour in turbulent situations",
+   "abstract": "",
+   "authors": [
+    "Finn Kabatas",
+    "Rick Vogel"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2731445",
+   "date": "2026-09-21",
+   "first_seen": "2026-09-22",
+   "score": 4.0,
+   "matched": [
+    "bureaucra"
+   ],
+   "abstract_zh": ""
+  },
+  {
    "doi": "10.1080/10967494.2026.2691390",
    "title": "Chainsaw or scalpel: which leads to more blame for a service failure when leaders downsize government?",
    "abstract": "The Trump administration’s DOGE attempted to radically downsize U.S. federal agencies. This study aims to clarify whether government leaders are blamed more for service failure when they employ either a DOGE-like (chainsaw) method or a more measured (scalpel) approach. A preregistered experiment was conducted in which respondents were randomly assigned to one of 6 vignettes that presented information about downsizing approaches, a public service failure, and the person or entity directly responsible for the failure. This study produced four main findings. First, people blamed city leaders more for the service failure when they knew a chainsaw approach was used to downsize government, compared to when they were given no information about the approach. Second, people blamed city leaders more when a chainsaw approach was used than when a scalpel approach was used. Third, simply knowing that city leaders had used a downsizing approach was not enough to shift blame away from the frontline employee toward city leaders. Fourth, blame shifted from the frontline employee to city leaders when people learned that a chainsaw approach—rather than a scalpel approach—had been used. The implications for research and practice are that a chainsaw approach is undesirable.",
@@ -2697,6 +2715,22 @@
     "recruitment"
    ],
    "abstract_zh": "混合辦公模式——在辦公室和遠端地點之間交替——已成為加拿大各級公共服務部門的常態，然而，關於其執行是否公平的問題依然存在。2022年，安大略省公共服務部門 (OPS) 規定員工每週三天進辦公室，隨後於2025年8月宣布所有員工必須全職返回辦公室。本文根據對OPS subreddit資料的質性內容分析，以及對原住民和黑人公務員的半結構式訪談，探討了對混合辦公模式的看法，著重於公平性和平等性。本文檢視了混合辦公安排的可近性、實施和執行的一致性，以及對招募和留任的影響。研究結果揭示了對不平等的近用機會、不一致的執行，以及對種族化公務員造成不成比例負擔的擔憂，同時也對招募和留住人才產生影響。因此，鑑於公平性和平等性對招募和留任多元化政府勞動力的影響，它們應成為公共部門混合辦公和返回辦公室政策的核心考量。"
+  },
+  {
+   "doi": "10.1111/puar.70198",
+   "title": "Propaganda, Administrative Deformation, and the Erosion of State Capacity: The Case of the “Censorship Industrial Complex”",
+   "abstract": "This paper examines how a propaganda frame alleging the existence of a “Censorship Industrial Complex” was institutionalized and then helped justify the dismantling of US election information resilience infrastructure across multiple federal agencies. Drawing on documentary evidence and process tracing, we show how political entrepreneurs reframed routine, non‐coercive election information coordination and communication practices as a covert censorship regime targeting conservative speech. The article argues that this case is best understood as administrative deformation: weakly evidenced claims were laundered into higher‐status venues, including congressional investigations, litigation, executive action, and budget rationales, where they altered the incentive environment facing public agencies. The result was staff reductions, program cuts, and chilling effects, and weakened state capacity in a core domain of democratic administration. We conclude with recommendations for protecting administrative resilience under conditions of narrative attack.",
+   "authors": [
+    "Renée DiResta",
+    "Dean Jackson"
+   ],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70198",
+   "date": "2026-09-21",
+   "first_seen": "2026-09-22",
+   "score": 2.0,
+   "matched": [],
+   "abstract_zh": "本研究旨在探討一個宣稱存在「審查工業複合體」的宣傳框架如何被制度化，並進而合理化橫跨多個聯邦機構的美國選舉資訊韌性基礎設施的瓦解。借鑒文獻證據和過程追蹤，我們展示了政治企業家如何將例行性、非強制性的選舉資訊協調與溝通實踐，重新定義為一個針對保守派言論的秘密審查機制。本文認為此案例最能被理解為行政變形：證據薄弱的主張被洗白進入更高層級的場域，包括國會調查、訴訟、行政行動和預算理由，在這些場域中，它們改變了公共機構所面臨的激勵環境。結果導致人員縮減、計畫削減和寒蟬效應，以及民主行政核心領域的國家能力弱化。我們最後提出在敘事攻擊條件下保護行政韌性的建議。"
   },
   {
    "doi": "10.1080/14719037.2026.2685252",
@@ -3796,6 +3830,22 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "本質性個案研究探討一個聯邦外勤單位在政府效率部 (DOGE) 人力改革初期實施期間，如何維持營運持續性。本研究以一名受限於安全許可的保全人員離職為核心，透過訪談、問卷調查和組織文物，檢視在人力受限的條件下職責如何重新分配。研究結果顯示，關鍵任務營運透過任務重新分配、知識擷取、領導力以及非正式協調得以維持；然而，這些應變措施也增加了工作量集中、暴露出對未文件化機構知識的依賴，並加劇了對個人努力的依賴。本研究透過證明持續的任務績效可能掩蓋組織能力潛在的退化，區分了營運持續性與組織韌性。這些研究結果超越了DOGE改革的範疇，並為公共和私人組織的人力重組、營運持續規劃、繼任管理以及組織韌性提供了實用啟示。"
+  },
+  {
+   "doi": "10.1111/padm.70096",
+   "title": "Regulatory Capture, Public Trust and Pro‐Environmental Behaviors",
+   "abstract": "Regulatory capture, where special interests steer regulation away from public interest, is widely discussed, but its broader public consequences remain underexplored. We explore the relationship between perceived regulatory capture, public trust and pro‐environmental behaviors using online survey data in China. Findings show that perceived material and information capture (the latter measured with a single scenario‐based proxy) have significant negative associations with public trust in local ( b = −0.154, −0.105) and central government ( b = −0.087, −0.064). Direct associations with non‐activist pro‐environmental behaviors in the public sphere are consistently negative and supported by bootstrapped confidence intervals across specifications (material: β = −0.066 to −0.082; information: β = −0.036 to −0.047), whereas several corresponding private sphere associations are not. Indirect associations are supported only in selected models. These findings highlight the public implications of regulatory capture, distinguishing material and information capture, and extend understanding of public trust and pro‐environmental behaviors.",
+   "authors": [
+    "Songsong Chen",
+    "Jianhua Xu"
+   ],
+   "journal": "Public Administration",
+   "url": "https://doi.org/10.1111/padm.70096",
+   "date": "2026-09-21",
+   "first_seen": "2026-09-22",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "監管俘虜，即特殊利益團體使監管偏離公共利益，雖廣受討論，但其更廣泛的公共後果仍未充分探討。本研究利用中國的線上問卷調查資料，探討感知監管俘虜、公眾信任與親環境行為之間的關係。研究結果顯示，感知物質俘虜與資訊俘虜（後者以單一情境式代理變數衡量）與公眾對地方政府（b = −0.154, −0.105）和中央政府（b = −0.087, −0.064）的信任有顯著負相關。與公共領域中非激進主義親環境行為的直接關聯始終呈負相關，並在不同模型設定下，獲得拔靴法信賴區間的支持（物質俘虜：β = −0.066 至 −0.082；資訊俘虜：β = −0.036 至 −0.047），然而數個對應的私人領域關聯則不顯著。間接關聯僅在選定的模型中獲得支持。這些研究結果突顯了監管俘虜的公共意涵，區分了物質俘虜與資訊俘虜，並擴展了對公眾信任與親環境行為的理解。"
   }
  ]
 }
