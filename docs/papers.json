@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-22T23:54:57+00:00",
+ "updated": "2026-09-24T00:07:13+00:00",
  "papers": [
   {
    "doi": "10.1080/10967494.2026.2706796",
@@ -157,6 +157,28 @@
     "job satisfaction"
    ],
    "abstract_zh": "公務員透過其工作服務公共利益，並透過志願服務延伸此承諾。然而，當專業職責已滿足內在的親社會動機時，是什麼激勵他們從事志願服務，仍不清楚。本研究借鑒多元生活領域和公共服務動機的理論，探討公部門工作場所經驗，特別是接觸公眾參與和工作滿意度，如何與志願服務行為相關聯。本研究利用來自美國地方政府經理人的橫斷面、全國代表性調查數據，發現這些關係因個人先前的志願服務狀態而異。在非志願服務者中，較高程度的接觸公眾參與和工作滿意度，都與啟動志願服務的更高可能性相關。在現有志願服務者中，較低程度的接觸公眾參與和工作滿意度與投入志願服務的更多時間相關，而較高程度的則與在更廣泛領域的志願服務相關聯。工作滿意度負向調節接觸公眾參與和志願服務強度之間的關係。本研究透過證明一種權變的工作—志願服務關聯，將公務員志願服務的傳統理解延伸至超越公共服務動機和部門差異，並為管理工作場所經驗以維持組織內外公共服務提供實用的見解。"
+  },
+  {
+   "doi": "10.1080/10967494.2026.2716270",
+   "title": "Socially oriented contracting and public employees’ job satisfaction: evidence from the federal small disadvantaged business program",
+   "abstract": "While contracting out is often viewed as having negative consequences for public employees, less attention has been paid to the positive outcomes certain types of contracting may have for them. In particular, recent scholarship proposes that contracting out may improve employees’ work attitudes when it emphasizes pro-social factors in the process. Using the case of the federal Small Disadvantaged Business (SDB) contracting program—which emphasizes diversity and equity in procurement—this study examines whether contracting programs that promote social outcomes are associated with public employees’ job satisfaction. Drawing from research on sector differences, person-organization fit, and representative bureaucracy, we hypothesize a positive association between SDB contracting efforts and job satisfaction, with employees from underrepresented backgrounds experiencing a more pronounced increase. Linking U.S. federal government contracting data to the Federal Employee Viewpoint Survey (FEVS), our analyses provide support for the hypotheses. The implications of these findings for government contracting and public human resource management are discussed.",
+   "authors": [
+    "Wan-Ju Hung",
+    "Yung-Yu Tsai"
+   ],
+   "journal": "International Public Management Journal",
+   "url": "https://doi.org/10.1080/10967494.2026.2716270",
+   "date": "2026-09-22",
+   "first_seen": "2026-09-22",
+   "score": 41.0,
+   "matched": [
+    "representative bureaucracy",
+    "diversity",
+    "bureaucra",
+    "public employee",
+    "job satisfaction"
+   ],
+   "abstract_zh": "儘管委外常被視為對公務人員產生負面影響，但對於某些類型的委外可能帶來的正面效益，卻較少受到關注。尤其，近期學術研究指出，當委外過程強調親社會因素時，可能改善員工的工作態度。本研究以聯邦小型弱勢企業 (SDB) 委外計畫（該計畫強調採購中的多元性與公平性）為例，探討促進社會成果的委外計畫是否與公務人員的工作滿意度相關。借鑒於部門差異、人職契合與代表性官僚體制等研究，我們假設 SDB 委外措施與工作滿意度之間存在正向關聯，且來自弱勢背景的員工將經歷更顯著的提升。本研究結合美國聯邦政府委外資料與聯邦員工觀點調查 (FEVS)，分析結果支持了這些假設。本文討論了這些發現對於政府委外與公共人力資源管理的意涵。"
   },
   {
    "doi": "10.1177/02750740261473616",
@@ -736,6 +758,24 @@
    "abstract_zh": "政治上削弱民主制度的作為，使公務員在政治回應性與保護民主價值之間陷入兩難。由於公務員身處政治行政層級體系中，我們認為，來自其直接層級主管的訊號，對於理解公務員如何應對此兩難至關重要。透過對挪威國家級公務員（N = 1,446）進行隨機問卷實驗，並使用順序邏輯迴歸模型，我們發現民主倒退會增加公務員對政府意願的反對、內部與外部發聲，以及離職傾向。管理層的訊號會調節這些影響：當主管表示對政府意願的回應性時，公務員更傾向於表達擔憂或考慮離職。在一項針對美國聯邦、州及地方公務員（N = 504）的概念性複製與延伸研究中，同樣使用順序邏輯迴歸模型，我們發現如果主管表示對政府意願的回應性，公務員的離職傾向更高，但受訪者也較不傾向於向主管表達擔憂。總體而言，我們的發現指出，政治行政層級體系中的管理層訊號，正在形塑公務員對民主倒退的即時反應。"
   },
   {
+   "doi": "10.1080/10967494.2026.2710329",
+   "title": "Motivated to exhaustion? Public service motivation, curvilinear strain, and the buffer of collaborative culture",
+   "abstract": "Public service motivation (PSM) is widely treated as a resource that strengthens engagement, yet excessive motivation may yield diminishing returns. Integrating the job demands-resources model, conservation of resources theory, and the too-much-of-a-good-thing logic, this study tests a curvilinear relationship between PSM and job exhaustion, and the moderating role of collaborative culture. Using a two-wave survey of 408 Korean public servants with a one-month lag, hierarchical regressions identify a U-shaped pattern: exhaustion declines at low-to-moderate PSM but rises beyond a threshold. Collaborative culture significantly flattens this curve, indicating that supportive, collective norms mitigate PSM-related strain at very high levels of PSM. The findings challenge the assumption that PSM is uniformly beneficial, recasting PSM as a conditional resource that can operate as a demand at high levels. The study clarifies when PSM is sustainable and positions collaboration as an actionable boundary condition, yielding implications for motivation theory and for the collaborative organization of public service.",
+   "authors": [
+    "Jiyun Baek"
+   ],
+   "journal": "International Public Management Journal",
+   "url": "https://doi.org/10.1080/10967494.2026.2710329",
+   "date": "2026-09-22",
+   "first_seen": "2026-09-22",
+   "score": 21.0,
+   "matched": [
+    "public service motivation",
+    "psm"
+   ],
+   "abstract_zh": "公職服務動機 (PSM) 被廣泛視為一種強化投入的資源，然而，過度的動機可能會產生邊際效益遞減。本研究整合了工作要求-資源模型、資源保存理論以及好事過猶不及邏輯，檢驗了公職服務動機 (PSM) 與工作耗竭之間的曲線關係，以及協作文化的調節作用。本研究採用針對 408 名韓國公務人員的兩波段問卷調查（滯後一個月），層級迴歸分析發現了 U 型模式：耗竭程度在低至中等 PSM 水平時下降，但在超過某個閾值後上升。協作文化顯著地平緩了這條曲線，這表明支持性的集體規範在非常高水平的 PSM 下減輕了與 PSM 相關的壓力。研究結果挑戰了 PSM 始終一致有益的假設，將 PSM 重新定義為一種條件性資源，在高水平時可作為一種要求。本研究闡明了 PSM 何時是可持續的，並將協作定位為一個可操作的邊界條件，對於動機理論以及公職服務的協作組織產生了意涵。"
+  },
+  {
    "doi": "10.1111/puar.70173",
    "title": "Public Service Delegation and the Mechanisms of Blame Attribution: Evidence From a Survey Experiment on Public Service Failure",
    "abstract": "A growing body of experimental public administration research examines how structural arrangements in public services, such as delegating service delivery to public or private actors, shape citizens' blame attributions for service failures. However, the mechanisms underlying these attributions are less well understood. This article investigates two mechanisms, focusing on the mediating roles of citizens' perceptions of politicians' causal responsibility (perceived control over service delivery) and functional responsibility (perceived duty to ensure service quality). A UK‐based survey experiment on local waste collection failures tests these mechanisms using causal mediation analysis. The results show higher levels of delegation reduce blame primarily by lowering perceptions of politicians' control over service delivery. In contrast, there is no strong evidence of mediation through perceived duty, suggesting that role‐based expectations of functional responsibility are more resistant to change. These findings provide new insight into how different public service delivery methods influence blame attribution for service performance.",
@@ -1035,6 +1075,24 @@
    "abstract_zh": "公民看似輕微的無禮行為為何會影響警察的留任？本研究援引資源保存理論（COR）與社會測量理論，探討公民的無禮行為如何隨著時間推移影響警察的離職過程。本研究採用針對1,397名警察進行的三波追蹤調查，檢驗初始接觸公民無禮行為的程度是否能預測後續工作疏離與離職意圖的發展軌跡。我們主張，公民的無禮行為是一種強度不高但具有心理影響的人際線索，它微妙地威脅警察感知到的社會地位，耗盡其心理資源，助長工作疏離，並最終增加離職意圖。我們進一步提出，感知組織支持（POS）作為一種有價值的資源和機構認可的訊號，能緩衝這些不利影響。結果證實，公民的無禮行為透過工作疏離間接預測離職意圖，且感知組織支持能減弱此路徑。這些研究結果增進了對公共服務情境中資源流失動態的理解，並突顯組織支持在維持第一線人員投入與留任方面的保護作用。"
   },
   {
+   "doi": "10.1177/0734371x261486652",
+   "title": "Classification Drift: Decisions Passing Quietly but Compounding Inequity",
+   "abstract": "Public-sector classification systems accumulate classification drift, a widening gap between what employees actually do, how their work is described, and how they are compensated. Because classification shapes pay, role comparison, and internal equity at scale, classification drift quietly compounds into measurable inequity. At a large U.S. urban public school district (the District), this drift manifested as 435 employees sharing the title “Specialist” across 24 pay grades ($47,000–$125,000). This article describes PRISM (Progressive Refinement and Intelligence Synthesis Model), a multi-model AI framework developed with a research-university partner’s Data Science Institute that introduces validation friction at high-stakes decision points. Rather than automating approvals, PRISM surfaces disagreement between independent AI models and routes ambiguous cases to human reviewers with a structured evidence package. Across 992 positions, 173 cases (17%) were flagged for escalated review. This article describes what public HR offices, with or without AI, can do to address classification drift.",
+   "authors": [
+    "Wayne Birch",
+    "Martin Renfro"
+   ],
+   "journal": "Review of Public Personnel Administration",
+   "url": "https://doi.org/10.1177/0734371x261486652",
+   "date": "2026-09-23",
+   "first_seen": "2026-09-24",
+   "score": 15.0,
+   "matched": [
+    "ai"
+   ],
+   "abstract_zh": "公部門職務分類系統累積了「職務分類漂移」，這是一種在員工實際從事的工作、其工作內容的描述方式以及他們獲得報酬的方式之間日益擴大的落差。由於職務分類會大規模地影響薪資、職位比較和內部公平性，職務分類漂移會悄然累積成可衡量的失衡。在美國一個大型都會區公立學區（以下簡稱「該學區」），這種漂移現象表現為435名員工共用「專員」職稱，橫跨24個薪資等級（年薪47,000美元至125,000美元）。本文介紹了PRISM（漸進式精煉與智慧整合模型），這是一個與某研究型大學合作夥伴的資料科學研究所共同開發的多模型人工智慧框架，該框架在高風險決策點引入了驗證摩擦。PRISM並非自動化核准，而是揭示獨立人工智慧模型之間的分歧，並將模糊不清的案例轉交給人類審閱者，並附帶結構化的證據包。在992個職位中，有173個案例（佔17%）被標記為需升級審查。本文闡述了公部門人資辦公室，無論是否導入人工智慧，可以如何應對職務分類漂移。"
+  },
+  {
    "doi": "10.1111/padm.70068",
    "title": "A Replication of “Emotional Responses to Bureaucratic Red Tape”",
    "abstract": "Why does bureaucracy often sting the public, evoking negative sentiment even when its rules are well‐designed? This study addresses this paradox through a laboratory experiment in the Chinese context ( N = 280), replicating and extending a seminal study by Hattke et al. (2020) on emotional responses to red tape. Employing physiological measures, including facial expression analysis and electrodermal activity, we examined the effects of red tape, rule functionality, and, as a key theoretical extension, rule transparency on public emotions within a simulated government subsidy application scenario. The findings confirm that red tape, particularly administrative burden, is a robust antecedent of negative emotions. More critically, the study reveals the profound limitations of informational strategies: neither explaining a rule's function nor enhancing its transparency could soothe negative emotions, let alone elicit positive ones. This research contributes by demonstrating, through cross‐cultural validation and theoretical extension, that in citizen‐state interactions, the experiential costs of a procedure often override its cognitive rationality. This insight offers a crucial directive for public service design: governments should prioritize minimizing experiential costs through process simplification, while strategically leveraging transparency to manage negative expectations and compensating for the inherent emotional deficits of bureaucracy by enhancing interactional quality.",
@@ -1118,25 +1176,6 @@
     "causal"
    ],
    "abstract_zh": "2024年後，美國面臨嚴峻的勞動力危機，其特徵是地方選舉官員 (LEO) 流失加速。本研究探討造成此離職潮的因果驅動因素，特別著重於不穩定之「搖擺」和「關鍵」郡縣中不成比例的人員流動。本研究採用混合方法設計，使用來自兩黨政策中心、美國人口普查局、選舉選民調查、麻省理工學院選舉數據與科學實驗室 (MEDSL) 以及 Reed LEO 調查的縱向數據，並結合從74個競爭激烈郡縣和25個「超級壓倒性勝利」郡縣編纂的原始數據集。運用地理資訊系統 (GIS)，我們將詳細的郡縣概況與2016、2020和2024年選舉期間的法律和政治環境空間映射連結。在競爭激烈司法管轄區的LEO面臨機構信任的侵蝕，這成為他們離職的主要催化劑。這些不穩定的司法管轄區凸顯出民主機制脆弱之處，為旨在穩定公共行政人力、以應對前所未有的高度兩極化之州級政策干預，提供實證洞見。"
-  },
-  {
-   "doi": "10.1080/10967494.2026.2716270",
-   "title": "Socially oriented contracting and public employees’ job satisfaction: evidence from the federal small disadvantaged business program",
-   "abstract": "",
-   "authors": [
-    "Wan-Ju Hung",
-    "Yung-Yu Tsai"
-   ],
-   "journal": "International Public Management Journal",
-   "url": "https://doi.org/10.1080/10967494.2026.2716270",
-   "date": "2026-09-22",
-   "first_seen": "2026-09-22",
-   "score": 14.0,
-   "matched": [
-    "public employee",
-    "job satisfaction"
-   ],
-   "abstract_zh": ""
   },
   {
    "doi": "10.1111/puar.70164",
@@ -1580,23 +1619,6 @@
    "abstract_zh": "儘管學術研究已記錄民粹主義和威權傾向的行政首長如何扭曲官僚機構，但非自由主義後的重建才剛開始受到關注。本文提出一個探索性框架，區分四種修復策略（中和化、糾正化、平衡化和民主強化）以及兩種修復模式（形式制度性修復和規範能力修復）。將此啟發式方法應用於波蘭、巴西和匈牙利，我們主張修復策略的選擇與其限制，取決於非自由主義根深蒂固的程度，以及繼任政府克服否決者並實施糾正性改革的法律政治能力之間的落差。在所觀察的時期內，形式制度性修復已超越專業規範、專業知識和信任的重建；修復也產生了分層的行政秩序，其中非自由主義時期的工具部分持續存在，並因此仍可供未來政府使用。行政修復因此具有結構上的不對稱性。民主繼任者可以重建行政國家，但不太可能將其恢復到原狀。"
   },
   {
-   "doi": "10.1080/10967494.2026.2710329",
-   "title": "Motivated to exhaustion? Public service motivation, curvilinear strain, and the buffer of collaborative culture",
-   "abstract": "",
-   "authors": [
-    "Jiyun Baek"
-   ],
-   "journal": "International Public Management Journal",
-   "url": "https://doi.org/10.1080/10967494.2026.2710329",
-   "date": "2026-09-22",
-   "first_seen": "2026-09-22",
-   "score": 8.0,
-   "matched": [
-    "public service motivation"
-   ],
-   "abstract_zh": ""
-  },
-  {
    "doi": "10.1177/02750740261457069",
    "title": "Experimental Evidence on the Effect of Decision Justification Strategies on Citizen Perceptions of Government",
    "abstract": "Abundant literature documents a range of factors that shape citizen perceptions of government. However, attention to how the justification of a policy decision shapes citizen perceptions remains limited. In this study, we consider how justifications influence citizen trust and legitimacy through a 2 × 2 × 2 pre-registered factorial survey experiment that manipulates justification strategy, policy position, and policy type. Results indicate that opposing positions reduce trust and legitimacy while the context of a highly polarized policy has the opposite effect. Emotive-based strategies decrease trust but do not affect legitimacy. Further, the effect of a supportive or opposing position varies by level of policy polarization.",
@@ -1653,6 +1675,27 @@
     "unethical"
    ],
    "abstract_zh": "政治人物的道德決策與行為受政治職位的獨特且具代表性特質所影響。本文獻回顧分析了來自公共行政、政治學及相關學科的80篇文獻，旨在系統性地描繪這些特質及其潛在機制。本研究歸納出六類與道德決策和行為相關的政治職位特質：政治體制設計、政治角色、與社會行動者的關係、法規措施、政治週期，以及一些一般性特質，例如政治機構的規模。有趣的是，現有研究主要關注不道德行為，這在我們對政治職位特質如何更廣泛地塑造個人與集體的道德決策與行為過程的理解上，形成知識空白。我們以未來研究議程作結，該議程倡議對塑造政治人物在其不同角色中道德決策與行為的社會心理層面進行更具針對性的研究。"
+  },
+  {
+   "doi": "10.1080/10967494.2026.2728697",
+   "title": "Reform for all? The limits of expertise in producing equitable outcomes",
+   "abstract": "Administrative reforms often seek to improve performance by changing bureaucratic or professional expertise. Yet technical skills alone may not disrupt the forces that generate unequal outcomes across social groups. We argue that systemic bias shapes professionalization and discretionary judgment, limiting expertise-substitution reforms’ capacity to reduce racial disparities even when they improve average outcomes. We test this using a 2018 Dallas reform that deployed co-response teams pairing police officers with clinicians and social workers on mental health calls. A difference-in-­differences analysis across divisions finds significant reductions in psychiatric holds and arrests, but the gains concentrate among White male citizens; arrests of Black males increase significantly. A complementary incident-level analysis of the conditional probability of a coercive outcome points to a different pattern of heterogeneous effects: White males show a higher post-reform probability of psychiatric holds while Black females and Hispanic males experience lower ones. Both sets of findings shed new light on the scholarship of administrative reform and hold practical implications for both the impact of such programs and the ways in which they are evaluated.",
+   "authors": [
+    "Danyao Li",
+    "Sean Nicholson-Crotty",
+    "Jill Nicholson-Crotty",
+    "James E. Wright"
+   ],
+   "journal": "International Public Management Journal",
+   "url": "https://doi.org/10.1080/10967494.2026.2728697",
+   "date": "2026-09-22",
+   "first_seen": "2026-09-22",
+   "score": 7.0,
+   "matched": [
+    "discretion",
+    "bureaucra"
+   ],
+   "abstract_zh": "行政改革常旨在透過改變官僚或專業專長來提升績效。然而，單憑技術技能可能無法打破造成社會群體間不平等結果的力量。我們認為，系統性偏見影響了專業化和自由裁量判斷，限制了專長替代改革在減少種族差異方面的能力，即使這些改革改善了平均結果。我們透過2018年達拉斯的一項改革來驗證此論點，該改革部署了協同應變團隊，將警官與臨床醫師和社工配對，以處理心理健康求助電話。針對不同分區的雙重差分分析發現，精神病強制留置和逮捕顯著減少，但這些成效主要集中在白人男性公民身上；非裔男性被捕人數則顯著增加。一項補充性的事件層級分析，針對強制性結果的條件機率，指出異質性影響的不同模式：白人男性在改革後精神病強制留置的機率更高，而非裔女性和拉丁裔男性則經歷較低的機率。這兩組研究結果為行政改革的學術研究提供了新見解，並對此類計畫的影響及其評估方式具有實務意涵。"
   },
   {
    "doi": "10.1111/puar.70145",
@@ -2148,8 +2191,8 @@
   },
   {
    "doi": "10.1093/jopart/muag028",
-   "title": "A Model of Agency Behavior in Participatory Budgeting: A Resource Dependence Perspective",
-   "abstract": "Based on resource dependence theory, this article theorizes why government agencies adopt citizen proposals in participatory budgeting. Agencies depend on the executive budget office and the legislature for budget approval, which makes them face uncertainty in securing budgets from these political principals. In this context, agencies can adopt citizen proposals to present their requests as reflecting citizen demands, thereby increasing the probability of approval. Building on this logic, this study argues that the greater the uncertainty agencies face in their dependencies on principals, the more likely they are to depend on proposals. This argument is tested using multilevel mixed-effects logistic regression based on citizen proposals (N = 3,609) submitted through Korea’s national participatory budgeting initiative from 2020 through 2023. The results show that agencies with less financial support from the legislature or those with smaller budgets are more likely to adopt proposals, as they face greater uncertainty due to unstable budgetary flows or fewer response options to manage resource instability. Agencies are also more likely to adopt proposals when they previously secured greater funding through proposal adoption, but this effect weakens for larger-budget agencies or those receiving greater legislative support. These findings emphasize the strategic nature of proposal adoption and the role of resource dependence in agency responses to proposals.",
+   "title": "A model of agency behavior in participatory budgeting: a resource dependence perspective",
+   "abstract": "Based on resource dependence theory, this article theorizes why government agencies adopt citizen proposals in participatory budgeting (PB). Agencies depend on the executive budget office and the legislature for budget approval, which makes them face uncertainty in securing budgets from these political principals. In this context, agencies can adopt citizen proposals to present their requests as reflecting citizen demands, thereby increasing the probability of approval. Building on this logic, this study argues that the greater the uncertainty agencies face in their dependencies on principals, the more likely they are to depend on proposals. This argument is tested using multilevel mixed-effects logistic regression based on citizen proposals (N = 3,609) submitted through Korea’s national PB initiative from 2020 through 2023. The results show that agencies with less financial support from the legislature or those with smaller budgets are more likely to adopt proposals, as they face greater uncertainty due to unstable budgetary flows or fewer response options to manage resource instability. Agencies are also more likely to adopt proposals when they previously secured greater funding through proposal adoption, but this effect weakens for larger-budget agencies or those receiving greater legislative support. These findings emphasize the strategic nature of proposal adoption and the role of resource dependence in agency responses to proposals.",
    "authors": [
     "Seunghyun Kim"
    ],
@@ -2182,6 +2225,23 @@
     "unethical"
    ],
    "abstract_zh": ""
+  },
+  {
+   "doi": "10.1080/10967494.2026.2710326",
+   "title": "Differentiating distributed leadership: introducing distributed professional development leadership and its motivational consequences",
+   "abstract": "Traditional hierarchical approaches to governing and leading public professionals have not always proven successful, and integrative and hybrid perspectives on professionalism are therefore receiving increasing attention. This study integrates professional development leadership (PDL) and distributed leadership (DL) theory and introduces the concept of distributed professional development leadership (D-PDL). D-PDL implies that employees without formal leadership responsibilities are engaged in core PDL activities focused on facilitating and realizing a shared understanding of professionalism within the scope of organizational goals. The study theorizes that professionals’ engagement in D-PDL leads to more autonomous motivation than engagement in generic DL, which covers a broad range of leadership activities that are disconnected from the professional core task. Survey data from approximately 2,400 Danish medical doctors support the theoretical framework and show that doctors’ engagement in D-PDL is associated with more intrinsic motivation and public service motivation, whereas their engagement in generic DL is primarily associated with extrinsic motivation. The study emphasizes the relevance of moving PDL beyond a leader-centric concept and of distinguishing between different types of DL activities.",
+   "authors": [
+    "Clara Siboni Lund"
+   ],
+   "journal": "International Public Management Journal",
+   "url": "https://doi.org/10.1080/10967494.2026.2710326",
+   "date": "2026-09-22",
+   "first_seen": "2026-09-22",
+   "score": 4.0,
+   "matched": [
+    "public service motivation"
+   ],
+   "abstract_zh": "傳統上，治理與領導公共專業人員的階層式方法並非總能證明成功，因此，關於專業精神的整合性與混合式觀點正日益受到關注。本研究整合了專業發展領導（PDL）與分散式領導（DL）理論，並引入了分散式專業發展領導（D-PDL）的概念。D-PDL意指沒有正式領導職責的員工，在組織目標範圍內，參與著重於促進並實現專業精神共同理解的核心PDL活動。本研究理論化指出，專業人員參與D-PDL會比參與一般性分散式領導（其涵蓋廣泛且脫離專業核心任務的領導活動）帶來更高的自主動機。來自約2,400名丹麥醫師的調查數據支持此理論框架，並顯示醫師參與D-PDL與更高的內在動機和公共服務動機相關，而他們參與一般性分散式領導則主要與外在動機相關。本研究強調將PDL從以領導者為中心的觀念中拓展出來，並區分不同類型分散式領導活動的重要性。"
   },
   {
    "doi": "10.1080/10967494.2026.2691390",
@@ -2602,6 +2662,19 @@
    "abstract_zh": "執行能源轉型任務的地方政府仰賴契約人員來彌補能力與專業知識的缺口，這引發了對依賴性與知識流失的擔憂。本研究借鑒資源依賴理論以及客戶-顧問關係文獻，發展出一個框架，以呈現外部依賴與內部能力發展之間的循環回饋。對六個荷蘭地方政府進行的十五次訪談顯示，人力短缺與臨時性補助驅動了契約人員的聘用，而短期契約與有限的知識移轉則加劇了依賴性。面臨相似限制的地方政府，透過知識整合、治理機制與關係動態而呈現分歧。本研究藉由將依賴性概念化為一個過程而非結構性結果，推進了公共行政學術。"
   },
   {
+   "doi": "10.1111/puar.70182",
+   "title": "American Society for Public Administration Code of Ethics",
+   "abstract": "",
+   "authors": [],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70182",
+   "date": "2026-08-28",
+   "first_seen": "2026-08-29",
+   "score": 2.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
    "doi": "10.1111/puar.70194",
    "title": "Issue Information",
    "abstract": "The American Society for Public Administration (ASPA) is a nonpartisan organization of more than 9,000 scholars, administrators, public managers, and students in the United States, and abroad.ASPA is committed to the advancement of excellence in",
@@ -2621,19 +2694,6 @@
    "authors": [],
    "journal": "Public Administration Review",
    "url": "https://doi.org/10.1111/puar.70183",
-   "date": "2026-08-28",
-   "first_seen": "2026-08-29",
-   "score": 2.0,
-   "matched": [],
-   "abstract_zh": ""
-  },
-  {
-   "doi": "10.1111/puar.70182",
-   "title": "American Society for Public Administration Code of Ethics",
-   "abstract": "",
-   "authors": [],
-   "journal": "Public Administration Review",
-   "url": "https://doi.org/10.1111/puar.70182",
    "date": "2026-08-28",
    "first_seen": "2026-08-29",
    "score": 2.0,
@@ -3917,27 +3977,9 @@
    "abstract_zh": "監管俘虜，即特殊利益團體使監管偏離公共利益，雖廣受討論，但其更廣泛的公共後果仍未充分探討。本研究利用中國的線上問卷調查資料，探討感知監管俘虜、公眾信任與親環境行為之間的關係。研究結果顯示，感知物質俘虜與資訊俘虜（後者以單一情境式代理變數衡量）與公眾對地方政府（b = −0.154, −0.105）和中央政府（b = −0.087, −0.064）的信任有顯著負相關。與公共領域中非激進主義親環境行為的直接關聯始終呈負相關，並在不同模型設定下，獲得拔靴法信賴區間的支持（物質俘虜：β = −0.066 至 −0.082；資訊俘虜：β = −0.036 至 −0.047），然而數個對應的私人領域關聯則不顯著。間接關聯僅在選定的模型中獲得支持。這些研究結果突顯了監管俘虜的公共意涵，區分了物質俘虜與資訊俘虜，並擴展了對公眾信任與親環境行為的理解。"
   },
   {
-   "doi": "10.1080/10967494.2026.2728697",
-   "title": "Reform for all? The limits of expertise in producing equitable outcomes",
-   "abstract": "",
-   "authors": [
-    "Danyao Li",
-    "Sean Nicholson-Crotty",
-    "Jill Nicholson-Crotty",
-    "James E. Wright"
-   ],
-   "journal": "International Public Management Journal",
-   "url": "https://doi.org/10.1080/10967494.2026.2728697",
-   "date": "2026-09-22",
-   "first_seen": "2026-09-22",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": ""
-  },
-  {
    "doi": "10.1080/10967494.2026.2706792",
    "title": "Arrested development: how performance regimes constrain changes to public sector performance measurement",
-   "abstract": "",
+   "abstract": "Public sector organizations increasingly operate within broader performance regimes—the wider systems of rules, actors, and practices that shape how performance is measured and managed—yet little research has examined how these regimes enable or block attempts of public sector organizations to redesign their performance measurement (PM) systems. This study addresses that gap by developing an analytical framework built around the concept of lock-in mechanisms, which provides a structured way to identify regulatory, material, behavioral and discursive barriers to the redesign of public sector PM. This framework is then applied to the performance regime governing Danish employment services, where municipal job centers are actively trying to redesign their PM systems to better reflect client experiences and value creation. Our findings reveal that redesign efforts are constrained by lock-in mechanisms operating at three distinct levels: within the institutional context, mechanisms entrench upward accountability as the dominant purpose of PM; at the level of performance actors, mechanisms preserve rigid boundaries between those who are measured and those who do the measuring; and at the level of performance interventions, mechanisms sustain top-down uses of performance information, limiting more bottom-up approaches.",
    "authors": [
     "Niklas Andreas Andersen"
    ],
@@ -3947,7 +3989,7 @@
    "first_seen": "2026-09-22",
    "score": 0.0,
    "matched": [],
-   "abstract_zh": ""
+   "abstract_zh": "公部門組織日益在更廣泛的績效體制中運作——這些體制是由規則、參與者與實踐所構成，並塑造了績效衡量與管理的方式——然而，鮮少有研究探討這些體制如何促成或阻礙公部門組織重新設計其績效衡量（PM）系統的嘗試。本研究旨在彌補此一空白，透過發展一個圍繞著「鎖定機制」概念所建構的分析框架，該框架提供了一種結構化的方式，用以識別阻礙公部門績效衡量（PM）系統重新設計的規範性、物質性、行為性與論述性障礙。接著，本研究將此框架應用於規範丹麥就業服務的績效體制，其中市政就業中心正積極嘗試重新設計其績效衡量（PM）系統，以期更好地反映客戶經驗與價值創造。我們的研究結果顯示，重新設計的努力受到在三個不同層面運作的鎖定機制所限制：在制度脈絡層面，這些機制將向上問責制鞏固為績效衡量（PM）的主要目的；在績效參與者層面，這些機制維持了被衡量者與衡量者之間僵化的界線；而在績效干預措施層面，這些機制維持了績效資訊的由上而下使用，限制了更多由下而上的方法。"
   },
   {
    "doi": "10.1080/10967494.2026.2709450",
@@ -3966,16 +4008,34 @@
    "abstract_zh": ""
   },
   {
-   "doi": "10.1080/10967494.2026.2710326",
-   "title": "Differentiating distributed leadership: introducing distributed professional development leadership and its motivational consequences",
+   "doi": "10.1080/14719037.2026.2737343",
+   "title": "Executive agencies in developing countries: the case of the parastatal organizations in Suriname",
    "abstract": "",
    "authors": [
-    "Clara Siboni Lund"
+    "Sandra van Thiel"
    ],
-   "journal": "International Public Management Journal",
-   "url": "https://doi.org/10.1080/10967494.2026.2710326",
-   "date": "2026-09-22",
-   "first_seen": "2026-09-22",
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2737343",
+   "date": "2026-09-23",
+   "first_seen": "2026-09-24",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.1080/14719037.2026.2728027",
+   "title": "Design anthropology for transforming power relations in societal transitions",
+   "abstract": "",
+   "authors": [
+    "Gijs van Leeuwen",
+    "Abhigyan Singh",
+    "Bregje F. van Eekelen",
+    "David Keyson"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2728027",
+   "date": "2026-09-23",
+   "first_seen": "2026-09-24",
    "score": 0.0,
    "matched": [],
    "abstract_zh": ""
