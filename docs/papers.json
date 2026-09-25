@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-24T00:07:13+00:00",
+ "updated": "2026-09-25T00:07:53+00:00",
  "papers": [
   {
    "doi": "10.1080/10967494.2026.2706796",
@@ -2662,6 +2662,19 @@
    "abstract_zh": "執行能源轉型任務的地方政府仰賴契約人員來彌補能力與專業知識的缺口，這引發了對依賴性與知識流失的擔憂。本研究借鑒資源依賴理論以及客戶-顧問關係文獻，發展出一個框架，以呈現外部依賴與內部能力發展之間的循環回饋。對六個荷蘭地方政府進行的十五次訪談顯示，人力短缺與臨時性補助驅動了契約人員的聘用，而短期契約與有限的知識移轉則加劇了依賴性。面臨相似限制的地方政府，透過知識整合、治理機制與關係動態而呈現分歧。本研究藉由將依賴性概念化為一個過程而非結構性結果，推進了公共行政學術。"
   },
   {
+   "doi": "10.1111/puar.70183",
+   "title": "Celebrating 85 Years",
+   "abstract": "",
+   "authors": [],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70183",
+   "date": "2026-08-28",
+   "first_seen": "2026-08-29",
+   "score": 2.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
    "doi": "10.1111/puar.70182",
    "title": "American Society for Public Administration Code of Ethics",
    "abstract": "",
@@ -2686,19 +2699,6 @@
    "score": 2.0,
    "matched": [],
    "abstract_zh": "美國公共行政學會 (ASPA) 是一個無黨派組織，其成員包含來自美國及海外、超過九千名的學者、行政人員、公共管理者及學生。ASPA 致力於提升在"
-  },
-  {
-   "doi": "10.1111/puar.70183",
-   "title": "Celebrating 85 Years",
-   "abstract": "",
-   "authors": [],
-   "journal": "Public Administration Review",
-   "url": "https://doi.org/10.1111/puar.70183",
-   "date": "2026-08-28",
-   "first_seen": "2026-08-29",
-   "score": 2.0,
-   "matched": [],
-   "abstract_zh": ""
   },
   {
    "doi": "10.1111/puar.70196",
@@ -2860,6 +2860,23 @@
    "score": 2.0,
    "matched": [],
    "abstract_zh": "本書作者傑‧愛德華‧凱洛（J. Edward Kellough）博士，曾擔任筆者於喬治亞大學博士學位論文委員會之主席。"
+  },
+  {
+   "doi": "10.1111/puar.70211",
+   "title": "Small Polity, Hybrid Administration, International Research: Public Administration in Switzerland",
+   "abstract": "Switzerland presents a most peculiar political system whose institutional idiosyncrasies shape not only the practice of public administration but also the scientific study thereof. This country study presents the development and state of both public administration as practice and Public Administration as a scholarly discipline. It argues that both are largely determined by three properties of Switzerland as a political context and field of study: Semi‐direct democracy turns the administration into an important political actor. The “Milizsystem” (Switzerland's tradition of non‐professionalized, part‐time public engagement) enables hybrid careers between the public and private sectors and produces a structurally weaker political class that the professional administration regularly outmaneuvers. And the small size of the country has pushed the discipline toward international orientation while simultaneously entangling researchers with their object of study. Taken together, the Swiss case illustrates how political institutions do not merely constrain public administration but fundamentally constitute it.",
+   "authors": [
+    "Fritz Sager",
+    "Adrian Ritz",
+    "Johanna Hornung"
+   ],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70211",
+   "date": "2026-09-24",
+   "first_seen": "2026-09-25",
+   "score": 2.0,
+   "matched": [],
+   "abstract_zh": "瑞士擁有一個極為獨特的政治體制，其制度上的特殊性不僅塑造了公共行政的實踐，也影響了對其進行的學術研究。本國別研究闡述了作為實踐的公共行政以及作為學術學科的公共行政學的發展與現況。本文認為，兩者主要由瑞士作為政治脈絡與研究領域的三個特點所決定：半直接民主使行政機關成為重要的政治參與者；「Milizsystem」（瑞士非專業化、兼職的公共參與傳統）促成了公共部門與私人部門之間的混合型職涯，並產生了結構上較弱勢的政治階層，該階層常被專業行政機關所勝過；此外，國家幅員小推動該學科走向國際化，同時也使研究者與其研究對象緊密連結。總而言之，瑞士的案例說明了政治制度不僅僅是限制公共行政，而是從根本上構成它。"
   },
   {
    "doi": "10.1080/14719037.2026.2685252",
@@ -4010,7 +4027,7 @@
   {
    "doi": "10.1080/14719037.2026.2737343",
    "title": "Executive agencies in developing countries: the case of the parastatal organizations in Suriname",
-   "abstract": "",
+   "abstract": "This article compares agencification in developing and OECD countries, illustrated by the case of Suriname. Findings show that developing countries prefer statutory bodies and SOEs. Motives for establishment are economic development and the provision of collective goods; typical motives from OECD countries are not present. Patronage plays a major role, and governance and accountability relations are generally weak. Based on these findings, existing agencification theory should include motives that are specific to developing countries, such as pressure from international organizations; pay attention to colonial legacies and acknowledge that agencification in developing countries is much less driven by NPM.",
    "authors": [
     "Sandra van Thiel"
    ],
@@ -4025,7 +4042,7 @@
   {
    "doi": "10.1080/14719037.2026.2728027",
    "title": "Design anthropology for transforming power relations in societal transitions",
-   "abstract": "",
+   "abstract": "This article makes the argument that design can serve the purpose of transforming power relations in societal transitions. The article discusses diverse theories of power and their relationship to design, whereby it considers aspects of agency, relationality and scale. Using a design anthropology approach, a theoretical framework is defined for the empirical study of power. The framework is operationalized in a local energy transition project in Amsterdam Southeast. In this empirical study, we describe three power relations that were encountered, the design interventions performed, and their transformative outcomes. Finally, the broader implications for design in societal transitions are discussed.",
    "authors": [
     "Gijs van Leeuwen",
     "Abhigyan Singh",
@@ -4036,6 +4053,35 @@
    "url": "https://doi.org/10.1080/14719037.2026.2728027",
    "date": "2026-09-23",
    "first_seen": "2026-09-24",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "本文主張設計在社會轉型中能發揮轉化權力關係的作用。本文探討多元的權力理論及其與設計的關係，其中考量了能動性、關係性與尺度的面向。運用設計人類學取徑，本文界定了一個用於權力實證研究的理論框架。此框架被操作化於阿姆斯特丹東南區的一個地方能源轉型計畫中。在此實證研究中，我們描述了所遭遇的三種權力關係、所執行的設計介入及其轉化性成果。最後，本文討論了設計在社會轉型中更廣泛的意涵。"
+  },
+  {
+   "doi": "10.1080/14719037.2026.2738908",
+   "title": "Psychological safety, motivations and change-oriented organizational citizenship behaviour in emergency managers",
+   "abstract": "",
+   "authors": [
+    "Hui Yin",
+    "Ziqiang Han"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2738908",
+   "date": "2026-09-24",
+   "first_seen": "2026-09-25",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.1080/10967494.2026.2732480",
+   "title": "Announcing the 2024 and 2025 best article awards",
+   "abstract": "",
+   "authors": [],
+   "journal": "International Public Management Journal",
+   "url": "https://doi.org/10.1080/10967494.2026.2732480",
+   "date": "2026-09-24",
+   "first_seen": "2026-09-25",
    "score": 0.0,
    "matched": [],
    "abstract_zh": ""
