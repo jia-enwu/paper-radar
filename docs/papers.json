@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-25T00:07:53+00:00",
+ "updated": "2026-09-26T00:15:46+00:00",
  "papers": [
   {
    "doi": "10.1080/10967494.2026.2706796",
@@ -119,6 +119,26 @@
    "abstract_zh": "街頭官僚常缺乏工作場域清晰度，此乃導致較高離職率的原因。本研究援引街頭官僚理論與工作要求-資源模型，探討組織透明度與角色衝突（此為工作場域清晰度的兩個面向）如何影響中國非營利組織社工人員的離職意圖。運用「中國社會工作縱貫研究」的多層次資料，我們發現組織透明度降低離職意圖，而角色衝突則提高離職意圖。價值契合中介這兩種關係，而工作自主性則透過增強組織透明度的益處並緩衝角色衝突的危害來調節這些關係。研究結果驗證了街頭官僚理論在非營利場域的延伸性，並為在複雜治理環境中提升勞動力穩定性提供了具體可行的見解。"
   },
   {
+   "doi": "10.1111/puar.70195",
+   "title": "The DOGE Experiment: Algorithmic Governance, Operational Capture, and the Case for Hybrid Intelligence",
+   "abstract": "This study examines the Department of Government Efficiency (DOGE) as a case of algorithmic governance whose stated purpose, improving federal efficiency, diverged systematically from its operational effect: enabling unprecedented private‐sector access to federal data systems while dismantling the oversight and civil‐service infrastructure that constrains such access. Drawing on state capacity, bounded rationality, organizational learning, and public value theory, the analysis demonstrates that the conventional efficiency‐failure reading, though correct on its own terms, obscures what made DOGE structurally distinct from the Grace Commission, the National Performance Review, the President's Management Agenda, and Program Assessment Rating Tool, and the Government Performance and Results Modernization Act. The article advances hybrid intelligence, structured human‐AI collaboration with protected institutional capacity, as a paradigm resisting both reform failure and algorithmic capture. International implementations operationalize it. The analysis contributes a stated‐versus‐operational‐goal analytic to the AI governance literature and identifies legislative grounding as a precondition for durable reform.",
+   "authors": [
+    "Haris Alibašić"
+   ],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70195",
+   "date": "2026-09-25",
+   "first_seen": "2026-09-26",
+   "score": 52.0,
+   "matched": [
+    "ai",
+    "algorithmic governance",
+    "algorithm",
+    "legislative"
+   ],
+   "abstract_zh": "本研究檢視政府效率部 (DOGE) 作為演算法治理的一個案例，其宣稱的目標——提升聯邦效率——系統性地偏離了其實際運作效果：促成前所未有的私部門存取聯邦資料系統，同時瓦解了限制此類存取的監督與文官體系基礎設施。借鑒國家能力、有限理性、組織學習和公共價值理論，本分析指出，傳統的效率失靈解讀，儘管其本身正確，卻掩蓋了DOGE在結構上與葛瑞斯委員會 (Grace Commission)、國家績效評估 (National Performance Review)、總統管理議程 (President's Management Agenda)、計畫評估評級工具 (Program Assessment Rating Tool) 以及政府績效與成果現代化法案 (Government Performance and Results Modernization Act) 的根本差異。本文提出混合智慧——一種具備受保護之制度能力的結構化人機協作——作為一種能夠抵禦改革失敗和演算法劫持的典範。國際實踐已將其付諸實踐。本分析貢獻了一種「宣稱目標與實際運作目標」的分析框架至人工智慧治理文獻，並將立法基礎識別為持久改革的先決條件。"
+  },
+  {
    "doi": "10.1111/padm.70071",
    "title": "AI Public Value Creation: Data Encoding, Aggregation, and Algorithmic Computation",
    "abstract": "AI systems in public administration challenge the premise that value creation arises from managers' strategic mediation among the vertices of Moore's strategic triangle: Public value, legitimacy, and operational capacity. AI imposes new logics that reshape vertices and their interaction dynamics. Critically, these transformations become entrenched through what we term algorithmic public value lock‐in: the crystallization of contingent value definitions into durable technical infrastructures resistant to democratic revision. Examining Peru's SISFOH, an algorithmic welfare‐targeting system, we reveal three interconnected shifts: data management recasts legitimacy as computational objectivity; standardized classifications redefine public value in narrow, quantifiable terms; and algorithmic processing transforms operational capacity from adaptive discretion to rigid execution. Together, these shifts produce lock‐in effects that potentially insulate public value creation from political negotiation.",
@@ -197,6 +217,27 @@
     "street-level"
    ],
    "abstract_zh": "本研究透過單一案例、混合方法研究設計，探討宗教與國家之間的交會點，並聚焦於以色列國立小學的校長，這些校長負責執行國家立法中內含的宗教指令。我們提問：在何種條件下，街頭官僚在政策執行中的裁量權能提升社會滿意度與凝聚力？我們主張，這種裁量權在以下條件下能提升社會滿意度與凝聚力：(1) 當國家政策明確或隱含地模糊且具彈性時；(2) 當官方政策在社會群體間存在爭議時；以及 (3) 當街頭官僚選擇回應服務對象的偏好時。此外，我們認為，當管理者的個人意識形態與服務對象的態度和期望一致時，公眾對所提供的公共服務的滿意度會提升。本研究闡明了校長在執行宗教政策方面如何行使顯著的裁量權，進而透過強調街頭官僚在處理政策模糊性並調解社會緊張關係中的角色，對更廣泛的公共行政文獻有所貢獻。"
+  },
+  {
+   "doi": "10.1111/puar.70206",
+   "title": "What Does Representation Represent? Disaggregating Demographic and Behavioral Components",
+   "abstract": "Representative bureaucracy research has often linked demographic representation directly to favorable outcomes, inferring active representation post hoc while rarely separating the behavioral component presumed to accompany such associations from the representation variable itself. This study addresses such gap by drawing on gender differences in leadership literature to operationalize supportive leadership as one behavioral component associated with female supervisory representation and examine the constituent elements of what has been interpreted as a representation effect. Using gender pay inequality across US federal agencies as the empirical context, the findings show that while both female supervisory representation and supportive leadership are each positively associated with nonsupervisory salaries when examined separately, the association attributed to representation loses significance once both are modeled together. These findings do not suggest that representation is unimportant; rather, they indicate that prior representation effects may partially reflect a behavioral component that has not been separately identified.",
+   "authors": [
+    "Rachel (Soyeon) Cho"
+   ],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70206",
+   "date": "2026-09-25",
+   "first_seen": "2026-09-26",
+   "score": 37.0,
+   "matched": [
+    "representative bureaucracy",
+    "active representation",
+    "representation",
+    "gender",
+    "bureaucra"
+   ],
+   "abstract_zh": "代表性官僚體制研究經常將人口統計學上的代表性與有利的結果直接連結，事後推斷積極代表，卻鮮少將此類關聯所預設的行為成分與代表性變數本身區分開來。本研究旨在彌補此一落差，借鑒領導力文獻中性別差異的觀點，將支持型領導操作化為與女性主管代表性相關的一種行為成分，並檢視被解釋為代表性效應的構成要素。以美國聯邦機構的性別薪資不平等為實證背景，研究結果顯示，雖然女性主管代表性與支持型領導在單獨檢視時，各自都與非主管職薪資呈正相關，但一旦兩者同時納入模型，歸因於代表性的關聯便失去統計顯著性。這些發現並非暗示代表性不重要；相反地，它們指出先前的代表性效應可能部分反映了尚未被單獨識別的行為成分。"
   },
   {
    "doi": "10.1177/0734371x261454322",
@@ -656,6 +697,27 @@
    "abstract_zh": "面對公民多元且複雜的需求，政府持續尋求提升其回應能力的方法。形象地說，公民的需求猶如鎖，而政府需要鑰匙來開啟這些鎖。人工智慧 (AI) 是一把創新的新式鑰匙，為開啟高公民滿意度之門提供了一個嶄新的典範。本研究立基於政府回應性理論，採用 2 × 3 受試者間問卷實驗設計，探討政府回應方式 (傳統回應、AI 輔助回應) 與公民需求類型 (諮詢、抱怨/求助、建議) 對公民滿意度的影響。\n\n研究結果顯示，相較於傳統方式，AI 輔助的政府回應顯著提升公民滿意度。在需求類型中，諮詢獲得最高的滿意度，而建議則最低。此外，滿意度水準顯著受到回應方式與需求類型之間交互作用效果的影響。感知公平性中介了政府回應與公民滿意度之間的關係，而公民參與經驗則具有調節作用。本研究從政府回應的角度，為提升公民滿意度提供了新的見解。它揭示了 AI 輔助政府回應的內容依賴特性，有助於政府制定獨特的 AI 回應策略，並增強與公民的數位互動。"
   },
   {
+   "doi": "10.1111/padm.70097",
+   "title": "A Replication of “It is Not Merely About the Content: How Rules Are Communicated Matters to Administrative Burden”",
+   "abstract": "This study replicates prior research to examine how rule communication forms shape administrative burden, while also extending their research by investigating how artificial intelligence (AI) services moderate this relationship. AI services are understood to perform two distinct functions: the labeling function, where chatbots output policy rules directly from databases in response to user queries without further processing, and the optimization function, where chatbots collect, analyze, and distill rule information to present users with simplified, prioritized key points. In Study 1, the original research is replicated in the context of natural disaster relief applications in China. The findings demonstrate that bureaucratic language raises learning and compliance costs, stress, and autonomy loss, while complex information structures also increase learning costs, compliance costs, and autonomy loss. These results confirm that rule communication shapes administrative burden across policies, countries, and languages. However, differences emerge compared to the original study, in which bureaucratic language induced stigma and information complexity had no effect on compliance or autonomy loss, potentially due to contextual factors such as the complexity of Chinese logographic writing. Building on this, the extension experiment in Study 2 demonstrates that AI services reduce administrative burden. Notably, and contrary to expectations, the labeling function reduces learning, compliance, and psychological costs, while the optimization function achieves even greater reductions across all dimensions. Collectively, these findings provide empirical evidence supporting the use of AI to improve rule communication and ease administrative burden.",
+   "authors": [
+    "Qi Bian",
+    "Luning Xin",
+    "Ben Ma"
+   ],
+   "journal": "Public Administration",
+   "url": "https://doi.org/10.1111/padm.70097",
+   "date": "2026-09-25",
+   "first_seen": "2026-09-26",
+   "score": 25.0,
+   "matched": [
+    "artificial intelligence",
+    "ai",
+    "bureaucra"
+   ],
+   "abstract_zh": "本研究複製了先前的研究，旨在檢視規則溝通形式如何形塑行政負擔，同時透過探究人工智慧（AI）服務如何調節此關係，進一步擴展其研究。人工智慧服務被認為具有兩種截然不同的功能：一是標籤功能，即聊天機器人直接從資料庫中輸出政策規則以回應使用者查詢，無需進一步處理；二是優化功能，即聊天機器人收集、分析並提煉規則資訊，以簡化、優先排序的重點呈現給使用者。在研究一中，本研究在中國自然災害救助申請的背景下，複製了原始研究。研究結果顯示，官僚語言會增加學習成本、遵循成本、壓力和自主性喪失，而複雜的資訊結構也會增加學習成本、遵循成本和自主性喪失。這些結果證實了規則溝通形塑了跨政策、國家和語言的行政負擔。然而，與原始研究相比，本研究出現了差異，原始研究中官僚語言會導致污名，且資訊複雜性對遵循或自主性喪失沒有影響，這可能歸因於情境因素，例如中文表意文字的複雜性。承此，研究二的擴展實驗證明人工智慧服務能減輕行政負擔。值得注意的是，且出乎意料的是，標籤功能降低了學習成本、遵循成本和心理成本，而優化功能在所有維度上實現了更大的減輕。總體而言，這些發現提供了實證證據，支持利用人工智慧來改善規則溝通並減輕行政負擔。"
+  },
+  {
    "doi": "10.1080/10967494.2026.2684632",
    "title": "Does bureaucrat bashing diminish the performance of public servants? Evidence from a survey experiment in The Netherlands",
    "abstract": "Bureaucrat bashing—the negative views expressed about public servants—is a widespread phenomenon. Does this bureaucrat bashing diminish the performance of public servants, as theoretically expected? We answer this question with a preregistered, original survey experiment among Dutch public servants. Our main results show that bureaucrat bashing does not significantly lower self-reported overall performance. Additional analyses confirm our main results. We discuss how our findings provide valuable insights into bureaucrat bashing and its possible effects in the public sector.",
@@ -713,6 +775,27 @@
     "conjoint"
    ],
    "abstract_zh": "民眾普遍偏好在人口統計特徵上與其相似的公務員，然而，研究亦指出這種對象徵性代表的偏好可能分佈不均，並受個人生活經驗的形塑。在此背景下，我們探討：民眾在何種情境下會表達對象徵性代表的偏好？本研究以政府支持的心理健康服務作為實證案例，進行了一項聯合實驗，其中呈現的服務提供者資訊格式參考了真實世界的清單。我們發現，對象徵性代表的偏好對於經歷過顯著邊緣化的社會群體——女性、非二元性別受訪者以及有色人種——最為明顯。同時，描述服務提供組織脈絡的因素——等候時間與服務提供方式——似乎未能持續調節對象徵性代表的偏好。這些結果突顯了宏觀因素（例如系統性種族主義和性別歧視）在形塑個人對官僚代表偏好方面的重要性。"
+  },
+  {
+   "doi": "10.1080/14719037.2026.2738908",
+   "title": "Psychological safety, motivations and change-oriented organizational citizenship behaviour in emergency managers",
+   "abstract": "Fostering change-oriented organizational citizenship behaviour (CO-OCB) is critical for resilience-building in the public sector, yet the psychological mechanisms driving such behaviour among emergency managers remain underexplored. Drawing on a survey of 869 public employees from emergency management agencies in China, this study examines how psychological safety, creative self-efficacy (CSE), and public service motivation (PSM) influence CO-OCB and tests the moderating role of work autonomy. Results reveal that psychological safety and PSM positively predict CO-OCB, whereas CSE unexpectedly suppresses the effect of psychological safety. Notably, work autonomy moderates the impacts of CSE and PSM on CO-OCB. These findings reveal how psychological safety shapes change-oriented behaviour through distinct but interrelated competence-related and motivational mechanisms within bureaucratic contexts. This study advances public-sector innovation theory by uncovering the nuanced role of psychological safety and by emphasizing the importance of public service motivation in enhancing organizational resilience during institutional reforms and crises.",
+   "authors": [
+    "Hui Yin",
+    "Ziqiang Han"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2738908",
+   "date": "2026-09-24",
+   "first_seen": "2026-09-25",
+   "score": 22.0,
+   "matched": [
+    "bureaucra",
+    "public employee",
+    "public service motivation",
+    "psm"
+   ],
+   "abstract_zh": "促進變革導向組織公民行為 (CO-OCB) 對於公共部門的韌性建立至關重要，然而，在緊急應變管理人員中，驅動此類行為的心理機制仍未被充分探討。本研究基於對中國869名緊急應變管理機構公務員的調查，探討心理安全感、創造性自我效能 (CSE) 和公共服務動機 (PSM) 如何影響變革導向組織公民行為 (CO-OCB)，並檢驗工作自主性的調節作用。結果顯示，心理安全感和公共服務動機 (PSM) 正向預測變革導向組織公民行為 (CO-OCB)，而創造性自我效能 (CSE) 卻意外地抑制了心理安全感的影響。值得注意的是，工作自主性調節了創造性自我效能 (CSE) 和公共服務動機 (PSM) 對變革導向組織公民行為 (CO-OCB) 的影響。這些研究結果揭示了心理安全感如何在官僚體制背景下，透過獨特但相互關聯的能力相關和動機機制塑造變革導向行為。本研究透過揭示心理安全感的細緻作用，並強調公共服務動機在體制改革和危機期間提升組織韌性的重要性，進一步推進了公共部門創新理論。"
   },
   {
    "doi": "10.1080/10967494.2026.2691395",
@@ -890,6 +973,29 @@
     "minority"
    ],
    "abstract_zh": "社會公平預算日益受到關注，然而研究多半著重於支出，卻忽略了歲入公平性。本研究旨在探討少數族群人口規模與地方政府對剝削性歲入的依賴程度之間的關係，以及少數族群政治代表性是否調節此關係，以充實相關文獻。本研究援引種族威脅理論與政治代表性理論，分析了2011年至2019年間佛羅里達州66個縣的資料。結果顯示，少數族群人口規模較大的縣更嚴重依賴剝削性歲入，但當少數族群政治代表性增加時，此關聯性會降低。這些發現突顯了少數族群領導力如何能調節不成比例地加重少數族群社區負擔的財政措施。更廣泛地來說，本研究透過將焦點從支出分配轉向歲入產生，推進了社會公平預算的框架。"
+  },
+  {
+   "doi": "10.1111/puar.70205",
+   "title": "Skills, Not Just Will: Experimental Evidence From Uganda on Transparency in Public Procurement",
+   "abstract": "Governments are usually the largest purchasers of goods and services, creating significant opportunities for corruption. We study whether offering training and technical assistance to procurement officials in 50 Ugandan districts prompted them to publish procurement actions on an online public portal, as legally required. Among districts that received the training and technical assistance program, we randomized whether procurement officials received information in advance about their eligibility to earn a public award for adherence to these transparency standards. We use national administrative data across multiple financial years and 134 district governments to evaluate impacts. The training and technical assistance program increased the number and value of procurement actions uploaded several‐fold, while award eligibility did not have similarly large effects. These results suggest that motivation problems may be overemphasized in the fight against corruption. Building capacity in accounting and transparency could provide effective guardrails against corruption.",
+   "authors": [
+    "Mark T. Buntaine",
+    "Alex Bagabo",
+    "Paul Bukuluki",
+    "Brigham Daniels",
+    "Gerald Padde Auku"
+   ],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70205",
+   "date": "2026-09-25",
+   "first_seen": "2026-09-26",
+   "score": 19.0,
+   "matched": [
+    "corruption",
+    "transparency",
+    "administrative data"
+   ],
+   "abstract_zh": "政府通常是貨品與勞務的最大採購者，滋生了嚴重的貪腐機會。我們研究向烏干達50個行政區的採購官員提供培訓與技術協助，是否促使他們依法律規定，在線上公共入口網站發布採購資訊。在接受培訓與技術協助計畫的行政區中，我們隨機分配採購官員是否預先收到資訊，告知他們若遵守這些透明度標準，將有資格獲得公開獎勵。我們使用橫跨多個會計年度的國家行政資料，以及134個行政區政府的資料來評估其影響。該培訓與技術協助計畫使上傳的採購資訊數量與價值增加了數倍，而獎勵資格並未產生同樣顯著的影響。這些結果顯示，在反貪腐工作中，動機問題可能被過度強調了。提升會計與透明度方面的能力，可以提供有效的防弊機制。"
   },
   {
    "doi": "10.1080/10967494.2026.2696851",
@@ -1483,6 +1589,30 @@
     "public employee"
    ],
    "abstract_zh": "公務人員日益面臨動盪的挑戰，在這些挑戰中，諸如預見、規劃和尋求共識等原則往往力有未逮。本研究檢視拼湊（bricolage）作為一種穩健的治理策略，並將動盪概念化為公共領導與拼湊行為之間關係的情境調節變項。根據對368名德國公務人員的調查數據，研究結果顯示，在動盪情境下，拼湊行為較少被實踐。儘管遵循規則的領導方式，出乎意料地，隨著情境變得更加動盪，與拼湊行為的關係變得更強且更正向，但問責型領導與拼湊行為之間的正向關聯則顯著減弱。令人驚訝的是，網絡治理型領導的重要性並未增加。本研究對公共行政研究的貢獻在於，進一步將拼湊概念化並探討其作為回應動盪的微觀層面行為能力，將動盪操作化為一種分級的情境壓力源，並證明動盪情境構成了公共領導實踐的關鍵邊界條件。"
+  },
+  {
+   "doi": "10.1080/14719037.2026.2739599",
+   "title": "Role strain and job crafting in China’s digitalizing street-level bureaucracy",
+   "abstract": "",
+   "authors": [
+    "Fan Yang",
+    "Mingyang Yang",
+    "Shihan Lu",
+    "Yiyan Zhou",
+    "Junyao Zheng",
+    "Wenjie Li",
+    "Shaowei Liu"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2739599",
+   "date": "2026-09-25",
+   "first_seen": "2026-09-26",
+   "score": 10.0,
+   "matched": [
+    "street-level",
+    "bureaucra"
+   ],
+   "abstract_zh": ""
   },
   {
    "doi": "10.1111/padm.70072",
@@ -2675,19 +2805,6 @@
    "abstract_zh": ""
   },
   {
-   "doi": "10.1111/puar.70182",
-   "title": "American Society for Public Administration Code of Ethics",
-   "abstract": "",
-   "authors": [],
-   "journal": "Public Administration Review",
-   "url": "https://doi.org/10.1111/puar.70182",
-   "date": "2026-08-28",
-   "first_seen": "2026-08-29",
-   "score": 2.0,
-   "matched": [],
-   "abstract_zh": ""
-  },
-  {
    "doi": "10.1111/puar.70194",
    "title": "Issue Information",
    "abstract": "The American Society for Public Administration (ASPA) is a nonpartisan organization of more than 9,000 scholars, administrators, public managers, and students in the United States, and abroad.ASPA is committed to the advancement of excellence in",
@@ -2699,6 +2816,19 @@
    "score": 2.0,
    "matched": [],
    "abstract_zh": "美國公共行政學會 (ASPA) 是一個無黨派組織，其成員包含來自美國及海外、超過九千名的學者、行政人員、公共管理者及學生。ASPA 致力於提升在"
+  },
+  {
+   "doi": "10.1111/puar.70182",
+   "title": "American Society for Public Administration Code of Ethics",
+   "abstract": "",
+   "authors": [],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70182",
+   "date": "2026-08-28",
+   "first_seen": "2026-08-29",
+   "score": 2.0,
+   "matched": [],
+   "abstract_zh": ""
   },
   {
    "doi": "10.1111/puar.70196",
@@ -2750,8 +2880,8 @@
   },
   {
    "doi": "10.1093/jopart/muag029",
-   "title": "Institutional Conversion and Digital Transformation in Local Governments: A Longitudinal Analysis of Trajectories",
-   "abstract": "This article asks a central question in digital government research: why do local governments operating under similar institutional conditions follow sharply different digital transformation trajectories over time? Drawing on theories of gradual institutional change, the study conceptualizes digital transformation not as a discrete adoption outcome, but as a process of institutional conversion through which technological capacity is translated into sustained digital service provision. Information governance is theorized as the key conditioning mechanism linking technological resources to durable organizational outcomes. The analysis combines longitudinal panel models, fixed-effects estimators, and trajectory-based clustering using a panel of all Brazilian municipalities (MUNIC/IBGE; N = 5,569) across seven waves between 2004 and 2024. Results show that increases in technological capacity are associated with subsequent gains in digital services, but these effects are gradual and conditional. Information governance significantly shapes how municipalities mobilize and stabilize technological resources over time, while interaction models reveal non-linear and diminishing returns consistent with institutional coordination limits. Trajectory analyses identify four distinct patterns of digital transformation, ranging from ‘institutionalized pioneers’ to ‘persistent stagnation’, demonstrating that digital development unfolds through path-dependent and institutionally anchored trajectories rather than through simple convergence. The article contributes to public administration research in three ways: provides rare longitudinal evidence on local digital transformation over two decades; integrates institutional change theory into digital government research by conceptualizing governance as a mechanism of institutional conversion; and advances a trajectory-based explanation of digital transformation that shifts attention from episodic technological adoption to cumulative institutional processes shaping long-run administrative performance.",
+   "title": "Institutional conversion and digital transformation in local governments: a longitudinal analysis of trajectories",
+   "abstract": "This article asks a central question in digital government research: why do local governments operating under similar institutional conditions follow sharply different digital transformation trajectories over time? Drawing on theories of gradual institutional change, the study conceptualizes digital transformation not as a discrete adoption outcome, but as a process of institutional conversion through which technological capacity is translated into sustained digital service provision. Information governance is theorized as the key conditioning mechanism linking technological resources to durable organizational outcomes. The analysis combines longitudinal panel models, fixed-effects estimators, and trajectory-based clustering using a panel of all Brazilian municipalities (MUNIC/IBGE; N = 5,569) across seven waves between 2004 and 2024. Results show that increases in technological capacity are associated with subsequent gains in digital services, but these effects are gradual and conditional. Information governance significantly shapes how municipalities mobilize and stabilize technological resources over time, while interaction models reveal nonlinear and diminishing returns consistent with institutional coordination limits. Trajectory analyses identify four distinct patterns of digital transformation, ranging from “institutionalized pioneers” to “persistent stagnation,” demonstrating that digital development unfolds through path-dependent and institutionally anchored trajectories rather than through simple convergence. The article contributes to public administration research in three ways: provides rare longitudinal evidence on local digital transformation over two decades; integrates institutional change theory into digital government research by conceptualizing governance as a mechanism of institutional conversion; and advances a trajectory-based explanation of digital transformation that shifts attention from episodic technological adoption to cumulative institutional processes shaping long-run administrative performance.",
    "authors": [
     "Adalmir de Oliveira Gomes"
    ],
@@ -2877,6 +3007,19 @@
    "score": 2.0,
    "matched": [],
    "abstract_zh": "瑞士擁有一個極為獨特的政治體制，其制度上的特殊性不僅塑造了公共行政的實踐，也影響了對其進行的學術研究。本國別研究闡述了作為實踐的公共行政以及作為學術學科的公共行政學的發展與現況。本文認為，兩者主要由瑞士作為政治脈絡與研究領域的三個特點所決定：半直接民主使行政機關成為重要的政治參與者；「Milizsystem」（瑞士非專業化、兼職的公共參與傳統）促成了公共部門與私人部門之間的混合型職涯，並產生了結構上較弱勢的政治階層，該階層常被專業行政機關所勝過；此外，國家幅員小推動該學科走向國際化，同時也使研究者與其研究對象緊密連結。總而言之，瑞士的案例說明了政治制度不僅僅是限制公共行政，而是從根本上構成它。"
+  },
+  {
+   "doi": "10.1111/puar.70212",
+   "title": "Correction to “Celebrating 86 Years”",
+   "abstract": "",
+   "authors": [],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70212",
+   "date": "2026-09-25",
+   "first_seen": "2026-09-26",
+   "score": 2.0,
+   "matched": [],
+   "abstract_zh": ""
   },
   {
    "doi": "10.1080/14719037.2026.2685252",
@@ -4037,7 +4180,7 @@
    "first_seen": "2026-09-24",
    "score": 0.0,
    "matched": [],
-   "abstract_zh": ""
+   "abstract_zh": "本文比較開發中國家與OECD國家的機構化現象，並以蘇利南為例。研究結果顯示，開發中國家偏好法定機構與國營企業。其設立動機為經濟發展與提供公共財；OECD國家的典型動機並未出現。恩庇侍從扮演重要角色，且治理與課責關係普遍薄弱。根據這些發現，現有的機構化理論應納入開發中國家特有的動機，例如來自國際組織的壓力；應關注殖民遺緒，並承認開發中國家的機構化較少受到新公共管理 (NPM) 的驅動。"
   },
   {
    "doi": "10.1080/14719037.2026.2728027",
@@ -4056,22 +4199,6 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "本文主張設計在社會轉型中能發揮轉化權力關係的作用。本文探討多元的權力理論及其與設計的關係，其中考量了能動性、關係性與尺度的面向。運用設計人類學取徑，本文界定了一個用於權力實證研究的理論框架。此框架被操作化於阿姆斯特丹東南區的一個地方能源轉型計畫中。在此實證研究中，我們描述了所遭遇的三種權力關係、所執行的設計介入及其轉化性成果。最後，本文討論了設計在社會轉型中更廣泛的意涵。"
-  },
-  {
-   "doi": "10.1080/14719037.2026.2738908",
-   "title": "Psychological safety, motivations and change-oriented organizational citizenship behaviour in emergency managers",
-   "abstract": "",
-   "authors": [
-    "Hui Yin",
-    "Ziqiang Han"
-   ],
-   "journal": "Public Management Review",
-   "url": "https://doi.org/10.1080/14719037.2026.2738908",
-   "date": "2026-09-24",
-   "first_seen": "2026-09-25",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": ""
   },
   {
    "doi": "10.1080/10967494.2026.2732480",
