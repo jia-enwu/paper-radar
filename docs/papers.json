@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-26T23:59:24+00:00",
+ "updated": "2026-09-28T00:07:03+00:00",
  "papers": [
   {
    "doi": "10.1080/10967494.2026.2706796",
@@ -424,6 +424,32 @@
     "ai"
    ],
    "abstract_zh": "人工智慧 (AI) 在公共組織中被採用作為一項轉型創新，然而，價值優先順序在人工智慧採用過程中如何展現仍有待深入探討。因此，本研究旨在探討：公共價值如何在公共組織的人工智慧採用過程中展現？我們針對一所荷蘭學術醫院放射科的人工智慧採用過程進行了一項質性個案研究，該研究是在做出採用決定之後且在實施之前進行的，並採用了民族誌田野調查、訪談和文件分析。我們的研究結果突顯了公共價值與人工智慧採用過程在從啟動階段到實施階段的轉變過程中如何取得平衡。我們發現公共價值與人工智慧採用過程之間存在一種遞迴關係。我們展示了工具性價值與內在價值之間的相互作用。我們突顯了由上而下的採用決策對於公共價值如何被感知的重要性，並且我們展示了公共組織在公私夥伴關係中確保公共價值受到保障的重要性。"
+  },
+  {
+   "doi": "10.1080/14719037.2026.2739599",
+   "title": "Role strain and job crafting in China’s digitalizing street-level bureaucracy",
+   "abstract": "This study draws on 87 in-depth interviews with frontline workers specializing in social assistance services in Shanghai, China to examine how digitalization reconfigures street-level bureaucracy. Integrating role theory and job crafting theory, we find that digital platforms could produce multiple forms of role strain: redundant labour and fragmented systems generate role overload; misalignment between algorithmic rules and clients’ lived circumstances triggers role conflict; and emotional exhaustion coupled with the erosion of occupational identity results in role alienation. To ensure effective grassroots operation, frontline workers proactively engage in task, relational, and cognitive crafting, sustaining professional resilience despite constrained autonomy. This study critiques digital systems design for overlooking frontline implicit knowledge and suggests that digitalization in the street-level bureaucracy is an ongoing process of socio-technical alignment. The findings indicate that the design-reality gap in digital welfare reform may be bridged by systematically incorporating frontline knowledge.",
+   "authors": [
+    "Fan Yang",
+    "Mingyang Yang",
+    "Shihan Lu",
+    "Yiyan Zhou",
+    "Junyao Zheng",
+    "Wenjie Li",
+    "Shaowei Liu"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2739599",
+   "date": "2026-09-25",
+   "first_seen": "2026-09-26",
+   "score": 31.0,
+   "matched": [
+    "algorithm",
+    "street-level",
+    "frontline worker",
+    "bureaucra"
+   ],
+   "abstract_zh": "本研究基於對中國上海87位專責社會救助服務的第一線工作者的深度訪談，旨在探討數位化如何重塑街頭層級官僚體制。整合角色理論與工作塑造理論，我們發現數位平台可能產生多種形式的角色壓力：冗餘勞動與碎片化系統導致角色負荷過重；演算法規則與服務對象生活處境之間的不一致引發角色衝突；以及情感耗竭與職業認同的侵蝕導致角色異化。為確保有效的基層運作，第一線工作者主動從事任務塑造、關係塑造與認知塑造，儘管自主性受限，仍維持專業韌性。本研究批判數位系統設計忽視了第一線的隱性知識，並指出街頭層級官僚體制中的數位化是一個持續的社會技術調適過程。研究結果顯示，數位福利改革中的設計與現實落差，可透過系統性地納入第一線知識來彌合。"
   },
   {
    "doi": "10.1093/jopart/muag020",
@@ -1589,30 +1615,6 @@
     "public employee"
    ],
    "abstract_zh": "公務人員日益面臨動盪的挑戰，在這些挑戰中，諸如預見、規劃和尋求共識等原則往往力有未逮。本研究檢視拼湊（bricolage）作為一種穩健的治理策略，並將動盪概念化為公共領導與拼湊行為之間關係的情境調節變項。根據對368名德國公務人員的調查數據，研究結果顯示，在動盪情境下，拼湊行為較少被實踐。儘管遵循規則的領導方式，出乎意料地，隨著情境變得更加動盪，與拼湊行為的關係變得更強且更正向，但問責型領導與拼湊行為之間的正向關聯則顯著減弱。令人驚訝的是，網絡治理型領導的重要性並未增加。本研究對公共行政研究的貢獻在於，進一步將拼湊概念化並探討其作為回應動盪的微觀層面行為能力，將動盪操作化為一種分級的情境壓力源，並證明動盪情境構成了公共領導實踐的關鍵邊界條件。"
-  },
-  {
-   "doi": "10.1080/14719037.2026.2739599",
-   "title": "Role strain and job crafting in China’s digitalizing street-level bureaucracy",
-   "abstract": "",
-   "authors": [
-    "Fan Yang",
-    "Mingyang Yang",
-    "Shihan Lu",
-    "Yiyan Zhou",
-    "Junyao Zheng",
-    "Wenjie Li",
-    "Shaowei Liu"
-   ],
-   "journal": "Public Management Review",
-   "url": "https://doi.org/10.1080/14719037.2026.2739599",
-   "date": "2026-09-25",
-   "first_seen": "2026-09-26",
-   "score": 10.0,
-   "matched": [
-    "street-level",
-    "bureaucra"
-   ],
-   "abstract_zh": ""
   },
   {
    "doi": "10.1111/padm.70072",
@@ -4209,6 +4211,40 @@
    "url": "https://doi.org/10.1080/10967494.2026.2732480",
    "date": "2026-09-24",
    "first_seen": "2026-09-25",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.1080/14719037.2026.2736656",
+   "title": "Towards a theory of public-sector organizations with targeted mandates: a case study of New Zealand’s Māori Health Authority",
+   "abstract": "",
+   "authors": [
+    "Adeel Akmal",
+    "Nataliya Podgorodnichenko",
+    "Robin Gauld",
+    "Tim Stokes"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2736656",
+   "date": "2026-09-27",
+   "first_seen": "2026-09-28",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.1080/14719037.2026.2738179",
+   "title": "Does level of government and messaging influence public evacuations? Examining public compliance and agency trust",
+   "abstract": "",
+   "authors": [
+    "Jaclyn Piatak",
+    "Colt Jensen"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2738179",
+   "date": "2026-09-27",
+   "first_seen": "2026-09-28",
    "score": 0.0,
    "matched": [],
    "abstract_zh": ""
