@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-28T00:07:03+00:00",
+ "updated": "2026-09-29T01:21:01+00:00",
  "papers": [
   {
    "doi": "10.1080/10967494.2026.2706796",
@@ -27,6 +27,28 @@
     "vignette"
    ],
    "abstract_zh": "既有研究已探討官員如何與人工智慧（AI）系統互動，但對於公民如何評估官僚裁量權相對於AI建議的正當性，則知之甚少。本研究發展一套理論框架，對比官僚專業主義與演算法理性這兩種相互競爭的權威來源，並檢視AI可解釋性的調節作用。本研究在中國的公職招募情境中，運用情境式問卷實驗（N = 1,150），發現民眾評估存在顯著的不對稱性。偏離AI建議會顯著降低感知正當性，而遵循建議則無顯著影響。當官員遵循AI建議時，AI可解釋性會適度提升正當性。探索性分析進一步指出，對AI的熟悉度越高，可能越會強化偏好演算法產出的傾向。研究結果顯示，AI為正當性判斷建立了一個新的基準，在演算法治理的背景下，為公務員的專業權威帶來新的挑戰。"
+  },
+  {
+   "doi": "10.1111/puar.70201",
+   "title": "Artificial Intelligence, Bureaucratic Discretion, and Democratic Administration",
+   "abstract": "Since the start of the COVID ‐19 pandemic, many countries have been using artificial intelligence ( AI ) to replace civil service personnel. We argue that this practice undermines core democratic values. Using the public values framework, we identify four clusters of values that are threatened when bureaucratic discretion is transferred to algorithms: accountability, fairness and equity, individual consideration, and reason‐giving. Each of these values is incompatible with how algorithms render decisions. Because algorithms produce outputs based on statistical regularities, they diffuse responsibility across multiple parties, fail to make accurate predictions about anomalous cases, and attenuate citizens' claims to individualized consideration. Thus, this article frames AI adoption as a constitutional question about which decisions can be automated, and which should remain under human control because they implicate democratic values. We propose a centaur model in which AI supports rather than replaces human officials, which can preserve efficiency while protecting democratic governance.",
+   "authors": [
+    "L. Jason Anastasopoulos"
+   ],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70201",
+   "date": "2026-09-28",
+   "first_seen": "2026-09-29",
+   "score": 95.0,
+   "matched": [
+    "artificial intelligence",
+    "ai",
+    "algorithm",
+    "bureaucratic discretion",
+    "discretion",
+    "bureaucra"
+   ],
+   "abstract_zh": "自新冠肺炎疫情爆發以來，許多國家已開始運用人工智慧 (AI) 取代公務人員。本文主張此做法損害了核心民主價值。運用公共價值框架，我們歸納出當行政裁量權轉移給演算法時會受到威脅的四類價值：課責性、公平與衡平、個別考量以及理由說明。這些價值皆與演算法做出決策的方式不相容。由於演算法是根據統計規律產生結果，它們將責任分散給多方，無法對異常案例做出準確預測，並削弱公民對個別考量的訴求。因此，本文將AI的採用視為一個憲政問題，探討哪些決策可以自動化，以及哪些決策應保留在人類控制之下，因為它們涉及民主價值。我們提出一個半人馬模式，在此模式中，AI是輔助而非取代人類公務員，這可以維持效率，同時維護民主治理。"
   },
   {
    "doi": "10.1093/jopart/muag018",
@@ -1617,6 +1639,24 @@
    "abstract_zh": "公務人員日益面臨動盪的挑戰，在這些挑戰中，諸如預見、規劃和尋求共識等原則往往力有未逮。本研究檢視拼湊（bricolage）作為一種穩健的治理策略，並將動盪概念化為公共領導與拼湊行為之間關係的情境調節變項。根據對368名德國公務人員的調查數據，研究結果顯示，在動盪情境下，拼湊行為較少被實踐。儘管遵循規則的領導方式，出乎意料地，隨著情境變得更加動盪，與拼湊行為的關係變得更強且更正向，但問責型領導與拼湊行為之間的正向關聯則顯著減弱。令人驚訝的是，網絡治理型領導的重要性並未增加。本研究對公共行政研究的貢獻在於，進一步將拼湊概念化並探討其作為回應動盪的微觀層面行為能力，將動盪操作化為一種分級的情境壓力源，並證明動盪情境構成了公共領導實踐的關鍵邊界條件。"
   },
   {
+   "doi": "10.1080/10967494.2026.2731069",
+   "title": "From human touch to aI-based self-service: antecedents of business users’ switching intention in government-to-business services",
+   "abstract": "",
+   "authors": [
+    "Wenshan Guo",
+    "Hehui Yuan"
+   ],
+   "journal": "International Public Management Journal",
+   "url": "https://doi.org/10.1080/10967494.2026.2731069",
+   "date": "2026-09-28",
+   "first_seen": "2026-09-29",
+   "score": 10.0,
+   "matched": [
+    "ai"
+   ],
+   "abstract_zh": ""
+  },
+  {
    "doi": "10.1111/padm.70072",
    "title": "Balancing Neutral and Responsive Competences in the Context of Functional Politicization",
    "abstract": "Democratic governments can legitimately expect permanent civil servants to undertake functionally politicized tasks, such as providing political‐tactical advice. However, safeguarding the neutrality and legitimacy of a permanent civil service in the context of functional politicization necessitates that political considerations do not override professional judgment or impede the delivery of free, frank and fearless advice. Although existing research has documented functional politicization in permanent civil services situated in different politico–administrative systems, its behavioral implications remain insufficiently explored. Drawing on a survey of 901 senior permanent civil servants in managerial positions across Denmark's central, regional and local governments, this study finds that the engagement in functionally politicized tasks is associated with a higher likelihood of altering or omitting professional input in response to perceived political pressures. However, the study finds no significant relationship between functional politicization and civil servants' willingness to voice concerns to their superiors, which suggests that their capacity to provide free, frank and fearless advice remains intact.",
@@ -1749,6 +1789,24 @@
     "bureaucra"
    ],
    "abstract_zh": "儘管學術研究已記錄民粹主義和威權傾向的行政首長如何扭曲官僚機構，但非自由主義後的重建才剛開始受到關注。本文提出一個探索性框架，區分四種修復策略（中和化、糾正化、平衡化和民主強化）以及兩種修復模式（形式制度性修復和規範能力修復）。將此啟發式方法應用於波蘭、巴西和匈牙利，我們主張修復策略的選擇與其限制，取決於非自由主義根深蒂固的程度，以及繼任政府克服否決者並實施糾正性改革的法律政治能力之間的落差。在所觀察的時期內，形式制度性修復已超越專業規範、專業知識和信任的重建；修復也產生了分層的行政秩序，其中非自由主義時期的工具部分持續存在，並因此仍可供未來政府使用。行政修復因此具有結構上的不對稱性。民主繼任者可以重建行政國家，但不太可能將其恢復到原狀。"
+  },
+  {
+   "doi": "10.1080/10967494.2026.2718927",
+   "title": "Merit, autonomy, and corruption: the moderating role of anti-corruption institutions in Africa",
+   "abstract": "",
+   "authors": [
+    "Sergio Fernandez",
+    "Faisal S. Cheema"
+   ],
+   "journal": "International Public Management Journal",
+   "url": "https://doi.org/10.1080/10967494.2026.2718927",
+   "date": "2026-09-28",
+   "first_seen": "2026-09-29",
+   "score": 8.0,
+   "matched": [
+    "corruption"
+   ],
+   "abstract_zh": ""
   },
   {
    "doi": "10.1177/02750740261457069",
@@ -4248,6 +4306,91 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": ""
+  },
+  {
+   "doi": "10.1080/14719037.2026.2737335",
+   "title": "Unveiling the intangible: a systemic perspective for creativity and innovation in public organizations",
+   "abstract": "",
+   "authors": [
+    "Alessandra do Valle Abrahão",
+    "Siegrid Guillaumon"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2737335",
+   "date": "2026-09-28",
+   "first_seen": "2026-09-29",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.1080/14719037.2026.2733927",
+   "title": "Strategic planning for digital technology adoption: drivers and mechanisms in the public sector",
+   "abstract": "",
+   "authors": [
+    "Zhenming Huang",
+    "Shangrui Wang",
+    "Haolin Li",
+    "Zheng Liang"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2733927",
+   "date": "2026-09-28",
+   "first_seen": "2026-09-29",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.1080/10967494.2026.2718928",
+   "title": "Building tolerance through experience: administrative engagement and burden tolerance across four countries",
+   "abstract": "",
+   "authors": [
+    "Martin Baekgaard",
+    "Minjung Kim",
+    "Lucie Martin"
+   ],
+   "journal": "International Public Management Journal",
+   "url": "https://doi.org/10.1080/10967494.2026.2718928",
+   "date": "2026-09-28",
+   "first_seen": "2026-09-29",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.1111/padm.70098",
+   "title": "The 150‐Year‐Old Hybrid Organization: A Historical View on Municipally Owned Corporations ( MOC ) in Sweden",
+   "abstract": "This article presents a 150‐year longitudinal analysis of the development of municipally owned corporations (MOCs) in Sweden, tracing their emergence in the mid‐nineteenth century, their expansion during the growth of the welfare state, and their transformation in the era of market‐oriented public sector reform. While MOCs are commonly discussed in relation to New Public Management (NPM) and contemporary forms of hybrid governance, this perspective overlooks their much longer historical trajectory. Drawing on three major Swedish government inquiries (1924, 1965, and 1982), complemented by secondary historical sources, we examine how MOCs have evolved across changing political, economic, and administrative contexts. The article conceptualizes MOCs as constitutional hybrids, organizations that combine elements of public authority and corporate governance by design, and employs insights from institutional theory and historical institutionalism to analyze their long‐term development. The findings identify three historical phases characterized by changing functions, governance rationales, and institutional expectations. Across these periods, MOCs were repeatedly reinterpreted and adapted to new circumstances while maintaining their basic organizational form. The study contributes to the literature on hybridity by demonstrating that hybridity should be understood not merely as a contemporary consequence of public sector reform, but as a historically evolving institutional condition. We argue that the enduring presence of MOCs reflects the adaptive capacity of hybrid organizational forms, whose flexibility allows them to accommodate shifting demands for efficiency, legitimacy, accountability, and public value. By historicizing hybridity, the article offers a new perspective on institutional resilience, and the long‐term evolution of public governance.",
+   "authors": [
+    "Anna Thomasson",
+    "Olof Hallonsten"
+   ],
+   "journal": "Public Administration",
+   "url": "https://doi.org/10.1111/padm.70098",
+   "date": "2026-09-28",
+   "first_seen": "2026-09-29",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "本文旨在對瑞典地方政府所屬公司（MOCs）的發展進行一項為期150年的縱貫性分析，追溯其在19世紀中葉的興起、福利國家發展時期的擴張，以及在市場導向公共部門改革時代的轉型。儘管MOCs通常與新公共管理（NPM）和當代混合治理形式相關聯，但這種視角卻忽視了其更為悠久的歷史軌跡。本文借鑒三項主要的瑞典政府調查報告（分別於1924年、1965年和1982年），並輔以次級歷史資料，檢視MOCs如何在不斷變化的政治、經濟和行政脈絡中演變。本文將MOCs概念化為憲政混合體，即在設計上結合了公共權威和公司治理元素的組織，並運用制度理論和歷史制度主義的見解來分析其長期發展。研究結果指出，MOCs的發展可分為三個歷史階段，其特徵是功能、治理邏輯和制度預期不斷變化。在這些階段中，MOCs被反覆重新詮釋並適應新環境，同時維持其基本的組織形式。本研究對混合性（hybridity）的文獻有所貢獻，透過證明混合性應被理解為不僅是公共部門改革的當代結果，而是一種歷史演進的制度條件。本文主張，MOCs的持久存在反映了混合組織形式的適應能力，其彈性使其能夠適應不斷變化的效率、正當性、問責制和公共價值等需求。透過將混合性歷史化，本文為制度韌性以及公共治理的長期演進提供了新的視角。"
+  },
+  {
+   "doi": "10.1111/padm.70099",
+   "title": "A Replication of “Your Money, Your Life, or Your Freedom? A Discrete Choice Experiment on Trade‐Offs During a Public Health Crisis”",
+   "abstract": "A prior experiment conducted in Italy examined how individuals navigate trade‐offs among money, life, and freedom during government‐mandated lockdowns. This study replicates that experiment across three Confucian societies: Shanghai (China), Singapore, and Taipei (Taiwan). The findings indicate that, in the aggregate sample, the preference pattern of “money &gt; life &gt; freedom” mirrors that reported in the original study. However, when analyzed separately, residents of Taipei show stronger preferences for income and freedom than their counterparts in Singapore and Shanghai. Conversely, Singaporeans demonstrate heightened concern regarding the loss of life. In addition to replicating previous findings, this study contributes to the field of comparative public administration by highlighting the importance of considering contextual nuances in the formulation of crisis‐management practices by public managers.",
+   "authors": [
+    "Binzizi Dong",
+    "Chung‐An Chen",
+    "Soojin Kim",
+    "Chih‐Wei Hsieh"
+   ],
+   "journal": "Public Administration",
+   "url": "https://doi.org/10.1111/padm.70099",
+   "date": "2026-09-28",
+   "first_seen": "2026-09-29",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "一項先前在義大利進行的實驗，探討了個人在政府強制實施的封鎖期間，如何在金錢、生命與自由之間進行權衡取捨。本研究複製了該實驗，並於三個儒家社會中進行：上海（中國）、新加坡和臺北（臺灣）。研究結果顯示，在整體樣本中，「金錢 > 生命 > 自由」的偏好模式呼應了原始研究報告的結果。然而，若單獨分析，臺北居民對收入和自由展現出比新加坡和上海居民更強的偏好。反之，新加坡人對於生命損失展現出更高的關注。除了複製先前的研究結果外，本研究藉由強調公共管理者在制定危機管理實務時，考量情境脈絡細微差異的重要性，為比較公共行政領域做出貢獻。"
   }
  ]
 }
