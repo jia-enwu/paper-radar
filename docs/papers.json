@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-29T01:21:01+00:00",
+ "updated": "2026-09-30T00:51:09+00:00",
  "papers": [
   {
    "doi": "10.1080/10967494.2026.2706796",
@@ -159,6 +159,29 @@
     "legislative"
    ],
    "abstract_zh": "本研究檢視政府效率部 (DOGE) 作為演算法治理的一個案例，其宣稱的目標——提升聯邦效率——系統性地偏離了其實際運作效果：促成前所未有的私部門存取聯邦資料系統，同時瓦解了限制此類存取的監督與文官體系基礎設施。借鑒國家能力、有限理性、組織學習和公共價值理論，本分析指出，傳統的效率失靈解讀，儘管其本身正確，卻掩蓋了DOGE在結構上與葛瑞斯委員會 (Grace Commission)、國家績效評估 (National Performance Review)、總統管理議程 (President's Management Agenda)、計畫評估評級工具 (Program Assessment Rating Tool) 以及政府績效與成果現代化法案 (Government Performance and Results Modernization Act) 的根本差異。本文提出混合智慧——一種具備受保護之制度能力的結構化人機協作——作為一種能夠抵禦改革失敗和演算法劫持的典範。國際實踐已將其付諸實踐。本分析貢獻了一種「宣稱目標與實際運作目標」的分析框架至人工智慧治理文獻，並將立法基礎識別為持久改革的先決條件。"
+  },
+  {
+   "doi": "10.1111/puar.70218",
+   "title": "Reply to Kettl: Beyond Bureaucracy: Why AI Demands a Fourth Way in Public Administration",
+   "abstract": "Kettl argues public administration faces a crisis rooted in widening gaps between scholars and practitioners and between the field's core ideas and current governance issues. We identify a critical example: artificial intelligence (AI) adoption in government. AI fundamentally transforms public organizations, redistributing tasks and discretion between humans and algorithms, embedding instrumental rationality into administrative processes, and reconfiguring authority structures. These developments challenge three longstanding pillars of public administration: bureaucratic neutrality, the politics‐administration dichotomy, and democratic governance. We argue that any proposed “Fourth Way” must center democratic resilience and technological stewardship, incorporating algorithmic transparency requirements and participatory governance structures that preserve public—and especially democratic—values.",
+   "authors": [
+    "Jack Baldwin",
+    "Tina Nabatchi"
+   ],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70218",
+   "date": "2026-09-29",
+   "first_seen": "2026-09-30",
+   "score": 51.0,
+   "matched": [
+    "artificial intelligence",
+    "ai",
+    "algorithm",
+    "discretion",
+    "bureaucra",
+    "transparency"
+   ],
+   "abstract_zh": "Kettl指出，公共行政正遭遇一場危機，其根源在於學者與實務工作者之間，以及該領域核心理念與當前治理議題之間的鴻溝日益擴大。我們將政府採納人工智慧（AI）視為一個關鍵範例。AI從根本上轉變了公共組織，重新分配人類與演算法之間的任務與裁量權，將工具理性嵌入行政流程，並重塑權力結構。這些發展挑戰了公共行政的三個長期支柱：官僚中立、政治與行政二分法，以及民主治理。我們主張，任何擬議的「第四條道路」都必須以民主韌性與科技治理為核心，納入演算法透明度要求與參與式治理結構，以維護公共價值，尤其是民主價值。"
   },
   {
    "doi": "10.1111/padm.70071",
@@ -1791,6 +1814,25 @@
    "abstract_zh": "儘管學術研究已記錄民粹主義和威權傾向的行政首長如何扭曲官僚機構，但非自由主義後的重建才剛開始受到關注。本文提出一個探索性框架，區分四種修復策略（中和化、糾正化、平衡化和民主強化）以及兩種修復模式（形式制度性修復和規範能力修復）。將此啟發式方法應用於波蘭、巴西和匈牙利，我們主張修復策略的選擇與其限制，取決於非自由主義根深蒂固的程度，以及繼任政府克服否決者並實施糾正性改革的法律政治能力之間的落差。在所觀察的時期內，形式制度性修復已超越專業規範、專業知識和信任的重建；修復也產生了分層的行政秩序，其中非自由主義時期的工具部分持續存在，並因此仍可供未來政府使用。行政修復因此具有結構上的不對稱性。民主繼任者可以重建行政國家，但不太可能將其恢復到原狀。"
   },
   {
+   "doi": "10.1080/14719037.2026.2738179",
+   "title": "Does level of government and messaging influence public evacuations? Examining public compliance and agency trust",
+   "abstract": "Extreme weather events are increasing globally, yet research on how public leadership messaging and the level of government delivering crisis communications influence public compliance and institutional trust remains limited. Drawing on public leadership theory and federalism research, we employ a 2 × 3 survey experiment embedded in the 2023 US Cooperative Election Study (N = 409) to examine how messaging style (authoritarian versus democratic) and the level of government agency (federal, state, or local) influence evacuation intent and agency trust. We find that messaging from the Federal Emergency Management Agency (FEMA) increases evacuation intent, despite local governments being legally responsible for issuing evacuation orders. Democratic, or collective, messaging is associated with greater trust in agency. However, trust is more strongly associated with pre-existing individual orientations, public service motivation, and political ideology, than with one-time communication cues. Findings have implications for crisis communication strategy, public leadership, and intergovernmental coordination in emergency management.",
+   "authors": [
+    "Jaclyn Piatak",
+    "Colt Jensen"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2738179",
+   "date": "2026-09-27",
+   "first_seen": "2026-09-28",
+   "score": 8.0,
+   "matched": [
+    "public service motivation",
+    "survey experiment"
+   ],
+   "abstract_zh": "全球極端天氣事件日益增加，然而，關於公共領導的訊息傳達以及傳達危機溝通的政府層級如何影響民眾的順從度與機構信任度的研究仍然有限。本研究借鑒公共領導理論與聯邦主義研究，採用一項嵌入於 2023 年美國合作選舉研究 (N = 409) 的 2 × 3 調查實驗，旨在檢視訊息傳達風格（威權式與民主式）以及政府機構層級（聯邦、州或地方）如何影響民眾的疏散意圖與機構信任度。我們發現，儘管地方政府在法律上負責發布疏散命令，但來自聯邦緊急事務管理局 (FEMA) 的訊息傳達增加了民眾的疏散意圖。民主式，或稱集體式的訊息傳達，與更高的機構信任度相關。然而，信任度與既有的個人傾向、公共服務動機和政治意識形態的關聯性，比與一次性的溝通線索的關聯性更強。本研究結果對危機溝通策略、公共領導以及緊急應變管理中的跨政府協調具有啟示。"
+  },
+  {
    "doi": "10.1080/10967494.2026.2718927",
    "title": "Merit, autonomy, and corruption: the moderating role of anti-corruption institutions in Africa",
    "abstract": "",
@@ -3082,6 +3124,47 @@
    "abstract_zh": ""
   },
   {
+   "doi": "10.1080/14719037.2026.2733927",
+   "title": "Strategic planning for digital technology adoption: drivers and mechanisms in the public sector",
+   "abstract": "While strategic planning facilitates public sector digital transformation, it remains unclear why public sectors engage in shaping strategic plans for digital adoption. This study employs the 3Ps framework (People–Process–Plan) to construct an adapted explanatory model of these driving factors. Adopting a longitudinal case study (2019–2024), it investigates a Chinese local government’s digital anti-corruption strategizing based on 28 interviews. Findings extend the 3Ps framework by conceptualizing People as multiple stakeholders, differentiating Process into mutually evolving constructive and conflictual processes, revealing the moderating role of resource accessibility, and demonstrating the feedback effect of implementation outcomes on ongoing Strategic Plans, ultimately advancing digital strategizing from static compliance to a purposeful, dynamic closed-loop system.",
+   "authors": [
+    "Zhenming Huang",
+    "Shangrui Wang",
+    "Haolin Li",
+    "Zheng Liang"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2733927",
+   "date": "2026-09-28",
+   "first_seen": "2026-09-29",
+   "score": 2.0,
+   "matched": [
+    "corruption"
+   ],
+   "abstract_zh": "儘管策略規劃有助於公部門數位轉型，但公部門為何會制定數位化策略規劃，其原因仍不明朗。本研究採用3Ps架構（People–Process–Plan），建構一個修正後的解釋模型，以闡明這些驅動因素。本研究透過一項縱貫性個案研究（2019–2024年），根據28次訪談，探討某中國地方政府的數位反腐策略制定。研究結果透過將People概念化為多方利害關係人，將Process區分為相互演進的建設性與衝突性過程，揭示了資源可及性的調節作用，並證明了實施成果對持續性策略規劃的回饋效應，從而擴展了3Ps架構，最終將數位策略制定從靜態合規推進為一個有目的、動態的閉環系統。"
+  },
+  {
+   "doi": "10.1111/puar.70210",
+   "title": "Public Management of Deregulated Systems: Challenges and Opportunities in the Public Management of Retail Energy Markets",
+   "abstract": "Many critical infrastructure services operate within quasi‐regulated (i.e., “deregulated”) markets. Public managers face a unique set of challenges and opportunities in the administration and oversight of these markets. Administrative and regulatory challenges exist because public managers are required to balance an open and competitive marketplace while confronting multiple market failures (e.g., consumer inattention, imperfect competition) alongside organizational, management, and legal and regulatory enforcement challenges. There are real‐world consequences of administrative choices on economic (in)efficiency and consumer equity. This paper provides public managers with a comprehensive review of the public management challenges and opportunities associated with managing deregulated retail electricity markets. It then provides a review of empirical research and an empirical example for one category of these challenges—consumer equity. The paper concludes with a multi‐disciplinary discussion of the role of public managers in deregulated marketplaces and public policy options to address both equity and efficiency challenges.",
+   "authors": [
+    "Noah Dormady",
+    "Jenya Kahn‐Lang",
+    "Yiseon Choi",
+    "Yufan Ji",
+    "Samantha Fox",
+    "Alberto Lamadrid",
+    "Matthew Hoyt"
+   ],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70210",
+   "date": "2026-09-29",
+   "first_seen": "2026-09-30",
+   "score": 2.0,
+   "matched": [],
+   "abstract_zh": "許多關鍵基礎設施服務在準管制（亦即「解除管制」）市場中運作。公共管理者在這些市場的管理與監督上，面臨一系列獨特的挑戰與機會。行政與管制上的挑戰之所以存在，是因為公共管理者必須在維持開放且具競爭性的市場，同時面對多重市場失靈（例如，消費者疏忽、不完全競爭）之間取得平衡，此外還需應對組織、管理、法律與管制執行上的挑戰。行政選擇對經濟（無）效率與消費者公平性會產生實際的影響。本文為公共管理者提供一份關於管理解除管制後的零售電力市場所涉及之公共管理挑戰與機會的綜合性回顧。接著，本文對實證研究進行回顧，並針對這些挑戰中的一類——消費者公平性——提供一個實證案例。本文最後以多學科討論作結，探討公共管理者在解除管制市場中的角色，以及應對公平性與效率挑戰的公共政策選項。"
+  },
+  {
    "doi": "10.1080/14719037.2026.2685252",
    "title": "Unleashing the potential of participative budgeting practices in Public Healthcare Organizations: The drivers of psychology-based budgeting research",
    "abstract": "Since doctors heading operational units have become budget holders, the hybrid nature of doctor-managers exposes them to risks of role ambiguity. Drawing on psychology-based budgeting research, this study explores how participative budgeting (PB) can enhance managerial responses to budgetary responsibilities. Using data from 131 doctor-managers in Italian public healthcare organizations, we found that providing satisfactory budgetary information influences doctor-managers’ perceptions of organizational support (POS). The ‘reciprocating’ response driven by POS strengthens doctor-managers’ motivation to achieve budgetary goals and involvement in PB, acting as an enabling condition for role hybridization. This results in improvements in psychological well-being and organizational identification.",
@@ -4292,25 +4375,9 @@
    "abstract_zh": ""
   },
   {
-   "doi": "10.1080/14719037.2026.2738179",
-   "title": "Does level of government and messaging influence public evacuations? Examining public compliance and agency trust",
-   "abstract": "",
-   "authors": [
-    "Jaclyn Piatak",
-    "Colt Jensen"
-   ],
-   "journal": "Public Management Review",
-   "url": "https://doi.org/10.1080/14719037.2026.2738179",
-   "date": "2026-09-27",
-   "first_seen": "2026-09-28",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": ""
-  },
-  {
    "doi": "10.1080/14719037.2026.2737335",
    "title": "Unveiling the intangible: a systemic perspective for creativity and innovation in public organizations",
-   "abstract": "",
+   "abstract": "This study examines how systemic creativity manifests empirically in the public sector using Csikszentmihalyi’s systemic model operationalized through 15 empirically grounded categories. By analyzing 60 Brazilian cases from the OECD Observatory of Public Sector Innovation, findings reveal that the most decisive enabling conditions are intangible: trust, psychological safety, shared purpose, and relational dynamics. A consistent pattern of frugal innovation emerges, with resource scarcity activating systemic mechanisms that substitute material resources. Theoretically, the study operationalizes an abstract model of creativity in organizational contexts. Empirically, it expands insights beyond Global North settings. Practically, it offers public managers a lens for rendering visible innovation's invisible infrastructure.",
    "authors": [
     "Alessandra do Valle Abrahão",
     "Siegrid Guillaumon"
@@ -4321,25 +4388,7 @@
    "first_seen": "2026-09-29",
    "score": 0.0,
    "matched": [],
-   "abstract_zh": ""
-  },
-  {
-   "doi": "10.1080/14719037.2026.2733927",
-   "title": "Strategic planning for digital technology adoption: drivers and mechanisms in the public sector",
-   "abstract": "",
-   "authors": [
-    "Zhenming Huang",
-    "Shangrui Wang",
-    "Haolin Li",
-    "Zheng Liang"
-   ],
-   "journal": "Public Management Review",
-   "url": "https://doi.org/10.1080/14719037.2026.2733927",
-   "date": "2026-09-28",
-   "first_seen": "2026-09-29",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": ""
+   "abstract_zh": "本研究運用Csikikszentmihalyi的系統模型，並透過15個具實證基礎的類別進行操作化，以探討系統性創造力如何在公共部門中實證展現。透過分析來自經濟合作暨發展組織（OECD）公共部門創新觀察站的60個巴西案例，研究結果顯示，最具決定性的促成條件是無形的：信任、心理安全感、共同目標和關係動態。研究浮現出一個一致的「簡約創新」模式，其中資源稀缺性啟動了取代物質資源的系統性機制。理論上，本研究在組織情境中操作化了一個抽象的創造力模型。實證上，本研究將見解擴展到全球北方（Global North）以外的情境。實務上，本研究為公共部門管理者提供了一個視角，使其能看見創新中無形的基礎設施。"
   },
   {
    "doi": "10.1080/10967494.2026.2718928",
