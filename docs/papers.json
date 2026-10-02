@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-01T00:55:45+00:00",
+ "updated": "2026-10-02T01:12:00+00:00",
  "papers": [
   {
    "doi": "10.1080/10967494.2026.2706796",
@@ -49,6 +49,30 @@
     "bureaucra"
    ],
    "abstract_zh": "自新冠肺炎疫情爆發以來，許多國家已開始運用人工智慧 (AI) 取代公務人員。本文主張此做法損害了核心民主價值。運用公共價值框架，我們歸納出當行政裁量權轉移給演算法時會受到威脅的四類價值：課責性、公平與衡平、個別考量以及理由說明。這些價值皆與演算法做出決策的方式不相容。由於演算法是根據統計規律產生結果，它們將責任分散給多方，無法對異常案例做出準確預測，並削弱公民對個別考量的訴求。因此，本文將AI的採用視為一個憲政問題，探討哪些決策可以自動化，以及哪些決策應保留在人類控制之下，因為它們涉及民主價值。我們提出一個半人馬模式，在此模式中，AI是輔助而非取代人類公務員，這可以維持效率，同時維護民主治理。"
+  },
+  {
+   "doi": "10.1111/puar.70214",
+   "title": "Artificial Intelligence in Policing and Perceived Legitimacy: Does Gender Representation Make a Difference?",
+   "abstract": "As artificial intelligence (AI) increasingly transforms public administration, understanding its impact on perceived legitimacy becomes paramount, particularly, in high‐stakes areas such as policing. While existing research offers mixed evidence on whether government AI use enhances or undermines citizens' perceptions of fairness and trust, the conditions moderating these effects remain underexplored. Drawing on representative bureaucracy theory, this study uses a survey experiment to investigate how gender representation moderates the effect of AI use on citizens' perceived fairness and trust in domestic violence units (DVUs). Results show that female representation positively moderates the legitimacy impact of a DVU's AI use; whereas AI use decreases female respondents' perceived fairness and trust in male‐dominated DVUs, these negative effects disappear in female‐dominated DVUs. Our findings identify representation as a key context shaping citizens' responses to government AI use, extending representative bureaucracy theory by demonstrating its indirect symbolic effects.",
+   "authors": [
+    "Canyu Gao",
+    "Norma M. Riccucci"
+   ],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70214",
+   "date": "2026-10-01",
+   "first_seen": "2026-10-02",
+   "score": 80.0,
+   "matched": [
+    "artificial intelligence",
+    "ai",
+    "representative bureaucracy",
+    "representation",
+    "gender",
+    "bureaucra",
+    "survey experiment"
+   ],
+   "abstract_zh": "隨著人工智慧（AI）日益轉變公共行政，了解其對「認知合法性」的影響變得至關重要，尤其是在警政等高風險領域。儘管既有研究對於政府使用AI是否會增強或損害公民對公平性和信任的認知提供了混雜的證據，但調節這些影響的條件仍未被充分探討。本研究借鑒代表性官僚理論，採用問卷實驗來探討性別代表性如何調節AI使用對公民在家暴防治單位（DVUs）中認知公平性和信任的影響。結果顯示，女性代表性正向調節DVU使用AI的合法性影響；相較之下，AI使用會降低女性受訪者在男性主導的DVU中對公平性和信任的認知，但這些負面影響在女性主導的DVU中則不復存在。我們的研究發現將代表性視為一個關鍵情境，影響公民對政府使用AI的反應，並藉由展示其間接的象徵性效果，拓展了代表性官僚理論。"
   },
   {
    "doi": "10.1093/jopart/muag018",
@@ -477,6 +501,25 @@
     "psm"
    ],
    "abstract_zh": "公職服務動機 (PSM) 被廣泛認為是正向結果的預測因子，然而對於如何刻意培養它卻知之甚少。本研究借鑒資源保存理論 (COR)，探討公部門訓練中融入道德典範的接觸，是否以及如何提升公職服務動機 (PSM)。採用結合回憶實驗與實地調查的多重方法設計，我們發現接觸不尋常的道德典範會引發道德昇華，其作用是補充心理資源，進而強化公務員的 PSM。此外，此中介機制受到認知負荷的調節，使得經歷較大認知需求的公務員能從道德昇華中獲得更強的動機效益。透過將道德昇華識別為一種心理資源機制，並將認知負荷識別為邊界條件，本研究開啟了 PSM 發展的「黑盒子」。本研究強調訓練如何能作為一個制度性平台，用於傳遞特定的道德內容，以培養並維持公務員的服務動機。"
+  },
+  {
+   "doi": "10.1093/jopart/muag024",
+   "title": "Generative Spaces: Collaboration, Learning and Innovation in a Regulatory Sandbox",
+   "abstract": "Public administrators are increasingly called upon to create “generative spaces” that foster emergent processes of collaboration, learning and innovation. This article presents an inductive and ethnographically grounded study of one relatively novel but increasingly popular generative space—a regulatory sandbox. A regulatory sandbox is a controlled and defined space and set of processes that are established by regulators to work with innovators to collaboratively explore, test and learn about early-stage products and innovations and understand emerging regulatory implications. Investigating a sandbox to explore the regulation of new artificial intelligence technologies conducted by a national healthcare regulator, we identify the organizing practices of the sandbox that make it “generative” of collaboration, learning and innovation. An inductive analysis identified three key organizing practices: providing distinct and varied social spaces separated from normal regulatory demands (protection); enabling participants to collaboratively examine innovations and iteratively develop new knowledge and regulation (adaptation); and supporting focused and immersive examination of innovations from a diverse range of perspectives (participation). A theoretically-driven secondary analysis suggests that generative spaces can be understood as liminal experiences that foster detachment, equivalence and reconstruction.",
+   "authors": [
+    "Carl Macrae",
+    "Christopher K Ansell"
+   ],
+   "journal": "Journal of Public Administration Research and Theory",
+   "url": "https://doi.org/10.1093/jopart/muag024",
+   "date": "2026-09-17",
+   "first_seen": "2026-10-02",
+   "score": 28.0,
+   "matched": [
+    "artificial intelligence",
+    "generative"
+   ],
+   "abstract_zh": "公務人員越來越常被要求建立「生成性空間」，以促進協作、學習與創新的新興流程。本文針對一種相對新穎但日益普及的生成性空間——監理沙盒，進行了一項歸納法與民族誌為基礎的研究。監理沙盒是由監管機構建立的一種受控且明確的空間與流程組合，旨在與創新者合作，協同探索、測試與學習早期產品與創新，並了解新興的監管意涵。本研究調查了一個由國家醫療保健監管機構執行、旨在探索新興人工智慧技術監管的沙盒，並識別出使其「生成」協作、學習與創新的組織實踐。歸納分析識別出三項關鍵組織實踐：提供獨特且多樣、脫離常規監管要求的社會空間（保護）；使參與者能夠協同檢視創新並迭代發展新知識與法規（調適）；以及支持從多元視角對創新進行專注且沉浸式的檢視（參與）。一項理論驅動的次級分析指出，生成性空間可被理解為促進超脫、等同與重建的閾限經驗。"
   },
   {
    "doi": "10.1080/10967494.2026.2696853",
@@ -1023,6 +1066,24 @@
    "abstract_zh": "本研究旨在探討女性政治賦權 (WPE) 對稅收動員的影響，採用2000年至2022年間41個非洲國家的面板樣本。運用系統廣義動差法，實證結果顯示WPE顯著提升非洲的稅收動員能力。這項發現對於WPE和稅收的替代衡量方式仍具穩健性。此外，超過某個特定轉折點後，WPE的增加反而會降低稅收動員能力。最後，本研究指出WPE透過數個傳遞管道發揮作用，包括貪腐控制、非正式經濟規模以及女性勞動參與率。在公共政策方面，強化非洲政治領域中的性別配額對於提升稅收動員至關重要。然而，鑑於此關係中存在門檻效應，政策制定者必須優先考慮女性政治代表的品質，而非僅僅著重於增加她們在政治決策圈中的人數。"
   },
   {
+   "doi": "10.1111/puar.70216",
+   "title": "Reply to Kettl: Great Workplaces, Public Employee Legitimacy and the Fourth Way",
+   "abstract": "In Public Administration and the Crisis of American Democracy, Don Kettl asks why some federal agencies are great places to work while others are not, pointing to the persistent gap between NASA and the Department of Homeland Security. This essay argues that the answer may turn on how the legitimate role of public employees in democratic governance is construed. Drawing on three interpretive frames—bureaucracy, democracy, and pragmatism—it examines 2024 employee survey responses at NASA and DHS that map onto these frames. DHS appears dominated by the bureaucracy frame, positioning employees as implementers whose voice is risky and expertise underused. NASA blends all three frames, treating employees as contributors, stewards, and problem solvers. These frames offer a partial explanation for Kettl's puzzle and a conceptual tool for his “fourth way”: great government workplaces are built when public servants are recognized as legitimate contributors to democratic governance, not just cogs in a bureaucratic wheel.",
+   "authors": [
+    "Leisha DeHart‐Davis"
+   ],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70216",
+   "date": "2026-10-02",
+   "first_seen": "2026-10-02",
+   "score": 17.0,
+   "matched": [
+    "bureaucra",
+    "public employee"
+   ],
+   "abstract_zh": "在《公共行政與美國民主危機》一書中，唐·凱特爾（Don Kettl）探討為何有些聯邦機構是理想的工作場所，而有些則否，並指出美國太空總署（NASA）與美國國土安全部（DHS）之間持續存在的落差。本文主張，答案可能取決於公務員在民主治理中的正當角色如何被詮釋。本文借鑒官僚體制、民主和實用主義這三個詮釋框架，檢視美國太空總署（NASA）和美國國土安全部（DHS）在2024年員工意見調查中與這些框架相符的回覆。美國國土安全部（DHS）似乎主要受官僚體制框架主導，將員工定位為執行者，其意見被視為有風險，專業知識也未被充分利用。美國太空總署（NASA）則融合了這三個框架，將員工視為貢獻者、管理者和問題解決者。這些框架為凱特爾的難題提供了部分解釋，也為他提出的「第四條道路」提供了一個概念工具：當公務員被認可為民主治理的正當貢獻者，而非僅是官僚機器中的螺絲釘時，優良的政府工作場所便得以建立。"
+  },
+  {
    "doi": "10.1080/10967494.2026.2684482",
    "title": "What drives perceived job crafting in the public sector? Evidence from a randomized COM-B-informed intervention study",
    "abstract": "Drawing on the Capability, Opportunity, and Motivation–Behavior (COM-B) framework, this study examines the impact of an intervention designed to help public employees develop the capability, motivation, and opportunity to reshape their work through job crafting strategies within highly rule-bound organizational contexts. Using a randomized longitudinal study from Italy, the findings show that a COM-B-informed job crafting intervention significantly enhanced social job resources and reduced hindering job demands. Although improvements in structural job resources and challenging job demands are more limited, the intervention promoted adaptive forms of job redesign that fit the constraints and dynamics of bureaucratic environments. Additionally, Public Service Motivation (PSM) helps sustain self-reported job crafting behaviors, and empowering leadership creates conditions that enable them. Overall, the study highlights the need for tailored job crafting interventions aligned with the structural and motivational dynamics of the public sector, fostering a more engaged and adaptable workforce. Moreover, the findings offer practical insights for public organizations seeking to enhance employee effectiveness and job satisfaction through structured job crafting initiatives.",
@@ -1064,6 +1125,25 @@
     "job satisfaction"
    ],
    "abstract_zh": "本研究探討警察機關中組織發展 (OD) 變革背景下的病假缺勤與帶病工作現象，並著重於健康相關與動機相關的途徑。本研究採用來自36個丹麥警政單位共407名員工的追蹤資料 (共1,021筆觀察值)，分析其在變革前、變革後立即以及變革後一年的出勤模式。研究結果顯示，病假缺勤主要受組織發展變革的類型影響，而非工作滿意度或壓力；而帶病工作則隨工作滿意度提高而降低，且與變革類型無關。值得注意的是，經歷旨在支持長期願景的組織發展變革的員工，在變革期間呈現較低的病假缺勤。聚焦於分散式領導和提升員工動機的組織發展變革，則未對病假缺勤產生相同效果。這些結果突顯了在理解組織發展變革期間的出勤行為時，考量動機相關與健康相關的動態，以及變革類型的重要性。"
+  },
+  {
+   "doi": "10.1111/puar.70199",
+   "title": "Citizens' Expectations vs. Recruitment Signals: Are Public Administrations Trying to Attract the Ideal Public Servant?",
+   "abstract": "Job advertisements play a crucial role in attracting applicants, yet little is known about how closely they reflect the values citizens expect from public servants. Drawing on signaling theory and prior research on citizens' normative expectations of ideal public servants, this study employs a large language model to analyze 1825 job advertisements from health and transportation departments across seven U.S. states. Compared to the values citizens associate with ideal public servants in previous research, job advertisements predominantly emphasize values, such as expertise and dedication, while undersignaling relational values like serviceability, responsiveness, and honesty. Our findings suggest a misalignment between the values signaled in recruitment practices and those citizens associate with the ideal public servant. By adopting a citizen‐driven perspective, this study prompts scholars and public managers to question recruitment practices that may underemphasize values citizens prioritize in public servants, potentially limiting public administrations' ability to attract qualified candidates.",
+   "authors": [
+    "Melissa Satzger Grøn",
+    "Dominik Vogel"
+   ],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70199",
+   "date": "2026-10-01",
+   "first_seen": "2026-10-02",
+   "score": 16.0,
+   "matched": [
+    "large language model",
+    "recruitment"
+   ],
+   "abstract_zh": "徵才廣告在吸引求職者方面扮演關鍵角色，然而，它們在多大程度上反映公民對公務員的期望價值觀，卻鮮為人知。本研究借鑒訊號理論以及先前關於公民對理想公務員規範性期望的研究，利用大型語言模型分析了來自美國七個州衛生和交通部門的1825份徵才廣告。相較於先前研究中公民與理想公務員相關聯的價值觀，徵才廣告主要強調專業知識和奉獻精神等價值觀，而對服務性、回應性和誠實等關係型價值觀的訊號則傳達不足。我們的研究結果顯示，招募實務中傳達的價值觀與公民對理想公務員相關聯的價值觀之間存在不一致。透過採納以公民為導向的視角，本研究促使學者和公共管理者質疑可能低估公民在公務員身上優先考慮之價值觀的招募實務，這可能限制公共行政部門吸引合格候選人的能力。"
   },
   {
    "doi": "10.1080/10967494.2026.2691398",
@@ -2515,6 +2595,21 @@
    "abstract_zh": "許多關鍵基礎設施服務在準管制（亦即「解除管制」）市場中運作。公共管理者在這些市場的管理與監督上，面臨一系列獨特的挑戰與機會。行政與管制上的挑戰之所以存在，是因為公共管理者必須在維持開放且具競爭性的市場，同時面對多重市場失靈（例如，消費者疏忽、不完全競爭）之間取得平衡，此外還需應對組織、管理、法律與管制執行上的挑戰。行政選擇對經濟（無）效率與消費者公平性會產生實際的影響。本文為公共管理者提供一份關於管理解除管制後的零售電力市場所涉及之公共管理挑戰與機會的綜合性回顧。接著，本文對實證研究進行回顧，並針對這些挑戰中的一類——消費者公平性——提供一個實證案例。本文最後以多學科討論作結，探討公共管理者在解除管制市場中的角色，以及應對公平性與效率挑戰的公共政策選項。"
   },
   {
+   "doi": "10.1111/puar.70207",
+   "title": "The Right‐Wing Idea Factory: From Traditionalism to Trumpism. By Donald F.Kettl, New York: Oxford University Press, 2026. 248 pp. (hardback). ISBN: 978‐0‐19‐777829‐6",
+   "abstract": "",
+   "authors": [
+    "Alasdair Roberts"
+   ],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70207",
+   "date": "2026-10-01",
+   "first_seen": "2026-10-02",
+   "score": 2.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
    "doi": "10.1177/0734371x261460425",
    "title": "The Hidden Costs of Red Tape: Exploring the Physical Toll of Red Tape on Teachers",
    "abstract": "When rules impose compliance burdens that outweigh their contribution to teachers’ objectives or values, they are experienced as red tape . Given red tape’s negative consequences, it is concerning that teachers worldwide report being confronted with high levels of red tape in their jobs. Drawing on Job Demands-Resources theory and Affective Events Theory, this study investigates the relationship between teachers’ red tape perceptions and physical complaints (e.g., neck pain and headaches). Specifically, we explore the mediating role of work-related anger in this relationship and investigate whether servant leadership moderates the negative effects of red tape. We collected time-lagged data from 717 teachers in Flemish schools. Structural Equation Modeling revealed a positive relationship between red tape and physical complaints, mediated by work-related anger. Furthermore, the results indicate that when teachers perceive their school leader as a servant leader, work-related anger is less affected by red tape, which indirectly reduces their physical complaints.",
@@ -3571,6 +3666,23 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "一項先前在義大利進行的實驗，探討了個人在政府強制實施的封鎖期間，如何在金錢、生命與自由之間進行權衡取捨。本研究複製了該實驗，並於三個儒家社會中進行：上海（中國）、新加坡和臺北（臺灣）。研究結果顯示，在整體樣本中，「金錢 > 生命 > 自由」的偏好模式呼應了原始研究報告的結果。然而，若單獨分析，臺北居民對收入和自由展現出比新加坡和上海居民更強的偏好。反之，新加坡人對於生命損失展現出更高的關注。除了複製先前的研究結果外，本研究藉由強調公共管理者在制定危機管理實務時，考量情境脈絡細微差異的重要性，為比較公共行政領域做出貢獻。"
+  },
+  {
+   "doi": "10.1080/14719037.2026.2740705",
+   "title": "Policymaking in a multilevel setting: perverse effects on regulating gambling",
+   "abstract": "",
+   "authors": [
+    "Silvia Iacuzzi",
+    "Paolo Fedele",
+    "Andrea Garlatti"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2740705",
+   "date": "2026-10-01",
+   "first_seen": "2026-10-02",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
   }
  ]
 }
