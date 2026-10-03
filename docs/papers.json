@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-02T01:12:00+00:00",
+ "updated": "2026-10-03T00:48:47+00:00",
  "papers": [
   {
    "doi": "10.1080/10967494.2026.2706796",
@@ -244,6 +244,27 @@
     "street-level"
    ],
    "abstract_zh": "本研究透過單一案例、混合方法研究設計，探討宗教與國家之間的交會點，並聚焦於以色列國立小學的校長，這些校長負責執行國家立法中內含的宗教指令。我們提問：在何種條件下，街頭官僚在政策執行中的裁量權能提升社會滿意度與凝聚力？我們主張，這種裁量權在以下條件下能提升社會滿意度與凝聚力：(1) 當國家政策明確或隱含地模糊且具彈性時；(2) 當官方政策在社會群體間存在爭議時；以及 (3) 當街頭官僚選擇回應服務對象的偏好時。此外，我們認為，當管理者的個人意識形態與服務對象的態度和期望一致時，公眾對所提供的公共服務的滿意度會提升。本研究闡明了校長在執行宗教政策方面如何行使顯著的裁量權，進而透過強調街頭官僚在處理政策模糊性並調解社會緊張關係中的角色，對更廣泛的公共行政文獻有所貢獻。"
+  },
+  {
+   "doi": "10.1111/puar.70221",
+   "title": "Artificial Intelligence and Punctuated Equilibrium: Shaping Government Attention in the Digital Age",
+   "abstract": "How do government attention and policy agendas shift when information constraints are relaxed through technological advancement? Punctuated equilibrium theory links agenda‐setting dynamics to governments' limited information‐processing capabilities, yet we know little about whether and how technology improvement such as artificial intelligence (AI) influences policy agendas. This article proposes a conditional digital punctuation framework to specify the conditions under which technological advancements drive agenda shifts. Using China's implementation of AI initiatives as a quasi‐natural experiment, we find that government attention exhibits a punctuated pattern. AI increases technology‐focused attention, signaling incremental changes, while having minimal impact on general government attention. This selective impact stems from AI's asymmetric effects on information processing. Specifically, AI significantly increases the procurement‐based indicator of information quantity, which is associated with greater attention to technology sectors; however, no significant change is observed in the corresponding indicator of information quality, consistent with its limited impact on general government attention.",
+   "authors": [
+    "Shuo Chen",
+    "Yiran Li",
+    "Yuzheng Wang"
+   ],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70221",
+   "date": "2026-10-02",
+   "first_seen": "2026-10-03",
+   "score": 39.0,
+   "matched": [
+    "artificial intelligence",
+    "ai",
+    "natural experiment"
+   ],
+   "abstract_zh": "隨著科技進步放寬資訊限制，政府的關注焦點和政策議程將如何轉變？斷續平衡理論將議程設定的動態與政府有限的資訊處理能力連結，然而，對於人工智慧（AI）等科技進步是否以及如何影響政策議程，我們卻知之甚少。本文提出一個「條件式數位斷續框架」，旨在闡明科技進步驅動議程轉變的條件。本研究以中國實施人工智慧倡議作為準自然實驗，發現政府關注呈現斷續模式。AI 增加了對科技的關注，預示著漸進式的變化，但對整體政府關注的影響卻微乎其微。這種選擇性影響源於 AI 對資訊處理的不對稱效應。具體而言，AI 顯著增加了基於採購的資訊數量指標，這與政府對科技領域的更高關注相關；然而，在相應的資訊品質指標中卻未觀察到顯著變化，這與其對整體政府關注的有限影響相符。"
   },
   {
    "doi": "10.1111/puar.70206",
@@ -2610,6 +2631,22 @@
    "abstract_zh": ""
   },
   {
+   "doi": "10.1111/puar.70222",
+   "title": "Hindered From Making a Difference: How Increasing Organizational Constraints Undermine Public Servants' Perceptions of Prosocial Impact and Why It Matters",
+   "abstract": "Public servants often work under organizational constraints that hinder how they experience and carry out their work. Drawing on conservation of resources theory, this research examines how changes in these constraints affect public servants' perceptions that their work benefits others and, in turn, their well‐being and withdrawal behavior. Using data from two longitudinal studies conducted in the United States and France, the findings show that increases in organizational constraints are associated with declines in perceived prosocial impact, which in turn predict lower well‐being and greater withdrawal over time. These results identify perceived prosocial impact as a key psychological resource that links changing work conditions to employee functioning. By emphasizing the dynamic nature of organizational constraints, this study advances the understanding of how evolving administrative conditions can weaken the psychological foundations that sustain meaningful and effective public service.",
+   "authors": [
+    "Caroline Manville",
+    "Karim Mignonac"
+   ],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70222",
+   "date": "2026-10-02",
+   "first_seen": "2026-10-03",
+   "score": 2.0,
+   "matched": [],
+   "abstract_zh": "公務員常在組織限制下工作，這些限制妨礙了他們感受與執行工作的方式。本研究立基於資源保存理論，探討這些限制的變化如何影響公務員的感知親社會影響，進而影響他們的幸福感和退出行為。根據在美國和法國進行的兩項縱貫性研究數據，研究結果顯示，組織限制的增加與感知親社會影響的下降相關，這進而預測隨時間推移，幸福感降低和退出行為增加。這些結果指出，感知親社會影響是一種關鍵的心理資源，它連結了變化的工作條件與員工運作。本研究藉由強調組織限制的動態性質，增進了對不斷演變的行政條件如何削弱維繫有意義且有效公共服務的心理基礎的理解。"
+  },
+  {
    "doi": "10.1177/0734371x261460425",
    "title": "The Hidden Costs of Red Tape: Exploring the Physical Toll of Red Tape on Teachers",
    "abstract": "When rules impose compliance burdens that outweigh their contribution to teachers’ objectives or values, they are experienced as red tape . Given red tape’s negative consequences, it is concerning that teachers worldwide report being confronted with high levels of red tape in their jobs. Drawing on Job Demands-Resources theory and Affective Events Theory, this study investigates the relationship between teachers’ red tape perceptions and physical complaints (e.g., neck pain and headaches). Specifically, we explore the mediating role of work-related anger in this relationship and investigate whether servant leadership moderates the negative effects of red tape. We collected time-lagged data from 717 teachers in Flemish schools. Structural Equation Modeling revealed a positive relationship between red tape and physical complaints, mediated by work-related anger. Furthermore, the results indicate that when teachers perceive their school leader as a servant leader, work-related anger is less affected by red tape, which indirectly reduces their physical complaints.",
@@ -3670,7 +3707,7 @@
   {
    "doi": "10.1080/14719037.2026.2740705",
    "title": "Policymaking in a multilevel setting: perverse effects on regulating gambling",
-   "abstract": "",
+   "abstract": "This article examines how multilevel policymaking influences strategic public management. Multilevel governance arrangements are nowadays a recurrent feature in the public sector; the ability of public authorities to design and implement coherent and effective frameworks is affected by the interaction across multiple levels of government. The research was carried out through a case study focusing on gambling regulation in the Friuli Venezia Giulia Region in Italy. Data have been gathered combining the analysis of documents, interviews and surveys within a few mixed-method research projects (2018–2024). By appreciating gambling policy as a legitimacy-driven and institutionally embedded field, the research allows to see beyond well-known implementation challenges of multilevel policymaking. It shows how incoherent policies and stalemate are not necessarily the result of policy failures but could be due to deliberate decoupling strategic responses. Moreover, the study contributes novel insights on how decoupling operates across governance levels and in multiple directions.",
    "authors": [
     "Silvia Iacuzzi",
     "Paolo Fedele",
@@ -3680,6 +3717,38 @@
    "url": "https://doi.org/10.1080/14719037.2026.2740705",
    "date": "2026-10-01",
    "first_seen": "2026-10-02",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "本文探討多層次政策制定如何影響策略性公共管理。多層次治理安排現今已是公共部門的常見特徵；公部門機關設計並實施具連貫性及有效性架構的能力，受到不同層級政府間互動的影響。本研究透過個案研究進行，聚焦於義大利弗留利-威尼斯朱利亞大區的博弈規範。資料蒐集係結合文件分析、訪談與問卷調查，並於數項混合研究法專案（2018-2024）中進行。將博弈政策視為一個合法性驅動且制度鑲嵌的領域，本研究得以超越多層次政策制定中眾所周知的實施挑戰。研究顯示，政策不連貫與僵局不必然是政策失靈的結果，而可能源於刻意脫鉤的策略性回應。此外，本研究對脫鉤機制如何橫跨不同治理層級並以多向性運作，提供了新穎的見解。"
+  },
+  {
+   "doi": "10.1080/14719037.2026.2741375",
+   "title": "Interpretive leadership skill as the meaning-making leadership competency in public service organizations: content, construct, and criterion validity",
+   "abstract": "",
+   "authors": [
+    "Sungdae Lim"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2741375",
+   "date": "2026-10-02",
+   "first_seen": "2026-10-03",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.1080/14719037.2026.2741725",
+   "title": "From reform to reality: governance mechanisms and social capital development in mandated healthcare networks",
+   "abstract": "",
+   "authors": [
+    "Mara Sintejudeanu",
+    "Geraldine Robbins",
+    "Breda Sweeney"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2741725",
+   "date": "2026-10-02",
+   "first_seen": "2026-10-03",
    "score": 0.0,
    "matched": [],
    "abstract_zh": ""
