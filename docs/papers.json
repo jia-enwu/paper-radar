@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03T00:48:47+00:00",
+ "updated": "2026-10-04T00:12:00+00:00",
  "papers": [
   {
    "doi": "10.1080/10967494.2026.2706796",
@@ -2647,6 +2647,21 @@
    "abstract_zh": "公務員常在組織限制下工作，這些限制妨礙了他們感受與執行工作的方式。本研究立基於資源保存理論，探討這些限制的變化如何影響公務員的感知親社會影響，進而影響他們的幸福感和退出行為。根據在美國和法國進行的兩項縱貫性研究數據，研究結果顯示，組織限制的增加與感知親社會影響的下降相關，這進而預測隨時間推移，幸福感降低和退出行為增加。這些結果指出，感知親社會影響是一種關鍵的心理資源，它連結了變化的工作條件與員工運作。本研究藉由強調組織限制的動態性質，增進了對不斷演變的行政條件如何削弱維繫有意義且有效公共服務的心理基礎的理解。"
   },
   {
+   "doi": "10.1111/puar.70219",
+   "title": "A Response to Don Kettl's Debate Article on the Future of Public Administration and Democracy",
+   "abstract": "This commentary critically engages with Kettl's analysis of the crisis of public administration (PA) scholarship and its relationship with democratic decline. It argues that both phenomena should be understood within broader global developments rather than primarily as problems specific to the United States. While acknowledging the role of governance failures in facilitating autocratization, it questions the claim that autocratization results predominantly from the failures of PA scholarship and practice. Rather, it emphasizes that broader societal phenomena, such as the erosion of societal trust and the power‐consolidating objectives of authoritarian leaders play a key role. Drawing on Hungary's experience, the commentary illustrates how authoritarian governance may perpetuate administrative instability and institutional transformation long after the (perceived) failures of democratic governance have been addressed in the early phase of illiberal transformation. However, it also argues that poor governance and declining policy performance can eventually undermine authoritarian rule, as illustrated by Hungary's 2026 political transformation. The commentary thus highlights the complex and potentially self‐undermining relationship between authoritarianism and public governance.",
+   "authors": [
+    "György Hajnal"
+   ],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70219",
+   "date": "2026-10-03",
+   "first_seen": "2026-10-04",
+   "score": 2.0,
+   "matched": [],
+   "abstract_zh": "本評論批判性地探討 Kettl 對公共行政學術 (PA) 危機及其與民主衰退關係的分析。本評論認為，這兩種現象應在全球更廣泛的發展脈絡中理解，而非主要視為美國特有的問題。儘管承認治理失靈在促成獨裁化中的作用，本評論質疑獨裁化主要源於公共行政學術與實踐失敗的主張。相反地，本評論強調更廣泛的社會現象，例如社會信任的侵蝕以及威權領導者鞏固權力的目標，扮演著關鍵角色。借鑒匈牙利的經驗，本評論闡明了威權治理如何在非自由轉型初期階段，民主治理的（感知到的）失敗得到解決之後，仍可能長期延續行政不穩定和制度轉型。然而，本評論也主張，糟糕的治理和下降的政策績效最終可能破壞威權統治，正如匈牙利 2026 年的政治轉型所例證。本評論因此強調了威權主義與公共治理之間複雜且可能自我破壞的關係。"
+  },
+  {
    "doi": "10.1177/0734371x261460425",
    "title": "The Hidden Costs of Red Tape: Exploring the Physical Toll of Red Tape on Teachers",
    "abstract": "When rules impose compliance burdens that outweigh their contribution to teachers’ objectives or values, they are experienced as red tape . Given red tape’s negative consequences, it is concerning that teachers worldwide report being confronted with high levels of red tape in their jobs. Drawing on Job Demands-Resources theory and Affective Events Theory, this study investigates the relationship between teachers’ red tape perceptions and physical complaints (e.g., neck pain and headaches). Specifically, we explore the mediating role of work-related anger in this relationship and investigate whether servant leadership moderates the negative effects of red tape. We collected time-lagged data from 717 teachers in Flemish schools. Structural Equation Modeling revealed a positive relationship between red tape and physical complaints, mediated by work-related anger. Furthermore, the results indicate that when teachers perceive their school leader as a servant leader, work-related anger is less affected by red tape, which indirectly reduces their physical complaints.",
@@ -3749,6 +3764,24 @@
    "url": "https://doi.org/10.1080/14719037.2026.2741725",
    "date": "2026-10-02",
    "first_seen": "2026-10-03",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.1080/14719037.2026.2738184",
+   "title": "Explaining user-orientation in public service delivery networks: configurations of network structure, process, and context",
+   "abstract": "",
+   "authors": [
+    "Dimitri Cremers",
+    "John Goedee",
+    "Jörg Raab",
+    "Antony Pemberton"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2738184",
+   "date": "2026-10-03",
+   "first_seen": "2026-10-04",
    "score": 0.0,
    "matched": [],
    "abstract_zh": ""
