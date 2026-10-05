@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-04T00:12:00+00:00",
+ "updated": "2026-10-05T00:18:59+00:00",
  "papers": [
   {
    "doi": "10.1080/10967494.2026.2706796",
@@ -1574,6 +1574,23 @@
    "abstract_zh": "全球極端天氣事件日益增加，然而，關於公共領導的訊息傳達以及傳達危機溝通的政府層級如何影響民眾的順從度與機構信任度的研究仍然有限。本研究借鑒公共領導理論與聯邦主義研究，採用一項嵌入於 2023 年美國合作選舉研究 (N = 409) 的 2 × 3 調查實驗，旨在檢視訊息傳達風格（威權式與民主式）以及政府機構層級（聯邦、州或地方）如何影響民眾的疏散意圖與機構信任度。我們發現，儘管地方政府在法律上負責發布疏散命令，但來自聯邦緊急事務管理局 (FEMA) 的訊息傳達增加了民眾的疏散意圖。民主式，或稱集體式的訊息傳達，與更高的機構信任度相關。然而，信任度與既有的個人傾向、公共服務動機和政治意識形態的關聯性，比與一次性的溝通線索的關聯性更強。本研究結果對危機溝通策略、公共領導以及緊急應變管理中的跨政府協調具有啟示。"
   },
   {
+   "doi": "10.1080/14719037.2026.2741375",
+   "title": "Interpretive leadership skill as the meaning-making leadership competency in public service organizations: content, construct, and criterion validity",
+   "abstract": "This research examines the conceptualization and measurement of interpretive leadership skill (ILS) in public service organizations. ILS is conceptualized as an individual leadership competency for meaning-making whose function is interactive: the leader’s capacity to read the working context, build shared understandings that promote coherent action for the organization, and revise those understandings as conditions change. This research reports three studies using two large-scale samples to validate the psychometric and predictive properties of ILS in the public service logic. Study 1 develops and validates a multidimensional measure of ILS and demonstrates its content validity. Study 2 establishes construct validity by situating ILS within a three-level model of leader development. Study 3 demonstrates criterion validity by showing ILS’s predictive property on organizational public service performance. Together, these studies validate ILS as the meaning-making competency of public service leaders and provide implications for leadership theory and practice across public and non-profit organizations.",
+   "authors": [
+    "Sungdae Lim"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2741375",
+   "date": "2026-10-02",
+   "first_seen": "2026-10-03",
+   "score": 8.0,
+   "matched": [
+    "predictive"
+   ],
+   "abstract_zh": "本研究探討詮釋型領導能力 (ILS) 在公部門組織中的概念化與衡量。ILS 被界定為一種個人意義建構的領導能力，其功能具互動性：即領導者判讀工作脈絡、建立共同理解以促進組織的協調行動，並隨情境變動修正理解的能力。本研究包含三項研究，採用兩份大型樣本資料，旨在驗證 ILS 在公部門服務邏輯下的心理計量與預測特性。研究一發展並確立 ILS 的多面向測量工具，並展現其內容效度。研究二藉由將 ILS 定位在領導者發展的三層次模型中，確立其建構效度。研究三藉由展現 ILS 對組織公部門服務績效的預測能力，證明其效標效度。綜合而言，這些研究驗證了 ILS 為公部門領導者的意義建構能力，並對橫跨公部門與非營利組織的領導理論與實務提供啟示。"
+  },
+  {
    "doi": "10.1111/puar.70191",
    "title": "Coordination Costs and Homelessness Housing Form Choice",
    "abstract": "Local implementers have discretion in selecting forms of housing for the homeless, yet the determinants of these choices remain poorly understood. Using the institutional collective action (ICA) framework, this study examines California's Homekey program to assess how coordination demands shape decisions among hotel conversions, multifamily acquisitions, and modular or new construction. Drawing on binary logistic, generalized estimating equation (GEE), and multinomial logistic models, we find that larger projects and those designated as permanent housing are significantly more likely to pursue hotel conversions. Housing authorities—owing to their specialized missions and lower form‐specific coordination costs—are over six times more likely than cities to select multifamily acquisition. Local vacancy constraints further steer implementers away from modular or new construction and toward hotel conversions. These results demonstrate that implementation form is not a neutral technical decision but an institutional response to coordination challenges embedded in intergovernmental and interorganizational contexts.",
@@ -1631,26 +1648,6 @@
     "bureaucra"
    ],
    "abstract_zh": "行政改革常旨在透過改變官僚或專業專長來提升績效。然而，單憑技術技能可能無法打破造成社會群體間不平等結果的力量。我們認為，系統性偏見影響了專業化和自由裁量判斷，限制了專長替代改革在減少種族差異方面的能力，即使這些改革改善了平均結果。我們透過2018年達拉斯的一項改革來驗證此論點，該改革部署了協同應變團隊，將警官與臨床醫師和社工配對，以處理心理健康求助電話。針對不同分區的雙重差分分析發現，精神病強制留置和逮捕顯著減少，但這些成效主要集中在白人男性公民身上；非裔男性被捕人數則顯著增加。一項補充性的事件層級分析，針對強制性結果的條件機率，指出異質性影響的不同模式：白人男性在改革後精神病強制留置的機率更高，而非裔女性和拉丁裔男性則經歷較低的機率。這兩組研究結果為行政改革的學術研究提供了新見解，並對此類計畫的影響及其評估方式具有實務意涵。"
-  },
-  {
-   "doi": "10.1093/jopart/muag017",
-   "title": "Playing with time: data manipulation within the performance evaluation cycle",
-   "abstract": "Understanding why public organizations manipulate performance data has become an essential theme in public administration scholarship. While prior research has extensively explored the individual and contextual drivers of gaming, the temporal dimension—specifically when manipulation occurs—remains remarkably underexplored. Moving beyond the impact of sporadic political events, this study examines the routine, institutionalized rhythms of the bureaucratic calendar. Utilizing satellite nighttime light data as an objective benchmark to detect distortion in officially reported GDP across 271 Chinese cities (2013–2020), we uncover a systematic, cyclical pattern of strategic gaming. Manipulation is substantial in the first quarter, consistent with political pressure for a “good start,” recedes during the middle of the year; and surges to its annual peak in the fourth quarter (Q4) as the final performance assessment looms. Furthermore, we show that this Q4 effect is contingent on local context: cities with lower fiscal autonomy and reduced marketization exhibit a significantly greater propensity to inflate year-end figures. By uncovering a routine form of manipulation embedded in bureaucratic practices, our study advances theories of performance gaming and sheds light on the strategic use of time in public management.",
-   "authors": [
-    "Jiayuan Li",
-    "Zhibin Chen",
-    "Manqian Cui",
-    "Xuelian Zhang"
-   ],
-   "journal": "Journal of Public Administration Research and Theory",
-   "url": "https://doi.org/10.1093/jopart/muag017",
-   "date": "2026-07-06",
-   "first_seen": "2026-07-06",
-   "score": 6.0,
-   "matched": [
-    "bureaucra"
-   ],
-   "abstract_zh": "探討公共組織為何操弄績效數據，已成為公共行政學術研究中的一個重要課題。儘管既有研究已廣泛探討績效操弄的個體與情境驅動因素，但時間面向——特別是操弄發生的時機——仍顯著地缺乏探討。本研究超越偶發性政治事件的影響，轉而檢視官僚體制運作時程中例行性、制度化的規律。本研究採用衛星夜間燈光資料作為客觀衡量基準，以檢測271個中國城市 (2013-2020年) 官方公布國內生產毛額(GDP)數據中的失真，從而揭示了策略性績效操弄的系統性、循環性模式。操弄在第一季顯著，符合追求「開門紅」的政治壓力；在年中趨緩；並隨著最終績效考核的逼近，在第四季 (Q4) 達到年度高峰。此外，本研究亦指出，此第四季效應取決於地方脈絡：財政自主性較低且市場化程度較低的城市，展現出顯著更高的虛報年終數據傾向。透過揭露一種根植於官僚實務的例行性操弄形式，本研究不僅推進了績效操弄的相關理論，也闡明了公共管理中時間的策略性運用方式。"
   },
   {
    "doi": "10.1093/jopart/muag019",
@@ -2660,40 +2657,6 @@
    "score": 2.0,
    "matched": [],
    "abstract_zh": "本評論批判性地探討 Kettl 對公共行政學術 (PA) 危機及其與民主衰退關係的分析。本評論認為，這兩種現象應在全球更廣泛的發展脈絡中理解，而非主要視為美國特有的問題。儘管承認治理失靈在促成獨裁化中的作用，本評論質疑獨裁化主要源於公共行政學術與實踐失敗的主張。相反地，本評論強調更廣泛的社會現象，例如社會信任的侵蝕以及威權領導者鞏固權力的目標，扮演著關鍵角色。借鑒匈牙利的經驗，本評論闡明了威權治理如何在非自由轉型初期階段，民主治理的（感知到的）失敗得到解決之後，仍可能長期延續行政不穩定和制度轉型。然而，本評論也主張，糟糕的治理和下降的政策績效最終可能破壞威權統治，正如匈牙利 2026 年的政治轉型所例證。本評論因此強調了威權主義與公共治理之間複雜且可能自我破壞的關係。"
-  },
-  {
-   "doi": "10.1177/0734371x261460425",
-   "title": "The Hidden Costs of Red Tape: Exploring the Physical Toll of Red Tape on Teachers",
-   "abstract": "When rules impose compliance burdens that outweigh their contribution to teachers’ objectives or values, they are experienced as red tape . Given red tape’s negative consequences, it is concerning that teachers worldwide report being confronted with high levels of red tape in their jobs. Drawing on Job Demands-Resources theory and Affective Events Theory, this study investigates the relationship between teachers’ red tape perceptions and physical complaints (e.g., neck pain and headaches). Specifically, we explore the mediating role of work-related anger in this relationship and investigate whether servant leadership moderates the negative effects of red tape. We collected time-lagged data from 717 teachers in Flemish schools. Structural Equation Modeling revealed a positive relationship between red tape and physical complaints, mediated by work-related anger. Furthermore, the results indicate that when teachers perceive their school leader as a servant leader, work-related anger is less affected by red tape, which indirectly reduces their physical complaints.",
-   "authors": [
-    "Jolien Muylaert",
-    "Isabeau Van Strydonck",
-    "Adelien Decramer",
-    "Mieke Audenaert"
-   ],
-   "journal": "Review of Public Personnel Administration",
-   "url": "https://doi.org/10.1177/0734371x261460425",
-   "date": "2026-07-06",
-   "first_seen": "2026-07-06",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "當規章制度所造成的遵循負擔，超過其對教師目標或價值的貢獻時，這些規章制度便被視為繁文縟節。鑑於繁文縟節的負面影響，全球教師普遍反映在工作中面臨高度的繁文縟節，此現象令人擔憂。本研究借鑒工作要求-資源理論（Job Demands-Resources theory）和情感事件理論（Affective Events Theory），探討教師對繁文縟節的感知與身體不適（例如：頸部疼痛和頭痛）之間的關係。具體而言，我們探討工作相關憤怒在此關係中的中介作用，並研究僕人式領導（servant leadership）是否能調節繁文縟節的負面影響。我們收集了來自法蘭德斯地區學校717位教師的跨時間點資料。結構方程模型（Structural Equation Modeling, SEM）分析結果顯示，繁文縟節與身體不適之間存在正向關係，且此關係由工作相關憤怒所中介。此外，結果指出，當教師將其學校領導者視為僕人式領導者時，工作相關憤怒較不受繁文縟節的影響，進而間接減少其身體不適。"
-  },
-  {
-   "doi": "10.1177/02750740261464894",
-   "title": "“You Keep Using That Word. I do not Think it Means What you Think it Means”: Interjurisdictional Equity in Local Option Tax Policy",
-   "abstract": "Fairness in tax policy is a widely shared goal among scholars, policymakers, and the public, yet equity remains a contested concept. This study examines interjurisdictional equity in the context of local option taxes (LOTs), which have become an increasingly significant revenue source for local governments. While much of the existing research on LOTs focuses on competition, rate setting, and adoption, this paper considers how different dimensions of equity intersect in shaping their implementation and effects and presents an analytical framework that can be applied to understanding interjurisdictional equity more holistically. Using a North Carolina local sales tax revenue policy designed to distribute revenues more equitably, this study analyzes county-level data from 2013 to 2019 to assess the policy's impact across multiple equity measures. The findings highlight complementary and conflicting equity considerations, underscoring the need for policymakers to clearly define their equity objectives to achieve desired policy outcomes. This research contributes to a more nuanced understanding of fairness in local public finance.",
-   "authors": [
-    "Whitney Afonso",
-    "Alex Combs"
-   ],
-   "journal": "The American Review of Public Administration",
-   "url": "https://doi.org/10.1177/02750740261464894",
-   "date": "2026-07-06",
-   "first_seen": "2026-07-06",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "租稅政策的公平性是學者、政策制定者和公眾之間普遍認同的目標，然而，衡平性仍是一個備受爭議的概念。本研究探討在地方選擇性稅收（LOTs）的背景下的跨轄區衡平性，此類稅收已成為地方政府日益重要的財政收入來源。儘管現有關於地方選擇性稅收的研究多著重於競爭、稅率設定和採行，本文則探討衡平性的不同面向如何交織影響其執行與成效，並提出一個分析框架，可用於更全面地理解跨轄區衡平性。本研究以北卡羅來納州一項旨在更公平分配稅收的地方銷售稅政策為例，分析2013年至2019年的縣級數據，以評估該政策在多個衡平性指標上的影響。研究結果突顯了互補與衝突的衡平性考量，強調政策制定者需明確界定其衡平性目標，以實現預期的政策成效。本研究有助於在地方公共財政領域中，更細緻地理解公平性。"
   },
   {
    "doi": "10.1080/14719037.2026.2690423",
@@ -3737,24 +3700,9 @@
    "abstract_zh": "本文探討多層次政策制定如何影響策略性公共管理。多層次治理安排現今已是公共部門的常見特徵；公部門機關設計並實施具連貫性及有效性架構的能力，受到不同層級政府間互動的影響。本研究透過個案研究進行，聚焦於義大利弗留利-威尼斯朱利亞大區的博弈規範。資料蒐集係結合文件分析、訪談與問卷調查，並於數項混合研究法專案（2018-2024）中進行。將博弈政策視為一個合法性驅動且制度鑲嵌的領域，本研究得以超越多層次政策制定中眾所周知的實施挑戰。研究顯示，政策不連貫與僵局不必然是政策失靈的結果，而可能源於刻意脫鉤的策略性回應。此外，本研究對脫鉤機制如何橫跨不同治理層級並以多向性運作，提供了新穎的見解。"
   },
   {
-   "doi": "10.1080/14719037.2026.2741375",
-   "title": "Interpretive leadership skill as the meaning-making leadership competency in public service organizations: content, construct, and criterion validity",
-   "abstract": "",
-   "authors": [
-    "Sungdae Lim"
-   ],
-   "journal": "Public Management Review",
-   "url": "https://doi.org/10.1080/14719037.2026.2741375",
-   "date": "2026-10-02",
-   "first_seen": "2026-10-03",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": ""
-  },
-  {
    "doi": "10.1080/14719037.2026.2741725",
    "title": "From reform to reality: governance mechanisms and social capital development in mandated healthcare networks",
-   "abstract": "",
+   "abstract": "Mandated healthcare networks are introduced to achieve reform objectives through collaboration, yet imposed arrangements may not generate the social capital needed for collective action. We examine how governance mechanisms activate key sources of social capital (opportunity, ability, motivation) and shape its subsequent development. Using a longitudinal case study of a mandated hospital network governed by a Network Administrative Organization (NAO), we analyse 55 interviews along with documentary data. We find that while the NAO expanded opportunities for social capital development through network governance mechanisms, these were pseudo-opportunities that failed to enhance the ability and motivation of network members to collaborate. We contribute to theory by explaining how imposed governance can simultaneously appear to provide a key condition for social capital (interaction opportunities) and nevertheless inhibit successful collective action and generate disenchantment. The study highlights the need to distinguish between technical integration and meaningful collaboration in the implementation of governance mechanisms.",
    "authors": [
     "Mara Sintejudeanu",
     "Geraldine Robbins",
@@ -3766,12 +3714,12 @@
    "first_seen": "2026-10-03",
    "score": 0.0,
    "matched": [],
-   "abstract_zh": ""
+   "abstract_zh": "強制性醫療照護網絡的引入旨在透過合作達成改革目標，然而，被強加的安排可能無法產生進行集體行動所需的社會資本。本研究檢視治理機制如何啟動社會資本的關鍵來源（機會、能力、動機），並塑造其後續發展。本研究採用一項縱貫性個案研究，針對一個由網絡行政組織（NAO）治理的強制性醫院網絡，分析了55份訪談資料以及文件數據。我們發現，儘管NAO透過網絡治理機制擴展了社會資本發展的機會，這些卻是未能提升網絡成員合作能力與動機的偽機會。本研究的理論貢獻在於解釋，被強加的治理如何能同時看似提供了社會資本的關鍵條件（互動機會），卻仍阻礙成功的集體行動並產生幻滅感。本研究強調在治理機制實施中，需要區分技術整合與有意義的合作。"
   },
   {
    "doi": "10.1080/14719037.2026.2738184",
    "title": "Explaining user-orientation in public service delivery networks: configurations of network structure, process, and context",
-   "abstract": "",
+   "abstract": "This study explores configurations of structural, process, and contextual conditions associated with high user-orientation in public service delivery networks. Drawing on Public Service Logic, we conceptualize user-orientation and connect it with interorganizational network research. We examine six conditions and apply fuzzy-set Qualitative Comparative Analysis to data from sixty networks. We identify five pathways. Across these pathways, collaboration intensity and organizational simplicity consistently emerge, underscoring the importance of process factors alongside structural conditions. Network size clarifies the distinct roles of centralization and density. One pathway combines high centralization and high density with high user-orientation, nuancing prevailing views about their simultaneous presence.",
    "authors": [
     "Dimitri Cremers",
     "John Goedee",
@@ -3784,7 +3732,7 @@
    "first_seen": "2026-10-04",
    "score": 0.0,
    "matched": [],
-   "abstract_zh": ""
+   "abstract_zh": "本研究旨在探討在公共服務傳遞網絡中，與高度使用者導向相關聯的結構性、過程性及脈絡性條件之構型。本研究立基於公共服務邏輯，將使用者導向概念化，並將其與跨組織網絡研究連結。我們檢視了六項條件，並採用模糊集質性比較分析（fsQCA）方法，分析來自六十個網絡的資料。本研究識別出五條路徑。在這些路徑中，協作強度與組織簡潔性持續浮現，突顯了過程因素與結構性條件並重的重要性。網絡規模釐清了集中化與密度的獨特角色。其中一條路徑結合了高度集中化、高密度與高度使用者導向，為關於它們同時存在的普遍觀點增添了細緻的見解。"
   }
  ]
 }
