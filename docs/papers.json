@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T00:18:59+00:00",
+ "updated": "2026-10-06T01:57:55+00:00",
  "papers": [
   {
    "doi": "10.1080/10967494.2026.2706796",
@@ -73,29 +73,6 @@
     "survey experiment"
    ],
    "abstract_zh": "隨著人工智慧（AI）日益轉變公共行政，了解其對「認知合法性」的影響變得至關重要，尤其是在警政等高風險領域。儘管既有研究對於政府使用AI是否會增強或損害公民對公平性和信任的認知提供了混雜的證據，但調節這些影響的條件仍未被充分探討。本研究借鑒代表性官僚理論，採用問卷實驗來探討性別代表性如何調節AI使用對公民在家暴防治單位（DVUs）中認知公平性和信任的影響。結果顯示，女性代表性正向調節DVU使用AI的合法性影響；相較之下，AI使用會降低女性受訪者在男性主導的DVU中對公平性和信任的認知，但這些負面影響在女性主導的DVU中則不復存在。我們的研究發現將代表性視為一個關鍵情境，影響公民對政府使用AI的反應，並藉由展示其間接的象徵性效果，拓展了代表性官僚理論。"
-  },
-  {
-   "doi": "10.1093/jopart/muag018",
-   "title": "Representative bureaucracy and administrative burdens: exploring the intersection of lived experience, gender, and professional qualities",
-   "abstract": "Lived experience representative bureaucracy theory has expanded the scope of representative bureaucracy by exploring traits beyond race, ethnicity, and gender. However, scholars have yet to focus on the intersection of symbolic representation, intersectionality, and professional qualities. In this article, we employ lived experience representative bureaucracy theory and intersectionality theory to understand which identities (veteran status, disability status, and gender) and professional qualities shape client preferences on which bureaucrat they want to help them navigate administrative burdens. We analyze data from a conjoint experiment of 964 military veterans, showing that lived experience, intersectionality, and professional qualities matter, with the strongest preferences for employees who are responsive and competent. Regarding identity-based characteristics, veteran status and disability status representation were more salient than gender representation in helping veterans navigate healthcare-related administrative burdens. In line with our expectations grounded in intersectionality theory, we find that veterans with a disability prefer to be served by VA employees with a disability, demonstrating the importance of this combination of lived experiences and intersecting identities. We find further evidence that intersectionality matters among male respondents; the positive effects of veteran status were nullified in cases where the VA employee was transgender, revealing the importance of anti-transgender bias in shaping male veterans’ preferences. Exploratory analyses suggest that weak professional qualities can nullify or reverse the positive effects of shared identity, whereas strong professional qualities can compensate for the absence of representation. This study contributes to the literature by exploring the symbolic representative effects of various forms of lived experience representation alongside gender representation and professional qualities, as well as by examining representative bureaucracy through an intersectional lens. Additionally, our research provides a novel examination of disability status as an important and understudied identity with symbolic representative effects.",
-   "authors": [
-    "Ryan J Lofaro",
-    "Elizabeth Bell",
-    "Colt Jensen"
-   ],
-   "journal": "Journal of Public Administration Research and Theory",
-   "url": "https://doi.org/10.1093/jopart/muag018",
-   "date": "2026-07-06",
-   "first_seen": "2026-07-07",
-   "score": 76.0,
-   "matched": [
-    "representative bureaucracy",
-    "representation",
-    "gender",
-    "bureaucra",
-    "conjoint"
-   ],
-   "abstract_zh": "生活經驗代表性官僚理論透過探討種族、族裔和性別以外的特徵，擴展了代表性官僚的範疇。然而，學者尚未關注象徵性代表、交織性與專業素質之間的交織。本文運用生活經驗代表性官僚理論和交織性理論，以理解哪些身份（退伍軍人身份、性別和身心障礙身份）和專業素質，會影響客戶對於希望由哪位官僚協助他們處理行政負擔的偏好。我們分析了來自964名退伍軍人的聯合實驗數據，結果顯示生活經驗、交織性和專業素質都很重要，其中對於反應迅速且有能力的員工有最強烈的偏好。在基於身份的特徵方面，退伍軍人身份和身心障礙身份的代表性，在協助退伍軍人處理與醫療保健相關的行政負擔時，比性別代表性更為顯著。與我們基於交織性理論的預期一致，我們發現身心障礙退伍軍人偏好由具有身心障礙身份的退伍軍人事務部（VA）員工服務，這顯示了生活經驗和交織身份這種組合的重要性。我們發現進一步的證據顯示，交織性在男性受訪者中也很重要；在VA員工為跨性別者的情況下，退伍軍人身份的正面影響被抵銷，這揭示了反跨性別偏見在形塑男性退伍軍人偏好方面的重要性。探索性分析顯示，較弱的專業素質可以抵銷或逆轉共享身份的正面影響，而強大的專業素質則可以彌補代表性的缺失。本研究透過探討各種形式的生活經驗代表性所產生的象徵性代表效果，以及性別代表性和專業素質，並透過交織性視角檢視代表性官僚，對文獻有所貢獻。此外，我們的研究提供了一個新穎的檢視，將身心障礙身份視為一個重要且未被充分研究、並具有象徵性代表效果的身份。"
   },
   {
    "doi": "10.1111/padm.70086",
@@ -918,27 +895,6 @@
     "conjoint"
    ],
    "abstract_zh": "美國的「地方選擇性銷售稅」是一種有趣的直接民主形式，直接受到公共管理者的影響。人們針對銷售稅進行投票的公民投票案（或稱投票議案）具有多種特徵，且能以多種方式呈現。因此，它們提供了一個獨特的機會，以研究選項與資訊對公民選擇的行為影響。本研究開發了一項新穎的實驗，採用聯合設計（conjoint design）的邏輯，透過改變公民投票案中的所有關鍵特徵，並以模仿實際公民投票案格式的段落形式呈現這些資訊。這項銷售稅投票聯合實驗的結果顯示，一般而言，人們僅專注於少數關鍵資訊，但特定次群體對擬議銷售稅的更多且不同特徵感興趣。這表明管理者可能在關鍵人口群體中擁有更大的影響力，且了解這些人口群體所重視的屬性，可能有助於形塑銷售稅公民投票案的呈現方式。"
-  },
-  {
-   "doi": "10.1177/0734371x261456288",
-   "title": "Political Upheaval and Bureaucratic Behavior: Quasi-Experimental Evidence for Public Sector HRM",
-   "abstract": "This study employs a quasi-experimental pre–post research design, exploiting a political uprising in Bangladesh as an exogenous shock to examine its effects on the organizational behaviors of public servants. Drawing on a unique pre- and post-uprising survey, the study categorizes bureaucratic behaviors into situational and dispositional responses. The findings show that political instability primarily disrupts context-dependent organizational dynamics (situational), while core individual values (dispositional) remain comparatively stable. Situational behaviors, such as job satisfaction and inter-service relationships, decline significantly following the regime change due to heightened uncertainty, role ambiguity, and job insecurity. In contrast, dispositional behaviors, such as Public Service Motivation (PSM) and Organizational Citizenship Behavior (OCB), remain resilient, suggesting that deeply internalized values are less vulnerable to political disruptions. By distinguishing between situational and dispositional behaviors, the study contributes to understanding bureaucratic resilience during political crises and offers practical implications for public-sector human resource management following political upheaval.",
-   "authors": [
-    "Rizwan Khair",
-    "Hasan Muhammad Baniamin"
-   ],
-   "journal": "Review of Public Personnel Administration",
-   "url": "https://doi.org/10.1177/0734371x261456288",
-   "date": "2026-07-07",
-   "first_seen": "2026-07-07",
-   "score": 19.0,
-   "matched": [
-    "bureaucra",
-    "public service motivation",
-    "psm",
-    "job satisfaction"
-   ],
-   "abstract_zh": "本研究採用準實驗性前測後測研究設計，利用孟加拉國的政治起義作為外生衝擊，以檢視其對公務人員組織行為的影響。本研究根據一份獨特的前起義與後起義調查，將官僚行為歸類為情境性與傾向性反應。研究結果顯示，政治不穩定主要擾亂依賴情境的組織動態（情境性），而核心個人價值觀（傾向性）則相對穩定。情境性行為，例如工作滿意度與跨部門關係，在政權更迭後顯著下降，原因是不確定性增加、角色模糊以及工作不安全感。相較之下，傾向性行為，例如公共服務動機（PSM）與組織公民行為（OCB），仍保持韌性，這表明根深蒂固的內化價值觀較不易受政治動盪影響。透過區分情境性與傾向性行為，本研究有助於理解政治危機期間的官僚韌性，並為政治動盪後的公共部門人力資源管理提供實務意涵。"
   },
   {
    "doi": "10.1093/jopart/muag023",
@@ -1774,6 +1730,25 @@
     "turnover"
    ],
    "abstract_zh": "面臨績效壓力，公部門組織頻繁經歷高階主管異動，然而其繼任者選擇方式卻鮮有探討。本研究主張負面績效回饋 (NPF) 關鍵性地影響繼任者來源。根據2,045筆高階主管異動資料，我們發現NPF降低內部繼任的機率達41.7%。內部升遷歷史藉由預示與失靈常規的決裂，強化外部繼任者選擇；而對探索性學習的重視，則將外部選擇強化為策略性定位。本研究透過為高階主管選擇提供動態且基於前因的解釋，推進公共管理領域，挑戰組織歷史的單一論觀點，並突顯繼任者來源作為一項策略性治理工具。"
+  },
+  {
+   "doi": "10.1080/14719037.2026.2739597",
+   "title": "When women lead: local political representation and pro-women institutions",
+   "abstract": "",
+   "authors": [
+    "Marylis Fantoni",
+    "Adalmir de Oliveira Gomes",
+    "Claudia N. Avellaneda"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2739597",
+   "date": "2026-10-05",
+   "first_seen": "2026-10-06",
+   "score": 6.0,
+   "matched": [
+    "representation"
+   ],
+   "abstract_zh": ""
   },
   {
    "doi": "10.1177/02750740261469537",
@@ -3733,6 +3708,19 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "本研究旨在探討在公共服務傳遞網絡中，與高度使用者導向相關聯的結構性、過程性及脈絡性條件之構型。本研究立基於公共服務邏輯，將使用者導向概念化，並將其與跨組織網絡研究連結。我們檢視了六項條件，並採用模糊集質性比較分析（fsQCA）方法，分析來自六十個網絡的資料。本研究識別出五條路徑。在這些路徑中，協作強度與組織簡潔性持續浮現，突顯了過程因素與結構性條件並重的重要性。網絡規模釐清了集中化與密度的獨特角色。其中一條路徑結合了高度集中化、高密度與高度使用者導向，為關於它們同時存在的普遍觀點增添了細緻的見解。"
+  },
+  {
+   "doi": "10.1080/14719037.2026.2738468",
+   "title": "Correction",
+   "abstract": "",
+   "authors": [],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2738468",
+   "date": "2026-10-05",
+   "first_seen": "2026-10-06",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
   }
  ]
 }
