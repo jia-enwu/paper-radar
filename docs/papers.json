@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T01:57:55+00:00",
+ "updated": "2026-10-07T01:05:45+00:00",
  "papers": [
   {
    "doi": "10.1080/10967494.2026.2706796",
@@ -518,6 +518,27 @@
     "generative"
    ],
    "abstract_zh": "公務人員越來越常被要求建立「生成性空間」，以促進協作、學習與創新的新興流程。本文針對一種相對新穎但日益普及的生成性空間——監理沙盒，進行了一項歸納法與民族誌為基礎的研究。監理沙盒是由監管機構建立的一種受控且明確的空間與流程組合，旨在與創新者合作，協同探索、測試與學習早期產品與創新，並了解新興的監管意涵。本研究調查了一個由國家醫療保健監管機構執行、旨在探索新興人工智慧技術監管的沙盒，並識別出使其「生成」協作、學習與創新的組織實踐。歸納分析識別出三項關鍵組織實踐：提供獨特且多樣、脫離常規監管要求的社會空間（保護）；使參與者能夠協同檢視創新並迭代發展新知識與法規（調適）；以及支持從多元視角對創新進行專注且沉浸式的檢視（參與）。一項理論驅動的次級分析指出，生成性空間可被理解為促進超脫、等同與重建的閾限經驗。"
+  },
+  {
+   "doi": "10.1080/14719037.2026.2739597",
+   "title": "When women lead: local political representation and pro-women institutions",
+   "abstract": "Whether women in office govern differently from men is well documented; whether they govern differently for women is not. The latter is the crux of active representation theory, which expects representatives to act for those they mirror: does electing women change what governments do for women? We investigate the relationship between electing female mayors and councilors and the existence of Pro-Women Institutions across all 5,565 cities of Brazil during four election cycles (2008, 2012, 2016 and 2020). Our results partially support the active representation relationship. While female mayors’ presence increases the likelihood of pro-women institutions, local councilors either do not or are negatively linked to them. Robustness checks through a regression discontinuity design corroborate these findings, and heterogeneous treatment effects on race paint a wider picture about intersectionality. Our findings highlight how female elected representatives might achieve substantial change for their female constituents in local government.",
+   "authors": [
+    "Marylis Fantoni",
+    "Adalmir de Oliveira Gomes",
+    "Claudia N. Avellaneda"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2739597",
+   "date": "2026-10-05",
+   "first_seen": "2026-10-06",
+   "score": 28.0,
+   "matched": [
+    "active representation",
+    "representation",
+    "regression discontinuity"
+   ],
+   "abstract_zh": "女性公職人員的施政方式是否與男性不同，已有充分文獻記載；然而，她們是否為女性群體施政有所不同，則尚未獲得充分探討。後者是積極代表理論的核心，該理論預期民意代表會為其所反映的群體採取行動：選舉女性是否會改變政府為女性提供的施政內容？我們探討了在巴西全國 5,565 個城市中，選舉女性市長和市議員與親女性制度存在之間的關係，涵蓋了四個選舉週期 (2008、2012、2016 和 2020 年)。我們的研究結果部分支持了積極代表關係。儘管女性市長的任職增加了親女性制度設立的可能性，但地方市議員卻要麼沒有關聯，要麼與其呈現負向關聯。透過迴歸不連續設計進行的穩健性檢定證實了這些發現，而針對種族的異質性處理效果則描繪了關於交織性更全面的視角。我們的研究結果突顯了女性民意代表如何在地方政府中為其女性選民帶來實質性改變。"
   },
   {
    "doi": "10.1080/10967494.2026.2696853",
@@ -1606,24 +1627,6 @@
    "abstract_zh": "行政改革常旨在透過改變官僚或專業專長來提升績效。然而，單憑技術技能可能無法打破造成社會群體間不平等結果的力量。我們認為，系統性偏見影響了專業化和自由裁量判斷，限制了專長替代改革在減少種族差異方面的能力，即使這些改革改善了平均結果。我們透過2018年達拉斯的一項改革來驗證此論點，該改革部署了協同應變團隊，將警官與臨床醫師和社工配對，以處理心理健康求助電話。針對不同分區的雙重差分分析發現，精神病強制留置和逮捕顯著減少，但這些成效主要集中在白人男性公民身上；非裔男性被捕人數則顯著增加。一項補充性的事件層級分析，針對強制性結果的條件機率，指出異質性影響的不同模式：白人男性在改革後精神病強制留置的機率更高，而非裔女性和拉丁裔男性則經歷較低的機率。這兩組研究結果為行政改革的學術研究提供了新見解，並對此類計畫的影響及其評估方式具有實務意涵。"
   },
   {
-   "doi": "10.1093/jopart/muag019",
-   "title": "The voice of the voiceless: refugees’ perceptions of participation under constraint",
-   "abstract": "Refugee camps have evolved into durable governance sites characterized by centralized authority and monopolistic service environments where residents lack “exit” options. While public administration scholarship extensively theorizes the benefits of participation, research often assumes a baseline of stable, democratic institutions, leaving “participation under constraint” underdeveloped. This study examines whether “thin” participation—awareness of feedback mechanisms and consultative outreach—is associated with refugees’ perceived outcomes at individual, community, and institutional levels. Using household-level survey data from 876 households across thirty-three refugee sites in Cox’s Bazar, Bangladesh, we find that both latent awareness and consultation are significantly associated with improved subjective well-being. Our findings reveal a tiered impact: passive awareness correlates with community and institutional gains, while the relational intensity of consultation is required for individual-level improvements. These results suggest that even minimal engagement functions as a vital generative mechanism for institutional legitimacy in high-dependency, non-democratic environments.",
-   "authors": [
-    "Khaldoun AbouAssi",
-    "Corbin M Walls"
-   ],
-   "journal": "Journal of Public Administration Research and Theory",
-   "url": "https://doi.org/10.1093/jopart/muag019",
-   "date": "2026-07-07",
-   "first_seen": "2026-07-08",
-   "score": 6.0,
-   "matched": [
-    "generative"
-   ],
-   "abstract_zh": "難民營已演變為持久的治理場域，其特徵為集中式權威和壟斷性服務環境，在此居民缺乏「退出」選項。儘管公共行政學術界廣泛地探討參與的益處，研究卻常假設穩定的民主制度為基礎，使得「受限下的參與」發展不足。本研究探討「薄弱」參與—即對回饋機制和諮詢外展的認知—是否與難民在個人、社群和機構層面的感知結果相關。本研究利用來自孟加拉國科克斯巴扎爾33個難民營的876個家戶層級調查資料，發現潛在認知和諮詢都顯著地與改善的主觀幸福感相關。我們的研究結果揭示了分層的影響：被動認知與社群和機構層面的獲益相關，而諮詢的關係強度則是個人層面改善所必需的。這些結果表明，即使是最低限度的參與，也能作為一個重要的生成機制，促進高度依賴、非民主環境中的機構合法性。"
-  },
-  {
    "doi": "10.1111/padm.70075",
    "title": "Resolving Agile Ambidexterity: Between Ambivalence, Adaptation, and Accommodation",
    "abstract": "Public bureaucracies address challenging and complex problems by applying agile work practices when standard operating procedures or routines fail. In these situations, public managers need to decide whether to exploit existing bureaucratic routines or explore novel solutions through non‐routine agile work practices. This study shows how public managers maneuver between different adoption decisions: (1) remain ambivalent and reject agile, (2) accommodate the needs of the bureaucracy and adjust agile work practices to align with administrative routines, or (3) adapt in an ambidextrous manner by becoming agile literate and choosing the appropriate work practices depending on the public management problem. This study contributes to the literature on agile governance by incorporating the notion of ambidexterity into the existing theory of 21st‐century bureaucracy.",
@@ -1730,25 +1733,6 @@
     "turnover"
    ],
    "abstract_zh": "面臨績效壓力，公部門組織頻繁經歷高階主管異動，然而其繼任者選擇方式卻鮮有探討。本研究主張負面績效回饋 (NPF) 關鍵性地影響繼任者來源。根據2,045筆高階主管異動資料，我們發現NPF降低內部繼任的機率達41.7%。內部升遷歷史藉由預示與失靈常規的決裂，強化外部繼任者選擇；而對探索性學習的重視，則將外部選擇強化為策略性定位。本研究透過為高階主管選擇提供動態且基於前因的解釋，推進公共管理領域，挑戰組織歷史的單一論觀點，並突顯繼任者來源作為一項策略性治理工具。"
-  },
-  {
-   "doi": "10.1080/14719037.2026.2739597",
-   "title": "When women lead: local political representation and pro-women institutions",
-   "abstract": "",
-   "authors": [
-    "Marylis Fantoni",
-    "Adalmir de Oliveira Gomes",
-    "Claudia N. Avellaneda"
-   ],
-   "journal": "Public Management Review",
-   "url": "https://doi.org/10.1080/14719037.2026.2739597",
-   "date": "2026-10-05",
-   "first_seen": "2026-10-06",
-   "score": 6.0,
-   "matched": [
-    "representation"
-   ],
-   "abstract_zh": ""
   },
   {
    "doi": "10.1177/02750740261469537",
@@ -2632,21 +2616,6 @@
    "score": 2.0,
    "matched": [],
    "abstract_zh": "本評論批判性地探討 Kettl 對公共行政學術 (PA) 危機及其與民主衰退關係的分析。本評論認為，這兩種現象應在全球更廣泛的發展脈絡中理解，而非主要視為美國特有的問題。儘管承認治理失靈在促成獨裁化中的作用，本評論質疑獨裁化主要源於公共行政學術與實踐失敗的主張。相反地，本評論強調更廣泛的社會現象，例如社會信任的侵蝕以及威權領導者鞏固權力的目標，扮演著關鍵角色。借鑒匈牙利的經驗，本評論闡明了威權治理如何在非自由轉型初期階段，民主治理的（感知到的）失敗得到解決之後，仍可能長期延續行政不穩定和制度轉型。然而，本評論也主張，糟糕的治理和下降的政策績效最終可能破壞威權統治，正如匈牙利 2026 年的政治轉型所例證。本評論因此強調了威權主義與公共治理之間複雜且可能自我破壞的關係。"
-  },
-  {
-   "doi": "10.1080/14719037.2026.2690423",
-   "title": "Public value as care within and for practices",
-   "abstract": "This article draws on practice theory and care theory to conceptualize public value as care within and for the practices to which citizens are entitled. In doing so, it contributes by theoretically integrating major strands of public value research. More specifically, it shows that strategic management of public value depends on the sustained care for practices; that contestation over public value centres on struggles over what should be cared for; that the cocreation and codestruction of public value depend on the extent to which practices are carefully sustained; and that public values are normatively grounded in care and become visible through enacted practices. The article also outlines practical implications for addressing pressing collective challenges through policy design and demonstrates how legitimacy, management, and accountability are reconfigured when public value is understood as care within and for the practices to which citizens are entitled.",
-   "authors": [
-    "Per Skålén"
-   ],
-   "journal": "Public Management Review",
-   "url": "https://doi.org/10.1080/14719037.2026.2690423",
-   "date": "2026-07-08",
-   "first_seen": "2026-07-08",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "本文立基於實踐理論與關懷理論，將公共價值概念化為在公民應享有的實踐中，並為其所做的關懷。藉此，本文的貢獻在於從理論上整合了公共價值研究的各個主要流派。更具體地說，本文指出：公共價值的策略性管理取決於對實踐的持續關懷；對公共價值的爭議核心在於對「應關懷什麼」的爭奪；公共價值的共創與共毀仰賴於實踐被審慎維護的程度；以及公共價值在規範上根植於關懷，並透過實踐行動而顯現。本文也概述了透過政策設計來應對緊迫集體挑戰的實務意涵，並闡明了當公共價值被理解為在公民應享有的實踐中，並為其所做的關懷時，正當性、管理與問責將如何被重新配置。"
   },
   {
    "doi": "10.1177/02750740261464913",
@@ -3712,12 +3681,27 @@
   {
    "doi": "10.1080/14719037.2026.2738468",
    "title": "Correction",
-   "abstract": "",
+   "abstract": "Article title: From co-production to value co-creation: NGOs as catalysts of cyclical public value in rural ChinaAuthor: Jingjing Cai & Kaisar KaherJournal: Public Management ReviewDOI: https://doi...",
    "authors": [],
    "journal": "Public Management Review",
    "url": "https://doi.org/10.1080/14719037.2026.2738468",
    "date": "2026-10-05",
    "first_seen": "2026-10-06",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "從共同生產到價值共創：非政府組織作為中國農村循環式公共價值的催化劑\n\n本文探討非政府組織在中國農村創造公共價值的角色。借鑒一項針對農村發展非政府組織的質性個案研究，我們主張非政府組織扮演循環式公共價值的催化劑。這個循環過程涉及非政府組織促進服務的共同生產，進而促成價值的共創，隨後賦予地方社區能力以維持並進一步創造公共價值。我們的研究結果對公共價值、共同生產以及非政府組織在威權背景下的角色等文獻有所貢獻，並提供關於非政府組織如何在基層促進永續發展和民主治理的見解。"
+  },
+  {
+   "doi": "10.1080/14719037.2026.2744326",
+   "title": "Impact of organizational goals, leadership styles, and organizational culture on employee outcomes in the Korean public sector",
+   "abstract": "",
+   "authors": [
+    "Hyeon Jo"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2744326",
+   "date": "2026-10-06",
+   "first_seen": "2026-10-07",
    "score": 0.0,
    "matched": [],
    "abstract_zh": ""
