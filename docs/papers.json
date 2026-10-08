@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T01:05:45+00:00",
+ "updated": "2026-10-08T01:25:12+00:00",
  "papers": [
   {
    "doi": "10.1080/10967494.2026.2706796",
@@ -1627,23 +1627,6 @@
    "abstract_zh": "行政改革常旨在透過改變官僚或專業專長來提升績效。然而，單憑技術技能可能無法打破造成社會群體間不平等結果的力量。我們認為，系統性偏見影響了專業化和自由裁量判斷，限制了專長替代改革在減少種族差異方面的能力，即使這些改革改善了平均結果。我們透過2018年達拉斯的一項改革來驗證此論點，該改革部署了協同應變團隊，將警官與臨床醫師和社工配對，以處理心理健康求助電話。針對不同分區的雙重差分分析發現，精神病強制留置和逮捕顯著減少，但這些成效主要集中在白人男性公民身上；非裔男性被捕人數則顯著增加。一項補充性的事件層級分析，針對強制性結果的條件機率，指出異質性影響的不同模式：白人男性在改革後精神病強制留置的機率更高，而非裔女性和拉丁裔男性則經歷較低的機率。這兩組研究結果為行政改革的學術研究提供了新見解，並對此類計畫的影響及其評估方式具有實務意涵。"
   },
   {
-   "doi": "10.1111/padm.70075",
-   "title": "Resolving Agile Ambidexterity: Between Ambivalence, Adaptation, and Accommodation",
-   "abstract": "Public bureaucracies address challenging and complex problems by applying agile work practices when standard operating procedures or routines fail. In these situations, public managers need to decide whether to exploit existing bureaucratic routines or explore novel solutions through non‐routine agile work practices. This study shows how public managers maneuver between different adoption decisions: (1) remain ambivalent and reject agile, (2) accommodate the needs of the bureaucracy and adjust agile work practices to align with administrative routines, or (3) adapt in an ambidextrous manner by becoming agile literate and choosing the appropriate work practices depending on the public management problem. This study contributes to the literature on agile governance by incorporating the notion of ambidexterity into the existing theory of 21st‐century bureaucracy.",
-   "authors": [
-    "Ines Mergel"
-   ],
-   "journal": "Public Administration",
-   "url": "https://doi.org/10.1111/padm.70075",
-   "date": "2026-07-09",
-   "first_seen": "2026-07-09",
-   "score": 6.0,
-   "matched": [
-    "bureaucra"
-   ],
-   "abstract_zh": "當標準作業程序或例行公事失效時，公部門科層體制會透過應用敏捷工作實務來處理具挑戰性且複雜的問題。在這些情況下，公部門管理者需要決定是利用現有的科層體制例行公事，還是透過非例行性的敏捷工作實務來探索新穎的解決方案。本研究闡述了公部門管理者如何在不同的採用決策之間權衡：(1) 保持矛盾並拒絕敏捷；(2) 順應科層體制的需求，並調整敏捷工作實務以符合行政例行公事；或 (3) 透過成為敏捷素養者，並根據公共管理問題選擇適當的工作實務，以雙元方式進行調適。本研究透過將雙元性概念納入現有的21世紀科層體制理論中，為敏捷治理的文獻做出貢獻。"
-  },
-  {
    "doi": "10.1080/14719037.2026.2703748",
    "title": "The cognitive fabric of collaborative governance: paradox mindset in transformation-oriented collaborations",
    "abstract": "This theoretical article develops a micro-foundational perspective on how and under what conditions collaborative governance groups generate transformative outcomes. It integrates literature on collaboration, transformation, and paradox to advance three core propositions. First, collaborating for transformative outcomes constitutes a distinctive paradoxical context, in which the tensions of collaboration and the tensions of transformation are nested, reinforcing, and constitutive of the process itself. Second, diversity in collaborators’ cognitive-emotional capacity to perceive and navigate tensions (i.e. paradox mindset) shapes collaborative outcomes, with diversity in paradox mindset enhancing the likelihood of transformative outcomes. Third, the paradoxical leadership behaviours of designated leaders further increase the likelihood of transformative outcomes. By highlighting the dual challenge of transformation-oriented collaborations of eliciting tensions to stimulate change while containing them to sustain collaboration, the article links individual-level cognitive-emotional predisposition to group dynamics and system-level outcomes, offering a broader theorizing of collaborations in public administration.",
@@ -1733,6 +1716,24 @@
     "turnover"
    ],
    "abstract_zh": "面臨績效壓力，公部門組織頻繁經歷高階主管異動，然而其繼任者選擇方式卻鮮有探討。本研究主張負面績效回饋 (NPF) 關鍵性地影響繼任者來源。根據2,045筆高階主管異動資料，我們發現NPF降低內部繼任的機率達41.7%。內部升遷歷史藉由預示與失靈常規的決裂，強化外部繼任者選擇；而對探索性學習的重視，則將外部選擇強化為策略性定位。本研究透過為高階主管選擇提供動態且基於前因的解釋，推進公共管理領域，挑戰組織歷史的單一論觀點，並突顯繼任者來源作為一項策略性治理工具。"
+  },
+  {
+   "doi": "10.1080/14719037.2026.2744322",
+   "title": "Coping with life-threatening experiences at the street-level: the case of police officers in the October 7 attack in Israel",
+   "abstract": "",
+   "authors": [
+    "Ofek Edri-Peer",
+    "Nissim Cohen"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2744322",
+   "date": "2026-10-07",
+   "first_seen": "2026-10-08",
+   "score": 6.0,
+   "matched": [
+    "street-level"
+   ],
+   "abstract_zh": ""
   },
   {
    "doi": "10.1177/02750740261469537",
@@ -2421,6 +2422,23 @@
    "abstract_zh": "成果導向合約（OBCs）圍繞可衡量成果組織公共服務提供，然而對於不同投資者如何參與這些工具，目前所知甚少。本文探討投資者導向（社會導向、財務導向或雙重目的導向）如何形塑全球OBCs中的投資者承諾。本文運用包含全球338份合約的資料集，結合描述性分析、迴歸模型和質性訪談，以探討投資者導向與投資規模之間的關係。我們假設涉及社會導向投資者的OBCs，其投資水準高於涉及財務導向或雙重目的導向投資者的OBCs。與此預測一致，社會導向投資者持續投入較大的金額，而財務導向和雙重目的導向投資者通常投入較少的資金。這些模式挑戰了OBCs的一個核心前提：即這類工具將為公共服務動員大量主流私人資本。訪談證據指出聲譽風險、對當地情況了解有限以及成果衡量複雜性為關鍵阻礙。"
   },
   {
+   "doi": "10.1093/jopart/muag030",
+   "title": "Cross-source corroboration and the dynamics of local government attention: evidence from an emerging policy field",
+   "abstract": "Governments receive simultaneous cues from superior authorities, peer jurisdictions, and societal audiences, yet existing research rarely explains how they decide which cues warrant scarce agenda space. We develop a cross-source corroboration perspective on governmental attention and argue that signals become more consequential when they are corroborated by cues from structurally different sources, because convergence reduces ambiguity and makes an issue appear important, legitimate, and actionable. Using Government Work Reports and the Baidu Index to measure attention to digital government, we estimate two-way fixed-effects models for 283 Chinese cities over 2012–2024. We find that superior, peer, and public attention are each positively associated with local attention. The signals also reinforce one another: superior attention strengthens the associations of both peer and public attention with local attention, while peer attention strengthens the association of public attention with local attention. Temporal patterns also differ: the association of superior attention with local attention becomes stronger in the later period, that of peer attention remains broadly stable, and that of public attention tends to strengthen. These findings advance attention–allocation theory by showing that governmental attention is a relational and configurational outcome of signal interpretation rather than an additive response to isolated institutional pressures.",
+   "authors": [
+    "Yingxin Zhang",
+    "Yixue Yao",
+    "Kaifeng Yang"
+   ],
+   "journal": "Journal of Public Administration Research and Theory",
+   "url": "https://doi.org/10.1093/jopart/muag030",
+   "date": "2026-09-14",
+   "first_seen": "2026-10-08",
+   "score": 2.0,
+   "matched": [],
+   "abstract_zh": "政府同時接收到來自上級機關、同儕管轄區和社會大眾的線索，然而，現有研究鮮少解釋政府如何決定哪些線索值得佔用稀缺的議程空間。本研究提出一個關於政府關注的跨來源佐證觀點，並主張當訊號獲得來自結構上不同來源的線索佐證時，其影響力會更大，因為匯聚能減少模糊性，並使議題顯得重要、具正當性且可執行。本研究利用政府工作報告和百度指數衡量對數位政府的關注，並針對2012年至2024年間的283個中國城市，估計雙向固定效果模型。我們發現上級、同儕和公眾的關注各自與地方關注呈正相關。這些訊號也相互強化：上級關注強化了同儕關注和公眾關注與地方關注的關聯，而同儕關注則強化了公眾關注與地方關注的關聯。時間模式亦有所不同：上級關注與地方關注的關聯在後期變得更強，同儕關注的關聯大致保持穩定，而公眾關注的關聯則趨於強化。這些發現透過顯示政府關注是訊號詮釋的關係性與組態性結果，而非對孤立制度壓力的加總反應，從而推進了注意力分配理論。"
+  },
+  {
    "doi": "10.1111/puar.70204",
    "title": "Elites, Policies and State Reconfiguration: Transforming the French Welfare Regime. By WilliamGenieys and Mohammad‐SaïdDarviche, Cham, Switzerland: Palgrave Macmillan, 2023. 209 pp. $169.99 (hardcover). ISBN: 978‐3‐03‐141581‐4",
    "abstract": "",
@@ -2616,26 +2634,6 @@
    "score": 2.0,
    "matched": [],
    "abstract_zh": "本評論批判性地探討 Kettl 對公共行政學術 (PA) 危機及其與民主衰退關係的分析。本評論認為，這兩種現象應在全球更廣泛的發展脈絡中理解，而非主要視為美國特有的問題。儘管承認治理失靈在促成獨裁化中的作用，本評論質疑獨裁化主要源於公共行政學術與實踐失敗的主張。相反地，本評論強調更廣泛的社會現象，例如社會信任的侵蝕以及威權領導者鞏固權力的目標，扮演著關鍵角色。借鑒匈牙利的經驗，本評論闡明了威權治理如何在非自由轉型初期階段，民主治理的（感知到的）失敗得到解決之後，仍可能長期延續行政不穩定和制度轉型。然而，本評論也主張，糟糕的治理和下降的政策績效最終可能破壞威權統治，正如匈牙利 2026 年的政治轉型所例證。本評論因此強調了威權主義與公共治理之間複雜且可能自我破壞的關係。"
-  },
-  {
-   "doi": "10.1177/02750740261464913",
-   "title": "Conceptualizing and Measuring the Rule of Law in Public Administration—Regulations, Organization, and Decision-Making",
-   "abstract": "The rule of law is foundational to Public Administration (PA), yet the field has long lacked a clear conceptualization of what the rule of law entails and, furthermore, an objective measurement system. Grounded in the “thin” conception of the rule of law and integrated within the public administration context, we propose a three-dimensional framework: Regulations, Organization, and Decision-making. We operationalize this framework as the Public Administration Rule of Law Index (PARLI), a composite measure built from three level-1 and seven level-2 indicators, using objective data to ensure replicability. We apply this index to measure the rule of law in China's 31 provinces (2020–2024) and validate it by examining its relationship with key socioeconomic outcomes. The results align with theoretical expectations: PARLI scores are positively correlated with entrepreneurship and innovation but negatively correlated with government responsiveness. These findings simultaneously confirm the measure's validity and reveal the inherent tensions in applying the rule of law within the public administration. This study makes two primary contributions. First, it provides scholars with a coherent framework to overcome knowledge fragmentation and cumulate scientific inquiry. Second, it offers a replicable and objective measurement toolkit for policy analysis.",
-   "authors": [
-    "Tianhao Chen",
-    "Weirui Wei",
-    "Yipo Su",
-    "Jieting Chen",
-    "Huizhong Gong",
-    "Yu Sheng"
-   ],
-   "journal": "The American Review of Public Administration",
-   "url": "https://doi.org/10.1177/02750740261464913",
-   "date": "2026-07-09",
-   "first_seen": "2026-07-09",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "法治是公共行政 (PA) 的基礎，然而，該領域長期以來缺乏對法治意涵的清晰概念化，此外，也缺乏客觀的衡量系統。本研究立基於「薄」法治概念，並整合於公共行政脈絡中，提出一個三維框架：規章、組織與決策。我們將此框架操作化為公共行政法治指數 (PARLI)，這是一個由三個第一層級與七個第二層級指標建構而成的綜合性衡量指標，並採用客觀數據以確保其可複製性。我們將此指數應用於衡量中國 31 個省份的法治狀況 (2020-2024年)，並透過檢視其與關鍵社會經濟成果的關係來驗證其有效性。研究結果符合理論預期：PARLI 分數與創業和創新呈正相關，但與政府回應性呈負相關。這些發現同時證實了該衡量指標的有效性，並揭示了在公共行政中應用法治時所固有的張力。本研究有兩項主要貢獻。首先，它為學者提供一個連貫的框架，以克服知識碎片化並累積科學探究。其次，它提供一個可複製且客觀的衡量工具包，供政策分析使用。"
   },
   {
    "doi": "10.1080/14719037.2026.2700573",
@@ -3694,7 +3692,7 @@
   {
    "doi": "10.1080/14719037.2026.2744326",
    "title": "Impact of organizational goals, leadership styles, and organizational culture on employee outcomes in the Korean public sector",
-   "abstract": "",
+   "abstract": "This study examines how organizational goals, leadership styles, and organizational culture influence employee outcomes in the Korean public sector. Using Structural Equation Modelling, data from 6,170 public servants were analysed. Organizational goals positively influenced commitment and performance efforts. Transactional leadership positively affected organizational culture and commitment but negatively affected performance efforts, whereas visionary leadership showed positive effects across all three outcomes. Organizational culture enhanced commitment and performance efforts, while organizational commitment positively influenced performance efforts and perceived organizational performance. Performance efforts also enhanced perceived organizational performance. These findings highlight how goals, leadership, and collaborative culture jointly shape employee and organizational outcomes.",
    "authors": [
     "Hyeon Jo"
    ],
@@ -3704,7 +3702,7 @@
    "first_seen": "2026-10-07",
    "score": 0.0,
    "matched": [],
-   "abstract_zh": ""
+   "abstract_zh": "本研究旨在探討組織目標、領導風格與組織文化如何影響韓國公共部門的員工結果。本研究運用結構方程模型，分析了來自6,170位公務員的資料。研究結果顯示，組織目標正向影響組織承諾與績效努力。交易型領導正向影響組織文化與組織承諾，但負向影響績效努力；而願景型領導則對這三項結果皆呈現正向影響。組織文化提升了組織承諾與績效努力；此外，組織承諾正向影響績效努力與知覺組織績效。績效努力亦提升了知覺組織績效。本研究結果突顯了目標、領導與協作文化如何共同形塑員工與組織結果。"
   }
  ]
 }
