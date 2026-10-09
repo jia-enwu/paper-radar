@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T01:25:12+00:00",
+ "updated": "2026-10-09T01:32:14+00:00",
  "papers": [
   {
    "doi": "10.1080/10967494.2026.2706796",
@@ -1300,6 +1300,25 @@
    "abstract_zh": "績效管理學術界大多忽略了績效系統設計因素（反映宏觀層次的制度與組織安排）如何透過行為機制，形塑公部門管理者在個人層次上對資訊的使用。本研究透過一項針對智利394位校長的全國性調查實驗，檢視了這些機制，測試該國教育監測系統中與政策相關的特徵，如何影響他們使用績效數據進行決策的意圖。本研究結果顯示，當管理者獲得及時的績效資訊、經歷高度的利害關係人參與，並享有培訓與知識分享機會時，其使用意圖會增加。然而，報告格式並未影響使用意圖。這些結果提供了深入的見解，說明如何針對現實世界績效系統設計進行有針對性的調整，可以作為行為槓桿，以鼓勵公部門管理者進行實證決策。"
   },
   {
+   "doi": "10.1111/puar.70225",
+   "title": "Is Public Sector a Better Place for Moms to Work? Exploring Sector Difference in Child Penalties on Women",
+   "abstract": "With commonly stabler and more flexible working environment, is public sector a better place for moms to work? Theorizing child penalties from sector difference perspective, we argue that childbirth may cause less gender gaps in unemployment and earnings but greater gender disparities in working time commitments in the public sector since job stability and family‐friendliness may form gender norms that depreciate women's work in the public sector. We test our hypotheses by employing event study designs using data from China Family Panel Studies (2010–2022). We found that women public employees experienced smaller child penalties in unemployment and earnings while greater child penalties in working hours than private counterparts, which can be explained by greater family responsibilities and spousal depreciation of women's jobs after childbirth. This paper advances theories of gender equity in public administration by proposing distinct child penalties in the public sector that challenges conventional beliefs.",
+   "authors": [
+    "Fangda Ding",
+    "Yifan Chen"
+   ],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70225",
+   "date": "2026-10-08",
+   "first_seen": "2026-10-09",
+   "score": 11.0,
+   "matched": [
+    "gender",
+    "public employee"
+   ],
+   "abstract_zh": "鑑於公部門通常提供更穩定且彈性的工作環境，它是否為媽媽們更理想的工作場所？本文從部門差異的角度探討育兒懲罰，主張生育在公部門可能導致失業率和收入上的性別落差較小，但在工時投入上卻造成更大的性別差異。這是因為工作穩定性和家庭友善政策可能形成性別規範，進而貶低公部門女性的工作。我們採用事件研究設計，並利用中國家庭追蹤調查（2010-2022）的數據，檢驗了這些假設。我們發現，女性公部門員工在失業率和收入方面經歷了較小的育兒懲罰，但在工時方面卻比私部門的同儕經歷了更大的育兒懲罰。這可以歸因於生育後女性承擔更大的家庭責任以及配偶對女性工作的貶抑。本文透過提出公部門獨特的育兒懲罰，挑戰了傳統觀念，進而推進了公共行政領域的性別平等理論。"
+  },
+  {
    "doi": "10.1080/10967494.2026.2684590",
    "title": "The social media paradox: Political expression and the bifurcation of bureaucratic values",
    "abstract": "Bureaucrats’ political activity on social media has received growing attention from various observers who have debated whether such behavior is weakening the bureaucracy’s reputed impartiality, or creating public value by contributing to public discussions. To advance this debate, this article investigates bureaucrats’ political activity on social media with survey data from Canada. Testing hypotheses drawn from four ideal-types depicting different approaches towards social media—imperatively impartial; politically minded, mindfully impartial; megaphone bureaucracy; promiscuously partisan—the empirical results suggest that bureaucrats’ social media activity has led to a paradoxical bifurcation of the bureaucracy into radically different realms of being imperatively impartial and promiscuously partisan. Responding to risk-averse messages from the bureaucracy itself, nonexecutive federal bureaucrats display remarkably low levels of political activity on social media. In contrast, responding to political pressure to promote the government’s messaging, top-ranking federal bureaucrats display high levels of political activity on social media, especially when it comes to partisan content such as reposting official party messages. This social media paradox points to a potentially tragic portrait for the future of governance in the twenty-first century, whereby the integrity of the bureaucracy’s reputed impartiality and the vitality of democratic society, both stand to lose.",
@@ -2008,6 +2027,24 @@
    "abstract_zh": "傳統上，治理與領導公共專業人員的階層式方法並非總能證明成功，因此，關於專業精神的整合性與混合式觀點正日益受到關注。本研究整合了專業發展領導（PDL）與分散式領導（DL）理論，並引入了分散式專業發展領導（D-PDL）的概念。D-PDL意指沒有正式領導職責的員工，在組織目標範圍內，參與著重於促進並實現專業精神共同理解的核心PDL活動。本研究理論化指出，專業人員參與D-PDL會比參與一般性分散式領導（其涵蓋廣泛且脫離專業核心任務的領導活動）帶來更高的自主動機。來自約2,400名丹麥醫師的調查數據支持此理論框架，並顯示醫師參與D-PDL與更高的內在動機和公共服務動機相關，而他們參與一般性分散式領導則主要與外在動機相關。本研究強調將PDL從以領導者為中心的觀念中拓展出來，並區分不同類型分散式領導活動的重要性。"
   },
   {
+   "doi": "10.1080/14719037.2026.2743138",
+   "title": "Decentralization as an anticorruption strategy: does revenue autonomy make a difference?",
+   "abstract": "",
+   "authors": [
+    "Fabio Monteduro",
+    "Riccardo Mussari"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2743138",
+   "date": "2026-10-08",
+   "first_seen": "2026-10-09",
+   "score": 4.0,
+   "matched": [
+    "corruption"
+   ],
+   "abstract_zh": ""
+  },
+  {
    "doi": "10.1080/10967494.2026.2691390",
    "title": "Chainsaw or scalpel: which leads to more blame for a service failure when leaders downsize government?",
    "abstract": "The Trump administration’s DOGE attempted to radically downsize U.S. federal agencies. This study aims to clarify whether government leaders are blamed more for service failure when they employ either a DOGE-like (chainsaw) method or a more measured (scalpel) approach. A preregistered experiment was conducted in which respondents were randomly assigned to one of 6 vignettes that presented information about downsizing approaches, a public service failure, and the person or entity directly responsible for the failure. This study produced four main findings. First, people blamed city leaders more for the service failure when they knew a chainsaw approach was used to downsize government, compared to when they were given no information about the approach. Second, people blamed city leaders more when a chainsaw approach was used than when a scalpel approach was used. Third, simply knowing that city leaders had used a downsizing approach was not enough to shift blame away from the frontline employee toward city leaders. Fourth, blame shifted from the frontline employee to city leaders when people learned that a chainsaw approach—rather than a scalpel approach—had been used. The implications for research and practice are that a chainsaw approach is undesirable.",
@@ -2023,24 +2060,6 @@
     "vignette"
    ],
    "abstract_zh": "川普政府的DOGE試圖大幅縮編美國聯邦機構。本研究旨在釐清，當政府領導者採用DOGE式（電鋸式）方法或更審慎（手術刀式）方法時，他們是否在服務失靈時受到更多責備。本研究進行了一項預先註冊的實驗，受訪者被隨機分配到六個情境之一，這些情境呈現了關於縮編方法、公共服務失靈以及直接負責失靈的人員或實體之資訊。本研究得出四項主要發現。首先，當人們得知政府採用電鋸式方法進行縮編時，他們對城市領導者在服務失靈上的責備更多，相較於未獲得任何關於該方法資訊的情況。其次，當採用電鋸式方法時，人們對城市領導者的責備更多，相較於採用手術刀式方法。第三，僅僅知道城市領導者曾使用縮編方法，並不足以將責備從第一線員工轉移到城市領導者身上。第四，當人們得知採用的是電鋸式方法而非手術刀式方法時，責備從第一線員工轉移到城市領導者身上。對於研究和實務的啟示是，電鋸式方法是不可取的。"
-  },
-  {
-   "doi": "10.1111/puar.70160",
-   "title": "Key Practices of Knowledge Mobilization in Local Policy Settings",
-   "abstract": "The literature on knowledge mobilization (KM) acknowledges the complex processes involved in the application of evidence to policy. However, the everyday activities employed by knowledge mobilizers to facilitate these processes have proved difficult to capture and codify. We address this gap in current understanding through empirical analysis of the practices used to mobilize knowledge in local policy making. We find that effective KM is characterized by relational interactions with diverse actors across research, policy and practice settings; constant and consistent engagement with the local and policy contexts in which evidence is being applied; and the integration of different types of knowledge (including research findings, professional expertise and lived experience) to collectively respond to policy and practice needs. These practices of KM have important implications for how evidence is defined, validated, and used by policymakers and practitioners.",
-   "authors": [
-    "Rosie Havers",
-    "Hannah Durrant",
-    "James Downe",
-    "Steve Martin"
-   ],
-   "journal": "Public Administration Review",
-   "url": "https://doi.org/10.1111/puar.70160",
-   "date": "2026-07-10",
-   "first_seen": "2026-07-10",
-   "score": 2.0,
-   "matched": [],
-   "abstract_zh": "知識轉化 (KM) 相關文獻體認到將實證應用於政策所涉及的複雜過程。然而，知識轉化者為促進這些過程所採用的日常實踐，卻難以捕捉與編碼。本研究透過對地方政策制定中知識轉化實踐的實證分析，旨在彌補當前理解上的不足。我們發現，有效的知識轉化具有以下特點：與跨越研究、政策和實務場域的多元行動者進行關係性互動；持續且一致地投入實證應用所處的地方與政策脈絡；以及整合不同類型的知識（包括研究發現、專業知識和生活經驗），以共同回應政策與實務需求。這些知識轉化實踐對於政策制定者與實務工作者如何定義、驗證和使用實證，具有重要意涵。"
   },
   {
    "doi": "10.1093/jopart/muag022",
@@ -2636,20 +2655,20 @@
    "abstract_zh": "本評論批判性地探討 Kettl 對公共行政學術 (PA) 危機及其與民主衰退關係的分析。本評論認為，這兩種現象應在全球更廣泛的發展脈絡中理解，而非主要視為美國特有的問題。儘管承認治理失靈在促成獨裁化中的作用，本評論質疑獨裁化主要源於公共行政學術與實踐失敗的主張。相反地，本評論強調更廣泛的社會現象，例如社會信任的侵蝕以及威權領導者鞏固權力的目標，扮演著關鍵角色。借鑒匈牙利的經驗，本評論闡明了威權治理如何在非自由轉型初期階段，民主治理的（感知到的）失敗得到解決之後，仍可能長期延續行政不穩定和制度轉型。然而，本評論也主張，糟糕的治理和下降的政策績效最終可能破壞威權統治，正如匈牙利 2026 年的政治轉型所例證。本評論因此強調了威權主義與公共治理之間複雜且可能自我破壞的關係。"
   },
   {
-   "doi": "10.1080/14719037.2026.2700573",
-   "title": "Navigating challenges at the frontline: evidence from Youth Outreach Unit (YOU) in marginalized communities",
-   "abstract": "Police-led youth programs provide mentorship and support for youth in marginalized communities, yet limited research examines their implementation challenges and adaptive strategies. This qualitative study investigates the Youth Outreach Unit (YOU) in Miami-Dade County, Florida, using virtual semi-structured interviews with program leaders and officers. Findings identify three key implementation challenges: resource constraints, understaffing and limited expertise, and unclear goals and performance metrics. We further identify three pathways for improvement: formal partnerships and community collaboration, strategic use of goal ambiguity, and clearer metrics, protocols, and accountability mechanisms. The study offers policy implications for designing and supporting community-based youth programs.",
+   "doi": "10.1111/puar.70209",
+   "title": "A Public Philosophy for Public Administration in Times of Democratic Crisis",
+   "abstract": "Public administration is at the center of the global democratic crisis. Meeting this challenge requires more than managerial and analytic competence—it requires a public philosophy grounded in the first principles of democratic ethos. We offer such a philosophy, drawing on four seminal thinkers whose concepts reflect the conditions public administrators face in times of democratic crisis. Judith Shklar's liberalism of fear establishes a negative obligation to refuse cruelty and resist its institutionalization. Alasdair MacIntyre's internal goods of practice create a positive obligation to cultivate virtue and protect the integrity of administrative practice. Isaiah Berlin's agony of choice obligates administrators to acknowledge irreducible value conflicts and their consequential impact on democratic life. Hannah Arendt's enlarged mentality provides a framework for thinking across perspectives so that judgment under conflict becomes democratically defensible. Together, these concepts form a public philosophy for public administration with practical significance for administrative judgment, organizational culture, and institutional courage.",
    "authors": [
-    "Vernise Estorcien",
-    "Sanghee Park"
+    "Curtis Ventriss",
+    "Tina Nabatchi"
    ],
-   "journal": "Public Management Review",
-   "url": "https://doi.org/10.1080/14719037.2026.2700573",
-   "date": "2026-07-10",
-   "first_seen": "2026-07-10",
-   "score": 0.0,
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70209",
+   "date": "2026-10-08",
+   "first_seen": "2026-10-09",
+   "score": 2.0,
    "matched": [],
-   "abstract_zh": "警方主導的青少年計畫為邊緣化社區的青少年提供指導與支持，然而，鮮少有研究探討其實施挑戰與調適策略。本質性研究旨在調查佛羅里達州邁阿密-戴德縣的青少年外展單位 (YOU)，透過與計畫領導者和警員進行虛擬半結構式訪談。研究結果指出三項主要的實施挑戰：資源限制、人力不足與專業知識有限，以及目標不明確與績效指標不清。我們進一步提出三項改進途徑：正式夥伴關係與社區合作、策略性地運用目標模糊性，以及更明確的指標、規範與課責機制。本研究為設計與支持以社區為基礎的青少年計畫提供政策意涵。"
+   "abstract_zh": "公共行政處於全球民主危機的核心。應對此挑戰不僅需要管理與分析能力，更需要一種根植於民主精神根本原則的公共哲學。本文提出此一哲學，援引四位開創性思想家，其概念反映了公共行政人員在民主危機時期所面臨的處境。茱蒂絲·許克拉的恐懼自由主義確立了一種拒絕殘酷並抵制其制度化的消極義務。阿拉斯代爾·麥金泰爾的實踐內在善建立了一種培養美德並保護行政實踐完整性的積極義務。以賽亞·柏林的選擇之苦責成行政人員承認不可化約的價值衝突及其對民主生活的影響。漢娜·鄂蘭的擴大心智提供了一個進行跨視角思考的框架，使得在衝突情境下的判斷能夠具有民主正當性。這些概念共同構成了一種公共行政的公共哲學，對行政判斷、組織文化和制度勇氣具有實踐意義。"
   },
   {
    "doi": "10.1080/14719037.2026.2703262",
