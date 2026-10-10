@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T01:32:14+00:00",
+ "updated": "2026-10-10T01:22:34+00:00",
  "papers": [
   {
    "doi": "10.1080/10967494.2026.2706796",
@@ -701,6 +701,26 @@
     "ai"
    ],
    "abstract_zh": "政府正日益部署人工智慧自助服務技術 (AI-based SSTs) 以改善政府對企業 (G2B) 服務，然而，對於企業用戶為何從人工協助的G2B服務轉向AI自助服務技術，卻知之甚少。本研究借鑒推力-拉力-錨定 (PPM) 框架，探討負面現有服務體驗、AI自助服務技術的知覺利益以及現狀偏誤如何共同形塑轉換意圖。本研究利用來自中國政府服務機構的461位企業用戶的問卷調查數據，並採用PLS-SEM方法，發現由回應性、個人化和自主性所形塑的知覺智慧，以及實體吸引力、程序公平性和結構保證，共同對AI自助服務技術產生拉力效應。轉換成本、習慣以及對人際互動的渴望會強化慣性，這直接降低了轉換意圖，並削弱了推力和拉力因素的影響。本研究將PPM框架擴展應用於數位政府服務遞送，並為降低慣性、促進向人工智慧自助服務管道的遷移提供了指導。"
+  },
+  {
+   "doi": "10.1080/14719037.2026.2744322",
+   "title": "Coping with life-threatening experiences at the street-level: the case of police officers in the October 7 attack in Israel",
+   "abstract": "How do street-level bureaucrats cope with acute, life-threatening experiences at work, and what are the consequences of such exposure? Based on 30 in-depth interviews with Israeli police officers who operated during the October 7 attack on Israel, we identify two coping mechanisms that enabled them to function under threat: auto-pilot mode, meaning relying on instinct and training, and detachment, meaning suppressing their emotions to complete their task. After the attack, officers reported less trust in state institutions, their organization, and the public. To cope, they relied mainly on peer support from colleagues who had undergone similar experiences. These experiences altered their professional behaviour, leading to cautiousness with citizens. The study contributes to public management by showing how exposure to acute, life-threatening experiences shapes street-level bureaucrats’ coping mechanisms and how these mechanisms may support organizational resilience during and after a crisis. Content warning: This article contains graphic descriptions of a warzone.",
+   "authors": [
+    "Ofek Edri-Peer",
+    "Nissim Cohen"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2744322",
+   "date": "2026-10-07",
+   "first_seen": "2026-10-08",
+   "score": 24.0,
+   "matched": [
+    "street-level bureaucrat",
+    "street-level",
+    "bureaucra"
+   ],
+   "abstract_zh": "在工作中，第一線官僚如何因應急性且危及生命的經歷？此類暴露又會產生哪些後果？本研究根據對在2023年10月7日以色列遇襲事件中執勤的30名以色列警察進行的深度訪談，識別出兩種使他們在威脅下仍能執行任務的因應機制：一是「自動駕駛模式」，意指依賴本能與訓練；二是「抽離」，意指壓抑情緒以完成任務。襲擊事件後，這些警察表示對國家機構、其所屬組織及民眾的信任度均有所下降。為此，他們主要依賴曾有類似經歷的同事所提供的同儕支持。這些經歷改變了他們的專業行為，使他們在面對民眾時更加謹慎。本研究透過揭示暴露於急性且危及生命的經歷如何形塑第一線官僚的因應機制，以及這些機制如何在危機期間與之後支持組織韌性，從而對公共管理領域有所貢獻。內容警語：本文包含對戰區的寫實描述。"
   },
   {
    "doi": "10.1080/10967494.2026.2684632",
@@ -1737,24 +1757,6 @@
    "abstract_zh": "面臨績效壓力，公部門組織頻繁經歷高階主管異動，然而其繼任者選擇方式卻鮮有探討。本研究主張負面績效回饋 (NPF) 關鍵性地影響繼任者來源。根據2,045筆高階主管異動資料，我們發現NPF降低內部繼任的機率達41.7%。內部升遷歷史藉由預示與失靈常規的決裂，強化外部繼任者選擇；而對探索性學習的重視，則將外部選擇強化為策略性定位。本研究透過為高階主管選擇提供動態且基於前因的解釋，推進公共管理領域，挑戰組織歷史的單一論觀點，並突顯繼任者來源作為一項策略性治理工具。"
   },
   {
-   "doi": "10.1080/14719037.2026.2744322",
-   "title": "Coping with life-threatening experiences at the street-level: the case of police officers in the October 7 attack in Israel",
-   "abstract": "",
-   "authors": [
-    "Ofek Edri-Peer",
-    "Nissim Cohen"
-   ],
-   "journal": "Public Management Review",
-   "url": "https://doi.org/10.1080/14719037.2026.2744322",
-   "date": "2026-10-07",
-   "first_seen": "2026-10-08",
-   "score": 6.0,
-   "matched": [
-    "street-level"
-   ],
-   "abstract_zh": ""
-  },
-  {
    "doi": "10.1177/02750740261469537",
    "title": "When Markets and Democracy Coincide: Perceived Sector Differences in Participation in Government-Funded Programs",
    "abstract": "This article investigates the effects of participation on performance assessment in government, for-profit, and nonprofit organizations that deliver public services. In addition to examining the impact of participation on public assessments of performance, we also test the perceived tradeoff between efficiency and participation, as well as the sectoral differences in the participation-performance relationship. We conducted a preregistered vignette experiment using the context of US nursing homes where various organizational information, including participation opportunities, and sector of operation (public, for-profit, and nonprofit sectors) serve as key treatment manipulations. We find that participation plays a critical role in enhancing perceptions of organizations regardless of sectors, but government organizations may obtain greater benefits by pursuing participation, especially in improving public perception of bureaucratic effectiveness and efficiency. These findings suggest that participation is not only normatively desirable, but also practically beneficial for organizations. The findings from this study contribute to advancing our knowledge on public participation, sector differences, performance management, and public values. Clinical Trial Registration This research was pre-registered at the American Economic Association's registry for randomized controlled trials (RCT ID: AEARCTR-0011918 and URL hidden for peer review).",
@@ -2669,6 +2671,21 @@
    "score": 2.0,
    "matched": [],
    "abstract_zh": "公共行政處於全球民主危機的核心。應對此挑戰不僅需要管理與分析能力，更需要一種根植於民主精神根本原則的公共哲學。本文提出此一哲學，援引四位開創性思想家，其概念反映了公共行政人員在民主危機時期所面臨的處境。茱蒂絲·許克拉的恐懼自由主義確立了一種拒絕殘酷並抵制其制度化的消極義務。阿拉斯代爾·麥金泰爾的實踐內在善建立了一種培養美德並保護行政實踐完整性的積極義務。以賽亞·柏林的選擇之苦責成行政人員承認不可化約的價值衝突及其對民主生活的影響。漢娜·鄂蘭的擴大心智提供了一個進行跨視角思考的框架，使得在衝突情境下的判斷能夠具有民主正當性。這些概念共同構成了一種公共行政的公共哲學，對行政判斷、組織文化和制度勇氣具有實踐意義。"
+  },
+  {
+   "doi": "10.1111/puar.70215",
+   "title": "Reply to Kettl: Public Administration and the Shifting Competing Forces of Accountability",
+   "abstract": "The accountability context for how public administrators operate has shifted markedly and has become much more volatile. This shift has placed new and some conflicting demands on public administrators to demonstrate their accountability to various competing governmental actors and has complicated policy and program implementation. The changed context, its causes, and the resultant challenges are analyzed and discussed. Questions are presented for public administration research to help public administrators deal with the challenges.",
+   "authors": [
+    "Charles Wise"
+   ],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70215",
+   "date": "2026-10-09",
+   "first_seen": "2026-10-10",
+   "score": 2.0,
+   "matched": [],
+   "abstract_zh": "公務人員運作的課責脈絡已顯著轉變，並變得更具波動性。這項轉變對公務人員提出了新的、甚至相互衝突的要求，要求他們向各種相互競爭的政府行動者展現其課責性，並使政策與計畫的執行變得更加複雜。本文將分析與討論此一變遷的脈絡、其成因以及由此產生的挑戰。本文也提出若干問題，供公共行政研究參考，以協助公務人員應對這些挑戰。"
   },
   {
    "doi": "10.1080/14719037.2026.2703262",
@@ -3722,6 +3739,22 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "本研究旨在探討組織目標、領導風格與組織文化如何影響韓國公共部門的員工結果。本研究運用結構方程模型，分析了來自6,170位公務員的資料。研究結果顯示，組織目標正向影響組織承諾與績效努力。交易型領導正向影響組織文化與組織承諾，但負向影響績效努力；而願景型領導則對這三項結果皆呈現正向影響。組織文化提升了組織承諾與績效努力；此外，組織承諾正向影響績效努力與知覺組織績效。績效努力亦提升了知覺組織績效。本研究結果突顯了目標、領導與協作文化如何共同形塑員工與組織結果。"
+  },
+  {
+   "doi": "10.1080/14719037.2026.2741378",
+   "title": "Achievements amidst asymmetries: power dynamics in Swedish civil-military collaboration - an exploratory conceptualization",
+   "abstract": "",
+   "authors": [
+    "Helena Hermansson",
+    "Frida Linehagen"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2741378",
+   "date": "2026-10-09",
+   "first_seen": "2026-10-10",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
   }
  ]
 }
