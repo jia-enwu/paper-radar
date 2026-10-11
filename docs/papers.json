@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T01:22:34+00:00",
+ "updated": "2026-10-11T00:34:45+00:00",
  "papers": [
   {
    "doi": "10.1080/10967494.2026.2706796",
@@ -1477,6 +1477,24 @@
    "abstract_zh": "公務人員日益面臨動盪的挑戰，在這些挑戰中，諸如預見、規劃和尋求共識等原則往往力有未逮。本研究檢視拼湊（bricolage）作為一種穩健的治理策略，並將動盪概念化為公共領導與拼湊行為之間關係的情境調節變項。根據對368名德國公務人員的調查數據，研究結果顯示，在動盪情境下，拼湊行為較少被實踐。儘管遵循規則的領導方式，出乎意料地，隨著情境變得更加動盪，與拼湊行為的關係變得更強且更正向，但問責型領導與拼湊行為之間的正向關聯則顯著減弱。令人驚訝的是，網絡治理型領導的重要性並未增加。本研究對公共行政研究的貢獻在於，進一步將拼湊概念化並探討其作為回應動盪的微觀層面行為能力，將動盪操作化為一種分級的情境壓力源，並證明動盪情境構成了公共領導實踐的關鍵邊界條件。"
   },
   {
+   "doi": "10.1080/14719037.2026.2743138",
+   "title": "Decentralization as an anticorruption strategy: does revenue autonomy make a difference?",
+   "abstract": "This study investigates how revenue autonomy is associated with documented municipal corruption risk, distinguishing between own-source tax and non-tax revenues. Drawing on public administration theories of decentralization, it adopts a meso-level analysis of Italian medium-to-large municipalities and relies on an event-based indicator derived from legally mandated anticorruption reports. The empirical strategy combines dynamic correlated random-effects logit, dynamic random-effects probit, and fixed-effects logit models, complemented by sensitivity analyses simulating under-reporting scenarios. Results indicate that higher levels of both tax and non-tax revenue autonomy are negatively associated with documented corruption risk. Tax autonomy shows stronger associations where political competition is higher, whereas the non-tax revenue pattern is more consistent with a service-based responsiveness logic. These findings, observed in the Italian municipal context, suggest that revenue autonomy is not a uniform anticorruption safeguard but an institutional feature whose relevance depends on revenue composition, accountability conditions, municipal capacity, and reporting practices.",
+   "authors": [
+    "Fabio Monteduro",
+    "Riccardo Mussari"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2743138",
+   "date": "2026-10-08",
+   "first_seen": "2026-10-09",
+   "score": 10.0,
+   "matched": [
+    "corruption"
+   ],
+   "abstract_zh": "本研究探討歲入自主權與地方政府已記錄的貪腐風險之間的關聯，並區分自主財源的稅收與非稅收收入。本研究借鑒公共行政分權理論，對義大利中大型地方政府進行中觀層次分析，並採用源自法定反貪腐報告的事件型指標。實證策略結合了動態相關隨機效應羅吉特、動態隨機效應普羅比特以及固定效應羅吉特模型，並輔以模擬低報情境的敏感性分析。結果顯示，較高程度的稅收與非稅收歲入自主權皆與已記錄的貪腐風險呈負相關。稅收自主權在政治競爭較高時呈現更強的關聯性，而非稅收歲入的模式則更符合服務導向的回應邏輯。這些在義大利地方政府脈絡下觀察到的發現指出，歲入自主權並非一項統一的反貪腐保障，而是一種制度特徵，其重要性取決於歲入組成、問責條件、地方政府能力以及報告慣例。"
+  },
+  {
    "doi": "10.1080/14719037.2026.2720755",
    "title": "Beyond monolithic state logic: how top-down accountability shapes policy implementation",
    "abstract": "How does top-down accountability shape policy implementation? Drawing on institutional logics, this paper distinguishes two state sub-logics: ‘high-stakes context logic’ emphasizing centralized control during crises, and ‘routine governance logic’ allowing discretion during day-to-day administration. These sub-logics condition the perceived legitimacy of accountability demands, felt accountability, and behavioural responses. A survey experiment with over 800 public service respondents shows that, under high-stakes logic, intensified accountability progressively improve compliance, whereas under routine logic, moderate accountability produces optimal compliance, with high-intensity accountability yielding diminishing returns. These findings challenge binary views of accountability and reveal how within-logic variations may alter governance mechanisms.",
@@ -2027,24 +2045,6 @@
     "public service motivation"
    ],
    "abstract_zh": "傳統上，治理與領導公共專業人員的階層式方法並非總能證明成功，因此，關於專業精神的整合性與混合式觀點正日益受到關注。本研究整合了專業發展領導（PDL）與分散式領導（DL）理論，並引入了分散式專業發展領導（D-PDL）的概念。D-PDL意指沒有正式領導職責的員工，在組織目標範圍內，參與著重於促進並實現專業精神共同理解的核心PDL活動。本研究理論化指出，專業人員參與D-PDL會比參與一般性分散式領導（其涵蓋廣泛且脫離專業核心任務的領導活動）帶來更高的自主動機。來自約2,400名丹麥醫師的調查數據支持此理論框架，並顯示醫師參與D-PDL與更高的內在動機和公共服務動機相關，而他們參與一般性分散式領導則主要與外在動機相關。本研究強調將PDL從以領導者為中心的觀念中拓展出來，並區分不同類型分散式領導活動的重要性。"
-  },
-  {
-   "doi": "10.1080/14719037.2026.2743138",
-   "title": "Decentralization as an anticorruption strategy: does revenue autonomy make a difference?",
-   "abstract": "",
-   "authors": [
-    "Fabio Monteduro",
-    "Riccardo Mussari"
-   ],
-   "journal": "Public Management Review",
-   "url": "https://doi.org/10.1080/14719037.2026.2743138",
-   "date": "2026-10-08",
-   "first_seen": "2026-10-09",
-   "score": 4.0,
-   "matched": [
-    "corruption"
-   ],
-   "abstract_zh": ""
   },
   {
    "doi": "10.1080/10967494.2026.2691390",
@@ -2686,6 +2686,23 @@
    "score": 2.0,
    "matched": [],
    "abstract_zh": "公務人員運作的課責脈絡已顯著轉變，並變得更具波動性。這項轉變對公務人員提出了新的、甚至相互衝突的要求，要求他們向各種相互競爭的政府行動者展現其課責性，並使政策與計畫的執行變得更加複雜。本文將分析與討論此一變遷的脈絡、其成因以及由此產生的挑戰。本文也提出若干問題，供公共行政研究參考，以協助公務人員應對這些挑戰。"
+  },
+  {
+   "doi": "10.1111/puar.70224",
+   "title": "Public Interest Capacity: The Case of Direct File",
+   "abstract": "This article describes the conditions for creating and undermining public interest capacity, that is, the ability of the state to generate public goods with widely distributed benefits. The creation and elimination of Direct File, a free, online public tax reporting system in the United States, offers an instrumental case. The creation of Direct File depended upon political commitment sufficient to overcome private interests: both the traditional dependence on private contractors to produce digital products, and the opposition of the private tax preparation industry which saw Direct File as a competitor. Political will was not enough: creating internal capacity in the form of skilled government tech teams who could build a quality digital product was also necessary. But without this political commitment in the Trump administration, which instead pursued downsizing and was receptive to the tax preparation industry arguments, both Direct File and the team that built it were eliminated.",
+   "authors": [
+    "Donald Moynihan",
+    "Pam Herd",
+    "Xiaoyang Xu"
+   ],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70224",
+   "date": "2026-10-10",
+   "first_seen": "2026-10-11",
+   "score": 2.0,
+   "matched": [],
+   "abstract_zh": "本文闡述建立與破壞公共利益能力之條件，此能力係指國家產生具有廣泛分配效益之公共財的能力。美國免費線上公共報稅系統Direct File的建立與廢除，提供了一個具啟發性的案例。Direct File的建立取決於足以克服私人利益的政治承諾：包括對私人承包商生產數位產品的傳統依賴，以及視Direct File為競爭對手的私人報稅產業的反對。僅有政治意願是不夠的：透過建立能夠打造高品質數位產品的熟練政府科技團隊來形成內部能力，也是必要的。然而，若無川普政府的此項政治承諾（該政府反而追求精簡化並接受報稅產業的論點），Direct File及其建立團隊皆被廢除。"
   },
   {
    "doi": "10.1080/14719037.2026.2703262",
@@ -3743,7 +3760,7 @@
   {
    "doi": "10.1080/14719037.2026.2741378",
    "title": "Achievements amidst asymmetries: power dynamics in Swedish civil-military collaboration - an exploratory conceptualization",
-   "abstract": "",
+   "abstract": "This article examines how power dynamics are shaped and managed in day-to-day civil-military collaboration in Swedish total defence. Drawing on semi-structured interviews with key civilian and military actors involved in total defence planning, the article investigates the interplay of power asymmetries, the collaboration’s institutional and relational conditions and how collaborating actors perceive and manage asymmetries in practice. Using thematic analysis, we demonstrate that civil-military collaboration is characterized by imbalances in authority, resources and discursive legitimacy. The paper further sheds light on micro-level practices of power enactment and details how collaborating actors negotiate and manage power asymmetries. The main finding suggests that when the relatively more powerful actors engage in power moderating practices, which we conceptualize as Strategic Power Moderation (SPM), collaborations can perform productively despite asymmetrical relations. The results offer a nuanced understanding of how collaborations fare under conditions of power asymmetry and have implications for both research and practice.",
    "authors": [
     "Helena Hermansson",
     "Frida Linehagen"
@@ -3754,7 +3771,7 @@
    "first_seen": "2026-10-10",
    "score": 0.0,
    "matched": [],
-   "abstract_zh": ""
+   "abstract_zh": "本文探討瑞典總體防衛中，日常軍民合作如何形塑與管理權力動態。本文透過對參與總體防衛規劃的關鍵文職與軍事人員進行半結構式訪談，探究權力不對稱的相互作用、合作的制度與關係條件，以及合作者在實踐中如何感知與管理這些不對稱。運用主題分析法，我們發現軍民合作的特點是權威、資源和話語合法性方面的不平衡。本文進一步闡明權力實踐的微觀層面，並詳述合作者如何協商與管理權力不對稱。主要研究結果指出，當相對較強勢的行動者採取權力調節實踐，我們將其概念化為「策略性權力調節」（Strategic Power Moderation, SPM）時，合作即使在不對稱關係下也能有效運作。這些結果提供了對合作在權力不對稱條件下如何運作的細緻理解，並對研究與實踐均具有啟示。"
   }
  ]
 }
