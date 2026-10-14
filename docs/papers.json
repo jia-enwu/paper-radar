@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T02:45:22+00:00",
+ "updated": "2026-10-14T00:43:10+00:00",
  "papers": [
   {
    "doi": "10.1080/10967494.2026.2706796",
@@ -372,24 +372,6 @@
    "abstract_zh": "本研究探討第一線官僚（SLBs）在自由裁量權上的性別差異是否會形塑不平等。本研究聚焦於社工人員向案主提供非正式個人資源（IFRs）的情形，分析了對以色列59位社工人員進行的深度訪談。儘管女性和男性都廣泛地運用非正式做法，但其範圍與形式卻有所差異。兩種機制促成了不平等的再製：非正式個人資源（IFRs）的不可見性與可見性，以及個人與專業領域之間的界線劃定。這些研究結果顯示，執行上的自由裁量權不僅具有性別意涵，而且再製了傳統的階層結構，加劇了公共行政第一線的性別不平等。"
   },
   {
-   "doi": "10.1093/jopart/muag016",
-   "title": "Bureaucratic turnover under new governments: the moderating effect of bureaucratic and political layering",
-   "abstract": "Politically motivated personnel turnover affects government bureaucracy’s legitimacy and performance. To understand the conditions of meritocracy, the article explores how variability in hierarchy moderates the effect of government transitions on bureaucratic turnover. Event history analysis of the careers of 948 Norwegian senior bureaucrats (1884–2024) reveals that the organizational layers separating bureaucrats from ministers moderate the effect of government change differently depending on the layer’s political or bureaucratic nature. Bureaucrats directly exposed to political appointees experience heightened turnover during government transitions, while the turnover of bureaucrats separated from appointees by an intervening layer of career employees is unaffected by government transitions. Further analysis of different time periods and senior bureaucratic roles shows that layering alone does not fully explain political influence on bureaucratic careers. Positions must be hierarchically exposed (lacking intervening bureaucratic layers), functionally politicized (involved in tasks that are strategically important to political leadership), and subject to administrative politicization (by being under the purview of political appointees) to be vulnerable to politically motivated turnover. The article advances scholarship on the politicization of senior bureaucrats in merit bureaucracies by examining 140 years of politically induced turnover through a theory of how layering moderates political dynamics.",
-   "authors": [
-    "Bjørn Mo Forum"
-   ],
-   "journal": "Journal of Public Administration Research and Theory",
-   "url": "https://doi.org/10.1093/jopart/muag016",
-   "date": "2026-07-07",
-   "first_seen": "2026-07-15",
-   "score": 31.0,
-   "matched": [
-    "bureaucra",
-    "turnover"
-   ],
-   "abstract_zh": "政治動機的人事異動影響政府官僚體系的合法性與績效。為理解功績制的條件，本文探討階層結構的變異如何調節政府更迭對官僚異動的影響。針對948名挪威高級官僚（1884-2024年）職業生涯的事件史分析揭示，將官僚與部長區隔開來的組織層級，會根據其政治或官僚性質，以不同方式調節政府變革的影響。直接接觸政治任命官員的官僚，在政府更迭期間經歷更高的異動率；而那些與任命官員之間隔著一層常任文官的官僚，其異動率則不受政府更迭的影響。對不同時期和高級官僚角色的進一步分析顯示，單純的層級結構無法完全解釋政治對官僚職業生涯的影響。職位必須在階層上暴露（缺乏中間官僚層級）、功能上政治化（涉及對政治領導層具有戰略重要性的任務），並受到行政政治化（處於政治任命官員的職權範圍內），才能容易受到政治動機異動的影響。本文透過一個關於層級結構如何調節政治動態的理論，檢視140年來政治引發的異動，從而推進了功績制官僚體系中高級官僚政治化的學術研究。"
-  },
-  {
    "doi": "10.1080/14719037.2026.2702504",
    "title": "The paradox of co-production: how austerity and structural scarcity reshape street-level discretion and public value in Scotland’s disability support system",
    "abstract": "Co-production promises empowerment , yet masks austerity's realities. Drawing on qualitative data from across Scotland's disability support services, we apply the Gioia methodology to model links between street-level discretion, public value co-contamination, and citizen adaptation. A ‘public service gap’ forces State Street Level Bureaucrats (SLBs) to ration support, locking vulnerable citizens and third-sector SLBs into forced substitution to compensate for institutional retreat. We conceptualize this as peripheral co-production:necessity-driven participation sustaining service continuity while masking systemic fragility. Extending Street-Level Bureaucracy and Public Value theories, we reframe co-production as a technical compulsion where unpaid, adaptive labour systematically co-contaminates public value.",
@@ -579,6 +561,24 @@
     "bureaucra"
    ],
    "abstract_zh": "儘管繁文縟節的負面後果已獲廣泛研究，其前因卻仍未充分探討。本文立基於心理歷程模型，探討基層官僚對繁文縟節認知的前因，涵蓋微觀、中觀與宏觀層次。本文採用來自44個國家共90,480名教師的資料集，結果顯示各層次的前因皆與教師對繁文縟節的認知相關。具體而言，在具有成長型思維、於控制幅度較廣的學校工作，以及生活在低不確定性規避和個人主義文化中的教師，其對繁文縟節的認知較弱。在這些前因中，文化脈絡尤為重要。"
+  },
+  {
+   "doi": "10.1111/puar.70220",
+   "title": "Governing Reserves: Managerial Discretion and Government Creditworthiness",
+   "abstract": "A government's ability to generate surpluses and build reserves reflects prudent financial management, with the accumulation of reserves signaling sound budgeting practices. Reserves are essential for sound fiscal governance during economic downturns, and managerial discretion over these resources is crucial to minimizing disruptions in service delivery. While the counter‐cyclical benefits of formal reserves are well documented, less attention has been paid to the discretion managers retain over reserves. Using credit ratings as a proxy for creditworthiness, we find that managerial discretion over accumulated resources enhances fiscal flexibility and strengthens creditworthiness; however, the presence of formal reserves alone does not improve credit ratings. Our study contributes to an emerging literature exploring whether better financial reporting can help us understand the critical balance between management flexibility and accountability mechanisms in public‐sector organizations.",
+   "authors": [
+    "Sharon N. Kioko",
+    "Temirlan T. Moldogaziev"
+   ],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70220",
+   "date": "2026-10-13",
+   "first_seen": "2026-10-14",
+   "score": 27.0,
+   "matched": [
+    "discretion"
+   ],
+   "abstract_zh": "政府產生盈餘並建立儲備金的能力，反映了審慎的財務管理，而儲備金的累積則預示著健全的預算實踐。儲備金對於經濟衰退期間的健全財政治理至關重要，而管理層對這些資源的裁量權，對於最大限度地減少服務交付中斷也至關重要。儘管正式儲備金的反週期效益已有充分文獻記載，但管理層對儲備金所保留的裁量權卻較少受到關注。我們以信用評級作為信用度的代理變數，發現管理層對累積資源的裁量權能增強財政彈性並強化信用度；然而，僅僅存在正式儲備金並不能提高信用評級。我們的研究為新興文獻做出了貢獻，探討更好的財務報告是否能幫助我們理解公共部門組織中管理彈性與問責機制之間的關鍵平衡。"
   },
   {
    "doi": "10.1080/14719037.2026.2701411",
@@ -1000,6 +1000,27 @@
     "administrative data"
    ],
    "abstract_zh": "政府通常是貨品與勞務的最大採購者，滋生了嚴重的貪腐機會。我們研究向烏干達50個行政區的採購官員提供培訓與技術協助，是否促使他們依法律規定，在線上公共入口網站發布採購資訊。在接受培訓與技術協助計畫的行政區中，我們隨機分配採購官員是否預先收到資訊，告知他們若遵守這些透明度標準，將有資格獲得公開獎勵。我們使用橫跨多個會計年度的國家行政資料，以及134個行政區政府的資料來評估其影響。該培訓與技術協助計畫使上傳的採購資訊數量與價值增加了數倍，而獎勵資格並未產生同樣顯著的影響。這些結果顯示，在反貪腐工作中，動機問題可能被過度強調了。提升會計與透明度方面的能力，可以提供有效的防弊機制。"
+  },
+  {
+   "doi": "10.1111/puar.70226",
+   "title": "Promises, Threats, and Norms: A Mixed Methods Study on Bureaucratic Support for Public Participation",
+   "abstract": "Public participation can enhance policy quality and democratic legitimacy but may threaten bureaucratic control. We hypothesize that bureaucratic support for participation is higher when policies are less complex and participants are broadly representative. Using a mixed‐methods design involving Indonesian local public servants, we pursue complementarity by combining a 2 × 2 vignette‐based survey experiment with a Gioia analysis of qualitative reflections to explain the experimental results and further illuminate how bureaucrats evaluate participation. The experiment shows that participant representativeness significantly increases support, whereas policy complexity has no statistically significant effect. Integrating the experimental and qualitative data through joint displays reveals that bureaucrats rejecting participation frequently cite participant‐related risks, whereas supporters emphasize instrumental, procedural, and implementation benefits. Normative values, such as citizens' rights and democratic principles, are acknowledged regardless of bureaucrats' overall support. We conclude that bureaucratic support for public participation reflects how officials balance its promises, threats, and normative foundations.",
+   "authors": [
+    "Jesse W. Campbell",
+    "Oscar Radyan Danar",
+    "Sanjay K. Pandey"
+   ],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70226",
+   "date": "2026-10-13",
+   "first_seen": "2026-10-14",
+   "score": 19.0,
+   "matched": [
+    "bureaucra",
+    "survey experiment",
+    "vignette"
+   ],
+   "abstract_zh": "公民參與能提升政策品質與民主正當性，但也可能威脅官僚控制。我們假設，當政策複雜度較低且參與者具有廣泛代表性時，官僚對公民參與的支持度會較高。本研究採用混合方法設計，針對印尼地方公務員，結合2 × 2情境式問卷實驗與針對質性反思的Gioia分析，以追求互補性，藉此解釋實驗結果並進一步闡明官僚如何評估公民參與。實驗結果顯示，參與者代表性顯著提升了支持度，而政策複雜度則沒有統計上顯著的影響。透過聯合展示法整合實驗與質性資料後發現，拒絕公民參與的官僚經常提及與參與者相關的風險，而支持者則強調工具性、程序性與執行性效益。無論官僚的整體支持度如何，公民權利與民主原則等規範性價值均獲得認可。我們總結，官僚對公民參與的支持反映了官員如何權衡其潛在效益、威脅與規範基礎。"
   },
   {
    "doi": "10.1080/10967494.2026.2696851",
@@ -3736,6 +3757,43 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "本文探討瑞典總體防衛中，日常軍民合作如何形塑與管理權力動態。本文透過對參與總體防衛規劃的關鍵文職與軍事人員進行半結構式訪談，探究權力不對稱的相互作用、合作的制度與關係條件，以及合作者在實踐中如何感知與管理這些不對稱。運用主題分析法，我們發現軍民合作的特點是權威、資源和話語合法性方面的不平衡。本文進一步闡明權力實踐的微觀層面，並詳述合作者如何協商與管理權力不對稱。主要研究結果指出，當相對較強勢的行動者採取權力調節實踐，我們將其概念化為「策略性權力調節」（Strategic Power Moderation, SPM）時，合作即使在不對稱關係下也能有效運作。這些結果提供了對合作在權力不對稱條件下如何運作的細緻理解，並對研究與實踐均具有啟示。"
+  },
+  {
+   "doi": "10.1080/14719037.2026.2745616",
+   "title": "Evaluating the validity of performance measurement systems in law enforcement: a pragmatic constructivism approach",
+   "abstract": "",
+   "authors": [
+    "Adel AlSaqri",
+    "Ahmed Abdel-Maksoud",
+    "Rashed A. Alzahmi",
+    "Graham Manville",
+    "Mike Perkins"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2745616",
+   "date": "2026-10-13",
+   "first_seen": "2026-10-14",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.1080/14719037.2026.2738177",
+   "title": "When women lead: women mayors and municipal police effectiveness in reducing homicide in Brazil",
+   "abstract": "",
+   "authors": [
+    "Paulo Arvate",
+    "Sandro Cabral",
+    "Trang Hoang",
+    "Meghna Sabharwal"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2738177",
+   "date": "2026-10-13",
+   "first_seen": "2026-10-14",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
   }
  ]
 }
