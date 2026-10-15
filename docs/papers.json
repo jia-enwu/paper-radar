@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T00:43:10+00:00",
+ "updated": "2026-10-15T00:11:29+00:00",
  "papers": [
   {
    "doi": "10.1080/10967494.2026.2706796",
@@ -372,26 +372,6 @@
    "abstract_zh": "本研究探討第一線官僚（SLBs）在自由裁量權上的性別差異是否會形塑不平等。本研究聚焦於社工人員向案主提供非正式個人資源（IFRs）的情形，分析了對以色列59位社工人員進行的深度訪談。儘管女性和男性都廣泛地運用非正式做法，但其範圍與形式卻有所差異。兩種機制促成了不平等的再製：非正式個人資源（IFRs）的不可見性與可見性，以及個人與專業領域之間的界線劃定。這些研究結果顯示，執行上的自由裁量權不僅具有性別意涵，而且再製了傳統的階層結構，加劇了公共行政第一線的性別不平等。"
   },
   {
-   "doi": "10.1080/14719037.2026.2702504",
-   "title": "The paradox of co-production: how austerity and structural scarcity reshape street-level discretion and public value in Scotland’s disability support system",
-   "abstract": "Co-production promises empowerment , yet masks austerity's realities. Drawing on qualitative data from across Scotland's disability support services, we apply the Gioia methodology to model links between street-level discretion, public value co-contamination, and citizen adaptation. A ‘public service gap’ forces State Street Level Bureaucrats (SLBs) to ration support, locking vulnerable citizens and third-sector SLBs into forced substitution to compensate for institutional retreat. We conceptualize this as peripheral co-production:necessity-driven participation sustaining service continuity while masking systemic fragility. Extending Street-Level Bureaucracy and Public Value theories, we reframe co-production as a technical compulsion where unpaid, adaptive labour systematically co-contaminates public value.",
-   "authors": [
-    "Seemab Farooqi",
-    "Vicky Lambert"
-   ],
-   "journal": "Public Management Review",
-   "url": "https://doi.org/10.1080/14719037.2026.2702504",
-   "date": "2026-07-16",
-   "first_seen": "2026-07-16",
-   "score": 31.0,
-   "matched": [
-    "discretion",
-    "street-level",
-    "bureaucra"
-   ],
-   "abstract_zh": "協同生產承諾賦權，卻掩蓋了緊縮政策的現實。根據來自蘇格蘭各地身心障礙支持服務的質性資料，我們應用 Gioia 方法論，以建立街頭官僚裁量權、公共價值共同污染與公民適應之間的連結。「公共服務缺口」迫使國家街頭官僚 (SLBs) 配給支持，將弱勢公民與第三部門街頭官僚鎖定於被迫替代，以彌補體制撤退。我們將此概念化為邊緣協同生產：一種需求驅動的參與，維持了服務連續性，同時掩蓋了系統性脆弱性。擴展街頭官僚與公共價值理論，我們將協同生產重新定義為一種技術性強制，其中無償的、適應性勞動系統性地共同污染了公共價值。"
-  },
-  {
    "doi": "10.1111/padm.70078",
    "title": "Getting the Priorities Straight: Public Values in AI Adoption",
    "abstract": "Artificial Intelligence (AI) is adopted in public organizations as a transformative innovation, yet how value prioritizations unfold in AI adoption processes remains underexplored. Therefore, we ask: How do public values unfold in AI adoption processes in public organizations? We conducted a qualitative case study of an AI adoption process at the radiology department of a Dutch academic hospital after the decision to adopt is made and before implementation, using ethnographic fieldwork, interviews, and document analysis. Our findings highlight how public values and the AI adoption process are balanced in the transition from the initiation to the implementation stage. We find a recursive relationship between public values and the AI adoption process. We show an interplay of instrumental and intrinsic values. We highlight the importance of top‐down adoption decisions for how public values are perceived, and we show the importance of public organizations ensuring public values are safeguarded in public‐private partnerships.",
@@ -579,30 +559,6 @@
     "discretion"
    ],
    "abstract_zh": "政府產生盈餘並建立儲備金的能力，反映了審慎的財務管理，而儲備金的累積則預示著健全的預算實踐。儲備金對於經濟衰退期間的健全財政治理至關重要，而管理層對這些資源的裁量權，對於最大限度地減少服務交付中斷也至關重要。儘管正式儲備金的反週期效益已有充分文獻記載，但管理層對儲備金所保留的裁量權卻較少受到關注。我們以信用評級作為信用度的代理變數，發現管理層對累積資源的裁量權能增強財政彈性並強化信用度；然而，僅僅存在正式儲備金並不能提高信用評級。我們的研究為新興文獻做出了貢獻，探討更好的財務報告是否能幫助我們理解公共部門組織中管理彈性與問責機制之間的關鍵平衡。"
-  },
-  {
-   "doi": "10.1080/14719037.2026.2701411",
-   "title": "My workgroup or my desire to serve the society? The influence of workgroup identification and public service motivation on whistleblowing intentions",
-   "abstract": "Socio-psychological processes are important when it comes to whistleblowing. While prior research has explored the direct relationship between workgroup identification and whistleblowing, it has overlooked individuals’ multiple identities. This article examines whether public service motivation (PSM) moderates this association and whether a public service identity salience prime amplifies this dynamic. Using a survey experiment with 582 Chinese public employees, we find that the relationship between workgroup identification on whistleblowing depends on PSM and that a salience prime marginally boosts this interaction. The discussion addresses the findings and provides directions for future research.",
-   "authors": [
-    "Guillem Ripoll",
-    "Carina Schott",
-    "Ying Liu",
-    "Yi Yang",
-    "Jeannette Taylor"
-   ],
-   "journal": "Public Management Review",
-   "url": "https://doi.org/10.1080/14719037.2026.2701411",
-   "date": "2026-07-16",
-   "first_seen": "2026-07-16",
-   "score": 25.0,
-   "matched": [
-    "public employee",
-    "public service motivation",
-    "psm",
-    "survey experiment"
-   ],
-   "abstract_zh": "在揭弊行為中，社會心理過程扮演著重要角色。儘管先前研究已探討工作群體認同與揭弊行為之間的直接關係，卻忽略了個體的多元認同。本文檢視公共服務動機（PSM）是否調節此關聯，以及公共服務認同顯著性啟動是否強化這種動態。採用一項針對582名中國公務員的問卷實驗，我們發現工作群體認同對揭弊行為的影響取決於PSM，且顯著性啟動邊際上增強了這種交互作用。本文討論了研究發現，並為未來研究提供了方向。"
   },
   {
    "doi": "10.1111/padm.70092",
@@ -1123,6 +1079,26 @@
    "abstract_zh": "在《公共行政與美國民主危機》一書中，唐·凱特爾（Don Kettl）探討為何有些聯邦機構是理想的工作場所，而有些則否，並指出美國太空總署（NASA）與美國國土安全部（DHS）之間持續存在的落差。本文主張，答案可能取決於公務員在民主治理中的正當角色如何被詮釋。本文借鑒官僚體制、民主和實用主義這三個詮釋框架，檢視美國太空總署（NASA）和美國國土安全部（DHS）在2024年員工意見調查中與這些框架相符的回覆。美國國土安全部（DHS）似乎主要受官僚體制框架主導，將員工定位為執行者，其意見被視為有風險，專業知識也未被充分利用。美國太空總署（NASA）則融合了這三個框架，將員工視為貢獻者、管理者和問題解決者。這些框架為凱特爾的難題提供了部分解釋，也為他提出的「第四條道路」提供了一個概念工具：當公務員被認可為民主治理的正當貢獻者，而非僅是官僚機器中的螺絲釘時，優良的政府工作場所便得以建立。"
   },
   {
+   "doi": "10.1111/puar.70223",
+   "title": "Between the Lines: Decoding Signaling Differences in Public and Private Sector Job Advertisements",
+   "abstract": "To compete in the “war for talent,” public sector employers must demonstrate advantages over private employers. While public service motivation (PSM) predicts sector preference, scholars disagree on whether public employers (can) effectively signal PSM in job advertisements. Consequently, this article examines how public and private job advertisements differ in language. We collected 5000 advertisements from both sectors and performed natural language processing (NLP) and qualitative content analysis. Both sectors use specialized language that can narrow the applicant pool. PSM signals appear more often in the public sector, but affective motives are rarely communicated; instead, self‐sacrifice is framed as a legal obligation. Public sector advertisements adopt a rational tone instead of explaining purpose and societal value. Legally mandated, saturated signals may be perceived as low‐cost and ineffective. The findings explain the mixed results concerning PSM signaling and underscore the gap between theory and practice in PSM‐related recruitment efforts.",
+   "authors": [
+    "Nico Gießmann",
+    "Nicolas Drathschmidt"
+   ],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70223",
+   "date": "2026-10-14",
+   "first_seen": "2026-10-15",
+   "score": 17.0,
+   "matched": [
+    "public service motivation",
+    "psm",
+    "recruitment"
+   ],
+   "abstract_zh": "為在「人才爭奪戰」中脫穎而出，公部門雇主必須展現相較於私部門雇主的優勢。儘管公共服務動機（PSM）能預測求職者對部門的偏好，學者們對於公部門雇主能否在徵才廣告中有效傳達PSM訊號，仍存在分歧。因此，本文旨在探討公部門與私部門的徵才廣告在語言上如何不同。我們蒐集了來自這兩個部門的5000份廣告，並進行了自然語言處理（NLP）和質性內容分析。兩個部門都使用可能縮小求職者群體的專業語言。PSM訊號在公部門出現得更頻繁，但情感動機卻鮮少被傳達；相反地，自我犧牲被框定為一種法律義務。公部門的廣告採用理性語氣，而非解釋其宗旨和社會價值。法定且飽和的訊號可能被認為是低成本且無效的。這些研究結果解釋了關於PSM訊號傳達的莫衷一是的結果，並突顯了PSM相關招募工作中理論與實踐之間的落差。"
+  },
+  {
    "doi": "10.1080/10967494.2026.2684482",
    "title": "What drives perceived job crafting in the public sector? Evidence from a randomized COM-B-informed intervention study",
    "abstract": "Drawing on the Capability, Opportunity, and Motivation–Behavior (COM-B) framework, this study examines the impact of an intervention designed to help public employees develop the capability, motivation, and opportunity to reshape their work through job crafting strategies within highly rule-bound organizational contexts. Using a randomized longitudinal study from Italy, the findings show that a COM-B-informed job crafting intervention significantly enhanced social job resources and reduced hindering job demands. Although improvements in structural job resources and challenging job demands are more limited, the intervention promoted adaptive forms of job redesign that fit the constraints and dynamics of bureaucratic environments. Additionally, Public Service Motivation (PSM) helps sustain self-reported job crafting behaviors, and empowering leadership creates conditions that enable them. Overall, the study highlights the need for tailored job crafting interventions aligned with the structural and motivational dynamics of the public sector, fostering a more engaged and adaptable workforce. Moreover, the findings offer practical insights for public organizations seeking to enhance employee effectiveness and job satisfaction through structured job crafting initiatives.",
@@ -1299,25 +1275,6 @@
     "public service motivation"
    ],
    "abstract_zh": "公共服務動機的研究一致發現，公務人員比私部門的同儕更常從事志願服務並貢獻更多，然而，對於參與程度如何在行為領域和制度脈絡中有所不同，則了解較少。本研究旨在檢視公務人員與其他公民相比，其公民參與的結構如何，並特別關注不同政府層級之間的差異。本研究利用2023年「公民參與與志願服務補充調查」(CPS Volunteering and Civic Life Supplement)，建構了橫跨政治參與、公民投入、政治表達和社會連結等四個領域的多面向衡量指標。加權迴歸分析與傾向分數配對法的結果顯示，公務人員，尤其是地方層級的公務人員，展現出獨特的公民參與樣貌，其特徵為更高度參與制度化的參與形式，例如投票和志願服務，但較少參與非正式活動，例如政治討論和社會互動。這些模式在控制可觀察特徵後依然存在，並指出公務人員身分將參與引導至特定形式，而非均勻地提升整體參與程度，這對於文官改革如何改變地方社區的公民組成具有啟示意義。"
-  },
-  {
-   "doi": "10.1093/jopart/muag021",
-   "title": "Anti-corruption efforts and citizen-initiated accountability: evidence from administrative litigation",
-   "abstract": "Despite widespread recognition that institutional environment shapes citizen behavior, we have limited understanding of how anti-corruption efforts influence citizens’ willingness to challenge government actions through formal accountability mechanisms. This study examines how provincial leaders’ corruption convictions affect citizen-initiated administrative litigation in China, exploring the mediating role of judicial remedies and the moderating effect of local corruption environments. Drawing on comprehensive data including over 1.25 million judicial documents and corruption prosecutions, we find that provincial leaders’ corruption convictions significantly increase citizen accountability actions, with this effect mediated by enhanced judicial remedies. However, this direct relationship is substantially weakened when local corruption levels are higher. These findings reveal that anti-corruption efforts can catalyze citizen engagement with accountability institutions, but their effectiveness depends critically on the broader institutional context. This research advances public administration literature by revealing how anti-corruption efforts and judicial review function as institutional mechanisms that activate citizen-initiated legal accountability, reshaping incentive structures for citizen participation in government accountability.",
-   "authors": [
-    "Weitao He",
-    "Haohao Li",
-    "Luning Liu"
-   ],
-   "journal": "Journal of Public Administration Research and Theory",
-   "url": "https://doi.org/10.1093/jopart/muag021",
-   "date": "2026-07-15",
-   "first_seen": "2026-07-16",
-   "score": 12.0,
-   "matched": [
-    "corruption"
-   ],
-   "abstract_zh": "儘管制度環境塑造公民行為已獲普遍認知，但我們對於反貪腐作為如何影響公民透過正式課責機制挑戰政府作為的意願，仍了解有限。本研究檢視中國省級領導人貪腐定罪如何影響公民發起的行政訴訟，並探討司法救濟的中介角色與地方貪腐環境的調節作用。根據包括超過125萬份司法文件和貪腐起訴案件的全面性資料，我們發現省級領導人貪腐定罪顯著增加公民課責行動，此效應由強化後的司法救濟所中介。然而，當地方貪腐程度較高時，這種直接關係會大幅減弱。這些發現揭示反貪腐作為能催化公民參與課責機構，但其有效性關鍵取決於更廣泛的制度脈絡。本研究透過揭示反貪腐作為和司法審查如何作為制度機制啟動公民發起的法律課責，並重塑公民參與政府課責的激勵結構，從而推進公共行政文獻。"
   },
   {
    "doi": "10.1080/14719037.2026.2685779",
@@ -1534,6 +1491,28 @@
    "abstract_zh": "由上而下的課責機制如何形塑政策執行？本文援引制度邏輯，區辨出兩種國家次級邏輯：「高風險情境邏輯」強調危機時期的中央集權控制，以及「常規治理邏輯」允許日常行政中的裁量權。這些次級邏輯制約著課責要求的感知合法性、感知課責以及行為反應。一項針對八百多名公務人員受訪者的問卷實驗結果顯示，在高風險情境邏輯下，強化課責能逐步提升順從度；然而在常規治理邏輯下，適度課責能產生最佳順從度，而高強度課責則產生邊際效益遞減。這些研究發現挑戰了課責的二元觀點，並揭示了邏輯內部的變異如何改變治理機制。"
   },
   {
+   "doi": "10.1080/14719037.2026.2738177",
+   "title": "When women lead: women mayors and municipal police effectiveness in reducing homicide in Brazil",
+   "abstract": "While research highlights women leaders’ influence in traditionally feminine domains such as health, education, and welfare, less is known about their impact in traditionally masculine fields such as policing and crime reduction. Using a Regression Discontinuity design and data from Brazilian municipalities, this study shows that, compared with male mayors, women mayors are more likely to adopt municipal police forces. Municipal policing, in turn, reduces youth homicide rates under women leadership, with this effect amplified by investments in socially oriented infrastructure. These findings demonstrate that women leaders can generate broader community-wide benefits beyond direct representation of women’s interests. The study extends scholarship on gender-responsive governance and women leadership by showing how elected women can shape policy choices and their effectiveness in traditionally male-dominated domains such as policing.",
+   "authors": [
+    "Paulo Arvate",
+    "Sandro Cabral",
+    "Trang Hoang",
+    "Meghna Sabharwal"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2738177",
+   "date": "2026-10-13",
+   "first_seen": "2026-10-14",
+   "score": 9.0,
+   "matched": [
+    "representation",
+    "gender",
+    "regression discontinuity"
+   ],
+   "abstract_zh": "儘管研究強調女性領導人在醫療、教育和福利等傳統女性領域的影響力，但對於她們在警政和犯罪防治等傳統男性領域的影響卻知之甚少。本研究採用迴歸不連續設計，並利用巴西市鎮的數據，結果顯示相較於男性市長，女性市長更有可能設立市鎮警察部隊。市鎮警政在女性領導下，進而降低了青少年兇殺率，且此效果會因對社會導向基礎設施的投資而增強。這些發現證明，女性領導人能夠產生超越直接代表女性利益範疇的更廣泛社區整體效益。本研究藉由展示民選女性如何在警政等傳統男性主導領域中形塑政策選擇及其有效性，進而拓展了關於性別回應式治理和女性領導力的學術研究。"
+  },
+  {
    "doi": "10.1111/puar.70168",
    "title": "Bureaucracy Remade, Citizens Reconfigured: Accountability, Digitalization, and the Transformation of Public Administration",
    "abstract": "Something quietly consequential has been unfolding within democratic institutions over the past 40 years, though it rarely announces itself in obvious ways.Two recent books, emerging from different corners of public administration scholarship, circle this transformation from distinct vantage points.Karl Löfgren and Patrik Hall's The New Public Bureaucracy, alongside the edited volume Digital Co-Production of Public Services: Citizens, Challenges and Cases, led by Taco Brandsen, Ina Radtke, A. Paula Rodriguez Müller, and Trui Steen, were not conceived as companions.They speak in different voices and address partially overlapping audiences.Yet, when read side by side, something sparks between them.The tension is not accidental.It is revealing.",
@@ -1705,23 +1684,6 @@
    "abstract_zh": "行政改革常旨在透過改變官僚或專業專長來提升績效。然而，單憑技術技能可能無法打破造成社會群體間不平等結果的力量。我們認為，系統性偏見影響了專業化和自由裁量判斷，限制了專長替代改革在減少種族差異方面的能力，即使這些改革改善了平均結果。我們透過2018年達拉斯的一項改革來驗證此論點，該改革部署了協同應變團隊，將警官與臨床醫師和社工配對，以處理心理健康求助電話。針對不同分區的雙重差分分析發現，精神病強制留置和逮捕顯著減少，但這些成效主要集中在白人男性公民身上；非裔男性被捕人數則顯著增加。一項補充性的事件層級分析，針對強制性結果的條件機率，指出異質性影響的不同模式：白人男性在改革後精神病強制留置的機率更高，而非裔女性和拉丁裔男性則經歷較低的機率。這兩組研究結果為行政改革的學術研究提供了新見解，並對此類計畫的影響及其評估方式具有實務意涵。"
   },
   {
-   "doi": "10.1080/14719037.2026.2703748",
-   "title": "The cognitive fabric of collaborative governance: paradox mindset in transformation-oriented collaborations",
-   "abstract": "This theoretical article develops a micro-foundational perspective on how and under what conditions collaborative governance groups generate transformative outcomes. It integrates literature on collaboration, transformation, and paradox to advance three core propositions. First, collaborating for transformative outcomes constitutes a distinctive paradoxical context, in which the tensions of collaboration and the tensions of transformation are nested, reinforcing, and constitutive of the process itself. Second, diversity in collaborators’ cognitive-emotional capacity to perceive and navigate tensions (i.e. paradox mindset) shapes collaborative outcomes, with diversity in paradox mindset enhancing the likelihood of transformative outcomes. Third, the paradoxical leadership behaviours of designated leaders further increase the likelihood of transformative outcomes. By highlighting the dual challenge of transformation-oriented collaborations of eliciting tensions to stimulate change while containing them to sustain collaboration, the article links individual-level cognitive-emotional predisposition to group dynamics and system-level outcomes, offering a broader theorizing of collaborations in public administration.",
-   "authors": [
-    "Noa A. Birman"
-   ],
-   "journal": "Public Management Review",
-   "url": "https://doi.org/10.1080/14719037.2026.2703748",
-   "date": "2026-07-16",
-   "first_seen": "2026-07-16",
-   "score": 6.0,
-   "matched": [
-    "diversity"
-   ],
-   "abstract_zh": "本文提出一個微觀基礎觀點，探討協作治理群體如何以及在何種條件下產生轉型性成果。本文整合了協作、轉型與弔詭相關文獻，旨在提出三個核心命題。首先，為達成轉型性成果的協作構成一個獨特的弔詭脈絡，其中協作張力與轉型張力相互鑲嵌、相互強化，並為該過程的本質構成要素。其次，協作者感知與駕馭張力的認知情感能力（亦即弔詭心態）之多樣性，形塑了協作成果，其中弔詭心態的多樣性將提高轉型性成果的產生機率。第三，指定領導者的弔詭式領導行為，將進一步提高轉型性成果的產生機率。藉由突顯轉型導向協作的雙重挑戰——亦即激發張力以刺激變革，同時加以控制以維持協作——本文將個體層次的認知情感傾向與群體動態及系統層次成果連結起來，為公共行政領域的協作提供更廣泛的理論建構。"
-  },
-  {
    "doi": "10.1111/puar.70163",
    "title": "The Matthew Effect in American Generosity? Philanthropic Disparities and the Role of Government Support",
    "abstract": "This study examines how economic, racial, and ecological dimensions of community disadvantage shape philanthropic donations to local human services nonprofit sectors, and whether government support mitigates these place‐based disparities. Using a novel county‐level panel dataset spanning 2000–2019, we combine descriptive analyses with mixed‐effects regression models to estimate both direct and moderating relationships. We find that per capita private donations are significantly lower in economically deprived communities and significantly higher in rural communities, while minority prominence shows no statistically significant association with private giving. While government funding crowds in private donations overall, its moderating role is context specific. Government support does not attenuate philanthropic disparities linked to economic deprivation or minority prominence, but it crowds in private donations more strongly in rural counties than in urban counties. These findings highlight the contingent role of government support and underscore the need for targeted policy strategies to address philanthropic disparities across communities.",
@@ -1794,25 +1756,6 @@
     "turnover"
    ],
    "abstract_zh": "面臨績效壓力，公部門組織頻繁經歷高階主管異動，然而其繼任者選擇方式卻鮮有探討。本研究主張負面績效回饋 (NPF) 關鍵性地影響繼任者來源。根據2,045筆高階主管異動資料，我們發現NPF降低內部繼任的機率達41.7%。內部升遷歷史藉由預示與失靈常規的決裂，強化外部繼任者選擇；而對探索性學習的重視，則將外部選擇強化為策略性定位。本研究透過為高階主管選擇提供動態且基於前因的解釋，推進公共管理領域，挑戰組織歷史的單一論觀點，並突顯繼任者來源作為一項策略性治理工具。"
-  },
-  {
-   "doi": "10.1177/02750740261469537",
-   "title": "When Markets and Democracy Coincide: Perceived Sector Differences in Participation in Government-Funded Programs",
-   "abstract": "This article investigates the effects of participation on performance assessment in government, for-profit, and nonprofit organizations that deliver public services. In addition to examining the impact of participation on public assessments of performance, we also test the perceived tradeoff between efficiency and participation, as well as the sectoral differences in the participation-performance relationship. We conducted a preregistered vignette experiment using the context of US nursing homes where various organizational information, including participation opportunities, and sector of operation (public, for-profit, and nonprofit sectors) serve as key treatment manipulations. We find that participation plays a critical role in enhancing perceptions of organizations regardless of sectors, but government organizations may obtain greater benefits by pursuing participation, especially in improving public perception of bureaucratic effectiveness and efficiency. These findings suggest that participation is not only normatively desirable, but also practically beneficial for organizations. The findings from this study contribute to advancing our knowledge on public participation, sector differences, performance management, and public values. Clinical Trial Registration This research was pre-registered at the American Economic Association's registry for randomized controlled trials (RCT ID: AEARCTR-0011918 and URL hidden for peer review).",
-   "authors": [
-    "Suyeon Jo",
-    "Kenneth J. Meier"
-   ],
-   "journal": "The American Review of Public Administration",
-   "url": "https://doi.org/10.1177/02750740261469537",
-   "date": "2026-07-16",
-   "first_seen": "2026-07-16",
-   "score": 5.0,
-   "matched": [
-    "bureaucra",
-    "vignette"
-   ],
-   "abstract_zh": "本文探討參與對提供公共服務之政府、營利與非營利組織績效評估的影響。除了檢視參與對公眾績效評估的影響外，我們亦檢驗效率與參與之間感知的權衡取捨，以及參與-績效關係中的部門差異。我們進行了一項預先註冊的情境實驗，以美國安養院為背景，其中各種組織資訊（包括參與機會）以及營運部門（公共、營利與非營利部門）作為主要的處理操作。我們發現，參與在提升組織觀感方面扮演關鍵角色，不論部門為何；但政府組織透過追求參與可能獲得更大的效益，特別是在改善公眾對官僚效能與效率的認知方面。這些發現表明，參與不僅在規範上是可取的，而且對組織而言也具有實際效益。本研究的發現有助於增進我們對公眾參與、部門差異、績效管理以及公共價值的知識。\n\n臨床試驗註冊：本研究已在美國經濟學會的隨機對照試驗註冊處預先註冊（隨機對照試驗編號：AEARCTR-0011918，網址為同儕審查目的而隱藏）。"
   },
   {
    "doi": "10.1111/puar.70179",
@@ -2720,23 +2663,6 @@
    "score": 2.0,
    "matched": [],
    "abstract_zh": "本回應指出，鑑於美國公共行政次領域數十年來與比較政治學、政治經濟學等學科，以及比較公共行政、發展公共行政等次領域的疏離，其在應對民主去鞏固方面準備不足。美國學者對「良好」公共行政的理解過於狹隘，大致排除了跨學科與非美國的知識史；若能理解這些知識史，將會深化該次領域的知識深度與廣度，也能更好地為美國當前的行政國家做好準備。本回應建議應借鑒二戰後其他學科中與行政相關的趨勢，以及行政與過往民主去鞏固之間的連結（美國並非特例）。這包括該次領域歷史上不願研究存在性不安全感、不寬容（超越社會不平等）、民主制約的作用、危機（或缺乏危機）在民主去鞏固中的作用，以及民主轉向獨裁與獨裁轉向民主的理論。"
-  },
-  {
-   "doi": "10.1080/14719037.2026.2698654",
-   "title": "Whose responsibility is it anyway? Unpacking prevention during service delivery to support value co-creation",
-   "abstract": "Preventive reforms typically emphasize individual responsibility or the mobilization of community assets, but an enduring implementation gap exists. The ongoing stalemate calls for a fundamental shift in the way public services are understood and delivered. Central to this shift is understanding the complex interplay between roles, responsbility and multi-layered contexts shaping service delivery and outcomes. Drawing on qualitative research on health and social care, we explore how roles, responsibilities and service delivery approaches are framed. Through our analysis, we propose three broad approaches to service delivery, contributing to the nascent literature on value co-creation in complex public service settings.",
-   "authors": [
-    "Kirsty Strokosch",
-    "Michael J. Roy",
-    "Jennifer McLean"
-   ],
-   "journal": "Public Management Review",
-   "url": "https://doi.org/10.1080/14719037.2026.2698654",
-   "date": "2026-07-16",
-   "first_seen": "2026-07-16",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "預防性改革通常側重於個人責任或社區資產的動員，但卻存在著持久的執行落差。持續的僵局亟需在公共服務的理解與提供方式上進行根本性的轉變。這項轉變的核心在於理解角色、責任以及塑造服務提供與成果的多重脈絡之間複雜的交互作用。本文借鑒健康與社會照護領域的質性研究，探討角色、責任與服務提供取徑是如何被建構的。藉由本文分析，我們提出三種廣泛的服務提供取徑，旨在貢獻於複雜公共服務場域中價值共創的新興文獻。"
   },
   {
    "doi": "10.1177/02750740261469533",
@@ -3761,7 +3687,7 @@
   {
    "doi": "10.1080/14719037.2026.2745616",
    "title": "Evaluating the validity of performance measurement systems in law enforcement: a pragmatic constructivism approach",
-   "abstract": "",
+   "abstract": "This paper assesses the practical validity of a balanced scorecard-based performance measurement system in a UAE law enforcement agency by examining how well strategic priorities translate into departmental and individual measures. Drawing on pragmatic constructivism, we conduct a single-case qualitative study using manager interviews and archival documents. We find weak translation of strategy into operational indicators and appraisal criteria, uneven awareness of performance indicators, and limited integration of facts, logic, values, and communication, which undermines system validity and strategic alignment. Effective alignment requires clearer cascades from strategy maps to operational indicators and appraisal criteria, role-appropriate access to KPIs, and cross-unit forums connecting planning and appraisal owners. The study’s primary contribution is empirical: it provides evidence of how misalignment emerges between strategy, measures, rewards, and appraisal in a public law enforcement organization. It also elaborates ‘practical validity’ as a criterion for examining how performance measurement systems function in practice.",
    "authors": [
     "Adel AlSaqri",
     "Ahmed Abdel-Maksoud",
@@ -3775,22 +3701,20 @@
    "first_seen": "2026-10-14",
    "score": 0.0,
    "matched": [],
-   "abstract_zh": ""
+   "abstract_zh": "本文旨在評估阿拉伯聯合大公國（UAE）某執法機構中，一個以平衡計分卡為基礎的績效衡量系統的實用效度，透過檢視策略優先事項如何有效地轉化為部門和個人衡量指標。本研究援引實用建構主義，採用經理訪談和檔案文件，進行了一項單一案例的質性研究。我們發現策略轉化為營運指標和考核標準的程度薄弱、績效指標的認知不均，以及事實、邏輯、價值觀和溝通的整合有限，這些因素損害了系統的效度和策略一致性。有效的一致性需要從策略地圖到營運指標和考核標準更清晰的層層轉化、依職責適當的關鍵績效指標（KPI）存取權限，以及連結規劃和考核負責人的跨單位論壇。本研究的主要貢獻在於實證方面：它提供了關於在一個公共執法組織中，策略、衡量、獎勵和考核之間如何產生不一致性的證據。本研究也闡述了「實用效度」作為一個標準，用於檢視績效衡量系統在實務中如何運作。"
   },
   {
-   "doi": "10.1080/14719037.2026.2738177",
-   "title": "When women lead: women mayors and municipal police effectiveness in reducing homicide in Brazil",
+   "doi": "10.1080/14719037.2026.2748382",
+   "title": "How collaborative platforms shape power dynamics and outcomes in local collaboration: evidence from disaster mitigation planning",
    "abstract": "",
    "authors": [
-    "Paulo Arvate",
-    "Sandro Cabral",
-    "Trang Hoang",
-    "Meghna Sabharwal"
+    "Heewon Lee",
+    "Tian Tang"
    ],
    "journal": "Public Management Review",
-   "url": "https://doi.org/10.1080/14719037.2026.2738177",
-   "date": "2026-10-13",
-   "first_seen": "2026-10-14",
+   "url": "https://doi.org/10.1080/14719037.2026.2748382",
+   "date": "2026-10-14",
+   "first_seen": "2026-10-15",
    "score": 0.0,
    "matched": [],
    "abstract_zh": ""
