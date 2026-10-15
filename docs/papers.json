@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T00:11:29+00:00",
+ "updated": "2026-10-15T23:57:55+00:00",
  "papers": [
   {
    "doi": "10.1080/10967494.2026.2706796",
@@ -464,8 +464,8 @@
   },
   {
    "doi": "10.1093/jopart/muag024",
-   "title": "Generative Spaces: Collaboration, Learning and Innovation in a Regulatory Sandbox",
-   "abstract": "Public administrators are increasingly called upon to create “generative spaces” that foster emergent processes of collaboration, learning and innovation. This article presents an inductive and ethnographically grounded study of one relatively novel but increasingly popular generative space—a regulatory sandbox. A regulatory sandbox is a controlled and defined space and set of processes that are established by regulators to work with innovators to collaboratively explore, test and learn about early-stage products and innovations and understand emerging regulatory implications. Investigating a sandbox to explore the regulation of new artificial intelligence technologies conducted by a national healthcare regulator, we identify the organizing practices of the sandbox that make it “generative” of collaboration, learning and innovation. An inductive analysis identified three key organizing practices: providing distinct and varied social spaces separated from normal regulatory demands (protection); enabling participants to collaboratively examine innovations and iteratively develop new knowledge and regulation (adaptation); and supporting focused and immersive examination of innovations from a diverse range of perspectives (participation). A theoretically-driven secondary analysis suggests that generative spaces can be understood as liminal experiences that foster detachment, equivalence and reconstruction.",
+   "title": "Generative spaces: collaboration, learning, and innovation in a regulatory sandbox",
+   "abstract": "Public administrators are increasingly called upon to create “generative spaces” that foster emergent processes of collaboration, learning, and innovation. This article presents an inductive and ethnographically grounded study of one relatively novel but increasingly popular generative space—a regulatory sandbox. A regulatory sandbox is a controlled and defined space and set of processes that are established by regulators to work with innovators to collaboratively explore, test, and learn about early-stage products and innovations and understand emerging regulatory implications. Investigating a sandbox to explore the regulation of new artificial intelligence technologies conducted by a national healthcare regulator, we identify the organizing practices of the sandbox that make it “generative” of collaboration, learning, and innovation. An inductive analysis identified three key organizing practices: providing distinct and varied social spaces separated from normal regulatory demands (protection); enabling participants to collaboratively examine innovations and iteratively develop new knowledge and regulation (adaptation); and supporting focused and immersive examination of innovations from a diverse range of perspectives (participation). A theoretically driven secondary analysis suggests that generative spaces can be understood as liminal experiences that foster detachment, equivalence, and reconstruction.",
    "authors": [
     "Carl Macrae",
     "Christopher K Ansell"
@@ -977,6 +977,25 @@
     "vignette"
    ],
    "abstract_zh": "公民參與能提升政策品質與民主正當性，但也可能威脅官僚控制。我們假設，當政策複雜度較低且參與者具有廣泛代表性時，官僚對公民參與的支持度會較高。本研究採用混合方法設計，針對印尼地方公務員，結合2 × 2情境式問卷實驗與針對質性反思的Gioia分析，以追求互補性，藉此解釋實驗結果並進一步闡明官僚如何評估公民參與。實驗結果顯示，參與者代表性顯著提升了支持度，而政策複雜度則沒有統計上顯著的影響。透過聯合展示法整合實驗與質性資料後發現，拒絕公民參與的官僚經常提及與參與者相關的風險，而支持者則強調工具性、程序性與執行性效益。無論官僚的整體支持度如何，公民權利與民主原則等規範性價值均獲得認可。我們總結，官僚對公民參與的支持反映了官員如何權衡其潛在效益、威脅與規範基礎。"
+  },
+  {
+   "doi": "10.1177/02750740261498897",
+   "title": "When Geography Dilutes Accountability: Managerial Discretion and Fiscal Expansion in Local Government",
+   "abstract": "Democratic accountability assumes that the citizens who bear the costs of government decisions can sanction the officials who make them. We identify a structural break in this assumption. When a city funds itself through taxes that fall partly on nonresidents (highway travelers, commuters, and regional shoppers who cannot vote in local elections) the electoral link between bearing costs and imposing sanctions weakens. Analyzing two decades of Texas municipal data (2000–2019) with two-way fixed effects and generalized synthetic control methods, we find that cities better positioned to shift costs onto nonvoters raise resident fiscal exposure more, after they adopt dedicated local sales taxes. This pattern is strongest for cities on or near major metropolitan areas and highways, whereas geographically isolated cities, where residents bear nearly all costs, show little change. It reverses the relief that classical tax-exportation theory predicts and reveals an accountability gap that funds discretionary fiscal expansion. The gap proves temporary: fiscal outcomes across contexts converge within six to thirteen years. Geography, we conclude, shapes democratic accountability as powerfully as electoral rules.",
+   "authors": [
+    "Edmund Poku Adu",
+    "Robert L. Bland"
+   ],
+   "journal": "The American Review of Public Administration",
+   "url": "https://doi.org/10.1177/02750740261498897",
+   "date": "2026-10-15",
+   "first_seen": "2026-10-15",
+   "score": 19.0,
+   "matched": [
+    "discretion",
+    "synthetic control"
+   ],
+   "abstract_zh": "民主問責制假設，承擔政府決策成本的公民可以追究做出決策的官員的責任。我們發現此假設存在結構性斷裂。當城市透過部分轉嫁給非居民（高速公路旅客、通勤者以及無法在地方選舉中投票的區域購物者）的稅收來籌措資金時，承擔成本與追究責任之間的選舉連結便會減弱。透過分析德州兩十年（2000-2019）的市政數據，並運用雙向固定效果與廣義合成控制法，我們發現，在採用專屬地方銷售稅後，那些更有能力將成本轉嫁給非選民的城市，會更大幅度地增加居民的財政曝險。這種模式在位於或鄰近主要都會區和高速公路的城市中最為顯著，而居民幾乎承擔所有成本的地理孤立城市，則變化甚微。這逆轉了古典租稅轉嫁理論所預測的稅負減輕效果，並揭示了一個為裁量性財政擴張提供資金的問責缺口。這個缺口是暫時性的：不同情境下的財政結果會在六到十三年內趨於收斂。我們總結，地理因素對民主問責制的形塑作用，與選舉規則同樣強大。"
   },
   {
    "doi": "10.1080/10967494.2026.2696851",
@@ -2665,6 +2684,23 @@
    "abstract_zh": "本回應指出，鑑於美國公共行政次領域數十年來與比較政治學、政治經濟學等學科，以及比較公共行政、發展公共行政等次領域的疏離，其在應對民主去鞏固方面準備不足。美國學者對「良好」公共行政的理解過於狹隘，大致排除了跨學科與非美國的知識史；若能理解這些知識史，將會深化該次領域的知識深度與廣度，也能更好地為美國當前的行政國家做好準備。本回應建議應借鑒二戰後其他學科中與行政相關的趨勢，以及行政與過往民主去鞏固之間的連結（美國並非特例）。這包括該次領域歷史上不願研究存在性不安全感、不寬容（超越社會不平等）、民主制約的作用、危機（或缺乏危機）在民主去鞏固中的作用，以及民主轉向獨裁與獨裁轉向民主的理論。"
   },
   {
+   "doi": "10.1111/puar.70231",
+   "title": "Steering and Setting Free: Insights From a 20‐Year Retrospective Case Study of a Security and Justice Organization's Digital Transformation",
+   "abstract": "Advances in digital technologies are expected to fundamentally change how organizations operate and create value. Empirical studies show that public organizations face difficulties organizing and sustaining this digital transformation. To better understand these challenges, this study examines the organizational mechanisms underlying digital transformation in a public organization over the past 20 years. Our findings show that this transformation was primarily enabled by an emergent change approach, with influential planned changes occurring only occasionally. We identify the organizational mechanisms underlying both types of change and analyze their interdependence. Our findings suggest that both emergent and planned change approaches may be needed to enable digital transformation in public organizations effectively, but that combining them is complex in practice.",
+   "authors": [
+    "Friso Selten",
+    "Dorus van Loo",
+    "Bram Klievink"
+   ],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70231",
+   "date": "2026-10-15",
+   "first_seen": "2026-10-15",
+   "score": 2.0,
+   "matched": [],
+   "abstract_zh": "數位科技的進展預期將根本地改變組織的運作方式與創造價值的方式。實證研究顯示，公部門組織在規劃與持續這項數位轉型時面臨困難。為更好地理解這些挑戰，本研究檢視了過去二十年來一個公部門組織中數位轉型背後的組織機制。本研究結果顯示，這項轉型主要由一種湧現式變革方法促成，而具影響力的計畫性變革僅偶爾發生。我們識別出這兩種變革背後的組織機制，並分析它們的相互依存關係。本研究結果指出，湧現式與計畫性變革方法可能都需要，才能有效促成公部門組織的數位轉型，但在實務上，結合兩者卻是複雜的。"
+  },
+  {
    "doi": "10.1177/02750740261469533",
    "title": "Transnational Nonprofit Action: Diaspora Giving, Collective and Social Remittances, and the Provision of Public Goods and Services",
    "abstract": "This article explores transnational nonprofit action through diaspora-led nonprofit organizations in the United States (U.S.) and their funding and support of public goods and services in the home country. Diaspora communities around the world make contributions to their homelands in various ways that have impact on public governance. Specifically, diaspora members engage in philanthropic giving behaviors towards their countries of origin, including via collective and social remittances. How does this diaspora giving contribute to the provision of public goods and services in the country of origin? This research uses a multi-sited, comparative case study design that included extensive fieldwork in the U.S. and Colombia, and the transnational space between these settings. Building on theory about public governance and nonprofit organizations, the research generates and further explores empirically a framework of three sets of resources that condition transnational nonprofit action—material, relational, and institutional. Material resources illuminate how diaspora-funded projects directly support public service delivery. Relational resources capture how trust, credibility, and embedded community ties via diaspora-led organizations provide access to both networks and funding sources. Institutional resources, namely norm-setting, explain how collective and social remittances have the potential to shape expectations, standards, and practices about the nonprofit sector, philanthropic giving, and public governance more broadly.",
@@ -3714,6 +3750,22 @@
    "journal": "Public Management Review",
    "url": "https://doi.org/10.1080/14719037.2026.2748382",
    "date": "2026-10-14",
+   "first_seen": "2026-10-15",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.1080/14719037.2026.2747053",
+   "title": "Staging the invisible: tracing public value co-creation through sub-micro infrastructures configured by information coordination organizations in China’s disaster information services",
+   "abstract": "",
+   "authors": [
+    "Qingyue Du",
+    "Ziqiang Han"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2747053",
+   "date": "2026-10-15",
    "first_seen": "2026-10-15",
    "score": 0.0,
    "matched": [],
