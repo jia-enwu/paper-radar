@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T23:57:55+00:00",
+ "updated": "2026-10-17T00:04:25+00:00",
  "papers": [
   {
    "doi": "10.1080/10967494.2026.2706796",
@@ -51,6 +51,27 @@
    "abstract_zh": "自新冠肺炎疫情爆發以來，許多國家已開始運用人工智慧 (AI) 取代公務人員。本文主張此做法損害了核心民主價值。運用公共價值框架，我們歸納出當行政裁量權轉移給演算法時會受到威脅的四類價值：課責性、公平與衡平、個別考量以及理由說明。這些價值皆與演算法做出決策的方式不相容。由於演算法是根據統計規律產生結果，它們將責任分散給多方，無法對異常案例做出準確預測，並削弱公民對個別考量的訴求。因此，本文將AI的採用視為一個憲政問題，探討哪些決策可以自動化，以及哪些決策應保留在人類控制之下，因為它們涉及民主價值。我們提出一個半人馬模式，在此模式中，AI是輔助而非取代人類公務員，這可以維持效率，同時維護民主治理。"
   },
   {
+   "doi": "10.1177/02750740261498874",
+   "title": "Representative Bureaucracy in Private Philanthropy: Testing Discretion and Racial Representation in Community Foundation Grantmaking",
+   "abstract": "As public service delivery increasingly involves non-governmental actors, public administration theory needs to examine how its core frameworks operate beyond traditional bureaucracies. This study extends representative bureaucracy theory to private philanthropy, an increasingly crucial actor in local public service delivery, by testing whether racial representation in leadership corresponds with equitable grantmaking outcomes. Analyzing longitudinal data from 912 U.S. community foundations between 2012 and 2016, this study finds that racial representation in foundation leadership corresponds with increased grantmaking to organizations serving communities of color when leadership retains sufficient discretion, but that this relationship weakens as donor control rises, particularly through donor advised funds. These patterns are consistent with representative bureaucracy theory's emphasis on discretion as a key mechanism linking passive and active representation. These findings advance theoretical understanding by illuminating the interplay between representation and discretion within private philanthropy, while carrying implications for equitable resource distribution as public services increasingly involve non-governmental actors.",
+   "authors": [
+    "Yue Ming"
+   ],
+   "journal": "The American Review of Public Administration",
+   "url": "https://doi.org/10.1177/02750740261498874",
+   "date": "2026-10-16",
+   "first_seen": "2026-10-17",
+   "score": 88.0,
+   "matched": [
+    "representative bureaucracy",
+    "active representation",
+    "representation",
+    "discretion",
+    "bureaucra"
+   ],
+   "abstract_zh": ""
+  },
+  {
    "doi": "10.1111/puar.70214",
    "title": "Artificial Intelligence in Policing and Perceived Legitimacy: Does Gender Representation Make a Difference?",
    "abstract": "As artificial intelligence (AI) increasingly transforms public administration, understanding its impact on perceived legitimacy becomes paramount, particularly, in high‐stakes areas such as policing. While existing research offers mixed evidence on whether government AI use enhances or undermines citizens' perceptions of fairness and trust, the conditions moderating these effects remain underexplored. Drawing on representative bureaucracy theory, this study uses a survey experiment to investigate how gender representation moderates the effect of AI use on citizens' perceived fairness and trust in domestic violence units (DVUs). Results show that female representation positively moderates the legitimacy impact of a DVU's AI use; whereas AI use decreases female respondents' perceived fairness and trust in male‐dominated DVUs, these negative effects disappear in female‐dominated DVUs. Our findings identify representation as a key context shaping citizens' responses to government AI use, extending representative bureaucracy theory by demonstrating its indirect symbolic effects.",
@@ -96,6 +117,27 @@
     "bureaucra"
    ],
    "abstract_zh": "關於代表性官僚體制的研究，多半著重於消極代表是否能轉化為積極代表。本文轉變此分析視角，將消極代表概念化為動態的組織過程，而非靜態的人口統計條件或初步階段。本文以 15 份深度訪談和一場由 14 位在以色列擔任中高階公共職位的極端正統派女性參與的焦點團體為基礎，探討在男性主導的環境中，消極代表如何被實踐、協商並逐步制度化。研究結果顯示，女性的低代表性如何透過非正式期望和性別化的網絡，影響其進入和晉升；以及女性如何透過提升專業性、在性別隔離下創造性地建立人際網絡，並策略性地與支持性領導者互動，以建立合法性並「協商其存在」。透過指導和開放機會的實踐，我們的參與者產生了漣漪效應，隨著時間推移增加了他人獲得機會的管道。我們主張，消極代表是一種關係性且不斷演變的機制，它受角色詮釋和組織限制所塑造，即使沒有正式的政策變革，也能重塑機會和參與。"
+  },
+  {
+   "doi": "10.1093/jopart/muag032",
+   "title": "Routinized Deference: Predictive Screening and Bureaucratic Capacity in Child Protective Services",
+   "abstract": "Predictive algorithms are increasingly used to support frontline decision-making in public administration, but evidence remains limited on how they affect bureaucratic capacity. This study examines county-level adoption of predictive screening tools in U.S. Child Protective Services using NCANDS data (2010–2023) and a stacked difference-in-differences design. Leveraging staggered adoption, I find no change in the total number of investigations opened and a sizable decline (about 15%) in the share of investigations that are substantiated. These results are inconsistent with operational capacity gains and more consistent with misclassification that erodes analytical capacity. These findings are consistent with a mechanism of routinized deference: under workload and accountability pressures, algorithmic recommendations can become procedurally defensible defaults. Overall, this study argues that predictive screening is not capacity-enhancing by default, as routinized deference can undermine the professional judgment central to bureaucratic work.",
+   "authors": [
+    "Jiaen Wu"
+   ],
+   "journal": "Journal of Public Administration Research and Theory",
+   "url": "https://doi.org/10.1093/jopart/muag032",
+   "date": "2026-10-16",
+   "first_seen": "2026-10-17",
+   "score": 59.0,
+   "matched": [
+    "algorithm",
+    "predictive",
+    "bureaucra",
+    "child protective",
+    "difference-in-differences"
+   ],
+   "abstract_zh": ""
   },
   {
    "doi": "10.1177/02750740261478901",
@@ -1296,27 +1338,6 @@
    "abstract_zh": "公共服務動機的研究一致發現，公務人員比私部門的同儕更常從事志願服務並貢獻更多，然而，對於參與程度如何在行為領域和制度脈絡中有所不同，則了解較少。本研究旨在檢視公務人員與其他公民相比，其公民參與的結構如何，並特別關注不同政府層級之間的差異。本研究利用2023年「公民參與與志願服務補充調查」(CPS Volunteering and Civic Life Supplement)，建構了橫跨政治參與、公民投入、政治表達和社會連結等四個領域的多面向衡量指標。加權迴歸分析與傾向分數配對法的結果顯示，公務人員，尤其是地方層級的公務人員，展現出獨特的公民參與樣貌，其特徵為更高度參與制度化的參與形式，例如投票和志願服務，但較少參與非正式活動，例如政治討論和社會互動。這些模式在控制可觀察特徵後依然存在，並指出公務人員身分將參與引導至特定形式，而非均勻地提升整體參與程度，這對於文官改革如何改變地方社區的公民組成具有啟示意義。"
   },
   {
-   "doi": "10.1080/14719037.2026.2685779",
-   "title": "Performance system design factors that encourage information use: a survey experiment of decision-making by school principals",
-   "abstract": "Performance management scholarship has mostly neglected the behavioural mechanisms through which performance-system design factors – reflecting macro-level institutional and organizational arrangements – shape public managers’ individual-level use of information. We examined such mechanisms by employing a nationwide survey experiment with 394 school principals in Chile that tested how policy-relevant features of the country’s education monitoring system influence their intention to use performance data for decision-making. Our findings show that use intentions increase when managers obtain timely performance information, experience high stakeholder involvement, and have access to training and knowledge-sharing opportunities. However, reporting formats did not affect use intentions. These results provide insights into how targeted adjustments to real-world performance-system design can function as behavioural levers for encouraging evidence-based decision-making by public managers.",
-   "authors": [
-    "Javier Fuenzalida",
-    "Andrés Fernández-Vergara",
-    "Pablo A. González",
-    "Gregg G. Van Ryzin",
-    "Cristóbal Alarcón"
-   ],
-   "journal": "Public Management Review",
-   "url": "https://doi.org/10.1080/14719037.2026.2685779",
-   "date": "2026-07-17",
-   "first_seen": "2026-07-17",
-   "score": 12.0,
-   "matched": [
-    "survey experiment"
-   ],
-   "abstract_zh": "績效管理學術界大多忽略了績效系統設計因素（反映宏觀層次的制度與組織安排）如何透過行為機制，形塑公部門管理者在個人層次上對資訊的使用。本研究透過一項針對智利394位校長的全國性調查實驗，檢視了這些機制，測試該國教育監測系統中與政策相關的特徵，如何影響他們使用績效數據進行決策的意圖。本研究結果顯示，當管理者獲得及時的績效資訊、經歷高度的利害關係人參與，並享有培訓與知識分享機會時，其使用意圖會增加。然而，報告格式並未影響使用意圖。這些結果提供了深入的見解，說明如何針對現實世界績效系統設計進行有針對性的調整，可以作為行為槓桿，以鼓勵公部門管理者進行實證決策。"
-  },
-  {
    "doi": "10.1111/puar.70225",
    "title": "Is Public Sector a Better Place for Moms to Work? Exploring Sector Difference in Child Penalties on Women",
    "abstract": "With commonly stabler and more flexible working environment, is public sector a better place for moms to work? Theorizing child penalties from sector difference perspective, we argue that childbirth may cause less gender gaps in unemployment and earnings but greater gender disparities in working time commitments in the public sector since job stability and family‐friendliness may form gender norms that depreciate women's work in the public sector. We test our hypotheses by employing event study designs using data from China Family Panel Studies (2010–2022). We found that women public employees experienced smaller child penalties in unemployment and earnings while greater child penalties in working hours than private counterparts, which can be explained by greater family responsibilities and spousal depreciation of women's jobs after childbirth. This paper advances theories of gender equity in public administration by proposing distinct child penalties in the public sector that challenges conventional beliefs.",
@@ -1775,6 +1796,45 @@
     "turnover"
    ],
    "abstract_zh": "面臨績效壓力，公部門組織頻繁經歷高階主管異動，然而其繼任者選擇方式卻鮮有探討。本研究主張負面績效回饋 (NPF) 關鍵性地影響繼任者來源。根據2,045筆高階主管異動資料，我們發現NPF降低內部繼任的機率達41.7%。內部升遷歷史藉由預示與失靈常規的決裂，強化外部繼任者選擇；而對探索性學習的重視，則將外部選擇強化為策略性定位。本研究透過為高階主管選擇提供動態且基於前因的解釋，推進公共管理領域，挑戰組織歷史的單一論觀點，並突顯繼任者來源作為一項策略性治理工具。"
+  },
+  {
+   "doi": "10.1080/14719037.2026.2748379",
+   "title": "Unpacking the causal complexity of collaborative effectiveness in urban marginalized community regeneration: a fuzzy-set configurational analysis",
+   "abstract": "",
+   "authors": [
+    "Chunyu Shi",
+    "Yanfeng Wang",
+    "Chunyao Li"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2748379",
+   "date": "2026-10-16",
+   "first_seen": "2026-10-17",
+   "score": 6.0,
+   "matched": [
+    "causal"
+   ],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.1080/14719037.2026.2748381",
+   "title": "One size does not fit all: management strategies to reduce turnover intention among public sector employees",
+   "abstract": "",
+   "authors": [
+    "Evelyn Rodriguez-Plesa",
+    "Ana-Maria Dimand",
+    "Mohamad G. Alkadry",
+    "Sawsan Abutabenjeh"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2748381",
+   "date": "2026-10-16",
+   "first_seen": "2026-10-17",
+   "score": 6.0,
+   "matched": [
+    "turnover"
+   ],
+   "abstract_zh": ""
   },
   {
    "doi": "10.1111/puar.70179",
@@ -2699,39 +2759,6 @@
    "score": 2.0,
    "matched": [],
    "abstract_zh": "數位科技的進展預期將根本地改變組織的運作方式與創造價值的方式。實證研究顯示，公部門組織在規劃與持續這項數位轉型時面臨困難。為更好地理解這些挑戰，本研究檢視了過去二十年來一個公部門組織中數位轉型背後的組織機制。本研究結果顯示，這項轉型主要由一種湧現式變革方法促成，而具影響力的計畫性變革僅偶爾發生。我們識別出這兩種變革背後的組織機制，並分析它們的相互依存關係。本研究結果指出，湧現式與計畫性變革方法可能都需要，才能有效促成公部門組織的數位轉型，但在實務上，結合兩者卻是複雜的。"
-  },
-  {
-   "doi": "10.1177/02750740261469533",
-   "title": "Transnational Nonprofit Action: Diaspora Giving, Collective and Social Remittances, and the Provision of Public Goods and Services",
-   "abstract": "This article explores transnational nonprofit action through diaspora-led nonprofit organizations in the United States (U.S.) and their funding and support of public goods and services in the home country. Diaspora communities around the world make contributions to their homelands in various ways that have impact on public governance. Specifically, diaspora members engage in philanthropic giving behaviors towards their countries of origin, including via collective and social remittances. How does this diaspora giving contribute to the provision of public goods and services in the country of origin? This research uses a multi-sited, comparative case study design that included extensive fieldwork in the U.S. and Colombia, and the transnational space between these settings. Building on theory about public governance and nonprofit organizations, the research generates and further explores empirically a framework of three sets of resources that condition transnational nonprofit action—material, relational, and institutional. Material resources illuminate how diaspora-funded projects directly support public service delivery. Relational resources capture how trust, credibility, and embedded community ties via diaspora-led organizations provide access to both networks and funding sources. Institutional resources, namely norm-setting, explain how collective and social remittances have the potential to shape expectations, standards, and practices about the nonprofit sector, philanthropic giving, and public governance more broadly.",
-   "authors": [
-    "Susan Appe"
-   ],
-   "journal": "The American Review of Public Administration",
-   "url": "https://doi.org/10.1177/02750740261469533",
-   "date": "2026-07-17",
-   "first_seen": "2026-07-17",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "本文探討美國僑民主導的非營利組織所進行的跨國非營利行動，及其對母國公共財與服務的資助與支持。全球各地的僑民社群以多種方式對其母國做出貢獻，並對公共治理產生影響。具體而言，僑民成員對其原籍國從事慈善捐贈行為，包括透過集體與社會匯款。這種僑民捐贈如何有助於原籍國公共財與服務的提供？本研究採用多地點、比較個案研究設計，其中包含在美國、哥倫比亞以及這些場域之間的跨國空間進行的廣泛田野調查。本研究立基於公共治理與非營利組織的理論，實證地建構並進一步探討一個由三類資源組成的架構，這些資源制約著跨國非營利行動—物質、關係與制度資源。物質資源闡明了僑民資助的計畫如何直接支持公共服務的提供。關係資源說明了信任、信譽和透過僑民主導組織建立的深厚社群連結，如何提供接觸網絡和資金來源的機會。制度資源，亦即規範設定，解釋了集體與社會匯款如何有潛力塑造關於非營利部門、慈善捐贈以及更廣泛的公共治理的期望、標準和實踐。"
-  },
-  {
-   "doi": "10.1177/02750740261464911",
-   "title": "Exploring How Demand and Supply Knowledge Can Improve Centralized Public Health Procurement",
-   "abstract": "Despite the growing shift towards procurement centralization among governments around the world, questions remain as to how to increase purchasing within centralized frameworks. While centralized purchasing offers many benefits related to efficiency and quality control, users often prefer more flexible options for purchasing. An unanswered question is how knowledge of user requirements and market trends leads to framework agreements that reduce the inclination for users to purchase goods and services on their own. This study employs healthcare purchasing data from 21 regions in Italy from 2013–2023 to explore how different sources of knowledge about demand and supply affect centralization rates—both in respect to asset-specific and non-asset-specific products. Fixed effects regression results indicate that knowledge of supply gleaned from integrating technical experts into procurement teams enhances centralization for a range of offerings. The influence of demand-related knowledge on centralized purchasing varies by product type, however, with interpersonal exchanges proving more effective for non-asset-specific categories and logistical support mechanisms proving more critical for asset-specific product categories. The results provide longitudinal insights into conditions that are typically studied through cross-sectional data. They also offer important implications for the many countries operating publicly provided health programs, as well as those pursuing broader reforms tied to procurement centralization.",
-   "authors": [
-    "Eric J. Boyer",
-    "Niccolò Cusumano",
-    "Carlos Olmedo",
-    "Veronica Vecchi"
-   ],
-   "journal": "The American Review of Public Administration",
-   "url": "https://doi.org/10.1177/02750740261464911",
-   "date": "2026-07-17",
-   "first_seen": "2026-07-17",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "儘管全球各國政府日益轉向採購集中化，但在集中化框架內如何提高採購量仍是個懸而未決的問題。雖然集中化採購在效率和品質控制方面帶來諸多好處，但使用者通常偏好更具彈性的採購選項。一個未解的問題是，對使用者需求和市場趨勢的了解，如何促成框架協議，進而降低使用者自行採購商品與服務的傾向。本研究利用2013年至2023年間義大利21個地區的醫療採購資料，探討不同來源的需求與供給知識如何影響集中化程度——包括資產專屬產品和非資產專屬產品。固定效果迴歸分析結果顯示，將技術專家納入採購團隊所獲得的供給知識，能提升多種產品的集中化程度。然而，需求相關知識對集中化採購的影響因產品類型而異：人際交流對於非資產專屬類別更為有效，而後勤支援機制對於資產專屬產品類別則更為關鍵。本研究結果提供了對通常透過橫斷面資料研究的條件的縱向見解。這些結果也對許多實施公共醫療計畫的國家，以及那些推動與採購集中化相關的更廣泛改革的國家，提供了重要的啟示。"
   },
   {
    "doi": "10.1080/10967494.2026.2699606",
@@ -3758,7 +3785,7 @@
   {
    "doi": "10.1080/14719037.2026.2747053",
    "title": "Staging the invisible: tracing public value co-creation through sub-micro infrastructures configured by information coordination organizations in China’s disaster information services",
-   "abstract": "",
+   "abstract": "In disaster information services, citizen- and volunteer-generated information arrives as dispersed, uncertain reports rather than usable response information. This qualitative case study examines how Organization Z, a Chinese NGO functioning as an Information Coordination Organization (ICO), makes such information usable for response through sub-micro infrastructures. Data comprise 43 volunteer and 11 coordinator interviews, longitudinal participant observation, and multi-source materials. Four mechanisms emerged: emotional activation makes participation visible; epistemic calibration supports report credibility through traceability and comparability; cross-sector translation makes verified information interpretable and acceptable as a basis for response action; and reflexive learning makes response experience partially reusable. We conceptualize staging as a conditional account of public value formation organized around the four thresholds of visibility, credibility, legitimate actionability, and partial reusability. The study contributes to public value co-creation research by explaining how ICO information work conditions whether information-related participation contributes to disaster response and public value formation.",
    "authors": [
     "Qingyue Du",
     "Ziqiang Han"
@@ -3767,6 +3794,22 @@
    "url": "https://doi.org/10.1080/14719037.2026.2747053",
    "date": "2026-10-15",
    "first_seen": "2026-10-15",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.1080/14719037.2026.2749676",
+   "title": "Mapping empathy in policy work: how public servants understand and use it",
+   "abstract": "",
+   "authors": [
+    "Assel Mussagulova",
+    "Colette Einfeld"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2749676",
+   "date": "2026-10-16",
+   "first_seen": "2026-10-17",
    "score": 0.0,
    "matched": [],
    "abstract_zh": ""
