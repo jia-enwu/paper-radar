@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T00:04:25+00:00",
+ "updated": "2026-10-17T23:36:42+00:00",
  "papers": [
   {
    "doi": "10.1080/10967494.2026.2706796",
@@ -69,7 +69,7 @@
     "discretion",
     "bureaucra"
    ],
-   "abstract_zh": ""
+   "abstract_zh": "隨著公共服務提供越來越多地涉及非政府行動者，公共行政理論需要檢視其核心框架如何在傳統科層體制之外運作。本研究將代表性科層理論延伸至私人慈善事業，此為地方公共服務提供中日益關鍵的行動者，藉由檢驗領導階層的種族代表性是否與公平的贈款成果相關聯。本研究分析了2012年至2016年間912個美國社區基金會的追蹤資料，發現當基金會領導階層保有足夠的裁量權時，其種族代表性與對服務有色人種社群組織的贈款增加相關；然而，隨著捐贈者控制權的提升，特別是透過捐贈者建議基金，此關係會減弱。這些模式與代表性科層理論強調裁量權是連結被動與主動代表性的關鍵機制相符。這些發現透過闡明私人慈善事業中代表性與裁量權之間的相互作用，增進了理論理解，同時也對隨著公共服務日益涉及非政府行動者時的公平資源分配具有重要意涵。"
   },
   {
    "doi": "10.1111/puar.70214",
@@ -137,7 +137,7 @@
     "child protective",
     "difference-in-differences"
    ],
-   "abstract_zh": ""
+   "abstract_zh": "預測演算法在公共行政領域中日益被用於支援第一線決策，但關於其如何影響官僚能力的證據仍然有限。本研究利用NCANDS資料（2010-2023年）和堆疊雙重差分設計，檢視美國兒童保護服務中縣級預測篩選工具的採用情況。利用錯開式採納的特點，我發現開啟的調查案件總數沒有變化，但經證實的調查案件比例卻顯著下降（約15%）。這些結果與營運能力提升的說法不符，反而更符合錯誤分類侵蝕分析能力的解釋。這些發現與「常規化順從」的機制一致：在工作量和問責壓力下，演算法的建議可能成為程序上可辯護的預設選項。總體而言，本研究認為預測篩選並非預設就能提升能力，因為常規化順從可能損害官僚工作中至關重要的專業判斷。"
   },
   {
    "doi": "10.1177/02750740261478901",
@@ -412,6 +412,29 @@
     "bureaucra"
    ],
    "abstract_zh": "本研究探討第一線官僚（SLBs）在自由裁量權上的性別差異是否會形塑不平等。本研究聚焦於社工人員向案主提供非正式個人資源（IFRs）的情形，分析了對以色列59位社工人員進行的深度訪談。儘管女性和男性都廣泛地運用非正式做法，但其範圍與形式卻有所差異。兩種機制促成了不平等的再製：非正式個人資源（IFRs）的不可見性與可見性，以及個人與專業領域之間的界線劃定。這些研究結果顯示，執行上的自由裁量權不僅具有性別意涵，而且再製了傳統的階層結構，加劇了公共行政第一線的性別不平等。"
+  },
+  {
+   "doi": "10.1080/14719037.2026.2748381",
+   "title": "One size does not fit all: management strategies to reduce turnover intention among public sector employees",
+   "abstract": "Public sector organizations face persistent challenges in retaining a diverse workforce, as systemic barriers continue to shape the experiences of female and minority employees. This study examines how workplace practices – specifically, organizational justice, management support, and leadership representation – are associated with turnover intention in public sector agencies. Using survey data from 1,572 procurement professionals in the United States, we assess both overall effects and subgroup differences. Results show that management support is associated with turnover intention across all groups, and organizational justice is associated with lower turnover intention among female and minority employees. In contrast, diversity and representation alone do not reduce turnover intention and, in some cases, are associated with higher turnover intention among minority employees. These findings suggest that representation without fair and supportive organizational systems is insufficient for retention. The study offers practical recommendations for public managers and contributes to ongoing theoretical discourse in public administration and human resource management.",
+   "authors": [
+    "Evelyn Rodriguez-Plesa",
+    "Ana-Maria Dimand",
+    "Mohamad G. Alkadry",
+    "Sawsan Abutabenjeh"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2748381",
+   "date": "2026-10-16",
+   "first_seen": "2026-10-17",
+   "score": 33.0,
+   "matched": [
+    "representation",
+    "diversity",
+    "minority",
+    "turnover"
+   ],
+   "abstract_zh": "公部門組織在留任多元化員工方面面臨持續挑戰，因為系統性障礙持續塑造著女性和少數族裔員工的經驗。本研究檢視工作實務——特別是組織公平、管理支持和領導代表性——如何與公部門機構的離職意圖相關。本研究運用來自美國1,572名採購專業人員的調查數據，評估整體效應和次群體差異。結果顯示，管理支持與所有群體的離職意圖相關，而組織公平則與女性和少數族裔員工較低的離職意圖相關。相較之下，單獨的多元性和代表性並未降低離職意圖，且在某些情況下，與少數族裔員工較高的離職意圖相關。這些研究結果指出，若無公平且支持性的組織系統，單有代表性並不足以留任員工。本研究為公部門管理者提供實務建議，並有助於公共行政和人力資源管理領域持續的理論論述。"
   },
   {
    "doi": "10.1111/padm.70078",
@@ -1553,6 +1576,25 @@
    "abstract_zh": "儘管研究強調女性領導人在醫療、教育和福利等傳統女性領域的影響力，但對於她們在警政和犯罪防治等傳統男性領域的影響卻知之甚少。本研究採用迴歸不連續設計，並利用巴西市鎮的數據，結果顯示相較於男性市長，女性市長更有可能設立市鎮警察部隊。市鎮警政在女性領導下，進而降低了青少年兇殺率，且此效果會因對社會導向基礎設施的投資而增強。這些發現證明，女性領導人能夠產生超越直接代表女性利益範疇的更廣泛社區整體效益。本研究藉由展示民選女性如何在警政等傳統男性主導領域中形塑政策選擇及其有效性，進而拓展了關於性別回應式治理和女性領導力的學術研究。"
   },
   {
+   "doi": "10.1080/14719037.2026.2748379",
+   "title": "Unpacking the causal complexity of collaborative effectiveness in urban marginalized community regeneration: a fuzzy-set configurational analysis",
+   "abstract": "This study examines the causal conditions shaping collaborative effectiveness in the regeneration of marginalized urban communities. Using fuzzy-set qualitative comparative analysis of 22 Chinese cases, it identifies facilitative leadership as a necessary condition for achieving high collaborative effectiveness and weak institutionalization as a necessary condition for low effectiveness. The sufficiency analysis reveals three distinct pathways to effective collaboration and three to ineffective collaboration. The findings show that collaborative effectiveness depends on context-specific configurations of resource support, institutionalization, governance structure, and facilitative leadership. No single condition is sufficient in isolation; rather, effectiveness emerges through complementarity, functional equivalence, and asymmetric substitutability among conditions. The study contributes to a more context-sensitive and configurational understanding of collaborative governance.",
+   "authors": [
+    "Chunyu Shi",
+    "Yanfeng Wang",
+    "Chunyao Li"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2748379",
+   "date": "2026-10-16",
+   "first_seen": "2026-10-17",
+   "score": 9.0,
+   "matched": [
+    "causal"
+   ],
+   "abstract_zh": "本研究探討形塑邊緣化都市社區再生中協作效能的因果條件。運用模糊集質性比較分析（fsQCA）22個中國案例，本研究指出促成式領導是達成高協作效能的必要條件，而制度化不足則是低效能的必要條件。充分性分析揭示了三種達成有效協作的獨特途徑，以及三種導致無效協作的途徑。研究結果顯示，協作效能取決於資源支持、制度化、治理結構和促成式領導等因素在特定脈絡下的組態。沒有任何單一條件能單獨充分；相反地，效能是透過條件之間的互補性、功能等價性及非對稱可替代性而浮現。本研究有助於對協作治理形成更具脈絡敏感性與組態式的理解。"
+  },
+  {
    "doi": "10.1111/puar.70168",
    "title": "Bureaucracy Remade, Citizens Reconfigured: Accountability, Digitalization, and the Transformation of Public Administration",
    "abstract": "Something quietly consequential has been unfolding within democratic institutions over the past 40 years, though it rarely announces itself in obvious ways.Two recent books, emerging from different corners of public administration scholarship, circle this transformation from distinct vantage points.Karl Löfgren and Patrik Hall's The New Public Bureaucracy, alongside the edited volume Digital Co-Production of Public Services: Citizens, Challenges and Cases, led by Taco Brandsen, Ina Radtke, A. Paula Rodriguez Müller, and Trui Steen, were not conceived as companions.They speak in different voices and address partially overlapping audiences.Yet, when read side by side, something sparks between them.The tension is not accidental.It is revealing.",
@@ -1796,45 +1838,6 @@
     "turnover"
    ],
    "abstract_zh": "面臨績效壓力，公部門組織頻繁經歷高階主管異動，然而其繼任者選擇方式卻鮮有探討。本研究主張負面績效回饋 (NPF) 關鍵性地影響繼任者來源。根據2,045筆高階主管異動資料，我們發現NPF降低內部繼任的機率達41.7%。內部升遷歷史藉由預示與失靈常規的決裂，強化外部繼任者選擇；而對探索性學習的重視，則將外部選擇強化為策略性定位。本研究透過為高階主管選擇提供動態且基於前因的解釋，推進公共管理領域，挑戰組織歷史的單一論觀點，並突顯繼任者來源作為一項策略性治理工具。"
-  },
-  {
-   "doi": "10.1080/14719037.2026.2748379",
-   "title": "Unpacking the causal complexity of collaborative effectiveness in urban marginalized community regeneration: a fuzzy-set configurational analysis",
-   "abstract": "",
-   "authors": [
-    "Chunyu Shi",
-    "Yanfeng Wang",
-    "Chunyao Li"
-   ],
-   "journal": "Public Management Review",
-   "url": "https://doi.org/10.1080/14719037.2026.2748379",
-   "date": "2026-10-16",
-   "first_seen": "2026-10-17",
-   "score": 6.0,
-   "matched": [
-    "causal"
-   ],
-   "abstract_zh": ""
-  },
-  {
-   "doi": "10.1080/14719037.2026.2748381",
-   "title": "One size does not fit all: management strategies to reduce turnover intention among public sector employees",
-   "abstract": "",
-   "authors": [
-    "Evelyn Rodriguez-Plesa",
-    "Ana-Maria Dimand",
-    "Mohamad G. Alkadry",
-    "Sawsan Abutabenjeh"
-   ],
-   "journal": "Public Management Review",
-   "url": "https://doi.org/10.1080/14719037.2026.2748381",
-   "date": "2026-10-16",
-   "first_seen": "2026-10-17",
-   "score": 6.0,
-   "matched": [
-    "turnover"
-   ],
-   "abstract_zh": ""
   },
   {
    "doi": "10.1111/puar.70179",
@@ -2759,6 +2762,26 @@
    "score": 2.0,
    "matched": [],
    "abstract_zh": "數位科技的進展預期將根本地改變組織的運作方式與創造價值的方式。實證研究顯示，公部門組織在規劃與持續這項數位轉型時面臨困難。為更好地理解這些挑戰，本研究檢視了過去二十年來一個公部門組織中數位轉型背後的組織機制。本研究結果顯示，這項轉型主要由一種湧現式變革方法促成，而具影響力的計畫性變革僅偶爾發生。我們識別出這兩種變革背後的組織機制，並分析它們的相互依存關係。本研究結果指出，湧現式與計畫性變革方法可能都需要，才能有效促成公部門組織的數位轉型，但在實務上，結合兩者卻是複雜的。"
+  },
+  {
+   "doi": "10.1111/puar.70232",
+   "title": "Institutional Amnesia and the Loss of “The Why Rationale” in Central Government Agencies",
+   "abstract": "Data from 115 interviews conducted with officials in the Westminster systems of Australia, New Zealand, and the United Kingdom is used to substantiate a corrosive relationship between institutional amnesia and the ability of public servants to make sense of their organizational context. A process in which public servants question why the policies, procedures, and organizational frameworks that surround them is proposed as one medium through which this relationship operates. Four problematic effects produced by this relationship and process are subsequently analyzed: (1) public servants following but not understanding procedures, (2) inexplicable organizational aspects getting abandoned, (3) the layering of new organizational features on top of old ones, creating complexity, and (4) public service inefficiencies and associated public servant frustration. The article concludes with the implications of this important relationship for public administration scholars and practitioners.",
+   "authors": [
+    "Alastair Stark",
+    "Hridesh Gajural",
+    "Jack Corbett",
+    "Dennis C. Grube",
+    "Heather Lovell",
+    "Rodney J. Scott"
+   ],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70232",
+   "date": "2026-10-17",
+   "first_seen": "2026-10-17",
+   "score": 2.0,
+   "matched": [],
+   "abstract_zh": "透過對澳洲、紐西蘭和英國西敏制體系官員進行的115次訪談資料，本文旨在證實制度性失憶與公務人員理解其組織脈絡能力之間存在一種腐蝕性的關係。本文提出公務人員質疑其周遭政策、程序與組織框架緣由的過程，作為此關係運作的其中一種媒介。隨後，本文分析了此關係和過程所產生的四種問題性影響：(1) 公務人員遵循程序卻不理解其緣由，(2) 難以解釋的組織面向遭到捨棄，(3) 新舊組織特徵的疊加，造成複雜性，以及 (4) 公共服務效率不彰以及公務人員隨之而來的挫折感。本文最後探討了此重要關係對於公共行政學者和實務工作者的意涵。"
   },
   {
    "doi": "10.1080/10967494.2026.2699606",
@@ -3796,7 +3819,7 @@
    "first_seen": "2026-10-15",
    "score": 0.0,
    "matched": [],
-   "abstract_zh": ""
+   "abstract_zh": "在災害資訊服務中，民眾與志工產生的資訊以零散、不確定的報告形式呈現，而非可供應變使用的資訊。本質性個案研究探討一家作為資訊協調組織（ICO）的中國非營利組織Z，如何透過次微型基礎設施，將此類資訊轉化為可供應變使用的資訊。資料來源包括對43位志工和11位協調員的訪談、縱貫式參與觀察以及多方資料。歸納出四種機制：情感啟動使參與顯現；知識校準透過可追溯性與可比較性，支持報告的可信度；跨部門轉譯使已驗證資訊可被解讀並接受為應變行動的基礎；以及反思性學習使應變經驗得以部分重複利用。我們將「階段化」概念化為一種圍繞著可見性、可信度、合法行動性以及部分可重複利用性這四個門檻所建構的公共價值形成條件性論述。本研究透過闡釋資訊協調組織（ICO）的資訊工作如何制約資訊相關參與對災害應變與公共價值形成的貢獻，進而對公共價值共創研究有所貢獻。"
   },
   {
    "doi": "10.1080/14719037.2026.2749676",
