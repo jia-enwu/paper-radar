@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T00:48:09+00:00",
+ "updated": "2026-10-21T00:13:28+00:00",
  "papers": [
   {
    "doi": "10.1080/10967494.2026.2706796",
@@ -568,27 +568,6 @@
    "abstract_zh": "女性公職人員的施政方式是否與男性不同，已有充分文獻記載；然而，她們是否為女性群體施政有所不同，則尚未獲得充分探討。後者是積極代表理論的核心，該理論預期民意代表會為其所反映的群體採取行動：選舉女性是否會改變政府為女性提供的施政內容？我們探討了在巴西全國 5,565 個城市中，選舉女性市長和市議員與親女性制度存在之間的關係，涵蓋了四個選舉週期 (2008、2012、2016 和 2020 年)。我們的研究結果部分支持了積極代表關係。儘管女性市長的任職增加了親女性制度設立的可能性，但地方市議員卻要麼沒有關聯，要麼與其呈現負向關聯。透過迴歸不連續設計進行的穩健性檢定證實了這些發現，而針對種族的異質性處理效果則描繪了關於交織性更全面的視角。我們的研究結果突顯了女性民意代表如何在地方政府中為其女性選民帶來實質性改變。"
   },
   {
-   "doi": "10.1080/10967494.2026.2696853",
-   "title": "Pro-citizen rule-breaking among traffic police: the role of rule formalization and peer dynamics",
-   "abstract": "Street-level bureaucrats (SLBs) often face a dilemma between complying with formal rules and helping citizens, especially in enforcement contexts. While prior research on public services has focused on prosocial rule-breaking (PSRB), this study conceptualizes pro-citizen rule-breaking (PCRB) as SLBs’ intentional violation of rules to benefit citizens within enforcement contexts where rule-breaking carries professional and institutional risks. Factors influencing PCRB were examined using a vignette-based survey experiment with 733 Chinese traffic police officers, who operate under a dual leadership system shaped by both formal bureaucratic rules and local responsiveness. The results reveal three main findings. First, formalized written rules significantly suppress PCRB compared to informal verbal directives. Second, PCRB cues from peers strongly increase officers’ willingness to break rules in order to help citizens. Third, these peer influences moderate the effect of rule formalization on PCRB, weakening its inhibitory influence. Robustness checks using alternative measures confirm these results. By introducing PCRB into the study of enforcement contexts, this study highlights factors shaping street-level bureaucrats’ decision-making.",
-   "authors": [
-    "Fan Yang"
-   ],
-   "journal": "International Public Management Journal",
-   "url": "https://doi.org/10.1080/10967494.2026.2696853",
-   "date": "2026-07-22",
-   "first_seen": "2026-07-22",
-   "score": 27.0,
-   "matched": [
-    "street-level bureaucrat",
-    "street-level",
-    "bureaucra",
-    "survey experiment",
-    "vignette"
-   ],
-   "abstract_zh": "街頭官僚（SLBs）經常在遵守正式規定與幫助公民之間面臨兩難，尤其是在執法情境中。儘管先前關於公共服務的研究主要關注親社會違規（PSRB），本研究將親公民違規（PCRB）概念化為街頭官僚為了公民利益而故意違反規定，此類違規行為在執法情境中會帶來專業和制度風險。本研究採用情境模擬問卷實驗，對733名中國交通警察進行調查，檢視了影響親公民違規的因素。這些警察在由正式官僚規則和地方回應性共同塑造的雙重領導體系下運作。研究結果揭示了三個主要發現。首先，相較於非正式的口頭指令，正式化的書面規定顯著抑制了親公民違規。其次，來自同儕的親公民違規線索顯著增加了警察為幫助公民而違規的意願。第三，這些同儕影響調節了規則正式化對親公民違規的影響，削弱了其抑制作用。使用替代測量的穩健性檢定證實了這些結果。透過將親公民違規引入執法情境研究，本研究突顯了影響街頭官僚決策的因素。"
-  },
-  {
    "doi": "10.1080/14719037.2026.2708832",
    "title": "Understanding red tape perceptions of street-level bureaucrats: a multilevel cross-country analysis",
    "abstract": "Despite extensive research on red tape’s negative consequences, its antecedents remain underexplored. Building on the psychological process model, this article investigates antecedents of street-level bureaucrats’ red tape perceptions across the micro, meso, and macro levels. Using a dataset of 90,480 teachers across 44 countries, results show that antecedents across all levels relate to teachers’ red tape perceptions. Specifically, red tape perceptions are weaker among teachers having a growth mindset, working in schools with a wide span of control, and living in low uncertainty avoidance and individualism cultures. Across these antecedents, the cultural contexts are particularly important.",
@@ -886,6 +865,27 @@
    "abstract_zh": "公職服務動機 (PSM) 被廣泛視為一種強化投入的資源，然而，過度的動機可能會產生邊際效益遞減。本研究整合了工作要求-資源模型、資源保存理論以及好事過猶不及邏輯，檢驗了公職服務動機 (PSM) 與工作耗竭之間的曲線關係，以及協作文化的調節作用。本研究採用針對 408 名韓國公務人員的兩波段問卷調查（滯後一個月），層級迴歸分析發現了 U 型模式：耗竭程度在低至中等 PSM 水平時下降，但在超過某個閾值後上升。協作文化顯著地平緩了這條曲線，這表明支持性的集體規範在非常高水平的 PSM 下減輕了與 PSM 相關的壓力。研究結果挑戰了 PSM 始終一致有益的假設，將 PSM 重新定義為一種條件性資源，在高水平時可作為一種要求。本研究闡明了 PSM 何時是可持續的，並將協作定位為一個可操作的邊界條件，對於動機理論以及公職服務的協作組織產生了意涵。"
   },
   {
+   "doi": "10.1080/14719037.2026.2750930",
+   "title": "Lack of public service motivation as a value-constraining mechanism in entrepreneurial ecosystems",
+   "abstract": "This paper examines how public service motivation (PSM) shapes public value creation (PVC) within publicly funded entrepreneurial support organizations (ESOs). As public service ecosystems, ESOs play a pivotal role in entrepreneurial ecosystems (EEs), yet how they create public value remains underexplored. While existing research emphasizes PSM at the individual level, less is known about how PSM translates into intentional PVC in boundary-spanning ecosystem contexts. Drawing on an empirical qualitative multi-case study, we show that although ESO staff exhibit a strong commitment to enhancing the public interest, regional-level PVC is constrained by unclear and narrow organizational goals, inconsistent practices, and limited leadership support. Our findings highlight the need for leadership grounded in transformative, supportive, and human-centred practices, as well as leadership collaboration spanning organizational boundaries. This paper clarifies the organizational conditions under which PSM contributes to PVC in hybrid governance settings.",
+   "authors": [
+    "Henna Väätäinen",
+    "Iikka Meriläinen",
+    "Petri Virtanen",
+    "Hanna Vakkala"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2750930",
+   "date": "2026-10-19",
+   "first_seen": "2026-10-20",
+   "score": 21.0,
+   "matched": [
+    "public service motivation",
+    "psm"
+   ],
+   "abstract_zh": "本文探討公共服務動機 (PSM) 如何在公共資助創業支持組織 (ESOs) 中形塑公共價值創造 (PVC)。作為公共服務生態系統，ESOs 在創業生態系統 (EEs) 中扮演關鍵角色，然而，它們如何創造公共價值仍有待深入探討。儘管現有研究強調個人層次的 PSM，但對於 PSM 如何在跨界生態系統情境中轉化為有意的 PVC，我們知之甚少。本研究基於一項實證質性多案例研究，顯示儘管 ESO 員工展現出對增進公共利益的強烈承諾，但區域層次的 PVC 卻受到不明確且狹隘的組織目標、不一致的實踐以及有限的領導支持所限制。我們的研究結果突顯了對根植於轉型性、支持性與以人為本實踐的領導力，以及跨越組織邊界的領導協作的需求。本文闡明了 PSM 在混合治理情境中有助於 PVC 的組織條件。"
+  },
+  {
    "doi": "10.1111/puar.70173",
    "title": "Public Service Delegation and the Mechanisms of Blame Attribution: Evidence From a Survey Experiment on Public Service Failure",
    "abstract": "A growing body of experimental public administration research examines how structural arrangements in public services, such as delegating service delivery to public or private actors, shape citizens' blame attributions for service failures. However, the mechanisms underlying these attributions are less well understood. This article investigates two mechanisms, focusing on the mediating roles of citizens' perceptions of politicians' causal responsibility (perceived control over service delivery) and functional responsibility (perceived duty to ensure service quality). A UK‐based survey experiment on local waste collection failures tests these mechanisms using causal mediation analysis. The results show higher levels of delegation reduce blame primarily by lowering perceptions of politicians' control over service delivery. In contrast, there is no strong evidence of mediation through perceived duty, suggesting that role‐based expectations of functional responsibility are more resistant to change. These findings provide new insight into how different public service delivery methods influence blame attribution for service performance.",
@@ -1044,27 +1044,6 @@
    "abstract_zh": "民主問責制假設，承擔政府決策成本的公民可以追究做出決策的官員的責任。我們發現此假設存在結構性斷裂。當城市透過部分轉嫁給非居民（高速公路旅客、通勤者以及無法在地方選舉中投票的區域購物者）的稅收來籌措資金時，承擔成本與追究責任之間的選舉連結便會減弱。透過分析德州兩十年（2000-2019）的市政數據，並運用雙向固定效果與廣義合成控制法，我們發現，在採用專屬地方銷售稅後，那些更有能力將成本轉嫁給非選民的城市，會更大幅度地增加居民的財政曝險。這種模式在位於或鄰近主要都會區和高速公路的城市中最為顯著，而居民幾乎承擔所有成本的地理孤立城市，則變化甚微。這逆轉了古典租稅轉嫁理論所預測的稅負減輕效果，並揭示了一個為裁量性財政擴張提供資金的問責缺口。這個缺口是暫時性的：不同情境下的財政結果會在六到十三年內趨於收斂。我們總結，地理因素對民主問責制的形塑作用，與選舉規則同樣強大。"
   },
   {
-   "doi": "10.1080/10967494.2026.2696851",
-   "title": "Using generative AI to evaluate the leadership of emperors and presidents: psychometric validation and implications for public leadership research",
-   "abstract": "",
-   "authors": [
-    "Xuhua Wei",
-    "Zimeng Chen",
-    "Jingting Yu",
-    "Yujiao Du"
-   ],
-   "journal": "International Public Management Journal",
-   "url": "https://doi.org/10.1080/10967494.2026.2696851",
-   "date": "2026-07-22",
-   "first_seen": "2026-07-22",
-   "score": 18.0,
-   "matched": [
-    "ai",
-    "generative"
-   ],
-   "abstract_zh": ""
-  },
-  {
    "doi": "10.1177/02750740261471536",
    "title": "It's A Matter of Perspective: A Reflexive Thematic Analysis of Civil Servants’ Appraisal and Coping with Negative Civil Servant Stereotypes",
    "abstract": "Negative civil servant stereotypes are often described as problematic in public administration research. In this study, we investigate municipal employees’ own ideas on whether and how these stereotypes form a problem for public sector work and public services. Using semi-structured interviewing and reflexive thematic analysis and building on psychological literature on appraisal and coping with stereotypes, we identify two themes. First, respondents use different perspectives to understand and explain the stereotypes: They view stereotypes as (1) undeserved and untrue, (2) inevitable and part of the work, (3) understandable misunderstandings, and/or (4) reflections of truth. While these external attributions help respondents cope with the negative stereotypes, they also come with blind spots that could affect their work. Second, respondents think the stereotypes have a bigger impact on the citizen-government relationship, trust, and citizen-state interactions than on civil servants themselves. We discuss the implications for service delivery in the public sector and directions for future research.",
@@ -1206,30 +1185,6 @@
     "bureaucra"
    ],
    "abstract_zh": "公務員在提供公共服務時，常會便宜行事。當這些便宜行事的決策受到刻板印象或偏見影響時，公民可能會遭受不平等待遇。本研究探討美國住宅管理機構和公園管理處的官僚，是否會根據公民的政治意識形態進行歧視。本研究採用一項預先註冊的 2 × 3 電子郵件審計實驗（樣本數為 974），檢驗當公民表達保守觀點、自由派觀點或未表明政治觀點時，官僚的回應程度是否有所不同。結果顯示，街頭官僚對表達保守觀點的公民，比對未表明政治觀點的公民，更有可能做出回應。然而，對表達自由派觀點的公民與未表明政治觀點的公民，其回應程度並無差異。然而，當官僚提供回覆時，表達自由派觀點的公民會收到更具幫助的回覆。交互作用模型表明，對於表達自由派觀點公民的回應程度，在公共住宅管理機構和公園管理處之間存在差異。這些研究結果表明，政治意識形態可能會影響官僚的回應程度，進而對公共服務提供的公平性產生影響。"
-  },
-  {
-   "doi": "10.1080/10967494.2026.2684482",
-   "title": "What drives perceived job crafting in the public sector? Evidence from a randomized COM-B-informed intervention study",
-   "abstract": "Drawing on the Capability, Opportunity, and Motivation–Behavior (COM-B) framework, this study examines the impact of an intervention designed to help public employees develop the capability, motivation, and opportunity to reshape their work through job crafting strategies within highly rule-bound organizational contexts. Using a randomized longitudinal study from Italy, the findings show that a COM-B-informed job crafting intervention significantly enhanced social job resources and reduced hindering job demands. Although improvements in structural job resources and challenging job demands are more limited, the intervention promoted adaptive forms of job redesign that fit the constraints and dynamics of bureaucratic environments. Additionally, Public Service Motivation (PSM) helps sustain self-reported job crafting behaviors, and empowering leadership creates conditions that enable them. Overall, the study highlights the need for tailored job crafting interventions aligned with the structural and motivational dynamics of the public sector, fostering a more engaged and adaptable workforce. Moreover, the findings offer practical insights for public organizations seeking to enhance employee effectiveness and job satisfaction through structured job crafting initiatives.",
-   "authors": [
-    "Filomena Buonocore",
-    "Davide de Gennaro",
-    "Alessandra Lazazzara",
-    "Domenico Salvatore"
-   ],
-   "journal": "International Public Management Journal",
-   "url": "https://doi.org/10.1080/10967494.2026.2684482",
-   "date": "2026-07-22",
-   "first_seen": "2026-07-22",
-   "score": 16.0,
-   "matched": [
-    "bureaucra",
-    "public employee",
-    "public service motivation",
-    "psm",
-    "job satisfaction"
-   ],
-   "abstract_zh": "本研究援引能力、機會與動機–行為 (COM-B) 框架，探討一項旨在協助公部門員工在高度規範的組織環境中，發展能力、動機與機會，以透過工作重塑策略來重新塑造其工作的介入措施之影響。透過一項來自義大利的隨機縱貫研究，結果顯示，一項基於COM-B的工作重塑介入措施顯著提升了社會性工作資源，並降低了阻礙性工作要求。儘管在結構性工作資源和挑戰性工作要求方面的改善較為有限，該介入措施仍促進了適應性的工作再設計形式，這些形式符合官僚環境的限制與動態。此外，公共服務動機 (PSM) 有助於維持自我報告的工作重塑行為，且賦權型領導創造了促成這些行為的條件。總體而言，本研究強調了量身定制的工作重塑介入措施之必要性，這些措施需與公共部門的結構和動機動態相符，以培養更投入且適應力強的勞動力。此外，研究結果為尋求透過結構化的工作重塑措施來提升員工效能和工作滿意度的公共組織，提供了實務見解。"
   },
   {
    "doi": "10.1177/0734371x261479231",
@@ -1693,26 +1648,6 @@
    "abstract_zh": "本研究探討詮釋型領導能力 (ILS) 在公部門組織中的概念化與衡量。ILS 被界定為一種個人意義建構的領導能力，其功能具互動性：即領導者判讀工作脈絡、建立共同理解以促進組織的協調行動，並隨情境變動修正理解的能力。本研究包含三項研究，採用兩份大型樣本資料，旨在驗證 ILS 在公部門服務邏輯下的心理計量與預測特性。研究一發展並確立 ILS 的多面向測量工具，並展現其內容效度。研究二藉由將 ILS 定位在領導者發展的三層次模型中，確立其建構效度。研究三藉由展現 ILS 對組織公部門服務績效的預測能力，證明其效標效度。綜合而言，這些研究驗證了 ILS 為公部門領導者的意義建構能力，並對橫跨公部門與非營利組織的領導理論與實務提供啟示。"
   },
   {
-   "doi": "10.1080/14719037.2026.2750930",
-   "title": "Lack of public service motivation as a value-constraining mechanism in entrepreneurial ecosystems",
-   "abstract": "",
-   "authors": [
-    "Henna Väätäinen",
-    "Iikka Meriläinen",
-    "Petri Virtanen",
-    "Hanna Vakkala"
-   ],
-   "journal": "Public Management Review",
-   "url": "https://doi.org/10.1080/14719037.2026.2750930",
-   "date": "2026-10-19",
-   "first_seen": "2026-10-20",
-   "score": 8.0,
-   "matched": [
-    "public service motivation"
-   ],
-   "abstract_zh": ""
-  },
-  {
    "doi": "10.1111/puar.70191",
    "title": "Coordination Costs and Homelessness Housing Form Choice",
    "abstract": "Local implementers have discretion in selecting forms of housing for the homeless, yet the determinants of these choices remain poorly understood. Using the institutional collective action (ICA) framework, this study examines California's Homekey program to assess how coordination demands shape decisions among hotel conversions, multifamily acquisitions, and modular or new construction. Drawing on binary logistic, generalized estimating equation (GEE), and multinomial logistic models, we find that larger projects and those designated as permanent housing are significantly more likely to pursue hotel conversions. Housing authorities—owing to their specialized missions and lower form‐specific coordination costs—are over six times more likely than cities to select multifamily acquisition. Local vacancy constraints further steer implementers away from modular or new construction and toward hotel conversions. These results demonstrate that implementation form is not a neutral technical decision but an institutional response to coordination challenges embedded in intergovernmental and interorganizational contexts.",
@@ -1897,24 +1832,6 @@
    "abstract_zh": "人生唯一不變的就是變，而對於公共行政人員而言，因應危機與多重危機已成為常態。有效的危機管理現已成為公共管理者不可或缺的技能，因為即使是輕微的應變延遲、溝通失誤或技能不足，都可能導致生命或財產的損失。最近在美國公共行政學會（ASPA）會議上的學術討論指出，相對正常的時期是2019年，即COVID-19疫情爆發之前，並且對於生活是否能再次恢復正常感到懷疑。儘管對此可能存在不同觀點，但顯而易見的是，我們已無法回頭，且雖然危機的類型會改變，但它們將持續存在。因此，我們必須更好地規劃、準備並應對這些危機。《勞特利奇危機、多重危機與公共行政手冊》（Moloney 等人，2025年）匯集了來自世界各地關於危機的研究、評論、反思和全球視角。本書評首先概述了該書的內容，闡述其主要論點，討論其局限性，並評估其對公共行政學術研究與實踐的貢獻。儘管本書的構思可能源於全球疫情，但請勿誤解：本書並非完全圍繞COVID-19展開。本書以一個超出預期的廣泛危機定義作為開端。除了預期的自然災害，例如颶風、風暴、地震和野火之外，危機清單還包括勞動力老化、網路安全、債務、失業、犯罪率上升、飢餓、家庭暴力等等。這種擴展的視角既令人耳目一新又引人深思，因為其中許多持續且複雜的問題傳統上並未被歸類為危機。在公共行政領域，這些問題被稱為「棘手問題」（wicked problems）（Rittel 和 Webber，1973年），人們傾向於接受它們將持續存在，並且我們必須專注於管理而非解決它們，因為它們沒有絕對的對錯解方，只有相對較好或較差的解決方案。本書將其中一些問題納入危機和多重危機的範疇，並建議透過危機的視角來分析它們。此外，本書透過涵蓋世界各地的危機來提供全球視角，並廣泛且豐富地呈現了來自美國、德國、愛爾蘭、英國、荷蘭、迦納、韓國、南非、哥倫比亞、薩爾瓦多、厄瓜多、阿根廷和墨西哥，以及模里西斯、留尼旺島和馬達加斯加等島嶼的案例。在方法論上，本書採用了質性、量化和混合方法研究，包括單一案例研究、跨多國比較分析和多州調查。"
   },
   {
-   "doi": "10.1080/10967494.2026.2696855",
-   "title": "Beyond the hassle: how favorable outcomes reduce the subjective experience of administrative burden",
-   "abstract": "A large body of research shows that compliance demands—administrative hassles and rules—impose learning, compliance, and psychological costs on individuals. Because costs are conceptualized as subjective, most studies rely on self-reported measures. This article examines that approach by asking: To what extent do factors beyond compliance demands shape the subjective experience of administrative burdens? We argue that one factor, distinct from compliance demands, is the favorability of outcomes allocated by public organizations. We integrate outcome favorability into the administrative burden framework, proposing that (1) favorable outcomes reduce administrative burdens, as subjectively experienced and (2) favorable outcomes moderate the effect of compliance demands on the experience of administrative burdens. We test these expectations in two studies: an analysis of real-world interactions from the German Life Events Survey (n ≈ 4,000) and a Danish survey experiment with randomized demands and outcomes (n = 1,624). Both studies show that favorable outcomes reduce administrative burdens, as subjectively experienced, raising questions about how much self-reported learning, compliance, and psychological costs reflect reactions to administrative requirements rather than other aspects of citizen-state interactions.",
-   "authors": [
-    "Frederik Godt",
-    "Aske Halling"
-   ],
-   "journal": "International Public Management Journal",
-   "url": "https://doi.org/10.1080/10967494.2026.2696855",
-   "date": "2026-07-22",
-   "first_seen": "2026-07-22",
-   "score": 4.0,
-   "matched": [
-    "survey experiment"
-   ],
-   "abstract_zh": "大量研究顯示，遵循要求（行政繁瑣與規範）會對個人造成學習、遵循與心理成本。由於成本被概念化為主觀的，大多數研究仰賴自我報告測量。本文透過提問「除了遵循要求之外的因素在多大程度上形塑行政負擔的主觀經驗？」來檢視該方法。我們主張，一個不同於遵循要求的因素，是由公共組織所分配結果的有利性。我們將結果有利性整合到行政負擔框架中，提出 (1) 有利結果會減少主觀感受到的行政負擔，以及 (2) 有利結果會調節遵循要求對行政負擔經驗的影響。我們在兩項研究中檢驗這些預期：一項是對德國生活事件調查（n ≈ 4,000）中真實世界互動的分析，以及一項採用隨機化要求與結果的丹麥調查實驗（n = 1,624）。兩項研究均顯示，有利結果會減少主觀感受到的行政負擔，這引發了關於自我報告的學習、遵循和心理成本在多大程度上反映了對行政要求的反應，而不是公民與國家互動的其他方面的問題。"
-  },
-  {
    "doi": "10.1111/puar.70177",
    "title": "Consolidating Liberal Democracy From Within A Theory of Public Institutional Leadership",
    "abstract": "Recent developments in also established democracies have made clear that public administration and management research alike have neglected giving scholarly attention to public organizations as institutions. Drawing upon research on leadership of institutions and leadership in public organizations we suggest a theory of public institutional leadership . Public institutional leadership reconnects public management with democracy by suggesting three central dimensions of leadership behaviors that instill and sustain liberal democratic values in public organizations. These behaviors include articulating and reaffirming democratic values through top‐down vision‐setting; building “character” bottom‐up through role modeling and fostering psychological safety to enable dialogue and deliberation around these values as well as demonstrating constrained responsiveness to political principals relative to those values enabled by the cultivation of bureaucratic autonomy. Although the necessity of such behaviors is made salient by rising populism and democratic backsliding, their relevance extends to public management situated in liberal democracies in general.",
@@ -2078,23 +1995,6 @@
     "public service motivation"
    ],
    "abstract_zh": "傳統上，治理與領導公共專業人員的階層式方法並非總能證明成功，因此，關於專業精神的整合性與混合式觀點正日益受到關注。本研究整合了專業發展領導（PDL）與分散式領導（DL）理論，並引入了分散式專業發展領導（D-PDL）的概念。D-PDL意指沒有正式領導職責的員工，在組織目標範圍內，參與著重於促進並實現專業精神共同理解的核心PDL活動。本研究理論化指出，專業人員參與D-PDL會比參與一般性分散式領導（其涵蓋廣泛且脫離專業核心任務的領導活動）帶來更高的自主動機。來自約2,400名丹麥醫師的調查數據支持此理論框架，並顯示醫師參與D-PDL與更高的內在動機和公共服務動機相關，而他們參與一般性分散式領導則主要與外在動機相關。本研究強調將PDL從以領導者為中心的觀念中拓展出來，並區分不同類型分散式領導活動的重要性。"
-  },
-  {
-   "doi": "10.1080/10967494.2026.2691390",
-   "title": "Chainsaw or scalpel: which leads to more blame for a service failure when leaders downsize government?",
-   "abstract": "The Trump administration’s DOGE attempted to radically downsize U.S. federal agencies. This study aims to clarify whether government leaders are blamed more for service failure when they employ either a DOGE-like (chainsaw) method or a more measured (scalpel) approach. A preregistered experiment was conducted in which respondents were randomly assigned to one of 6 vignettes that presented information about downsizing approaches, a public service failure, and the person or entity directly responsible for the failure. This study produced four main findings. First, people blamed city leaders more for the service failure when they knew a chainsaw approach was used to downsize government, compared to when they were given no information about the approach. Second, people blamed city leaders more when a chainsaw approach was used than when a scalpel approach was used. Third, simply knowing that city leaders had used a downsizing approach was not enough to shift blame away from the frontline employee toward city leaders. Fourth, blame shifted from the frontline employee to city leaders when people learned that a chainsaw approach—rather than a scalpel approach—had been used. The implications for research and practice are that a chainsaw approach is undesirable.",
-   "authors": [
-    "James Gerard Caillier"
-   ],
-   "journal": "International Public Management Journal",
-   "url": "https://doi.org/10.1080/10967494.2026.2691390",
-   "date": "2026-07-22",
-   "first_seen": "2026-07-22",
-   "score": 3.0,
-   "matched": [
-    "vignette"
-   ],
-   "abstract_zh": "川普政府的DOGE試圖大幅縮編美國聯邦機構。本研究旨在釐清，當政府領導者採用DOGE式（電鋸式）方法或更審慎（手術刀式）方法時，他們是否在服務失靈時受到更多責備。本研究進行了一項預先註冊的實驗，受訪者被隨機分配到六個情境之一，這些情境呈現了關於縮編方法、公共服務失靈以及直接負責失靈的人員或實體之資訊。本研究得出四項主要發現。首先，當人們得知政府採用電鋸式方法進行縮編時，他們對城市領導者在服務失靈上的責備更多，相較於未獲得任何關於該方法資訊的情況。其次，當採用電鋸式方法時，人們對城市領導者的責備更多，相較於採用手術刀式方法。第三，僅僅知道城市領導者曾使用縮編方法，並不足以將責備從第一線員工轉移到城市領導者身上。第四，當人們得知採用的是電鋸式方法而非手術刀式方法時，責備從第一線員工轉移到城市領導者身上。對於研究和實務的啟示是，電鋸式方法是不可取的。"
   },
   {
    "doi": "10.1177/02750740261469544",
@@ -2790,107 +2690,6 @@
    "score": 2.0,
    "matched": [],
    "abstract_zh": "公共組織的有效管理需要及時應對新興風險，然而，將這些風險向上級呈報可能使營運經理在政治化的問責環境中面臨指責。本研究透過分析丹麥國防部兩項主要採購與維護專案相關的七年期間內提交的130份風險報告，探討公部門經理如何應對上述緊張關係。本研究採用溯因式質性研究方法，發展出一個包含四個階段的動態風險管理模型：(1) 風險作為營運考量，(2) 將風險轉化為組織問題，(3) 歸咎責任與問責，以及 (4) 啟動緩解與應對措施。我們發現風險與問責溝通是相互依存的過程，而非獨立的順序過程。營運經理試圖引起對新興風險的關注，同時規避潛在的指責，並顧及高層對公眾監督的顧慮。這種緊張關係導致僅在絕對必要時才呈報的壓力，而高層經理則經常推遲行動以避免政治曝光。這些做法導致專案延誤、未能符合規範以及嚴重的預算超支。本研究提出公部門風險管理的動態理論，並解釋了層級溝通實踐如何影響新興風險是否、何時以及如何被處理。"
-  },
-  {
-   "doi": "10.1080/14719037.2026.2703750",
-   "title": "Digital transformations in public welfare services: risks and benefits of digital co-production",
-   "abstract": "Digital technologies have the potential to transform public services by enabling digital co-production. This paper presents an illustrative case study set in the Norwegian Labour and Welfare Services (Nav) to explore how these transformations can be conceptualized and theorized. The study contributes by building an integrative framework that can be used to guide research and decision-making on digital co-production across diverse public service sectors. The framework explicates the underlying dilemmas, benefits and risks – and, consequently, the value conflicts and trade-offs involved in digital transformations centred on co-production of services.",
-   "authors": [
-    "Maria Taivalsaari Røhnebæk",
-    "Sigrid Myklebø",
-    "Inge Hermanrud",
-    "Asbjørn Kårstein"
-   ],
-   "journal": "Public Management Review",
-   "url": "https://doi.org/10.1080/14719037.2026.2703750",
-   "date": "2026-07-22",
-   "first_seen": "2026-07-22",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "數位科技藉由促成數位協同生產，具有轉型公共服務的潛力。本文以挪威勞動暨福利服務局 (Nav) 為背景，提出一個說明性個案研究，旨在探討這些轉型如何被概念化與理論化。本研究的貢獻在於建構一個整合性架構，可用於指導跨越多元公共服務領域的數位協同生產相關研究與決策。此架構闡明了以服務協同生產為核心的數位轉型所涉及的潛在困境、效益與風險，以及隨之而來的價值衝突與權衡取捨。"
-  },
-  {
-   "doi": "10.1080/10967494.2026.2696852",
-   "title": "How far can participatory governance models travel? Evidence from Jordan’s decentralization reforms",
-   "abstract": "This article empirically critiques the mobility of participatory governance models when transferred to hybrid institutional contexts. In so doing, it critically examines Jordan’s 2017 decentralization reforms through elite interviews with 14 senior policymakers to unpack the structural conditions that impede reform. Through a blame avoidance lens, the study identifies three competing narratives on the reforms’ shortcomings, which are subsequently analyzed using the Institutional Analysis and Development framework to highlight the institutional incompatibilities that shaped reform outcomes. Despite its aims to strengthen local democracy through networked governance, the reforms produced a dysfunctional model that amplified centralization and patronage in Jordanian public administration. The study problematizes assumptions that Western governance frameworks can inherently enhance public sector performance, highlighting that successful policy transfer of participatory models in hybrid settings like Jordan is contingent on contextualization and co-design of transferred reform programs in order to synthesize external solutions with local institutional configurations.",
-   "authors": [
-    "Ahmad Asem Al-Hiari"
-   ],
-   "journal": "International Public Management Journal",
-   "url": "https://doi.org/10.1080/10967494.2026.2696852",
-   "date": "2026-07-22",
-   "first_seen": "2026-07-22",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "本文實證批判參與式治理模式在轉移至混合型制度脈絡時的流動性。藉此，本文透過對14位高階政策制定者的菁英訪談，批判性地檢視約旦2017年的地方分權改革，以揭示阻礙改革的結構性條件。透過規避責任的視角，本研究識別出三種關於改革缺失的相互競爭敘事，隨後再利用制度分析與發展架構進行分析，以突顯塑造改革成果的制度不相容性。儘管這些改革旨在透過網絡治理強化地方民主，卻產生了一個功能失調的模式，放大了約旦公共行政中的集權與侍從主義。本研究對西方治理架構能本質上提升公共部門績效的假設提出質疑，並強調在約旦這類混合型情境中，參與式模式的成功政策轉移，取決於轉移的改革方案之情境化與共同設計，以便將外部解決方案與當地制度配置相結合。"
-  },
-  {
-   "doi": "10.1080/10967494.2026.2684439",
-   "title": "Disentangling the notion of value in public services: evidence and future directions from a systematic literature review",
-   "abstract": "“Value” is a popular yet contested construct in Public Administration and Management (PAM) research, and has gained increasing attention in relation to the value creation process in public services. Despite the close connection between value and public services, the field lacks a clear understanding of what value is actually about and, consequently, what is created within services. We contribute to this debate through a systematic literature review of 140 records across disciplines to detect how value is defined in the field of public services and the main features of the value creation process, with a specific focus on its beneficiaries, mechanisms, levels and stages, providing an unprecedented conceptual mapping of the intersection between the concept of value and public services. We conclude by outlining several research avenues to further advance the field, calling for a shift from a theory of value creation in public services to a theory of public value creation in services.",
-   "authors": [
-    "Maria Cucciniello",
-    "Raffaella Saporito",
-    "Eleonora Perobelli",
-    "Stephen Osborne"
-   ],
-   "journal": "International Public Management Journal",
-   "url": "https://doi.org/10.1080/10967494.2026.2684439",
-   "date": "2026-07-22",
-   "first_seen": "2026-07-22",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "「價值」是公共行政與管理 (PAM) 研究中一個廣受關注卻也備受爭議的構念，並且在公共服務的價值創造過程中越來越受到關注。儘管價值與公共服務關係密切，該領域卻缺乏對價值究竟是什麼的清晰理解，也因此不清楚在服務中創造了什麼。我們透過對跨學科140篇文獻的系統性回顧，為此辯論做出貢獻，以探討價值在公共服務領域中如何被定義，以及價值創造過程的主要特徵，特別關注其受益者、機制、層次和階段，從而提供價值概念與公共服務交會點前所未有的概念圖譜。我們最後概述了數個研究方向以進一步推動該領域發展，並呼籲將研究重心從「公共服務中的價值創造理論」轉向「服務中的公共價值創造理論」。"
-  },
-  {
-   "doi": "10.1080/10967494.2026.2684629",
-   "title": "Prior beliefs and the biased interpretation of performance information: the mediating role of attention",
-   "abstract": "",
-   "authors": [
-    "Lei Tao"
-   ],
-   "journal": "International Public Management Journal",
-   "url": "https://doi.org/10.1080/10967494.2026.2684629",
-   "date": "2026-07-22",
-   "first_seen": "2026-07-22",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": ""
-  },
-  {
-   "doi": "10.1080/10967494.2026.2693112",
-   "title": "Public service delivery under stress: The governance of funeral value-chain services during a pandemic",
-   "abstract": "This study examines how city-level interorganizational networks managing the funeral value chain in Barcelona, Madrid, Paris, and New York maintained service continuity during the first wave of COVID-19. Using 38 semi-structured interviews and a comparative case design, we analyze process mechanisms—viewed as drivers (facilitators) and obstacles (impediments)—and evaluate how their function varied across governance modes (shared, lead-organization, hybrid). Results show that different governance models rely on distinct mechanisms to ensure service continuity. Shared governance benefits from trust, existing relationships, and active network management, while lead-organization modes depend more on clear authority lines and open communication channels. Hybrid arrangements perform well when preexisting plans are combined with listening arenas that preserve participant voice. These insights deepen our understanding of collaborative processes in high-pressure, service-critical settings.",
-   "authors": [
-    "Mónica Reig",
-    "Adrià Albareda",
-    "Federica Giardina",
-    "Marc Esteve"
-   ],
-   "journal": "International Public Management Journal",
-   "url": "https://doi.org/10.1080/10967494.2026.2693112",
-   "date": "2026-07-22",
-   "first_seen": "2026-07-22",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "本研究探討巴塞隆納、馬德里、巴黎和紐約等城市層級的跨組織網絡，如何在COVID-19首波疫情期間，管理殯葬服務價值鏈並維持服務連續性。本研究透過38次半結構式訪談並運用比較個案設計，分析過程機制（被視為驅動因子與阻礙因子），並評估其功能在不同治理模式（共享式、主導組織式、混合式）下的差異。研究結果顯示，不同的治理模式仰賴獨特的機制來確保服務連續性。共享式治理模式受惠於信任、既有關係和積極的網絡管理，而主導組織式模式則較依賴於明確的權力線和開放的溝通管道。混合式模式在既有計畫與能夠保留參與者聲音的傾聽場域結合時，運作良好。這些見解深化了我們對在高壓且服務至關重要的情境中，協作過程的理解。"
-  },
-  {
-   "doi": "10.1080/10967494.2026.2684565",
-   "title": "How public managers view Sustainable Development Goals: a Q-study",
-   "abstract": "",
-   "authors": [
-    "Manuela S. Macinati",
-    "Francesca Manes Rossi",
-    "Mariafrancesca Sicilia"
-   ],
-   "journal": "International Public Management Journal",
-   "url": "https://doi.org/10.1080/10967494.2026.2684565",
-   "date": "2026-07-22",
-   "first_seen": "2026-07-22",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": ""
   },
   {
    "doi": "10.1080/14719037.2026.2706536",
