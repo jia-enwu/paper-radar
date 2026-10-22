@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T00:13:28+00:00",
+ "updated": "2026-10-22T00:17:27+00:00",
  "papers": [
   {
    "doi": "10.1080/10967494.2026.2706796",
@@ -1262,27 +1262,6 @@
    "abstract_zh": "公部門職務分類系統累積了「職務分類漂移」，這是一種在員工實際從事的工作、其工作內容的描述方式以及他們獲得報酬的方式之間日益擴大的落差。由於職務分類會大規模地影響薪資、職位比較和內部公平性，職務分類漂移會悄然累積成可衡量的失衡。在美國一個大型都會區公立學區（以下簡稱「該學區」），這種漂移現象表現為435名員工共用「專員」職稱，橫跨24個薪資等級（年薪47,000美元至125,000美元）。本文介紹了PRISM（漸進式精煉與智慧整合模型），這是一個與某研究型大學合作夥伴的資料科學研究所共同開發的多模型人工智慧框架，該框架在高風險決策點引入了驗證摩擦。PRISM並非自動化核准，而是揭示獨立人工智慧模型之間的分歧，並將模糊不清的案例轉交給人類審閱者，並附帶結構化的證據包。在992個職位中，有173個案例（佔17%）被標記為需升級審查。本文闡述了公部門人資辦公室，無論是否導入人工智慧，可以如何應對職務分類漂移。"
   },
   {
-   "doi": "10.1111/puar.70162",
-   "title": "Recruiting Street‐Level Bureaucrats Through Co‐Design: The Effects of Incorporating Citizen Insights Into Job Advertisements",
-   "abstract": "Street‐level bureaucrats (SLBs) directly affect citizens, making them central to public service delivery. Service success therefore hinges on public sector organizations' ability to recruit competent SLBs. We argue that citizens' perspectives should inform SLB recruitment, especially for contact‐intensive, relational frontline roles. Yet public administration research has not integrated citizens' perspectives into SLB recruitment, despite a broader shift toward a service‐user orientation. We test whether job advertisements co‐designed with citizens increase job seekers' application likelihood. Using a mixed‐method design, including a preregistered experiment, we find that co‐designed job advertisements (a) identify SLB competencies often overlooked in conventional recruitment (Study 1), (b) increase application likelihood regardless of applicants' awareness of citizen involvement (Study 2A), and (c) attract candidates whose values align with service‐user‐oriented organizations by improving person‐job fit (Study 2B). We advance public sector recruitment and SLB research by introducing co‐design as an innovative and effective approach to service‐user‐oriented SLB recruitment.",
-   "authors": [
-    "Jakob Trischler",
-    "Julia Dicenta",
-    "Jasenko Arsenovic",
-    "Marion Büttgen"
-   ],
-   "journal": "Public Administration Review",
-   "url": "https://doi.org/10.1111/puar.70162",
-   "date": "2026-07-23",
-   "first_seen": "2026-07-23",
-   "score": 14.0,
-   "matched": [
-    "bureaucra",
-    "recruitment"
-   ],
-   "abstract_zh": "街頭官僚 (SLBs) 直接影響民眾，使其在公共服務提供中扮演核心角色。因此，服務成效取決於公部門組織招募稱職街頭官僚的能力。我們主張，民眾的視角應納入街頭官僚招募的考量，尤其對於需高度互動、關係導向的第一線職位。然而，儘管整體趨勢已轉向服務使用者導向，公共行政研究卻尚未將民眾的視角整合至街頭官僚招募中。我們檢驗與民眾協同設計的職位廣告是否能提高求職者的申請意願。透過混合方法設計，包括一項預先註冊的實驗，我們發現協同設計的職位廣告 (a) 能夠識別傳統招募中常被忽略的街頭官僚能力 (研究一)，(b) 無論申請者是否知曉民眾參與，皆能提高申請意願 (研究二A)，以及 (c) 透過提升人職契合度，吸引價值觀與服務使用者導向組織一致的候選人 (研究二B)。我們藉由引入協同設計作為服務使用者導向街頭官僚招募的創新且有效方法，推進了公部門招募和街頭官僚研究。"
-  },
-  {
    "doi": "10.1111/puar.70172",
    "title": "Under Pressure: Analyzing LEO Turnover in America's Swing and Pivot Counties for 2016, 2020, 2024",
    "abstract": "Post‐2024, the United States faces an acute labor crisis marked by accelerating Local Election Official (LEO) attrition. This study examines causal drivers of this exodus, focusing specifically on disproportionate turnover within volatile “swing” and “pivot” counties. Utilizing a mixed‐methods design, using longitudinal data from the Bipartisan Policy Center, US Census Bureau, Elections Voter Survey, MIT Election Data and Science Lab (MEDSL), and the Reed LEO survey, alongside an original dataset compiled from 74 competitive counties and 25 “super landslide” counties. Using Geographic Information Systems, we connect a detailed county profile to spatial mapping of the legal and political environment across the 2016, 2020, and 2024 elections. LEOs in highly competitive jurisdictions face an erosion of institutional trust, serving as a primary catalyst for departure. These volatile jurisdictions highlight where democratic machinery is vulnerable, offering evidence‐based insights for state‐level policy interventions designed to stabilize the public administrative workforce amidst unprecedented hyperpolarization.",
@@ -1997,23 +1976,6 @@
    "abstract_zh": "傳統上，治理與領導公共專業人員的階層式方法並非總能證明成功，因此，關於專業精神的整合性與混合式觀點正日益受到關注。本研究整合了專業發展領導（PDL）與分散式領導（DL）理論，並引入了分散式專業發展領導（D-PDL）的概念。D-PDL意指沒有正式領導職責的員工，在組織目標範圍內，參與著重於促進並實現專業精神共同理解的核心PDL活動。本研究理論化指出，專業人員參與D-PDL會比參與一般性分散式領導（其涵蓋廣泛且脫離專業核心任務的領導活動）帶來更高的自主動機。來自約2,400名丹麥醫師的調查數據支持此理論框架，並顯示醫師參與D-PDL與更高的內在動機和公共服務動機相關，而他們參與一般性分散式領導則主要與外在動機相關。本研究強調將PDL從以領導者為中心的觀念中拓展出來，並區分不同類型分散式領導活動的重要性。"
   },
   {
-   "doi": "10.1177/02750740261469544",
-   "title": "Tensions Between Client Satisfaction and Employee Motivation in Public Organizations, and Their Reconciliation Through Leadership",
-   "abstract": "Public organizations widely use client satisfaction feedback to assess their employees, reflecting responsiveness and accountability to policy clients. Yet client satisfaction is inherently subjective and heterogeneous, and it often diverges from mission-relevant performance in ways that can compromise employees’ work motivation. This study conceptualizes this issue as a bottom-up democracy–bureaucracy dilemma and examines the role of leadership in mitigating it. Drawing on experimental evidence (n = 740) and open-ended qualitative responses (13,502 words) from frontline investigators in South Korea's National Police Agency, the study finds that low client (i.e., alleged victims) satisfaction despite high investigatory performance impairs officers’ work motivation. Notably, these demotivating effects are attenuated when the agency head explicitly acknowledges the weak link between performance and satisfaction and avoid treating low satisfaction as direct evidence of poor performance, even as client satisfaction remains a formal evaluative benchmark. This sensegiving approach appears to foster perceptions of interactional fairness, empathy, and understanding, thereby significantly improving officers’ experience ofsatisfaction feedback and their trust in the agency head. A broader implication of this study is that reconciling democratic impulses for policy clients and political stakeholders with administrative imperatives to empower the workforce is a unique challenge for public sector leadership.",
-   "authors": [
-    "Inkyu Kang"
-   ],
-   "journal": "The American Review of Public Administration",
-   "url": "https://doi.org/10.1177/02750740261469544",
-   "date": "2026-07-23",
-   "first_seen": "2026-07-23",
-   "score": 2.0,
-   "matched": [
-    "bureaucra"
-   ],
-   "abstract_zh": "公共組織廣泛運用服務對象滿意度回饋來評估其員工，以反映對政策服務對象的回應性與課責性。然而，服務對象滿意度本質上是主觀且異質的，且常與任務相關績效產生分歧，以致於可能損害員工的工作動機。本研究將此議題概念化為一種由下而上的民主－官僚兩難，並探討領導力在緩解此兩難中的作用。本研究根據來自韓國國家警察廳前線調查員的實驗證據 (n = 740) 以及開放式質性回應 (13,502 字)，發現儘管調查績效高，服務對象（即，聲稱受害者）滿意度低仍損害了警員的工作動機。值得注意的是，當機關首長明確承認績效與滿意度之間的薄弱連結，並避免將低滿意度視為績效不佳的直接證據時，這些去動機化效應會減弱，即使服務對象滿意度仍是正式的評估基準。這種意義賦予方法似乎能促進對互動公平性、同理心和理解的感知，從而顯著改善警員對滿意度回饋的體驗以及他們對機關首長的信任。本研究更廣泛的啟示是，調和對政策服務對象和政治利害關係人的民主衝動，與賦予員工權力的行政要求，是公共部門領導力的一項獨特挑戰。"
-  },
-  {
    "doi": "10.1111/puar.70171",
    "title": "American Administrative Capacity: Decline, Decay, and Resilience By M.Ernita Joaquin and Thomas J.Greitens, Cham, Switzerland: Springer, 2021. 213 pp. $97 (hardcover). ISBN : 978‐3‐030‐80563‐0",
    "abstract": "",
@@ -2690,22 +2652,6 @@
    "score": 2.0,
    "matched": [],
    "abstract_zh": "公共組織的有效管理需要及時應對新興風險，然而，將這些風險向上級呈報可能使營運經理在政治化的問責環境中面臨指責。本研究透過分析丹麥國防部兩項主要採購與維護專案相關的七年期間內提交的130份風險報告，探討公部門經理如何應對上述緊張關係。本研究採用溯因式質性研究方法，發展出一個包含四個階段的動態風險管理模型：(1) 風險作為營運考量，(2) 將風險轉化為組織問題，(3) 歸咎責任與問責，以及 (4) 啟動緩解與應對措施。我們發現風險與問責溝通是相互依存的過程，而非獨立的順序過程。營運經理試圖引起對新興風險的關注，同時規避潛在的指責，並顧及高層對公眾監督的顧慮。這種緊張關係導致僅在絕對必要時才呈報的壓力，而高層經理則經常推遲行動以避免政治曝光。這些做法導致專案延誤、未能符合規範以及嚴重的預算超支。本研究提出公部門風險管理的動態理論，並解釋了層級溝通實踐如何影響新興風險是否、何時以及如何被處理。"
-  },
-  {
-   "doi": "10.1080/14719037.2026.2706536",
-   "title": "Visualizing &amp; strategizing public value: an unexpected path to invisibilizing",
-   "abstract": "Whereas public value has become a central concern in public management, its visibility within strategic decision-making remains a major challenge. This article examines how visual tools contribute to visualizing and strategizing public value. Drawing on an action research conducted in a French municipality, we show that issue maps shape strategizing by making public value visible, discussable, and strategically actionable. We demonstrate that these tools direct attention, support deliberation and structure meaning, creating public value. Surprisingly, they also generate resistance and processes of invisibilizing: some values become unseen. These findings highlight the inherently selective and political nature of visualizing.",
-   "authors": [
-    "Camille Guirou",
-    "Laurent Beduneau-Wang"
-   ],
-   "journal": "Public Management Review",
-   "url": "https://doi.org/10.1080/14719037.2026.2706536",
-   "date": "2026-07-23",
-   "first_seen": "2026-07-23",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "公共價值已成為公共管理的核心關切，然而其在策略決策中的能見度仍是一大挑戰。本文探討視覺工具如何有助於公共價值的視覺化與策略化。本文借鑒於在法國某市鎮進行的行動研究，指出議題地圖透過使公共價值變得可見、可討論且具策略行動性，從而塑造了策略制定過程。我們證明這些工具能引導注意力、支持審議並建構意義，進而創造公共價值。令人驚訝的是，這些工具也產生阻力及隱形化過程：某些價值因此變得不可見。這些發現突顯了視覺化本質上所具有的選擇性與政治性。"
   },
   {
    "doi": "10.1080/10967494.2026.2699232",
