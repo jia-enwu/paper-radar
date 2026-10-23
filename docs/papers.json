@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T00:17:27+00:00",
+ "updated": "2026-10-23T00:14:19+00:00",
  "papers": [
   {
    "doi": "10.1080/10967494.2026.2706796",
@@ -886,6 +886,25 @@
    "abstract_zh": "本文探討公共服務動機 (PSM) 如何在公共資助創業支持組織 (ESOs) 中形塑公共價值創造 (PVC)。作為公共服務生態系統，ESOs 在創業生態系統 (EEs) 中扮演關鍵角色，然而，它們如何創造公共價值仍有待深入探討。儘管現有研究強調個人層次的 PSM，但對於 PSM 如何在跨界生態系統情境中轉化為有意的 PVC，我們知之甚少。本研究基於一項實證質性多案例研究，顯示儘管 ESO 員工展現出對增進公共利益的強烈承諾，但區域層次的 PVC 卻受到不明確且狹隘的組織目標、不一致的實踐以及有限的領導支持所限制。我們的研究結果突顯了對根植於轉型性、支持性與以人為本實踐的領導力，以及跨越組織邊界的領導協作的需求。本文闡明了 PSM 在混合治理情境中有助於 PVC 的組織條件。"
   },
   {
+   "doi": "10.1080/14719037.2026.2750928",
+   "title": "The blurred line between ends and means: how frontline workers factor production attributes into results in performance evaluations",
+   "abstract": "Results-based performance management assumes that organizational performance can be evaluated by defining and measuring desired results. Yet frontline workers, who translate performance goals into service delivery, may interpret results through their knowledge of how services are produced. We examine whether production attributes enter frontline evaluations of formal results. Drawing on theories of sensemaking and cognitive judgment, we argue that task difficulty and effort provide salient cues through which frontline workers contextualize performance information. We test these expectations using a conjoint survey experiment with 1,371 Danish high school teachers, randomly varying production attributes alongside formal results. Teachers rate schools serving more disadvantaged students more favorably and increase ratings when schools demonstrate greater effort. Both effects exhibit clear dose-response patterns, with effort effects comparable to those of formal results. The findings show that frontline evaluations systematically incorporate production information, revealing how performance management can generate divergent understandings of organizational performance.",
+   "authors": [
+    "Paw Hansen"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2750928",
+   "date": "2026-10-22",
+   "first_seen": "2026-10-23",
+   "score": 21.0,
+   "matched": [
+    "frontline worker",
+    "conjoint",
+    "survey experiment"
+   ],
+   "abstract_zh": "成果導向績效管理假設組織績效可透過定義並衡量預期成果來評估。然而，將績效目標轉化為服務提供的第一線工作者，可能會透過他們對服務產出方式的知識來詮釋成果。我們檢視產出屬性是否會納入第一線工作者對正式成果的評估。借鑒意義建構與認知判斷理論，我們主張任務難度與努力提供顯著線索，讓第一線工作者得以將績效資訊情境化。我們針對1,371名丹麥高中教師進行聯合分析問卷實驗，隨機變動產出屬性與正式成果，以檢驗這些預期。教師對服務更多弱勢學生的學校給予較高的評價，且當學校展現更大的努力時，評價也會隨之提高。這兩種效應皆呈現清晰的劑量反應模式，其中努力的效應與正式成果的效應相當。研究結果顯示，第一線工作者的評估系統性地納入產出資訊，揭示績效管理如何產生對組織績效的不同理解。"
+  },
+  {
    "doi": "10.1111/puar.70173",
    "title": "Public Service Delegation and the Mechanisms of Blame Attribution: Evidence From a Survey Experiment on Public Service Failure",
    "abstract": "A growing body of experimental public administration research examines how structural arrangements in public services, such as delegating service delivery to public or private actors, shape citizens' blame attributions for service failures. However, the mechanisms underlying these attributions are less well understood. This article investigates two mechanisms, focusing on the mediating roles of citizens' perceptions of politicians' causal responsibility (perceived control over service delivery) and functional responsibility (perceived duty to ensure service quality). A UK‐based survey experiment on local waste collection failures tests these mechanisms using causal mediation analysis. The results show higher levels of delegation reduce blame primarily by lowering perceptions of politicians' control over service delivery. In contrast, there is no strong evidence of mediation through perceived duty, suggesting that role‐based expectations of functional responsibility are more resistant to change. These findings provide new insight into how different public service delivery methods influence blame attribution for service performance.",
@@ -1760,6 +1779,25 @@
    "abstract_zh": "面臨績效壓力，公部門組織頻繁經歷高階主管異動，然而其繼任者選擇方式卻鮮有探討。本研究主張負面績效回饋 (NPF) 關鍵性地影響繼任者來源。根據2,045筆高階主管異動資料，我們發現NPF降低內部繼任的機率達41.7%。內部升遷歷史藉由預示與失靈常規的決裂，強化外部繼任者選擇；而對探索性學習的重視，則將外部選擇強化為策略性定位。本研究透過為高階主管選擇提供動態且基於前因的解釋，推進公共管理領域，挑戰組織歷史的單一論觀點，並突顯繼任者來源作為一項策略性治理工具。"
   },
   {
+   "doi": "10.1080/10967494.2026.2642317",
+   "title": "Which costs loom largest? How public employees view the relationship between administrative burdens and performance",
+   "abstract": "",
+   "authors": [
+    "Nicola Belle",
+    "Paola Cantarelli",
+    "Donald P. Moynihan"
+   ],
+   "journal": "International Public Management Journal",
+   "url": "https://doi.org/10.1080/10967494.2026.2642317",
+   "date": "2026-10-22",
+   "first_seen": "2026-10-23",
+   "score": 6.0,
+   "matched": [
+    "public employee"
+   ],
+   "abstract_zh": ""
+  },
+  {
    "doi": "10.1111/puar.70179",
    "title": "Putting Democratic Theory and Principles of Justice in the Right Place: Ethical Pluralism in Collaborative and Participatory Governance",
    "abstract": "Participatory and collaborative governance (P&amp;CG) is widely celebrated as an institutional vehicle for democratizing public decision‐making by inviting affected stakeholders into inclusive and deliberative policy processes. This essay argues that underlying appeals to democratic legitimacy in P&amp;CG are tacit commitments to specific (and often ideologically bounded) conceptions of justice. Democracy, far from being normatively univocal, encompasses competing justice principles that yield divergent and sometimes incompatible design imperatives. In response, this essay calls for a shift from vague democratic invocations to a more precise theorization of justice as the operative normative currency in P&amp;CG. To this end, the essay outlines an analytical framework that maps three core dimensions of governance design (input, process, and output) onto corresponding domains of justice: representational, procedural, and distributive. Systematically unpacking the plural and conflicting ethical principles within each domain shows how different principles of justice produce distinct governance dilemmas and trade‐offs.",
@@ -2621,7 +2659,7 @@
    "abstract": "Data from 115 interviews conducted with officials in the Westminster systems of Australia, New Zealand, and the United Kingdom is used to substantiate a corrosive relationship between institutional amnesia and the ability of public servants to make sense of their organizational context. A process in which public servants question why the policies, procedures, and organizational frameworks that surround them is proposed as one medium through which this relationship operates. Four problematic effects produced by this relationship and process are subsequently analyzed: (1) public servants following but not understanding procedures, (2) inexplicable organizational aspects getting abandoned, (3) the layering of new organizational features on top of old ones, creating complexity, and (4) public service inefficiencies and associated public servant frustration. The article concludes with the implications of this important relationship for public administration scholars and practitioners.",
    "authors": [
     "Alastair Stark",
-    "Hridesh Gajural",
+    "Hridesh Gajurel",
     "Jack Corbett",
     "Dennis C. Grube",
     "Heather Lovell",
@@ -2652,6 +2690,21 @@
    "score": 2.0,
    "matched": [],
    "abstract_zh": "公共組織的有效管理需要及時應對新興風險，然而，將這些風險向上級呈報可能使營運經理在政治化的問責環境中面臨指責。本研究透過分析丹麥國防部兩項主要採購與維護專案相關的七年期間內提交的130份風險報告，探討公部門經理如何應對上述緊張關係。本研究採用溯因式質性研究方法，發展出一個包含四個階段的動態風險管理模型：(1) 風險作為營運考量，(2) 將風險轉化為組織問題，(3) 歸咎責任與問責，以及 (4) 啟動緩解與應對措施。我們發現風險與問責溝通是相互依存的過程，而非獨立的順序過程。營運經理試圖引起對新興風險的關注，同時規避潛在的指責，並顧及高層對公眾監督的顧慮。這種緊張關係導致僅在絕對必要時才呈報的壓力，而高層經理則經常推遲行動以避免政治曝光。這些做法導致專案延誤、未能符合規範以及嚴重的預算超支。本研究提出公部門風險管理的動態理論，並解釋了層級溝通實踐如何影響新興風險是否、何時以及如何被處理。"
+  },
+  {
+   "doi": "10.1111/puar.70213",
+   "title": "Public Administration and the Crisis of American Democracy",
+   "abstract": "The field of public administration stands amid genuine crisis. Americans don't trust government or its administrators. Elected officials have attacked the career service as agents of the “deep state” and, though it might be hard to admit, many of public administration's critics have a point. Government's performance too often falls short of what people expect, practitioners too often seem too unresponsive to elected officials, and researchers too often seem to have only fuzzy guidance for practitioners. However, public administration undoubtedly is more important now than ever in translating public goals into effective action, and in bringing to life the democratic aspirations Madison and his colleagues wished for the country at its founding. The field urgently needs new strategies and tactics for solving the new generation of puzzles the country faces. In coming together, practitioners and researchers build on these puzzles to chart an exciting road forward.",
+   "authors": [
+    "Donald F. Kettl"
+   ],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70213",
+   "date": "2026-10-22",
+   "first_seen": "2026-10-23",
+   "score": 2.0,
+   "matched": [],
+   "abstract_zh": "公共行政領域正處於真正的危機之中。美國人不信任政府或其行政人員。民選官員抨擊常任文官體系為「深層政府」的代理人，儘管難以承認，許多公共行政的批評者確有其道理。政府的績效往往未能達到民眾的期望，實務工作者對民選官員的反應往往過於遲緩，而研究者對實務工作者提供的指引也往往過於模糊。然而，公共行政無疑比以往任何時候都更為重要，它能將公共目標轉化為有效行動，並實現麥迪遜及其同事在建國時對國家所懷抱的民主願景。本領域迫切需要新的策略與戰術，以解決國家所面臨的新一代難題。透過攜手合作，實務工作者與研究者能以這些難題為基礎，共同開創一條令人振奮的前進道路。"
   },
   {
    "doi": "10.1080/10967494.2026.2699232",
@@ -3591,6 +3644,39 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "公民參與被廣泛認可為民主治理的重要環節，然而實證研究往往根據所採用的方法來評估參與，而非其在行政程序中被組織的制度結構。本研究基於對289個接受聯邦區塊補助金的地方行政區的分析，將參與視為一種結構化的行政實踐，而非僅僅是各種參與方法的集合。透過對「綜合計畫」的歸納分析，本研究發展出四種參與結構的類型學：「最低限度合規」、「結構化諮詢」、「制度化諮詢」和「嵌入式參與」。"
+  },
+  {
+   "doi": "10.1080/14719037.2026.2749668",
+   "title": "Threat perception, issue knowledge, and citizen coproduction preferences: evidence from a national public survey on environmental health",
+   "abstract": "",
+   "authors": [
+    "Xinsheng Liu",
+    "Rotem Dvir",
+    "Arnold Vedlitz"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2749668",
+   "date": "2026-10-22",
+   "first_seen": "2026-10-23",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.1080/14719037.2026.2738181",
+   "title": "Assessing performance in collaborative governance networks: testing the Productivity Performance Matrix",
+   "abstract": "",
+   "authors": [
+    "Siobhan McQuaid",
+    "Mary Lee Rhodes"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2738181",
+   "date": "2026-10-22",
+   "first_seen": "2026-10-23",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
   }
  ]
 }
