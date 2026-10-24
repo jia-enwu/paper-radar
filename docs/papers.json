@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T00:14:19+00:00",
+ "updated": "2026-10-24T00:07:22+00:00",
  "papers": [
   {
    "doi": "10.1080/10967494.2026.2706796",
@@ -888,7 +888,7 @@
   {
    "doi": "10.1080/14719037.2026.2750928",
    "title": "The blurred line between ends and means: how frontline workers factor production attributes into results in performance evaluations",
-   "abstract": "Results-based performance management assumes that organizational performance can be evaluated by defining and measuring desired results. Yet frontline workers, who translate performance goals into service delivery, may interpret results through their knowledge of how services are produced. We examine whether production attributes enter frontline evaluations of formal results. Drawing on theories of sensemaking and cognitive judgment, we argue that task difficulty and effort provide salient cues through which frontline workers contextualize performance information. We test these expectations using a conjoint survey experiment with 1,371 Danish high school teachers, randomly varying production attributes alongside formal results. Teachers rate schools serving more disadvantaged students more favorably and increase ratings when schools demonstrate greater effort. Both effects exhibit clear dose-response patterns, with effort effects comparable to those of formal results. The findings show that frontline evaluations systematically incorporate production information, revealing how performance management can generate divergent understandings of organizational performance.",
+   "abstract": "Results-based performance management assumes that organizational performance can be evaluated by defining and measuring desired results. Yet frontline workers, who translate performance goals into service delivery, may interpret results through their knowledge of how services are produced. We examine whether production attributes enter frontline evaluations of formal results. Drawing on theories of sensemaking and cognitive judgement, we argue that task difficulty and effort provide salient cues through which frontline workers contextualize performance information. We test these expectations using a conjoint survey experiment with 1,371 Danish high school teachers, randomly varying production attributes alongside formal results. Teachers rate schools serving more disadvantaged students more favourably and increase ratings when schools demonstrate greater effort. Both effects exhibit clear dose-response patterns, with effort effects comparable to those of formal results. The findings show that frontline evaluations systematically incorporate production information, revealing how performance management can generate divergent understandings of organizational performance.",
    "authors": [
     "Paw Hansen"
    ],
@@ -3674,6 +3674,22 @@
    "url": "https://doi.org/10.1080/14719037.2026.2738181",
    "date": "2026-10-22",
    "first_seen": "2026-10-23",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.1080/14719037.2026.2750929",
+   "title": "Nudging citizens to use chatbots: an information and default option approach",
+   "abstract": "",
+   "authors": [
+    "Haoting Chang",
+    "Lei Tao"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2750929",
+   "date": "2026-10-23",
+   "first_seen": "2026-10-24",
    "score": 0.0,
    "matched": [],
    "abstract_zh": ""
