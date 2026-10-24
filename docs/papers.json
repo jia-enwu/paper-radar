@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T00:07:22+00:00",
+ "updated": "2026-10-24T23:50:55+00:00",
  "papers": [
   {
    "doi": "10.1080/10967494.2026.2706796",
@@ -1301,6 +1301,27 @@
    "abstract_zh": "2024年後，美國面臨嚴峻的勞動力危機，其特徵是地方選舉官員 (LEO) 流失加速。本研究探討造成此離職潮的因果驅動因素，特別著重於不穩定之「搖擺」和「關鍵」郡縣中不成比例的人員流動。本研究採用混合方法設計，使用來自兩黨政策中心、美國人口普查局、選舉選民調查、麻省理工學院選舉數據與科學實驗室 (MEDSL) 以及 Reed LEO 調查的縱向數據，並結合從74個競爭激烈郡縣和25個「超級壓倒性勝利」郡縣編纂的原始數據集。運用地理資訊系統 (GIS)，我們將詳細的郡縣概況與2016、2020和2024年選舉期間的法律和政治環境空間映射連結。在競爭激烈司法管轄區的LEO面臨機構信任的侵蝕，這成為他們離職的主要催化劑。這些不穩定的司法管轄區凸顯出民主機制脆弱之處，為旨在穩定公共行政人力、以應對前所未有的高度兩極化之州級政策干預，提供實證洞見。"
   },
   {
+   "doi": "10.1080/10967494.2026.2642317",
+   "title": "Which costs loom largest? How public employees view the relationship between administrative burdens and performance",
+   "abstract": "Although research on administrative burdens has mainly focused on clients’ experiences, burdens also matter to employees in public bureaucracies. In this study, we examine how burdens shape public workers’ experiences, focusing on how they perceive the relationship between administrative burdens and performance. Using a choice experiment with 21,301 public healthcare professionals, this study estimates the relative causal impact of different costs embedded in job procedures on the perceived performance of a given work situation. Psychological costs exert the strongest causal impact on perceived performance, with stressful procedures having the largest negative effect, followed by procedures that diminish autonomy. Learning costs (stemming from complex or confusing procedures) and compliance costs (arising from time-consuming or effortful tasks) also lead to lower perceived performance, though to a lesser extent. Heterogeneous effects show that the negative impact of administrative burdens on performance is larger for medical doctors and less so for nurses, for those under-fifty, and for male professionals.",
+   "authors": [
+    "Nicola Belle",
+    "Paola Cantarelli",
+    "Donald P. Moynihan"
+   ],
+   "journal": "International Public Management Journal",
+   "url": "https://doi.org/10.1080/10967494.2026.2642317",
+   "date": "2026-10-22",
+   "first_seen": "2026-10-23",
+   "score": 14.0,
+   "matched": [
+    "bureaucra",
+    "public employee",
+    "causal"
+   ],
+   "abstract_zh": "儘管對行政負擔的研究主要關注於服務對象的經驗，但這些負擔對公共行政機關的員工而言亦相當重要。本研究探討負擔如何形塑公部門員工的經驗，尤其著重於他們如何感知行政負擔與績效之間的關係。本研究運用針對21,301名公部門醫護專業人員的選擇實驗，估計內嵌於工作程序中的不同成本，對於特定工作情境下感知績效的相對因果影響。心理成本對感知績效產生最強的因果影響，其中，壓力大的程序具有最大的負面影響，其次是削弱自主性的程序。學習成本（源於複雜或令人困惑的程序）和遵循成本（源於耗時或費力的任務）也會導致較低的感知績效，儘管影響程度較輕。異質性效應顯示，行政負擔對績效的負面影響對於醫師、五十歲以下的專業人員以及男性專業人員而言較大，而對於護理師而言則較小。"
+  },
+  {
    "doi": "10.1111/puar.70164",
    "title": "Linking Decision Roles to Knowledge Utilization in US State Governments: A Mixed‐Method Study",
    "abstract": "The current movement for evidence‐based policymaking advocates the use of scientific knowledge in government. However, in practice, civil servants often prioritize different types of knowledge depending on their decision‐making roles and the context. Using survey responses from 259 civil servants across three US state governments and 36 semistructured interviews, we employ a mixed‐method approach to understand how civil servants strategically utilize various types of knowledge to meet different role requirements and decision‐making responsibilities. Consistent with our hypotheses, our findings indicate that civil servants involved in policy and legislative roles value political knowledge more, while those in contracting roles place greater importance on experiential knowledge. Contrary to our hypothesis, while civil servants in budgeting roles value political knowledge more than their counterparts in other decision roles, they show no such preference for scientific knowledge. Our qualitative interviews provide possible mechanisms for this unexpected finding.",
@@ -1779,25 +1800,6 @@
    "abstract_zh": "面臨績效壓力，公部門組織頻繁經歷高階主管異動，然而其繼任者選擇方式卻鮮有探討。本研究主張負面績效回饋 (NPF) 關鍵性地影響繼任者來源。根據2,045筆高階主管異動資料，我們發現NPF降低內部繼任的機率達41.7%。內部升遷歷史藉由預示與失靈常規的決裂，強化外部繼任者選擇；而對探索性學習的重視，則將外部選擇強化為策略性定位。本研究透過為高階主管選擇提供動態且基於前因的解釋，推進公共管理領域，挑戰組織歷史的單一論觀點，並突顯繼任者來源作為一項策略性治理工具。"
   },
   {
-   "doi": "10.1080/10967494.2026.2642317",
-   "title": "Which costs loom largest? How public employees view the relationship between administrative burdens and performance",
-   "abstract": "",
-   "authors": [
-    "Nicola Belle",
-    "Paola Cantarelli",
-    "Donald P. Moynihan"
-   ],
-   "journal": "International Public Management Journal",
-   "url": "https://doi.org/10.1080/10967494.2026.2642317",
-   "date": "2026-10-22",
-   "first_seen": "2026-10-23",
-   "score": 6.0,
-   "matched": [
-    "public employee"
-   ],
-   "abstract_zh": ""
-  },
-  {
    "doi": "10.1111/puar.70179",
    "title": "Putting Democratic Theory and Principles of Justice in the Right Place: Ethical Pluralism in Collaborative and Participatory Governance",
    "abstract": "Participatory and collaborative governance (P&amp;CG) is widely celebrated as an institutional vehicle for democratizing public decision‐making by inviting affected stakeholders into inclusive and deliberative policy processes. This essay argues that underlying appeals to democratic legitimacy in P&amp;CG are tacit commitments to specific (and often ideologically bounded) conceptions of justice. Democracy, far from being normatively univocal, encompasses competing justice principles that yield divergent and sometimes incompatible design imperatives. In response, this essay calls for a shift from vague democratic invocations to a more precise theorization of justice as the operative normative currency in P&amp;CG. To this end, the essay outlines an analytical framework that maps three core dimensions of governance design (input, process, and output) onto corresponding domains of justice: representational, procedural, and distributive. Systematically unpacking the plural and conflicting ethical principles within each domain shows how different principles of justice produce distinct governance dilemmas and trade‐offs.",
@@ -2012,6 +2014,24 @@
     "public service motivation"
    ],
    "abstract_zh": "傳統上，治理與領導公共專業人員的階層式方法並非總能證明成功，因此，關於專業精神的整合性與混合式觀點正日益受到關注。本研究整合了專業發展領導（PDL）與分散式領導（DL）理論，並引入了分散式專業發展領導（D-PDL）的概念。D-PDL意指沒有正式領導職責的員工，在組織目標範圍內，參與著重於促進並實現專業精神共同理解的核心PDL活動。本研究理論化指出，專業人員參與D-PDL會比參與一般性分散式領導（其涵蓋廣泛且脫離專業核心任務的領導活動）帶來更高的自主動機。來自約2,400名丹麥醫師的調查數據支持此理論框架，並顯示醫師參與D-PDL與更高的內在動機和公共服務動機相關，而他們參與一般性分散式領導則主要與外在動機相關。本研究強調將PDL從以領導者為中心的觀念中拓展出來，並區分不同類型分散式領導活動的重要性。"
+  },
+  {
+   "doi": "10.1080/14719037.2026.2750929",
+   "title": "Nudging citizens to use chatbots: an information and default option approach",
+   "abstract": "Governments are increasingly adopting chatbots to reduce administrative burdens and improve service quality, yet citizens’ willingness to use them remains limited. Drawing on nudge theory, this study examines how information framing and default options influence citizens’ willingness to use chatbots in public services. Using a survey experiment in China, the results show that participants exposed to a loss frame were more willing to use chatbots than those exposed to a gain frame. The default option alone did not significantly affect willingness. However, the interaction between information framing and default settings was significant. Specifically, the positive effect of loss-framed information on citizens’ willingness to use chatbots was stronger when a default option was presented, suggesting that defaults amplify the effect of loss framing. Overall, the study offers practical insights into designing strategies to promote chatbot adoption in public services.",
+   "authors": [
+    "Haoting Chang",
+    "Lei Tao"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2750929",
+   "date": "2026-10-23",
+   "first_seen": "2026-10-24",
+   "score": 4.0,
+   "matched": [
+    "survey experiment"
+   ],
+   "abstract_zh": "政府逐漸導入聊天機器人以減輕行政負擔並提升服務品質，然而公民使用意願仍有限。本研究援引推力理論，探討資訊框架與預設選項如何影響公民於公共服務領域使用聊天機器人的意願。本研究透過在中國進行的問卷實驗，結果顯示暴露於損失框架的參與者比暴露於獲益框架的參與者更願意使用聊天機器人。單獨的預設選項並未顯著影響意願。然而，資訊框架與預設選項之間的交互作用具有顯著性。具體而言，損失框架資訊對公民使用聊天機器人意願的正面影響，在預設選項存在時更強，這表明預設選項會放大損失框架的效果。總體而言，本研究提供了實務見解，以設計策略來促進聊天機器人於公共服務領域的導入。"
   },
   {
    "doi": "10.1111/puar.70171",
@@ -3674,22 +3694,6 @@
    "url": "https://doi.org/10.1080/14719037.2026.2738181",
    "date": "2026-10-22",
    "first_seen": "2026-10-23",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": ""
-  },
-  {
-   "doi": "10.1080/14719037.2026.2750929",
-   "title": "Nudging citizens to use chatbots: an information and default option approach",
-   "abstract": "",
-   "authors": [
-    "Haoting Chang",
-    "Lei Tao"
-   ],
-   "journal": "Public Management Review",
-   "url": "https://doi.org/10.1080/14719037.2026.2750929",
-   "date": "2026-10-23",
-   "first_seen": "2026-10-24",
    "score": 0.0,
    "matched": [],
    "abstract_zh": ""
