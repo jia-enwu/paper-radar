@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T23:50:55+00:00",
+ "updated": "2026-10-25T23:39:58+00:00",
  "papers": [
   {
    "doi": "10.1080/10967494.2026.2706796",
@@ -3668,7 +3668,7 @@
   {
    "doi": "10.1080/14719037.2026.2749668",
    "title": "Threat perception, issue knowledge, and citizen coproduction preferences: evidence from a national public survey on environmental health",
-   "abstract": "",
+   "abstract": "Building on the literature on citizen coproduction, this study examines how threat perception and issue knowledge influence individual citizens’ coproduction preferences in the issue domain of environmental health. Drawing on prior research, we propose a conceptual framework and derive theoretical expectations about the relationships between threat perception, issue knowledge, and citizens’ willingness to engage in coproduction. Empirically, we use data from a nationally representative public survey (N = 1,207) to test our hypotheses. Across multiple model specifications and robustness checks, the regression results consistently support our expectations: holding other factors constant, individuals who perceive greater threats and those who possess more issue knowledge tend to express stronger willingness to participate in co-planning and co-investment activities with public entities. In conclusion, we discuss the study’s key contributions, directions for future research, and practical implications for environmental health policy and management.",
    "authors": [
     "Xinsheng Liu",
     "Rotem Dvir",
@@ -3680,12 +3680,12 @@
    "first_seen": "2026-10-23",
    "score": 0.0,
    "matched": [],
-   "abstract_zh": ""
+   "abstract_zh": "立基於公民共製的文獻，本研究探討威脅感知與議題知識如何影響個別公民在環境健康議題領域中的共製偏好。借鑒既有研究，我們提出一個概念性架構，並推導出關於威脅感知、議題知識與公民參與共製意願之間關係的理論預期。在實證上，我們使用來自一項全國代表性民意調查的資料 (N = 1,207) 以檢驗我們的假說。經過多重模型設定與穩健性檢定，迴歸結果一致支持我們的預期：在控制其他因素不變的情況下，感知到較大威脅的個體以及擁有較多議題知識的個體，傾向於表達更強的意願參與與公共實體的共同規劃與共同投資活動。總之，我們討論本研究的主要貢獻、未來研究方向，以及對環境健康政策與管理的實務意涵。"
   },
   {
    "doi": "10.1080/14719037.2026.2738181",
    "title": "Assessing performance in collaborative governance networks: testing the Productivity Performance Matrix",
-   "abstract": "",
+   "abstract": "Performance measurement for collaborative governance presents significant challenges both practically and theoretically. With the goal of refining theory grounded in empirical application, we use Emerson and Nabatchi’s Productivity Performance Matrix and their Integrative Framework for Collaborative Governance, to examine data from a five-year longitudinal comparative case study of collaborative governance regimes (CGRs) in three European cities.Our research showed that the indicators of the Productivity Performance Matrix (PPM) had significant relevance to actual performance outcomes observed in the CGRs studied, albeit with some modifications. Proposed modifications include removing the ‘participant organization’ as a distinct level of analysis in network-centred evaluations, reconceptualization of equity as ‘perceived equity’, distinguishing between internal and external legitimacy, and shifting from ‘sustainability’ to ‘systemic change’ as a performance indicator for adaptation. The refinement of performance indicators and the improved conceptual coherence between the PPM and the Integrative Framework are the primary contributions of this work.",
    "authors": [
     "Siobhan McQuaid",
     "Mary Lee Rhodes"
@@ -3696,7 +3696,7 @@
    "first_seen": "2026-10-23",
    "score": 0.0,
    "matched": [],
-   "abstract_zh": ""
+   "abstract_zh": "協同治理的績效衡量在實務和理論層面都帶來了重大挑戰。為了精進以實證應用為基礎的理論，我們運用 Emerson 和 Nabatchi 的「生產力績效矩陣」及其「協同治理整合架構」，檢視了來自三個歐洲城市、為期五年的縱貫性比較個案研究中協同治理體制 (CGRs) 的資料。本研究發現，「生產力績效矩陣」(PPM) 的指標與在所研究的 CGRs 中觀察到的實際績效成果具有顯著相關性，儘管需要部分修正。建議的修正包括：在網絡中心評估中，移除「參與組織」作為獨立分析層次；將公平性重新概念化為「感知公平性」；區分內部與外部合法性；以及將「永續性」轉變為「系統性變革」作為適應性的績效指標。績效指標的精進，以及 PPM 與整合架構之間概念連貫性的提升，是本研究的主要貢獻。"
   }
  ]
 }
