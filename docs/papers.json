@@ -1,33 +1,6 @@
 {
- "updated": "2026-10-25T23:39:58+00:00",
+ "updated": "2026-10-27T00:58:51+00:00",
  "papers": [
-  {
-   "doi": "10.1080/10967494.2026.2706796",
-   "title": "When officials disagree with AI: public perceptions of bureaucratic discretion in algorithmic governance",
-   "abstract": "While existing research has examined how officials interact with AI systems, less is known about how citizens evaluate the legitimacy of bureaucratic discretion in relation to AI recommendations. This study develops a theoretical framework that contrasts two competing sources of authority, bureaucratic professionalism and algorithmic rationality, and examines the moderating role of AI explainability. Using a vignette-based survey experiment in China within a public recruitment setting (N = 1,150), we find a pronounced asymmetry in public evaluations. Divergence from AI recommendations significantly reduces perceived legitimacy, whereas adherence has no significant effect. AI explainability modestly enhances legitimacy when officials follow AI recommendations. Exploratory analysis further suggests that greater familiarity with AI may strengthen the tendency to privilege algorithmic outputs. The findings suggest that AI establishes a new benchmark for legitimacy judgements, creating new challenges for the professional authority of public officials in the context of algorithmic governance.",
-   "authors": [
-    "Shangrui Wang",
-    "Yuanmeng Zhang",
-    "Zheng Liang"
-   ],
-   "journal": "International Public Management Journal",
-   "url": "https://doi.org/10.1080/10967494.2026.2706796",
-   "date": "2026-07-28",
-   "first_seen": "2026-07-28",
-   "score": 124.0,
-   "matched": [
-    "ai",
-    "algorithmic governance",
-    "algorithm",
-    "bureaucratic discretion",
-    "discretion",
-    "bureaucra",
-    "recruitment",
-    "survey experiment",
-    "vignette"
-   ],
-   "abstract_zh": "既有研究已探討官員如何與人工智慧（AI）系統互動，但對於公民如何評估官僚裁量權相對於AI建議的正當性，則知之甚少。本研究發展一套理論框架，對比官僚專業主義與演算法理性這兩種相互競爭的權威來源，並檢視AI可解釋性的調節作用。本研究在中國的公職招募情境中，運用情境式問卷實驗（N = 1,150），發現民眾評估存在顯著的不對稱性。偏離AI建議會顯著降低感知正當性，而遵循建議則無顯著影響。當官員遵循AI建議時，AI可解釋性會適度提升正當性。探索性分析進一步指出，對AI的熟悉度越高，可能越會強化偏好演算法產出的傾向。研究結果顯示，AI為正當性判斷建立了一個新的基準，在演算法治理的背景下，為公務員的專業權威帶來新的挑戰。"
-  },
   {
    "doi": "10.1111/puar.70201",
    "title": "Artificial Intelligence, Bureaucratic Discretion, and Democratic Administration",
@@ -804,27 +777,6 @@
    "abstract_zh": "本研究探討功績任用與官僚自主性如何影響非洲政府的貪腐，以及反貪腐機構的獨立性與能力是否制約這些關係。採用雙向固定效果迴歸分析2013年至2021年間486個非洲國家的面板資料，我們發現官僚自主性與貪腐呈負相關，而功績任用與貪腐之間的關係則取決於反貪腐機構的能力：當這些機構缺乏能力追究政治人物與官僚的責任時，功績任用與貪腐呈正相關；隨著反貪腐機構能力的提升，這種關係會減弱並最終可能逆轉。反貪腐機構的獨立性與能力皆未單獨與貪腐相關。這些發現指出，若無相應投資以增強反貪腐機構的能力，公務員聘用專業化可能會適得其反，並揭示了反貪腐改革可能成功的條件。"
   },
   {
-   "doi": "10.1080/10967494.2026.2691395",
-   "title": "Public service motivation and performance: a meta-analysis of the relationship and its organizational and cultural moderators",
-   "abstract": "Despite a substantial body of empirical work on the relationship between public service motivation (PSM) and performance, there has been considerable variation in the findings. This study identifies and codes 69 relevant studies, representing 237,058 respondents from 20 countries, and conducts a three-level meta-analysis to measure the average relationship between PSM and performance. The findings reveal that PSM positively affects performance (r = 0.203, 95% CI [0.164, 0.241]), but that the relationship between PSM and performance is moderated by the types of public organizations and the cultural context. Theoretical and policy implications are discussed, including the robust capacity of PSM to predict both individual and organizational outcomes. Furthermore, we highlight the necessity of accounting for cultural variations (e.g., individualism vs. collectivism) and advise public managers to create opportunities for employees to see their societal contributions.",
-   "authors": [
-    "Miaomiao Jiang",
-    "Wim Van den Noortgate",
-    "Manqian Cui",
-    "Jiayuan Li"
-   ],
-   "journal": "International Public Management Journal",
-   "url": "https://doi.org/10.1080/10967494.2026.2691395",
-   "date": "2026-07-28",
-   "first_seen": "2026-07-28",
-   "score": 21.0,
-   "matched": [
-    "public service motivation",
-    "psm"
-   ],
-   "abstract_zh": "儘管已有大量實證研究探討公共服務動機 (PSM) 與績效之間的關係，然其研究發現卻存在相當大的變異性。本研究篩選並編碼了69篇相關研究，這些研究涵蓋來自20個國家共237,058名受訪者，並採用三層次統合分析，以衡量公共服務動機與績效之間的平均關係。研究結果揭示，公共服務動機對績效具有正向影響 (r = 0.203, 95% 信賴區間 [0.164, 0.241])，然而，公共服務動機與績效之間的關係受到公共組織類型和文化脈絡的調節。本文探討了其理論與政策意涵，包括公共服務動機在預測個人與組織成果方面的穩健能力。此外，我們強調考量文化變異性 (例如，個人主義與集體主義) 的必要性，並建議公共部門管理者應創造機會，使員工能體認其對社會的貢獻。"
-  },
-  {
    "doi": "10.1093/jopart/muag027",
    "title": "Civil Servants and Democratic Backsliding: The Role of Managerial Signals",
    "abstract": "Political efforts to weaken democratic institutions place civil servants in a dilemma between political responsiveness and protecting democratic values. As civil servants are embedded in the political-administrative hierarchy, we argue that signals from their direct hierarchical superiors are critical to understand how civil servants address this dilemma. Using a randomized survey experiment among Norwegian national-level civil servants (N = 1,446) and ordered logistic regression models, we find that democratic backsliding increases opposition to government wishes, internal and external voice, and consideration of exit from the organization. Managerial signals moderate these effects: civil servants are more inclined to voice concerns or consider exit when managers signal responsiveness to government wishes. In a conceptual replication and extension among US federal, state and local civil servants (N = 504) using ordered logistic regression models, we likewise find a greater inclination to exit if the manager signals responsiveness to government wishes, but also that respondents are less inclined to voice concerns to the manager. Overall, our findings imply that managerial signals within the political-administrative hierarchy are shaping civil servants’ immediate reactions to democratic backsliding.",
@@ -1063,24 +1015,6 @@
    "abstract_zh": "民主問責制假設，承擔政府決策成本的公民可以追究做出決策的官員的責任。我們發現此假設存在結構性斷裂。當城市透過部分轉嫁給非居民（高速公路旅客、通勤者以及無法在地方選舉中投票的區域購物者）的稅收來籌措資金時，承擔成本與追究責任之間的選舉連結便會減弱。透過分析德州兩十年（2000-2019）的市政數據，並運用雙向固定效果與廣義合成控制法，我們發現，在採用專屬地方銷售稅後，那些更有能力將成本轉嫁給非選民的城市，會更大幅度地增加居民的財政曝險。這種模式在位於或鄰近主要都會區和高速公路的城市中最為顯著，而居民幾乎承擔所有成本的地理孤立城市，則變化甚微。這逆轉了古典租稅轉嫁理論所預測的稅負減輕效果，並揭示了一個為裁量性財政擴張提供資金的問責缺口。這個缺口是暫時性的：不同情境下的財政結果會在六到十三年內趨於收斂。我們總結，地理因素對民主問責制的形塑作用，與選舉規則同樣強大。"
   },
   {
-   "doi": "10.1177/02750740261471536",
-   "title": "It's A Matter of Perspective: A Reflexive Thematic Analysis of Civil Servants’ Appraisal and Coping with Negative Civil Servant Stereotypes",
-   "abstract": "Negative civil servant stereotypes are often described as problematic in public administration research. In this study, we investigate municipal employees’ own ideas on whether and how these stereotypes form a problem for public sector work and public services. Using semi-structured interviewing and reflexive thematic analysis and building on psychological literature on appraisal and coping with stereotypes, we identify two themes. First, respondents use different perspectives to understand and explain the stereotypes: They view stereotypes as (1) undeserved and untrue, (2) inevitable and part of the work, (3) understandable misunderstandings, and/or (4) reflections of truth. While these external attributions help respondents cope with the negative stereotypes, they also come with blind spots that could affect their work. Second, respondents think the stereotypes have a bigger impact on the citizen-government relationship, trust, and citizen-state interactions than on civil servants themselves. We discuss the implications for service delivery in the public sector and directions for future research.",
-   "authors": [
-    "Isa Bertram",
-    "Carina Schott"
-   ],
-   "journal": "The American Review of Public Administration",
-   "url": "https://doi.org/10.1177/02750740261471536",
-   "date": "2026-07-28",
-   "first_seen": "2026-07-28",
-   "score": 18.0,
-   "matched": [
-    "civil servant"
-   ],
-   "abstract_zh": "負面公務員刻板印象在公共行政研究中常被描述為一個問題。本研究旨在探討市府員工自身對於這些刻板印象是否以及如何對公共部門工作和公共服務構成問題的看法。本研究透過半結構式訪談和反思性主題分析，並借鑒心理學中關於評估和應對刻板印象的文獻，歸納出兩大主題。首先，受訪者運用不同視角來理解和解釋這些刻板印象：他們將刻板印象視為 (1) 不應得且不真實的，(2) 無可避免且是工作的一部分，(3) 可理解的誤解，以及/或 (4) 真實的反映。儘管這些外部歸因有助於受訪者應對負面刻板印象，但它們也伴隨著可能影響其工作的盲點。其次，受訪者認為這些刻板印象對公民與政府關係、信任以及公民與國家互動的影響，大於對公務員本身的影響。我們討論了這對公共部門服務提供的意涵以及未來研究方向。"
-  },
-  {
    "doi": "10.1177/02750740261498860",
    "title": "'We are no longer Allowed to be Human': Officers’ Experiences Policing the Compounding Crises of the COVID-19 Pandemic and Civil Unrest in the United States",
    "abstract": "Local police officers are among the most prominent frontline public servants, interacting daily with people, communities, and other agencies and stakeholders. They are, in the most literal sense, street-level bureaucrats. These interactions were greatly tested in the summer of 2020. Police managed – or in some cases refused to manage – enforcement orders for a global pandemic while at the same time policing in the aftermath of the murder of George Floyd. This article explores how officers in three local jurisdictions navigated these dual, compounding crises – which we can certainly expect many more of in the future – and the implications for police interactions, discretion (including de-policing) and job satisfaction. The article concludes with a discussion of how police leaders, local officials and community advocates can better support law enforcement professionals during times of crises.",
@@ -1281,6 +1215,26 @@
    "abstract_zh": "公部門職務分類系統累積了「職務分類漂移」，這是一種在員工實際從事的工作、其工作內容的描述方式以及他們獲得報酬的方式之間日益擴大的落差。由於職務分類會大規模地影響薪資、職位比較和內部公平性，職務分類漂移會悄然累積成可衡量的失衡。在美國一個大型都會區公立學區（以下簡稱「該學區」），這種漂移現象表現為435名員工共用「專員」職稱，橫跨24個薪資等級（年薪47,000美元至125,000美元）。本文介紹了PRISM（漸進式精煉與智慧整合模型），這是一個與某研究型大學合作夥伴的資料科學研究所共同開發的多模型人工智慧框架，該框架在高風險決策點引入了驗證摩擦。PRISM並非自動化核准，而是揭示獨立人工智慧模型之間的分歧，並將模糊不清的案例轉交給人類審閱者，並附帶結構化的證據包。在992個職位中，有173個案例（佔17%）被標記為需升級審查。本文闡述了公部門人資辦公室，無論是否導入人工智慧，可以如何應對職務分類漂移。"
   },
   {
+   "doi": "10.1177/0734371x261497117",
+   "title": "Turning the Tide. Studying the Impact of People Management on Teacher Turnover Intentions: The Mediating Roles of Role Ambiguity and Emotional Exhaustion",
+   "abstract": "Teacher turnover poses a significant challenge to educational quality worldwide, with turnover intention serving as a critical precursor to actual turnover. This study explores how people management—defined as the integration of the implementation of human resource management practices and leadership behavior—affects teachers’ intentions to leave their positions. Grounded in conservation of resources theory, we examine how people management can serve as a crucial resource in reducing turnover intentions by alleviating role ambiguity and emotional exhaustion, two key issues in the teaching profession. Role ambiguity arises from the increasing demands placed on teachers, while emotional exhaustion exacerbates intentions to leave. Our results show support for the (serial) mediating role of role ambiguity and emotional exhaustion, providing new insights into how people management impacts teacher retention. The findings contribute to the understanding of how people management activities can effectively support teachers, reducing turnover intentions and ultimately enhancing overall education quality.",
+   "authors": [
+    "Willemijn Gils",
+    "Mieke Audenaert",
+    "Eva Knies",
+    "Adelien Decramer"
+   ],
+   "journal": "Review of Public Personnel Administration",
+   "url": "https://doi.org/10.1177/0734371x261497117",
+   "date": "2026-10-26",
+   "first_seen": "2026-10-27",
+   "score": 15.0,
+   "matched": [
+    "turnover"
+   ],
+   "abstract_zh": "教師流動對全球教育品質構成重大挑戰，而離職意圖是實際離職的關鍵前兆。本研究探討人力管理——定義為人力資源管理實務的執行與領導行為的整合——如何影響教師的離職意圖。奠基於資源保存理論，本研究檢視人力管理如何能透過緩解角色模糊和情緒耗竭——教師專業中的兩個關鍵議題——來作為降低離職意圖的關鍵資源。角色模糊源於對教師日益增加的要求，而情緒耗竭則加劇離職意圖。研究結果顯示支持角色模糊和情緒耗竭的（序列）中介作用，為人力管理如何影響教師留任提供了新的洞見。這些發現有助於理解人力管理活動如何能有效支持教師，降低離職意圖，並最終提升整體教育品質。"
+  },
+  {
    "doi": "10.1111/puar.70172",
    "title": "Under Pressure: Analyzing LEO Turnover in America's Swing and Pivot Counties for 2016, 2020, 2024",
    "abstract": "Post‐2024, the United States faces an acute labor crisis marked by accelerating Local Election Official (LEO) attrition. This study examines causal drivers of this exodus, focusing specifically on disproportionate turnover within volatile “swing” and “pivot” counties. Utilizing a mixed‐methods design, using longitudinal data from the Bipartisan Policy Center, US Census Bureau, Elections Voter Survey, MIT Election Data and Science Lab (MEDSL), and the Reed LEO survey, alongside an original dataset compiled from 74 competitive counties and 25 “super landslide” counties. Using Geographic Information Systems, we connect a detailed county profile to spatial mapping of the legal and political environment across the 2016, 2020, and 2024 elections. LEOs in highly competitive jurisdictions face an erosion of institutional trust, serving as a primary catalyst for departure. These volatile jurisdictions highlight where democratic machinery is vulnerable, offering evidence‐based insights for state‐level policy interventions designed to stabilize the public administrative workforce amidst unprecedented hyperpolarization.",
@@ -1320,26 +1274,6 @@
     "causal"
    ],
    "abstract_zh": "儘管對行政負擔的研究主要關注於服務對象的經驗，但這些負擔對公共行政機關的員工而言亦相當重要。本研究探討負擔如何形塑公部門員工的經驗，尤其著重於他們如何感知行政負擔與績效之間的關係。本研究運用針對21,301名公部門醫護專業人員的選擇實驗，估計內嵌於工作程序中的不同成本，對於特定工作情境下感知績效的相對因果影響。心理成本對感知績效產生最強的因果影響，其中，壓力大的程序具有最大的負面影響，其次是削弱自主性的程序。學習成本（源於複雜或令人困惑的程序）和遵循成本（源於耗時或費力的任務）也會導致較低的感知績效，儘管影響程度較輕。異質性效應顯示，行政負擔對績效的負面影響對於醫師、五十歲以下的專業人員以及男性專業人員而言較大，而對於護理師而言則較小。"
-  },
-  {
-   "doi": "10.1111/puar.70164",
-   "title": "Linking Decision Roles to Knowledge Utilization in US State Governments: A Mixed‐Method Study",
-   "abstract": "The current movement for evidence‐based policymaking advocates the use of scientific knowledge in government. However, in practice, civil servants often prioritize different types of knowledge depending on their decision‐making roles and the context. Using survey responses from 259 civil servants across three US state governments and 36 semistructured interviews, we employ a mixed‐method approach to understand how civil servants strategically utilize various types of knowledge to meet different role requirements and decision‐making responsibilities. Consistent with our hypotheses, our findings indicate that civil servants involved in policy and legislative roles value political knowledge more, while those in contracting roles place greater importance on experiential knowledge. Contrary to our hypothesis, while civil servants in budgeting roles value political knowledge more than their counterparts in other decision roles, they show no such preference for scientific knowledge. Our qualitative interviews provide possible mechanisms for this unexpected finding.",
-   "authors": [
-    "Shuping Wang",
-    "Yuan (Daniel) Cheng",
-    "Chengxin Xu"
-   ],
-   "journal": "Public Administration Review",
-   "url": "https://doi.org/10.1111/puar.70164",
-   "date": "2026-07-28",
-   "first_seen": "2026-07-28",
-   "score": 13.0,
-   "matched": [
-    "civil servant",
-    "legislative"
-   ],
-   "abstract_zh": "當前實證政策制定的倡議，主張在政府部門運用科學知識。然而，實務上，公務員常依其決策角色與情境，優先考量不同類型的知識。本研究透過對來自美國三個州政府的259位公務員進行問卷調查，並輔以36份半結構式訪談，採用混合研究方法，旨在理解公務員如何策略性地運用各類知識，以符合不同的角色要求與決策職責。本研究結果與我們的假設一致，顯示擔任政策與立法職務的公務員更重視政治知識，而負責契約職務者則更看重經驗知識。然而，出乎我們的假設，儘管擔任預算職務的公務員比其他決策職務的同儕更重視政治知識，他們卻未對科學知識展現出類似的偏好。我們的質性訪談為此一意料之外的發現提供了可能的解釋機制。"
   },
   {
    "doi": "10.1177/02750740261473618",
@@ -2034,6 +1968,26 @@
    "abstract_zh": "政府逐漸導入聊天機器人以減輕行政負擔並提升服務品質，然而公民使用意願仍有限。本研究援引推力理論，探討資訊框架與預設選項如何影響公民於公共服務領域使用聊天機器人的意願。本研究透過在中國進行的問卷實驗，結果顯示暴露於損失框架的參與者比暴露於獲益框架的參與者更願意使用聊天機器人。單獨的預設選項並未顯著影響意願。然而，資訊框架與預設選項之間的交互作用具有顯著性。具體而言，損失框架資訊對公民使用聊天機器人意願的正面影響，在預設選項存在時更強，這表明預設選項會放大損失框架的效果。總體而言，本研究提供了實務見解，以設計策略來促進聊天機器人於公共服務領域的導入。"
   },
   {
+   "doi": "10.1177/0734371x261497122",
+   "title": "From Policy to Sustainability: The Evolution of Sustainability in Public HRM in Aotearoa/New Zealand in the SDG Era",
+   "abstract": "This study examines how sustainable human resource management (SHRM) has been incorporated into public sector HRM policy in Aotearoa/New Zealand before and after the introduction of the United Nations Sustainable Development Goals (SDGs). Drawing on a longitudinal qualitative analysis of HRM policies from 10 local councils between 2010 and 2021, it explores how sustainability concerns across social, economic, and environmental domains were integrated into public HRM. The findings show that sustainability entered public HRM primarily through incremental layering onto existing HRM frameworks rather than transformational change. Following the SDGs, policy attention to equity, diversity, and wellbeing increased; however, broader social justice commitments remained uneven, while environmental sustainability received limited attention. By examining HRM policies as organizational signals, the study contributes to public HRM and SHRM scholarship by showing how sustainability priorities are communicated before implementation and may remain constrained by institutional logics of compliance, efficiency, risk management, and organizational performance.",
+   "authors": [
+    "Nataliya Podgorodnichenko",
+    "Adeel Akmal",
+    "Fiona Edgar",
+    "Andrea Clark"
+   ],
+   "journal": "Review of Public Personnel Administration",
+   "url": "https://doi.org/10.1177/0734371x261497122",
+   "date": "2026-10-26",
+   "first_seen": "2026-10-27",
+   "score": 3.0,
+   "matched": [
+    "diversity"
+   ],
+   "abstract_zh": "本研究探討在聯合國永續發展目標（SDGs）引入前後，永續人力資源管理（SHRM）如何被納入紐西蘭（Aotearoa/New Zealand）公部門的人力資源管理政策中。本研究採用對2010年至2021年間10個地方政府的人力資源管理政策進行縱貫性質性分析，探討永續性議題（涵蓋社會、經濟和環境面向）如何整合到公部門的人力資源管理中。研究結果顯示，永續性主要透過漸進式疊加到現有的人力資源管理框架中，而非透過轉型性變革，進入公部門的人力資源管理。在SDGs引入後，政策對公平性、多元性和福祉的關注有所增加；然而，更廣泛的社會正義承諾仍不均衡，而環境永續性則受到有限的關注。本研究將人力資源管理政策視為組織訊號，藉由揭示永續性優先事項如何在實施前被傳達，以及可能仍受制於法規遵循、效率、風險管理和組織績效等制度邏輯的限制，從而對公部門人力資源管理和永續人力資源管理學術領域做出貢獻。"
+  },
+  {
    "doi": "10.1111/puar.70171",
    "title": "American Administrative Capacity: Decline, Decay, and Resilience By M.Ernita Joaquin and Thomas J.Greitens, Cham, Switzerland: Springer, 2021. 213 pp. $97 (hardcover). ISBN : 978‐3‐030‐80563‐0",
    "abstract": "",
@@ -2725,22 +2679,6 @@
    "score": 2.0,
    "matched": [],
    "abstract_zh": "公共行政領域正處於真正的危機之中。美國人不信任政府或其行政人員。民選官員抨擊常任文官體系為「深層政府」的代理人，儘管難以承認，許多公共行政的批評者確有其道理。政府的績效往往未能達到民眾的期望，實務工作者對民選官員的反應往往過於遲緩，而研究者對實務工作者提供的指引也往往過於模糊。然而，公共行政無疑比以往任何時候都更為重要，它能將公共目標轉化為有效行動，並實現麥迪遜及其同事在建國時對國家所懷抱的民主願景。本領域迫切需要新的策略與戰術，以解決國家所面臨的新一代難題。透過攜手合作，實務工作者與研究者能以這些難題為基礎，共同開創一條令人振奮的前進道路。"
-  },
-  {
-   "doi": "10.1080/10967494.2026.2699232",
-   "title": "Institutional context and performance-based procurement: Evidence from welfare services in three countries",
-   "abstract": "This study explores why similar performance-based procurement designs produce different outcomes across welfare service settings. Drawing on ten case studies from the United Kingdom, United States, and the Netherlands we develop a three-mechanism framework linking institutional context to procurement outcomes. We propose that outcomes are associated with three interacting factors: institutional distance (the structural gap between what a procurement model requires and what the existing environment provides), institutional logic alignment (the fit between market-based mechanisms and prevailing normative expectations), and organizational learning capacity (the ability of implementing organizations to adapt over time). We apply this framework to two procurement instruments: Most Economically Advantageous Tender (MEAT) and Payment by Results (PbR). Our case analysis suggests that procurement models building on existing institutional infrastructure and aligning with prevailing normative logics tend to produce more stable outcomes, while those requiring departures from established norms are more frequently associated with cream-skimming, market concentration, and implementation drift. While exploratory, these findings suggest that procurement effectiveness may depend less on the choice between MEAT and PbR than on how carefully either instrument is calibrated to its institutional environment.",
-   "authors": [
-    "Yaniv Reingewertz",
-    "Adi Arad"
-   ],
-   "journal": "International Public Management Journal",
-   "url": "https://doi.org/10.1080/10967494.2026.2699232",
-   "date": "2026-07-28",
-   "first_seen": "2026-07-28",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "本研究旨在探討為何相似的績效導向採購設計，會在不同福利服務場域產生不同的結果。本研究以英國、美國和荷蘭的十個案例研究為基礎，發展出一個連結制度脈絡與採購結果的三機制框架。我們提出，採購結果與三個相互作用的因素相關：制度距離（採購模式所需與現有環境所能提供之間的結構性差距）、制度邏輯一致性（市場導向機制與主流規範期望之間的契合度），以及組織學習能力（執行組織隨時間推移進行調適的能力）。我們將此框架應用於兩種採購工具：最具經濟效益標案（MEAT）和依成果付費（PbR）。我們的案例分析顯示，建立在現有制度基礎設施之上並與主流規範邏輯相符的採購模式，傾向於產生更穩定的結果；而那些需要偏離既定規範的模式，則更常與篩選服務對象、市場集中化和執行偏差相關聯。儘管本研究為探索性質，這些發現指出，採購效益可能較不取決於MEAT和PbR之間的選擇，而更取決於這兩種工具如何仔細地校準其制度環境。"
   },
   {
    "doi": "10.1080/14719037.2026.2708850",
