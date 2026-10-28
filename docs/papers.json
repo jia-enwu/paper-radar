@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T00:58:51+00:00",
+ "updated": "2026-10-28T00:48:35+00:00",
  "papers": [
   {
    "doi": "10.1111/puar.70201",
@@ -909,26 +909,6 @@
     "conjoint"
    ],
    "abstract_zh": "美國的「地方選擇性銷售稅」是一種有趣的直接民主形式，直接受到公共管理者的影響。人們針對銷售稅進行投票的公民投票案（或稱投票議案）具有多種特徵，且能以多種方式呈現。因此，它們提供了一個獨特的機會，以研究選項與資訊對公民選擇的行為影響。本研究開發了一項新穎的實驗，採用聯合設計（conjoint design）的邏輯，透過改變公民投票案中的所有關鍵特徵，並以模仿實際公民投票案格式的段落形式呈現這些資訊。這項銷售稅投票聯合實驗的結果顯示，一般而言，人們僅專注於少數關鍵資訊，但特定次群體對擬議銷售稅的更多且不同特徵感興趣。這表明管理者可能在關鍵人口群體中擁有更大的影響力，且了解這些人口群體所重視的屬性，可能有助於形塑銷售稅公民投票案的呈現方式。"
-  },
-  {
-   "doi": "10.1093/jopart/muag023",
-   "title": "Institutionalized Enforcement of Administrative Compliance: State Regulator Use of Noncompliance Burdens",
-   "abstract": "Administrative burden scholarship typically examines rules and regulations affecting access to public benefits during initial citizen-state interactions. Scholars agree that individual burdens function as “hidden politics” because policy changes during implementation through bureaucratic discretion. Less is known about bureaucratic behavior or hidden politics enforced on third-party service providers maintaining compliance. In this article we address this by examining noncompliance burdens imposed on abortion providers to understand if regulators emulate peers’ behavior. Using an institutional theoretical framework and administrative records from the Florida Agency for Health Care Administration (FAHCA) on abortion provider oversight, we construct a directed dyadic event history model using 1540 dyad-year observations to predict isomorphism or divergence of sanction activities across regulatory field offices. We find that regulatory field offices emulate behavior of others based on peer’s previous sanction behavior and oversight workload. We also find that regulators diverge from peers based on the regulatory conditions of their own jurisdiction.",
-   "authors": [
-    "Mingxu (Emma) Li",
-    "Daniel L Fay"
-   ],
-   "journal": "Journal of Public Administration Research and Theory",
-   "url": "https://doi.org/10.1093/jopart/muag023",
-   "date": "2026-07-27",
-   "first_seen": "2026-07-29",
-   "score": 19.0,
-   "matched": [
-    "bureaucratic discretion",
-    "discretion",
-    "bureaucra"
-   ],
-   "abstract_zh": "行政負擔研究通常檢視在公民與國家初次互動時，影響民眾取得公共福利的規章制度。學者們一致認為，個別負擔扮演著「隱藏政治」的角色，因為政策在執行過程中會透過官僚自由裁量權而改變。然而，對於施加於維持合規性的第三方服務提供者之官僚行為或隱藏政治，則鮮為人知。本文旨在透過檢視施加於墮胎服務提供者的不合規負擔，以了解監管者是否會模仿同儕的行為，進而探討此議題。本文運用制度理論框架，並使用佛羅里達州醫療保健管理局 (FAHCA) 關於墮胎服務提供者監督的行政記錄，建構了一個定向雙向事件歷史模型，利用1540個雙向年度觀察值，以預測監管現場辦公室之間懲處活動的同形性或分歧。我們發現，監管現場辦公室會根據同儕先前的懲處行為和監督工作量來模仿他人的行為。我們也發現，監管者會根據其自身管轄區的監管條件而與同儕產生分歧。"
   },
   {
    "doi": "10.1111/padm.70083",
@@ -1968,6 +1948,24 @@
    "abstract_zh": "政府逐漸導入聊天機器人以減輕行政負擔並提升服務品質，然而公民使用意願仍有限。本研究援引推力理論，探討資訊框架與預設選項如何影響公民於公共服務領域使用聊天機器人的意願。本研究透過在中國進行的問卷實驗，結果顯示暴露於損失框架的參與者比暴露於獲益框架的參與者更願意使用聊天機器人。單獨的預設選項並未顯著影響意願。然而，資訊框架與預設選項之間的交互作用具有顯著性。具體而言，損失框架資訊對公民使用聊天機器人意願的正面影響，在預設選項存在時更強，這表明預設選項會放大損失框架的效果。總體而言，本研究提供了實務見解，以設計策略來促進聊天機器人於公共服務領域的導入。"
   },
   {
+   "doi": "10.1080/14719037.2026.2748382",
+   "title": "How collaborative platforms shape power dynamics and outcomes in local collaboration: evidence from disaster mitigation planning",
+   "abstract": "Federal and state governments increasingly adopt collaborative governance as a policy instrument, using collaborative platforms to foster multiple local collaborations. While collaborative platforms provide design rules and resources to facilitate collaborations, it remains unclear whether they promote equitable distribution of outputs within local collaborations. This study examines how following collaborative platforms’ membership rules and support mechanisms shape power asymmetries and equitable distribution of benefits among participants. We focus on local disaster mitigation planning in Florida, where the Florida Division of Emergency Management serves as a state-level collaborative platform supporting local collaborative planning. Drawing on quantitative and qualitative data, we find that membership rules provide a foundation for initiating collaboration. Specifically, collaborative groups following rules recommending department representation with specialized knowledge are more likely to prioritize projects from smaller jurisdictions. In addition, including platform representatives to provide personnel support serves as an effective mechanism for ensuring equitable collaboration.",
+   "authors": [
+    "Heewon Lee",
+    "Tian Tang"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2748382",
+   "date": "2026-10-14",
+   "first_seen": "2026-10-15",
+   "score": 3.0,
+   "matched": [
+    "representation"
+   ],
+   "abstract_zh": "聯邦與州政府日益將合作治理作為一項政策工具，運用合作平台來促進多個地方合作關係。儘管合作平台提供設計規則和資源以促進合作，但它們是否能促進地方合作關係中產出的公平分配，仍不明確。本研究探討遵循合作平台的成員規則和支持機制，如何影響參與者之間的權力不對稱和效益的公平分配。我們聚焦於佛羅里達州的地方災害減輕規劃，其中佛羅里達州緊急事務管理局作為一個州級合作平台，支持地方合作規劃。根據量化和質性資料，我們發現成員規則為啟動合作提供了基礎。具體而言，遵循建議由具備專業知識的部門代表參與之規則的合作團體，更可能優先考慮來自較小轄區的專案。此外，納入平台代表以提供人力支援，是確保公平合作的有效機制。"
+  },
+  {
    "doi": "10.1177/0734371x261497122",
    "title": "From Policy to Sustainability: The Evolution of Sustainability in Public HRM in Aotearoa/New Zealand in the SDG Era",
    "abstract": "This study examines how sustainable human resource management (SHRM) has been incorporated into public sector HRM policy in Aotearoa/New Zealand before and after the introduction of the United Nations Sustainable Development Goals (SDGs). Drawing on a longitudinal qualitative analysis of HRM policies from 10 local councils between 2010 and 2021, it explores how sustainability concerns across social, economic, and environmental domains were integrated into public HRM. The findings show that sustainability entered public HRM primarily through incremental layering onto existing HRM frameworks rather than transformational change. Following the SDGs, policy attention to equity, diversity, and wellbeing increased; however, broader social justice commitments remained uneven, while environmental sustainability received limited attention. By examining HRM policies as organizational signals, the study contributes to public HRM and SHRM scholarship by showing how sustainability priorities are communicated before implementation and may remain constrained by institutional logics of compliance, efficiency, risk management, and organizational performance.",
@@ -1986,21 +1984,6 @@
     "diversity"
    ],
    "abstract_zh": "本研究探討在聯合國永續發展目標（SDGs）引入前後，永續人力資源管理（SHRM）如何被納入紐西蘭（Aotearoa/New Zealand）公部門的人力資源管理政策中。本研究採用對2010年至2021年間10個地方政府的人力資源管理政策進行縱貫性質性分析，探討永續性議題（涵蓋社會、經濟和環境面向）如何整合到公部門的人力資源管理中。研究結果顯示，永續性主要透過漸進式疊加到現有的人力資源管理框架中，而非透過轉型性變革，進入公部門的人力資源管理。在SDGs引入後，政策對公平性、多元性和福祉的關注有所增加；然而，更廣泛的社會正義承諾仍不均衡，而環境永續性則受到有限的關注。本研究將人力資源管理政策視為組織訊號，藉由揭示永續性優先事項如何在實施前被傳達，以及可能仍受制於法規遵循、效率、風險管理和組織績效等制度邏輯的限制，從而對公部門人力資源管理和永續人力資源管理學術領域做出貢獻。"
-  },
-  {
-   "doi": "10.1111/puar.70171",
-   "title": "American Administrative Capacity: Decline, Decay, and Resilience By M.Ernita Joaquin and Thomas J.Greitens, Cham, Switzerland: Springer, 2021. 213 pp. $97 (hardcover). ISBN : 978‐3‐030‐80563‐0",
-   "abstract": "",
-   "authors": [
-    "Morgan Dodson"
-   ],
-   "journal": "Public Administration Review",
-   "url": "https://doi.org/10.1111/puar.70171",
-   "date": "2026-07-29",
-   "first_seen": "2026-07-29",
-   "score": 2.0,
-   "matched": [],
-   "abstract_zh": ""
   },
   {
    "doi": "10.1111/puar.70166",
@@ -2681,20 +2664,25 @@
    "abstract_zh": "公共行政領域正處於真正的危機之中。美國人不信任政府或其行政人員。民選官員抨擊常任文官體系為「深層政府」的代理人，儘管難以承認，許多公共行政的批評者確有其道理。政府的績效往往未能達到民眾的期望，實務工作者對民選官員的反應往往過於遲緩，而研究者對實務工作者提供的指引也往往過於模糊。然而，公共行政無疑比以往任何時候都更為重要，它能將公共目標轉化為有效行動，並實現麥迪遜及其同事在建國時對國家所懷抱的民主願景。本領域迫切需要新的策略與戰術，以解決國家所面臨的新一代難題。透過攜手合作，實務工作者與研究者能以這些難題為基礎，共同開創一條令人振奮的前進道路。"
   },
   {
-   "doi": "10.1080/14719037.2026.2708850",
-   "title": "Rethinking plural policing and network governance: internal and external mechanisms in the governance of security",
-   "abstract": "The governance of security has been studied in both criminology and public administration research, but mainly within their separate disciplines. This integrative literature review argues that governance of security research would benefit from integrating insights from both disciplines, specifically the literatures on plural policing and network governance. This results in a reconceptualization of the governance of security that distinguishes between internal and external governance mechanisms. This distinction allows for a more precise positioning of researchers in the study of governance processes and enables more specific operationalization of the governance of security to support further empirical research.",
+   "doi": "10.1177/0734371x261497110",
+   "title": "Recruiting for SDGs-Oriented Profiles: Unpacking Drivers of Employer Attractiveness in Hybrid Organizations",
+   "abstract": "Recruitment is critical for equipping public service organizations with the competencies required to advance the sustainable development goals (SDGs). This is particularly salient for public utilities, hybrid organizations mandated to contribute to the SDGs through essential services in water, waste, and energy management. This study examines employer attractiveness for profiles considered critical to SDG implementation in Italian utilities. Drawing on self-determination theory, we combine semi-structured interviews with HR and Employer Branding managers from 16 utilities with two discrete-choice experiments involving STEM and vocational-technical students and professionals. Salary and competence-related opportunities are consistently important across both groups. Remote work does not significantly affect STEM respondents’ choices, whereas workplace proximity is the strongest driver for vocational-technical respondents. Relatedness, operationalized as environmental and community impact, is not a significant differentiating attribute, suggesting that in organizations whose public value mission is already highly visible, social and environmental impact may function as a baseline expectation.",
    "authors": [
-    "Charlotte Geertman",
-    "Richard Van Herzeele"
+    "Lavinia Lenzi",
+    "Lorenzo Luciano",
+    "Francesco Vidè",
+    "Marta Barbieri",
+    "Giovanni Valotti"
    ],
-   "journal": "Public Management Review",
-   "url": "https://doi.org/10.1080/14719037.2026.2708850",
-   "date": "2026-07-29",
-   "first_seen": "2026-07-29",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "安全治理在犯罪學和公共行政研究中均有探討，但主要是在各自獨立的學科範疇內進行。本整合性文獻回顧主張，安全治理研究若能整合這兩個學科的洞見，特別是多元警政和網絡治理的相關文獻，將會受益良多。本文因此對安全治理進行重新概念化，區分了內部與外部治理機制。這種區分有助於研究者在治理過程研究中更精確地定位，並能更具體地操作化安全治理，以支持進一步的實證研究。"
+   "journal": "Review of Public Personnel Administration",
+   "url": "https://doi.org/10.1177/0734371x261497110",
+   "date": "2026-10-27",
+   "first_seen": "2026-10-28",
+   "score": 2.0,
+   "matched": [
+    "recruitment"
+   ],
+   "abstract_zh": "招募對於賦予公共服務組織推動永續發展目標（SDGs）所需的能力至關重要。這對於公用事業尤其顯著，這些混合型組織負有透過提供水資源、廢棄物和能源管理等基本服務，為永續發展目標（SDGs）做出貢獻的使命。本研究探討義大利公用事業中，對於被認為對永續發展目標（SDGs）實施至關重要的人才類型，其雇主吸引力。本研究借鑒自我決定理論，結合了對來自16家公用事業的人力資源（HR）和雇主品牌經理進行的半結構式訪談，以及兩項涉及STEM領域和技職教育學生及專業人士的離散選擇實驗。薪資和職能發展機會在這兩個群體中均一致重要。遠距工作並未顯著影響STEM受訪者的選擇，相較之下，工作地點鄰近性是技職教育受訪者最強的驅動因素。關聯性（操作化為環境和社區影響）並非顯著的區分屬性，這表明在那些公共價值使命已高度可見的組織中，社會和環境影響可能作為一項基本期望。"
   },
   {
    "doi": "10.1080/14719037.2026.2700567",
@@ -3541,22 +3529,6 @@
    "abstract_zh": "本文旨在評估阿拉伯聯合大公國（UAE）某執法機構中，一個以平衡計分卡為基礎的績效衡量系統的實用效度，透過檢視策略優先事項如何有效地轉化為部門和個人衡量指標。本研究援引實用建構主義，採用經理訪談和檔案文件，進行了一項單一案例的質性研究。我們發現策略轉化為營運指標和考核標準的程度薄弱、績效指標的認知不均，以及事實、邏輯、價值觀和溝通的整合有限，這些因素損害了系統的效度和策略一致性。有效的一致性需要從策略地圖到營運指標和考核標準更清晰的層層轉化、依職責適當的關鍵績效指標（KPI）存取權限，以及連結規劃和考核負責人的跨單位論壇。本研究的主要貢獻在於實證方面：它提供了關於在一個公共執法組織中，策略、衡量、獎勵和考核之間如何產生不一致性的證據。本研究也闡述了「實用效度」作為一個標準，用於檢視績效衡量系統在實務中如何運作。"
   },
   {
-   "doi": "10.1080/14719037.2026.2748382",
-   "title": "How collaborative platforms shape power dynamics and outcomes in local collaboration: evidence from disaster mitigation planning",
-   "abstract": "",
-   "authors": [
-    "Heewon Lee",
-    "Tian Tang"
-   ],
-   "journal": "Public Management Review",
-   "url": "https://doi.org/10.1080/14719037.2026.2748382",
-   "date": "2026-10-14",
-   "first_seen": "2026-10-15",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": ""
-  },
-  {
    "doi": "10.1080/14719037.2026.2747053",
    "title": "Staging the invisible: tracing public value co-creation through sub-micro infrastructures configured by information coordination organizations in China’s disaster information services",
    "abstract": "In disaster information services, citizen- and volunteer-generated information arrives as dispersed, uncertain reports rather than usable response information. This qualitative case study examines how Organization Z, a Chinese NGO functioning as an Information Coordination Organization (ICO), makes such information usable for response through sub-micro infrastructures. Data comprise 43 volunteer and 11 coordinator interviews, longitudinal participant observation, and multi-source materials. Four mechanisms emerged: emotional activation makes participation visible; epistemic calibration supports report credibility through traceability and comparability; cross-sector translation makes verified information interpretable and acceptable as a basis for response action; and reflexive learning makes response experience partially reusable. We conceptualize staging as a conditional account of public value formation organized around the four thresholds of visibility, credibility, legitimate actionability, and partial reusability. The study contributes to public value co-creation research by explaining how ICO information work conditions whether information-related participation contributes to disaster response and public value formation.",
@@ -3575,7 +3547,7 @@
   {
    "doi": "10.1080/14719037.2026.2749676",
    "title": "Mapping empathy in policy work: how public servants understand and use it",
-   "abstract": "",
+   "abstract": "Empathy is an underexplored phenomenon in policymaking that can shape how policies are designed and implemented. This study investigates the role of empathy in policy work through interviews with 22 Australian public servants occupying diverse policy-focused roles. Using an abductive approach, this study identifies three primary areas of empathy application by public servants: understanding citizens’ lived experiences to inform policy design; navigating interpersonal dynamics within and across agencies; and challenging assumptions and embedded worldviews. Findings suggest that empathy functions as a sensemaking resource, helping public servants interpret information in complex and ambiguous policy contexts.",
    "authors": [
     "Assel Mussagulova",
     "Colette Einfeld"
@@ -3586,7 +3558,7 @@
    "first_seen": "2026-10-17",
    "score": 0.0,
    "matched": [],
-   "abstract_zh": ""
+   "abstract_zh": "同理心在政策制定中是一個尚未充分探討的現象，它能影響政策的設計與執行方式。本研究透過訪談22位擔任多元政策導向職務的澳洲公務員，探討同理心在政策工作中的角色。本研究採用溯因法，歸納出公務員應用同理心的三個主要面向：理解公民的生活經驗以作為政策設計的依據；處理機關內部及跨機關的人際互動；以及挑戰既有假設與根深蒂固的世界觀。研究結果顯示，同理心作為一種意義建構的資源，協助公務員在複雜且模糊的政策情境中解讀資訊。"
   },
   {
    "doi": "10.1177/02750740261498857",
