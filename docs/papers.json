@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T00:48:35+00:00",
+ "updated": "2026-10-29T01:21:17+00:00",
  "papers": [
   {
    "doi": "10.1111/puar.70201",
@@ -539,25 +539,6 @@
     "regression discontinuity"
    ],
    "abstract_zh": "女性公職人員的施政方式是否與男性不同，已有充分文獻記載；然而，她們是否為女性群體施政有所不同，則尚未獲得充分探討。後者是積極代表理論的核心，該理論預期民意代表會為其所反映的群體採取行動：選舉女性是否會改變政府為女性提供的施政內容？我們探討了在巴西全國 5,565 個城市中，選舉女性市長和市議員與親女性制度存在之間的關係，涵蓋了四個選舉週期 (2008、2012、2016 和 2020 年)。我們的研究結果部分支持了積極代表關係。儘管女性市長的任職增加了親女性制度設立的可能性，但地方市議員卻要麼沒有關聯，要麼與其呈現負向關聯。透過迴歸不連續設計進行的穩健性檢定證實了這些發現，而針對種族的異質性處理效果則描繪了關於交織性更全面的視角。我們的研究結果突顯了女性民意代表如何在地方政府中為其女性選民帶來實質性改變。"
-  },
-  {
-   "doi": "10.1080/14719037.2026.2708832",
-   "title": "Understanding red tape perceptions of street-level bureaucrats: a multilevel cross-country analysis",
-   "abstract": "Despite extensive research on red tape’s negative consequences, its antecedents remain underexplored. Building on the psychological process model, this article investigates antecedents of street-level bureaucrats’ red tape perceptions across the micro, meso, and macro levels. Using a dataset of 90,480 teachers across 44 countries, results show that antecedents across all levels relate to teachers’ red tape perceptions. Specifically, red tape perceptions are weaker among teachers having a growth mindset, working in schools with a wide span of control, and living in low uncertainty avoidance and individualism cultures. Across these antecedents, the cultural contexts are particularly important.",
-   "authors": [
-    "Qianhui Li"
-   ],
-   "journal": "Public Management Review",
-   "url": "https://doi.org/10.1080/14719037.2026.2708832",
-   "date": "2026-07-30",
-   "first_seen": "2026-07-30",
-   "score": 27.0,
-   "matched": [
-    "street-level bureaucrat",
-    "street-level",
-    "bureaucra"
-   ],
-   "abstract_zh": "儘管繁文縟節的負面後果已獲廣泛研究，其前因卻仍未充分探討。本文立基於心理歷程模型，探討基層官僚對繁文縟節認知的前因，涵蓋微觀、中觀與宏觀層次。本文採用來自44個國家共90,480名教師的資料集，結果顯示各層次的前因皆與教師對繁文縟節的認知相關。具體而言，在具有成長型思維、於控制幅度較廣的學校工作，以及生活在低不確定性規避和個人主義文化中的教師，其對繁文縟節的認知較弱。在這些前因中，文化脈絡尤為重要。"
   },
   {
    "doi": "10.1111/puar.70220",
@@ -1469,21 +1450,23 @@
    "abstract_zh": "本研究探討形塑邊緣化都市社區再生中協作效能的因果條件。運用模糊集質性比較分析（fsQCA）22個中國案例，本研究指出促成式領導是達成高協作效能的必要條件，而制度化不足則是低效能的必要條件。充分性分析揭示了三種達成有效協作的獨特途徑，以及三種導致無效協作的途徑。研究結果顯示，協作效能取決於資源支持、制度化、治理結構和促成式領導等因素在特定脈絡下的組態。沒有任何單一條件能單獨充分；相反地，效能是透過條件之間的互補性、功能等價性及非對稱可替代性而浮現。本研究有助於對協作治理形成更具脈絡敏感性與組態式的理解。"
   },
   {
-   "doi": "10.1111/puar.70168",
-   "title": "Bureaucracy Remade, Citizens Reconfigured: Accountability, Digitalization, and the Transformation of Public Administration",
-   "abstract": "Something quietly consequential has been unfolding within democratic institutions over the past 40 years, though it rarely announces itself in obvious ways.Two recent books, emerging from different corners of public administration scholarship, circle this transformation from distinct vantage points.Karl Löfgren and Patrik Hall's The New Public Bureaucracy, alongside the edited volume Digital Co-Production of Public Services: Citizens, Challenges and Cases, led by Taco Brandsen, Ina Radtke, A. Paula Rodriguez Müller, and Trui Steen, were not conceived as companions.They speak in different voices and address partially overlapping audiences.Yet, when read side by side, something sparks between them.The tension is not accidental.It is revealing.",
+   "doi": "10.1093/jopart/muag036",
+   "title": "Sick of change? Sickness absence following ownership conversions in Norwegian kindergartens",
+   "abstract": "The expansion of mixed-provider welfare systems has intensified debates about the consequences of public, nonprofit, and for-profit provision. Existing research focuses primarily on efficiency, service quality, and citizens' outcomes, while less is known about ownership conversions’ consequences for employees. We depart from research suggesting that ownership conversions can disrupt employee-organization value congruence as well as change the incentive structures. Leveraging population-wide administrative data from Norwegian childcare services (2015-2019), we examine whether ownership conversions are associated with changes in employee sickness absence. Using a staggered difference-in-differences design, we find that sickness absence increases following nonprofit-to-for-profit conversions. At the same time, public-to-for-profit transitions show little consistent relationship with sickness absence. These findings suggest that employee responses to ownership change are shaped less by the public-private divide than by differences in organizational missions and values. More broadly, the study highlights organizational value congruence as a potential mechanism linking ownership arrangements to employee well-being, and suggests that the nonprofit-for-profit boundary may be more consequential for employees than the conventional public-private divide.",
    "authors": [
-    "Habib Zafarullah"
+    "Håvard Thorsen Rydland",
+    "Dag Arne Christensen"
    ],
-   "journal": "Public Administration Review",
-   "url": "https://doi.org/10.1111/puar.70168",
-   "date": "2026-07-30",
-   "first_seen": "2026-07-30",
-   "score": 8.0,
+   "journal": "Journal of Public Administration Research and Theory",
+   "url": "https://doi.org/10.1093/jopart/muag036",
+   "date": "2026-10-27",
+   "first_seen": "2026-10-29",
+   "score": 9.0,
    "matched": [
-    "bureaucra"
+    "difference-in-differences",
+    "administrative data"
    ],
-   "abstract_zh": "過去四十年來，民主體制內悄然發生著深具影響力的變化，儘管這些變化鮮少以顯而易見的方式呈現。兩本近期出版的書籍，分別來自公共行政學術領域的不同面向，從各自獨特的視角探討這項轉變。Karl Löfgren 和 Patrik Hall 合著的《新公共官僚體制》，以及由 Taco Brandsen、Ina Radtke、A. Paula Rodriguez Müller 和 Trui Steen 主編的合輯《公共服務數位協同生產：公民、挑戰與案例》，兩者並非被構思為配套作品。它們的論述語調各異，並面向部分重疊的讀者群。然而，當兩者並列閱讀時，卻能激盪出一些火花。這份張力並非偶然，它深具啟發性。"
+   "abstract_zh": "混合提供者福利制度的擴張，加劇了關於公立、非營利與營利機構提供服務所產生影響的爭論。既有研究主要關注效率、服務品質和公民的結果，但對於所有權轉換對員工的影響卻知之甚少。我們援引研究指出，所有權轉換可能破壞員工與組織的價值觀契合度，並改變激勵結構。本研究運用2015年至2019年挪威兒童照護服務的全國性行政資料，檢視所有權轉換是否與員工病假缺勤的變化相關。採用交錯式雙重差分設計，我們發現非營利轉為營利機構後，病假缺勤有所增加。同時，公立轉為營利機構的轉變與病假缺勤之間，幾乎沒有一致的關聯性。這些發現指出，員工對於所有權轉變的反應，與其說是受公私部門劃分影響，不如說是受組織宗旨與價值觀差異的影響。更廣泛地說，本研究突顯組織價值觀契合度可能是連結所有權安排與員工福祉的潛在機制，並指出非營利與營利之間的界線，對員工而言可能比傳統的公私部門劃分更具影響。"
   },
   {
    "doi": "10.1111/puar.70185",
@@ -1638,25 +1621,6 @@
     "bureaucra"
    ],
    "abstract_zh": "行政改革常旨在透過改變官僚或專業專長來提升績效。然而，單憑技術技能可能無法打破造成社會群體間不平等結果的力量。我們認為，系統性偏見影響了專業化和自由裁量判斷，限制了專長替代改革在減少種族差異方面的能力，即使這些改革改善了平均結果。我們透過2018年達拉斯的一項改革來驗證此論點，該改革部署了協同應變團隊，將警官與臨床醫師和社工配對，以處理心理健康求助電話。針對不同分區的雙重差分分析發現，精神病強制留置和逮捕顯著減少，但這些成效主要集中在白人男性公民身上；非裔男性被捕人數則顯著增加。一項補充性的事件層級分析，針對強制性結果的條件機率，指出異質性影響的不同模式：白人男性在改革後精神病強制留置的機率更高，而非裔女性和拉丁裔男性則經歷較低的機率。這兩組研究結果為行政改革的學術研究提供了新見解，並對此類計畫的影響及其評估方式具有實務意涵。"
-  },
-  {
-   "doi": "10.1111/puar.70163",
-   "title": "The Matthew Effect in American Generosity? Philanthropic Disparities and the Role of Government Support",
-   "abstract": "This study examines how economic, racial, and ecological dimensions of community disadvantage shape philanthropic donations to local human services nonprofit sectors, and whether government support mitigates these place‐based disparities. Using a novel county‐level panel dataset spanning 2000–2019, we combine descriptive analyses with mixed‐effects regression models to estimate both direct and moderating relationships. We find that per capita private donations are significantly lower in economically deprived communities and significantly higher in rural communities, while minority prominence shows no statistically significant association with private giving. While government funding crowds in private donations overall, its moderating role is context specific. Government support does not attenuate philanthropic disparities linked to economic deprivation or minority prominence, but it crowds in private donations more strongly in rural counties than in urban counties. These findings highlight the contingent role of government support and underscore the need for targeted policy strategies to address philanthropic disparities across communities.",
-   "authors": [
-    "Viviana Chiu Sik Wu",
-    "Ji Ma",
-    "Chao Guo"
-   ],
-   "journal": "Public Administration Review",
-   "url": "https://doi.org/10.1111/puar.70163",
-   "date": "2026-07-30",
-   "first_seen": "2026-07-30",
-   "score": 6.0,
-   "matched": [
-    "minority"
-   ],
-   "abstract_zh": "本研究探討社區劣勢的經濟、種族和生態面向如何影響流向當地人類服務非營利部門的慈善捐款，以及政府支持是否能緩解這些地方性差異。本研究利用一份涵蓋2000年至2019年的創新縣級追蹤資料集，結合敘述性分析與混合效果迴歸模型，以估計直接與調節關係。我們發現，人均私人捐款在經濟匱乏社區中顯著較低，在鄉村社區中則顯著較高，而少數族裔集中度與私人捐款之間並無統計上的顯著關聯。儘管政府資金整體而言會引導私人捐款，但其調節作用具有情境特定性。政府支持並未減輕與經濟匱乏或少數族裔集中度相關的慈善捐款差異，但在鄉村縣市比在都市縣市更能強力引導私人捐款。這些發現突顯了政府支持的權變角色，並強調了制定有針對性的政策策略之必要性，以解決跨社區的慈善捐款差異。"
   },
   {
    "doi": "10.1093/jopart/muag026",
@@ -2683,25 +2647,6 @@
     "recruitment"
    ],
    "abstract_zh": "招募對於賦予公共服務組織推動永續發展目標（SDGs）所需的能力至關重要。這對於公用事業尤其顯著，這些混合型組織負有透過提供水資源、廢棄物和能源管理等基本服務，為永續發展目標（SDGs）做出貢獻的使命。本研究探討義大利公用事業中，對於被認為對永續發展目標（SDGs）實施至關重要的人才類型，其雇主吸引力。本研究借鑒自我決定理論，結合了對來自16家公用事業的人力資源（HR）和雇主品牌經理進行的半結構式訪談，以及兩項涉及STEM領域和技職教育學生及專業人士的離散選擇實驗。薪資和職能發展機會在這兩個群體中均一致重要。遠距工作並未顯著影響STEM受訪者的選擇，相較之下，工作地點鄰近性是技職教育受訪者最強的驅動因素。關聯性（操作化為環境和社區影響）並非顯著的區分屬性，這表明在那些公共價值使命已高度可見的組織中，社會和環境影響可能作為一項基本期望。"
-  },
-  {
-   "doi": "10.1080/14719037.2026.2700567",
-   "title": "Social enterprises in the shadow of the State",
-   "abstract": "Despite growing interest in social enterprises and public value creation, little attention has been paid to how social enterprises create public value in contexts of state retrenchment and institutional voids. This paper examines FOQUS (FOndazione QUartieri Spagnoli) in Naples through a longitudinal qualitative case study. We identify three mechanisms underpinning public value creation—strategic flexibility, multi-stakeholder ecosystem governance, and storytelling—and four related challenges. Findings show that social enterprises create public value not only through collaboration with public actors but also through autonomous action in the shadow of the State, revealing tensions that characterise public value creation in institutional weak contexts.",
-   "authors": [
-    "Marafioti Elisabetta",
-    "Alessandro Sancino",
-    "Fulvio Scognamiglio",
-    "Francesca Calò",
-    "Luigi Maria Sicca"
-   ],
-   "journal": "Public Management Review",
-   "url": "https://doi.org/10.1080/14719037.2026.2700567",
-   "date": "2026-07-30",
-   "first_seen": "2026-07-30",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "儘管對社會企業和公共價值創造的興趣日益增長，卻鮮少有研究關注社會企業如何在國家緊縮和制度空缺的背景下創造公共價值。本文透過一項縱向質性個案研究，檢視那不勒斯的FOQUS（FOndazione QUartieri Spagnoli）。我們歸納出支撐公共價值創造的三種機制——策略彈性、多元利害關係人生態系統治理和敘事——以及四項相關挑戰。研究結果顯示，社會企業不僅透過與公共行動者的協作來創造公共價值，也透過在國家權力陰影下的自主行動來達成，揭示了制度脆弱背景下公共價值創造所特有的張力。"
   },
   {
    "doi": "10.1080/14719037.2026.2710762",
