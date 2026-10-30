@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T01:21:17+00:00",
+ "updated": "2026-10-30T01:24:45+00:00",
  "papers": [
   {
    "doi": "10.1111/puar.70201",
@@ -1950,22 +1950,6 @@
    "abstract_zh": "本研究探討在聯合國永續發展目標（SDGs）引入前後，永續人力資源管理（SHRM）如何被納入紐西蘭（Aotearoa/New Zealand）公部門的人力資源管理政策中。本研究採用對2010年至2021年間10個地方政府的人力資源管理政策進行縱貫性質性分析，探討永續性議題（涵蓋社會、經濟和環境面向）如何整合到公部門的人力資源管理中。研究結果顯示，永續性主要透過漸進式疊加到現有的人力資源管理框架中，而非透過轉型性變革，進入公部門的人力資源管理。在SDGs引入後，政策對公平性、多元性和福祉的關注有所增加；然而，更廣泛的社會正義承諾仍不均衡，而環境永續性則受到有限的關注。本研究將人力資源管理政策視為組織訊號，藉由揭示永續性優先事項如何在實施前被傳達，以及可能仍受制於法規遵循、效率、風險管理和組織績效等制度邏輯的限制，從而對公部門人力資源管理和永續人力資源管理學術領域做出貢獻。"
   },
   {
-   "doi": "10.1111/puar.70166",
-   "title": "The Rise of Midocracy: How NPM and Post‐ NPM Reform Ideas Recombine in Contemporary Public Organizations",
-   "abstract": "This paper introduces and conceptualizes midocracy as an emergent organizational form in the public sector, characterized by the growth and dominance of a professionalized administrative middle layer. The study argues that midocracy draws on elements associated with both New Public Management (NPM) and post‐NPM reform agendas. While administration is essential for coordination, we show how its unchecked expansion can lead to self‐reinforcing dynamics that distance governance from core operations. Midocracy, we contend, reflects a shift from service delivery to symbolic value signaling, strategic abstraction, and polycentric goal‐setting. Our contribution is both conceptual and diagnostic, offering midocracy as a framework for understanding contemporary administrative expansion and its implications for public sector legitimacy and performance. Finally, we relate and critically examine different explanatory accounts of administrative expansion, highlighting how they interact within the dynamics of midocracy.",
-   "authors": [
-    "Gustaf Kastberg Weichselberger",
-    "Johan Alvehus"
-   ],
-   "journal": "Public Administration Review",
-   "url": "https://doi.org/10.1111/puar.70166",
-   "date": "2026-07-31",
-   "first_seen": "2026-07-31",
-   "score": 2.0,
-   "matched": [],
-   "abstract_zh": "本文介紹並將「中層行政體制」（midocracy）概念化為公部門一種新興的組織形式，其特點是專業化的行政中介層的成長與主導地位。本研究認為，中層行政體制汲取了與新公共管理（NPM）和後NPM改革議程相關的要素。儘管行政管理對於協調至關重要，但我們指出其不受限制的擴張可能導致自我強化的動態，使治理與核心業務脫節。我們認為，中層行政體制反映了從服務提供轉向象徵性價值傳遞、策略性抽象化以及多中心目標設定的轉變。本研究的貢獻兼具概念性與診斷性，提出中層行政體制作為理解當代行政擴張及其對公部門合法性與績效意涵的分析框架。最後，本文關聯並批判性地審視行政擴張的不同解釋性論述，闡明它們如何在中層行政體制的動態中相互作用。"
-  },
-  {
    "doi": "10.1111/puar.70167",
    "title": "Social Capital and Policy Compliance in a Polarized Democracy: A Necessary Condition Analysis of COVID Vaccination Rates Across US Counties",
    "abstract": "Policy compliance, the extent to which citizens adhere to government policies, remains a central test of democratic governance, especially during the COVID‐19 pandemic in the United States. This study examines how distinct forms of social capital—relational, structural (bonding versus bridging), cognitive, and vertical linking—serve as critical preconditions for COVID‐19 vaccination uptake in 2021. Using necessary condition analysis (NCA), we uncover nuanced and context‐specific impacts of distinct social capital on policy compliance. NCA also identifies threshold levels of various social capital required to achieve specific vaccination outcomes, yielding actionable diagnostics for policymakers and administrators. Strategies to raise compliance must align with local social capital configurations, prioritizing bridging in Republican‐leaning counties and relational support and careful use of bridging in Democratic‐leaning counties. The study advances civil society research by pinpointing the civic preconditions under which democratic institutions can function effectively in a polarized environment.",
@@ -2649,21 +2633,19 @@
    "abstract_zh": "招募對於賦予公共服務組織推動永續發展目標（SDGs）所需的能力至關重要。這對於公用事業尤其顯著，這些混合型組織負有透過提供水資源、廢棄物和能源管理等基本服務，為永續發展目標（SDGs）做出貢獻的使命。本研究探討義大利公用事業中，對於被認為對永續發展目標（SDGs）實施至關重要的人才類型，其雇主吸引力。本研究借鑒自我決定理論，結合了對來自16家公用事業的人力資源（HR）和雇主品牌經理進行的半結構式訪談，以及兩項涉及STEM領域和技職教育學生及專業人士的離散選擇實驗。薪資和職能發展機會在這兩個群體中均一致重要。遠距工作並未顯著影響STEM受訪者的選擇，相較之下，工作地點鄰近性是技職教育受訪者最強的驅動因素。關聯性（操作化為環境和社區影響）並非顯著的區分屬性，這表明在那些公共價值使命已高度可見的組織中，社會和環境影響可能作為一項基本期望。"
   },
   {
-   "doi": "10.1080/14719037.2026.2710762",
-   "title": "The balancing act of public service spaces: understanding service ecosystems and advancing the public service logic",
-   "abstract": "This article advances Public Service Logic (PSL) by examining how spaces are constructed and navigated within service ecosystems. In this study, ‘space’ is understood as the relational configurations through which actors coordinate, negotiate, and enable action. Based on a study of three citizen-led cross-sector support centres for cancer patients in Sweden, the findings show that the centres address unmet needs, facilitate collaboration, and navigate boundary issues with traditional patient associations. By integrating a spatial perspective into PSL, the study introduces the concept of Public Service Space to explain how cross-sector collaborations sustain service ecosystems through relational arrangements, enabling welfare provision.",
+   "doi": "10.1111/puar.70230",
+   "title": "Dueling Political Fictions and Public Administration and Democracy in an Era of Populism and Authoritarian Impulses",
+   "abstract": "The political fictions used in political discourse, during the English Civil War period, remain relevant to contemporary public policy and administration. Mainstream public administration discourse has too often employed the fiction of a singular and unbounded popular sovereignty that emerged during this period, leaving public administration ill‐equipped to deal with the authoritarian impulses of contemporary populist governments. What is needed in public administration discourse, in dealing with these authoritarian impulses, is not an ethic of administrative neutrality, such as has traditionally dominated much of our field, but an ethic of constitutionalism that draws on the fiction of the individual that was also articulated during the English Civil War period by the English Levellers and subsequently by the founders of the American Constitution.",
    "authors": [
-    "Hanna Jacqueline Hellgren",
-    "Erik Eriksson",
-    "Andreas Hellström"
+    "Michael W. Spicer"
    ],
-   "journal": "Public Management Review",
-   "url": "https://doi.org/10.1080/14719037.2026.2710762",
-   "date": "2026-07-31",
-   "first_seen": "2026-07-31",
-   "score": 0.0,
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70230",
+   "date": "2026-10-29",
+   "first_seen": "2026-10-30",
+   "score": 2.0,
    "matched": [],
-   "abstract_zh": "本文透過檢視空間如何在服務生態系統中被建構與運用，以推進公共服務邏輯 (PSL)。在本研究中，「空間」被理解為行動者藉此協調、協商並促成行動的關係配置。本研究以瑞典三個由公民主導、為癌症病患提供服務的跨部門支持中心為研究對象，研究結果顯示，這些中心解決了未滿足的需求，促進了合作，並處理了與傳統病友協會之間的邊界議題。透過將空間視角整合至公共服務邏輯 (PSL) 中，本研究引入了「公共服務空間」的概念，以解釋跨部門合作如何透過關係安排來維持服務生態系統，並促成福利提供。"
+   "abstract_zh": "英格蘭內戰時期政治論述中所使用的政治虛構，至今仍對當代公共政策與公共行政具有重要意義。主流公共行政論述過於頻繁地採用於此時期興起的單一且無限主權在民的虛構，使得公共行政在應對當代民粹政府的威權衝動時，顯得準備不足。為應對這些威權衝動，公共行政論述所需要的，並非傳統上主導本領域甚鉅的行政中立倫理，而是憲政主義倫理，此倫理借鑒了英格蘭平等派在英格蘭內戰時期，以及隨後由美國憲法制定者所闡述的個人虛構。"
   },
   {
    "doi": "10.1111/padm.70076",
