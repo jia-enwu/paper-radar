@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T01:24:45+00:00",
+ "updated": "2026-10-31T01:10:05+00:00",
  "papers": [
   {
    "doi": "10.1111/puar.70201",
@@ -93,8 +93,8 @@
   },
   {
    "doi": "10.1093/jopart/muag032",
-   "title": "Routinized Deference: Predictive Screening and Bureaucratic Capacity in Child Protective Services",
-   "abstract": "Predictive algorithms are increasingly used to support frontline decision-making in public administration, but evidence remains limited on how they affect bureaucratic capacity. This study examines county-level adoption of predictive screening tools in U.S. Child Protective Services using NCANDS data (2010–2023) and a stacked difference-in-differences design. Leveraging staggered adoption, I find no change in the total number of investigations opened and a sizable decline (about 15%) in the share of investigations that are substantiated. These results are inconsistent with operational capacity gains and more consistent with misclassification that erodes analytical capacity. These findings are consistent with a mechanism of routinized deference: under workload and accountability pressures, algorithmic recommendations can become procedurally defensible defaults. Overall, this study argues that predictive screening is not capacity-enhancing by default, as routinized deference can undermine the professional judgment central to bureaucratic work.",
+   "title": "Routinized deference: predictive screening and bureaucratic capacity in child protective services",
+   "abstract": "Predictive algorithms are increasingly used to support frontline decision-making in public administration, but evidence remains limited on how they affect bureaucratic capacity. This study examines county-level adoption of predictive-screening tools in US Child Protective Services using National Child Abuse and Neglect Data System data (2010–2023) and a stacked difference-in-differences design. Leveraging staggered adoption, I find no change in the total number of investigations opened and a sizable decline (about 15 percent) in the share of investigations that are substantiated. These results are inconsistent with operational capacity gains and more consistent with misclassification that erodes analytical capacity. These findings are consistent with a mechanism of routinized deference: under workload and accountability pressures, algorithmic recommendations can become procedurally defensible defaults. Overall, this study argues that predictive screening is not capacity-enhancing by default, as routinized deference can undermine the professional judgment central to bureaucratic work.",
    "authors": [
     "Jiaen Wu"
    ],
@@ -341,28 +341,6 @@
     "ai"
    ],
    "abstract_zh": "各級政府正努力應對人工智慧（AI）對公共行政的影響。由於聯邦行動常為更廣泛的治理工作確立指導原則，本研究旨在探討美國聯邦AI政策如何反映—或未能反映—核心公共價值。本研究基於2020年至2023年間的美國聯邦AI政策資料集，系統性分析了政府發布和實施的政策文件中所採用的風險、損害和治理策略。具體而言，我們運用AI治理與監管檔案庫（AGORA）的解析方法，分析了120個獨立的聯邦法律和法規政策條款或子條款，這些條款均規範政府自身的運作，而非私營部門的行為。我們建立了一個理論與實證的對應關係，將AI相關風險和損害與重要的公共價值連結起來。結果顯示，儘管個人權利、公共利益和問責制等價值觀經常被提及，但可能需要就公民參與、工作場所標準和回應性等公共價值提供額外指導，以防止公共價值失靈。本研究進一步將AI政策文件中的治理策略分為監管型、服務導向型和資訊型工具，並發現監管政策最有可能與公共價值產生關聯。"
-  },
-  {
-   "doi": "10.1080/14719037.2026.2711106",
-   "title": "Accountability systems and coping in the bureaucratic environment",
-   "abstract": "Advocates for strengthening accountability in government assume stronger consequences will change bureaucratic behavior. This study considers whether more strict accountability regimes change bureaucrats’ discretionary efforts. We consider this puzzle using a conjoint experiment with teachers in New York State. Our results show street-level bureaucrats in high accountability settings prioritize low-performing clients, while street-level bureaucrats in moderate accountability settings prioritize clients exhibiting high levels of effort. Overall, teachers demonstrate a weak preference to provide extra assistance to students who are hardworking and low-performing.",
-   "authors": [
-    "Christine H. Roch",
-    "Ellen V. Rubin"
-   ],
-   "journal": "Public Management Review",
-   "url": "https://doi.org/10.1080/14719037.2026.2711106",
-   "date": "2026-08-01",
-   "first_seen": "2026-08-01",
-   "score": 34.0,
-   "matched": [
-    "discretion",
-    "street-level bureaucrat",
-    "street-level",
-    "bureaucra",
-    "conjoint"
-   ],
-   "abstract_zh": "提倡強化政府問責制的人士認為，更嚴格的後果將改變公務員的行為。本研究旨在探討更嚴格的問責制度是否會改變公務員的裁量性努力。我們透過對紐約州教師進行聯合分析實驗來探討這個難題。我們的研究結果顯示，在高問責環境下的第一線公務員會優先考慮表現不佳的服務對象，而中等問責環境下的第一線公務員則優先考慮展現高度努力的服務對象。總體而言，教師對於向勤奮且表現不佳的學生提供額外協助，展現出微弱的偏好。"
   },
   {
    "doi": "10.1080/14719037.2026.2723226",
@@ -998,6 +976,26 @@
     "job satisfaction"
    ],
    "abstract_zh": "地方警察是第一線公務人員中最顯著的一群，他們每天與民眾、社區以及其他機關和利害關係人互動。就字面意義而言，他們是街頭官僚。這些互動在2020年夏天受到嚴峻考驗。警察處理（或在某些情況下拒絕處理）全球疫情的執法命令，同時在喬治·佛洛伊德謀殺案後執行警務。本文探討三個地方轄區的警員如何應對這些雙重且複雜的危機——我們未來肯定會遇到更多類似危機——以及這些危機對警察互動、自由裁量權（包括去警化）和工作滿意度的影響。本文最後討論警察領導者、地方官員和社區倡議者如何在危機時期更好地支持執法專業人員。"
+  },
+  {
+   "doi": "10.1093/jopart/muag038",
+   "title": "Every Mile Counts: Geographical Distance as Administrative Burden in Intellectual Property Services",
+   "abstract": "While existing research has examined procedural and informational sources of administrative burden, this paper examines how organizational design choices about the geographic location of administrative authority institutionalize spatial burdens on firms. We leverage China's decentralization reform in trademark registration services as a natural experiment to test this theory. This reform reduced geographic distance by establishing local acceptance windows across the country from 2016 to 2019. Prior to this reform, trademark applications had to be submitted exclusively at the centralized Beijing office, imposing substantial geographic barriers on firms nationwide. Using a unique dataset covering over 37 million trademark applications from 294 Chinese cities, we employ a staggered difference-in-differences approach to estimate the causal effects of reduced geographic distance on trademark filings. We find that establishing local acceptance windows increased trademark applications by approximately 4.4 percent, or roughly 209,000 additional filings in 2019 alone. Moreover, the reform generated compound distributional outcomes: small and medium-sized enterprises responded more strongly than larger firms, and the new applicants drawn into the trademark system were concentrated in cities with thinner infrastructure. Mechanism analysis confirms that this increase is primarily driven by distance reduction rather than improvements in administrative efficiency or reductions in corruption. The findings provide large-scale causal evidence on the behavioral consequences of redistributing administrative service delivery across space, demonstrating that physical accessibility remains crucial for equitable service uptake even amid the digital transformation of administrative services.",
+   "authors": [
+    "Shenghua Lu"
+   ],
+   "journal": "Journal of Public Administration Research and Theory",
+   "url": "https://doi.org/10.1093/jopart/muag038",
+   "date": "2026-10-29",
+   "first_seen": "2026-10-31",
+   "score": 18.0,
+   "matched": [
+    "corruption",
+    "causal",
+    "difference-in-differences",
+    "natural experiment"
+   ],
+   "abstract_zh": "現有研究已探討行政負擔的程序性與資訊性來源，本文則檢視關於行政權限地理位置的組織設計選擇，如何將空間負擔制度化於企業。我們利用中國商標註冊服務的去中心化改革作為自然實驗，以驗證此理論。此改革透過在2016年至2019年間於全國各地設立地方受理窗口，縮短了地理距離。在此改革之前，商標申請必須專門向集中的北京辦公室提交，對全國企業造成巨大的地理障礙。我們使用涵蓋來自294個中國城市、超過3700萬件商標申請的獨特資料集，採用錯位雙重差分法來估計地理距離縮短對商標申請量的因果效應。我們發現，設立地方受理窗口使商標申請量增加了約4.4%，僅2019年就額外增加了約209,000件申請。此外，此改革產生了複合式分佈結果：中小型企業比大型企業反應更為強烈，而新進入商標系統的申請者則集中在基礎設施較薄弱的城市。機制分析證實，此增長主要由距離縮短所驅動，而非行政效率的提升或腐敗的減少。研究結果提供了大規模的因果證據，說明在空間上重新分配行政服務提供所帶來的行為後果，證明即使在行政服務數位轉型之際，實體可近性對於公平地獲取服務仍然至關重要。"
   },
   {
    "doi": "10.1111/puar.70181",
@@ -1729,24 +1727,6 @@
    "abstract_zh": "人生唯一不變的就是變，而對於公共行政人員而言，因應危機與多重危機已成為常態。有效的危機管理現已成為公共管理者不可或缺的技能，因為即使是輕微的應變延遲、溝通失誤或技能不足，都可能導致生命或財產的損失。最近在美國公共行政學會（ASPA）會議上的學術討論指出，相對正常的時期是2019年，即COVID-19疫情爆發之前，並且對於生活是否能再次恢復正常感到懷疑。儘管對此可能存在不同觀點，但顯而易見的是，我們已無法回頭，且雖然危機的類型會改變，但它們將持續存在。因此，我們必須更好地規劃、準備並應對這些危機。《勞特利奇危機、多重危機與公共行政手冊》（Moloney 等人，2025年）匯集了來自世界各地關於危機的研究、評論、反思和全球視角。本書評首先概述了該書的內容，闡述其主要論點，討論其局限性，並評估其對公共行政學術研究與實踐的貢獻。儘管本書的構思可能源於全球疫情，但請勿誤解：本書並非完全圍繞COVID-19展開。本書以一個超出預期的廣泛危機定義作為開端。除了預期的自然災害，例如颶風、風暴、地震和野火之外，危機清單還包括勞動力老化、網路安全、債務、失業、犯罪率上升、飢餓、家庭暴力等等。這種擴展的視角既令人耳目一新又引人深思，因為其中許多持續且複雜的問題傳統上並未被歸類為危機。在公共行政領域，這些問題被稱為「棘手問題」（wicked problems）（Rittel 和 Webber，1973年），人們傾向於接受它們將持續存在，並且我們必須專注於管理而非解決它們，因為它們沒有絕對的對錯解方，只有相對較好或較差的解決方案。本書將其中一些問題納入危機和多重危機的範疇，並建議透過危機的視角來分析它們。此外，本書透過涵蓋世界各地的危機來提供全球視角，並廣泛且豐富地呈現了來自美國、德國、愛爾蘭、英國、荷蘭、迦納、韓國、南非、哥倫比亞、薩爾瓦多、厄瓜多、阿根廷和墨西哥，以及模里西斯、留尼旺島和馬達加斯加等島嶼的案例。在方法論上，本書採用了質性、量化和混合方法研究，包括單一案例研究、跨多國比較分析和多州調查。"
   },
   {
-   "doi": "10.1111/puar.70177",
-   "title": "Consolidating Liberal Democracy From Within A Theory of Public Institutional Leadership",
-   "abstract": "Recent developments in also established democracies have made clear that public administration and management research alike have neglected giving scholarly attention to public organizations as institutions. Drawing upon research on leadership of institutions and leadership in public organizations we suggest a theory of public institutional leadership . Public institutional leadership reconnects public management with democracy by suggesting three central dimensions of leadership behaviors that instill and sustain liberal democratic values in public organizations. These behaviors include articulating and reaffirming democratic values through top‐down vision‐setting; building “character” bottom‐up through role modeling and fostering psychological safety to enable dialogue and deliberation around these values as well as demonstrating constrained responsiveness to political principals relative to those values enabled by the cultivation of bureaucratic autonomy. Although the necessity of such behaviors is made salient by rising populism and democratic backsliding, their relevance extends to public management situated in liberal democracies in general.",
-   "authors": [
-    "Sandra Groeneveld",
-    "Heidi Houlberg Salomonsen"
-   ],
-   "journal": "Public Administration Review",
-   "url": "https://doi.org/10.1111/puar.70177",
-   "date": "2026-08-01",
-   "first_seen": "2026-08-01",
-   "score": 4.0,
-   "matched": [
-    "bureaucra"
-   ],
-   "abstract_zh": "既有民主國家近來的發展清楚表明，公共行政與管理研究皆忽略了對作為制度的公共組織進行學術探討。本文綜合制度領導與公共組織中領導的研究，提出一套公共制度領導理論。公共制度領導藉由提出領導行為的三個核心面向，將公共管理與民主重新連結，這些行為旨在公共組織中灌輸並維繫自由民主價值。這些行為包括：透過由上而下的願景設定，闡明並重申民主價值；透過樹立榜樣並促進心理安全，由下而上地建立「品格」，以促成圍繞這些價值的對話與審議；以及藉由培養官僚自主性，展現相對於這些價值，對政治主事者受限的回應性。儘管這些行為的必要性因民粹主義興起與民主倒退而日益凸顯，但其適用性廣泛擴及自由民主國家中的公共管理。"
-  },
-  {
    "doi": "10.1080/14719037.2026.2708842",
    "title": "Reference points, negativity bias and citizens’ performance evaluations: a replication and extension",
    "abstract": "Experiments on how cognitive biases, such as social and historical reference points and negativity bias, shape citizens’ evaluations of government performance have produced mixed findings, which typically come from Western contexts and focus on single reference points. To address these gaps, we replicated (N = 3710) and extended (N = 2356) Olsen’s ‘Compared to what?’ to interactions between multiple social and historical reference points in Hong Kong. Very low baselines are found in the replication alongside trivial evidence for the importance of reference points in citizens’ performance evaluations and negativity bias. In the extension, we found that (1) when both social and historical reference points are presented to participants, they have stronger effects when negative information is provided and (2) the effects of combinations of historical and social reference points differ across policy domains. Though survey experiments can be noisy, the study demonstrates the value of replication to question the generalization of cognitive biases.",
@@ -1948,24 +1928,6 @@
     "diversity"
    ],
    "abstract_zh": "本研究探討在聯合國永續發展目標（SDGs）引入前後，永續人力資源管理（SHRM）如何被納入紐西蘭（Aotearoa/New Zealand）公部門的人力資源管理政策中。本研究採用對2010年至2021年間10個地方政府的人力資源管理政策進行縱貫性質性分析，探討永續性議題（涵蓋社會、經濟和環境面向）如何整合到公部門的人力資源管理中。研究結果顯示，永續性主要透過漸進式疊加到現有的人力資源管理框架中，而非透過轉型性變革，進入公部門的人力資源管理。在SDGs引入後，政策對公平性、多元性和福祉的關注有所增加；然而，更廣泛的社會正義承諾仍不均衡，而環境永續性則受到有限的關注。本研究將人力資源管理政策視為組織訊號，藉由揭示永續性優先事項如何在實施前被傳達，以及可能仍受制於法規遵循、效率、風險管理和組織績效等制度邏輯的限制，從而對公部門人力資源管理和永續人力資源管理學術領域做出貢獻。"
-  },
-  {
-   "doi": "10.1111/puar.70167",
-   "title": "Social Capital and Policy Compliance in a Polarized Democracy: A Necessary Condition Analysis of COVID Vaccination Rates Across US Counties",
-   "abstract": "Policy compliance, the extent to which citizens adhere to government policies, remains a central test of democratic governance, especially during the COVID‐19 pandemic in the United States. This study examines how distinct forms of social capital—relational, structural (bonding versus bridging), cognitive, and vertical linking—serve as critical preconditions for COVID‐19 vaccination uptake in 2021. Using necessary condition analysis (NCA), we uncover nuanced and context‐specific impacts of distinct social capital on policy compliance. NCA also identifies threshold levels of various social capital required to achieve specific vaccination outcomes, yielding actionable diagnostics for policymakers and administrators. Strategies to raise compliance must align with local social capital configurations, prioritizing bridging in Republican‐leaning counties and relational support and careful use of bridging in Democratic‐leaning counties. The study advances civil society research by pinpointing the civic preconditions under which democratic institutions can function effectively in a polarized environment.",
-   "authors": [
-    "Bin Chen",
-    "Zhiwei Zhang",
-    "Gao Liu",
-    "Kun Huang"
-   ],
-   "journal": "Public Administration Review",
-   "url": "https://doi.org/10.1111/puar.70167",
-   "date": "2026-08-01",
-   "first_seen": "2026-08-01",
-   "score": 2.0,
-   "matched": [],
-   "abstract_zh": "政策遵循，即公民遵守政府政策的程度，仍是民主治理的核心考驗，尤其是在美國的COVID-19疫情期間。本研究探討不同形式的社會資本——關係型、結構型（連結型與橋接型）、認知型和垂直連結型——如何作為2021年COVID-19疫苗接種率的關鍵先決條件。運用必要條件分析（NCA），我們揭示了不同社會資本對政策遵循的細緻入微且具脈絡特異性的影響。NCA也識別出實現特定疫苗接種成果所需的各種社會資本閾值水平，為政策制定者和行政人員提供具體可行的診斷。提高遵循度的策略必須與當地社會資本配置相符，在共和黨傾向縣優先考慮橋接型社會資本，而在民主黨傾向縣則優先考慮關係型支持和謹慎使用橋接型社會資本。本研究藉由精確指出在兩極分化環境中民主制度能夠有效運作的公民先決條件，從而推進了公民社會研究。"
   },
   {
    "doi": "10.1111/puar.70165",
