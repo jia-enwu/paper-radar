@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T01:10:05+00:00",
+ "updated": "2026-11-01T00:31:08+00:00",
  "papers": [
   {
    "doi": "10.1111/puar.70201",
@@ -1727,6 +1727,23 @@
    "abstract_zh": "人生唯一不變的就是變，而對於公共行政人員而言，因應危機與多重危機已成為常態。有效的危機管理現已成為公共管理者不可或缺的技能，因為即使是輕微的應變延遲、溝通失誤或技能不足，都可能導致生命或財產的損失。最近在美國公共行政學會（ASPA）會議上的學術討論指出，相對正常的時期是2019年，即COVID-19疫情爆發之前，並且對於生活是否能再次恢復正常感到懷疑。儘管對此可能存在不同觀點，但顯而易見的是，我們已無法回頭，且雖然危機的類型會改變，但它們將持續存在。因此，我們必須更好地規劃、準備並應對這些危機。《勞特利奇危機、多重危機與公共行政手冊》（Moloney 等人，2025年）匯集了來自世界各地關於危機的研究、評論、反思和全球視角。本書評首先概述了該書的內容，闡述其主要論點，討論其局限性，並評估其對公共行政學術研究與實踐的貢獻。儘管本書的構思可能源於全球疫情，但請勿誤解：本書並非完全圍繞COVID-19展開。本書以一個超出預期的廣泛危機定義作為開端。除了預期的自然災害，例如颶風、風暴、地震和野火之外，危機清單還包括勞動力老化、網路安全、債務、失業、犯罪率上升、飢餓、家庭暴力等等。這種擴展的視角既令人耳目一新又引人深思，因為其中許多持續且複雜的問題傳統上並未被歸類為危機。在公共行政領域，這些問題被稱為「棘手問題」（wicked problems）（Rittel 和 Webber，1973年），人們傾向於接受它們將持續存在，並且我們必須專注於管理而非解決它們，因為它們沒有絕對的對錯解方，只有相對較好或較差的解決方案。本書將其中一些問題納入危機和多重危機的範疇，並建議透過危機的視角來分析它們。此外，本書透過涵蓋世界各地的危機來提供全球視角，並廣泛且豐富地呈現了來自美國、德國、愛爾蘭、英國、荷蘭、迦納、韓國、南非、哥倫比亞、薩爾瓦多、厄瓜多、阿根廷和墨西哥，以及模里西斯、留尼旺島和馬達加斯加等島嶼的案例。在方法論上，本書採用了質性、量化和混合方法研究，包括單一案例研究、跨多國比較分析和多州調查。"
   },
   {
+   "doi": "10.1177/02750740261498857",
+   "title": "Public Participation as Administrative Practice: Evidence from Federal Entitlement Communities",
+   "abstract": "Public participation is widely recognized as an important component of democratic governance, yet empirical studies often evaluate participation by the methods employed rather than the institutional structures through which participation is organized within administrative processes. Drawing on an analysis of 289 local jurisdictions receiving federal block grants, this study examines participation as structured administrative practice rather than simply a collection of engagement methods. Using inductive analysis of Consolidated Plans, the study develops a typology of four participation structures: Minimal Compliance, Structured Consultation, Institutionalized Consultation, and Embedded Participation. The analysis identifies recurring patterns in how participation is institutionally organized and incorporated into planning and administrative decision-making processes. While jurisdictions frequently employ multiple participation methods beyond required public hearings, participation is most commonly structured through consultative arrangements rather than embedded forms of engagement. Participation structures are only modestly associated with population category, region, or administrative capacity, suggesting that variation reflects administrative choices in the design and implementation of participation processes. By shifting attention from participation methods to participation structures, the study provides a framework for understanding how local governments organize public participation in practice. More broadly, the findings suggest that participation is shaped not only by the engagement methods governments employ but also by the institutional arrangements through which participation is organized, highlighting participation as an administrative practice shaped by organizational design and discretion.",
+   "authors": [
+    "Anne R. Williamson"
+   ],
+   "journal": "The American Review of Public Administration",
+   "url": "https://doi.org/10.1177/02750740261498857",
+   "date": "2026-10-19",
+   "first_seen": "2026-10-20",
+   "score": 5.0,
+   "matched": [
+    "discretion"
+   ],
+   "abstract_zh": "公民參與被廣泛認可為民主治理的重要環節，然而實證研究往往根據所採用的方法來評估參與，而非其在行政程序中被組織的制度結構。本研究基於對289個接受聯邦區塊補助金的地方行政區的分析，將參與視為一種結構化的行政實踐，而非僅僅是各種參與方法的集合。透過對「綜合計畫」的歸納分析，本研究發展出四種參與結構的類型學：「最低限度合規」、「結構化諮詢」、「制度化諮詢」和「嵌入式參與」。"
+  },
+  {
    "doi": "10.1080/14719037.2026.2708842",
    "title": "Reference points, negativity bias and citizens’ performance evaluations: a replication and extension",
    "abstract": "Experiments on how cognitive biases, such as social and historical reference points and negativity bias, shape citizens’ evaluations of government performance have produced mixed findings, which typically come from Western contexts and focus on single reference points. To address these gaps, we replicated (N = 3710) and extended (N = 2356) Olsen’s ‘Compared to what?’ to interactions between multiple social and historical reference points in Hong Kong. Very low baselines are found in the replication alongside trivial evidence for the importance of reference points in citizens’ performance evaluations and negativity bias. In the extension, we found that (1) when both social and historical reference points are presented to participants, they have stronger effects when negative information is provided and (2) the effects of combinations of historical and social reference points differ across policy domains. Though survey experiments can be noisy, the study demonstrates the value of replication to question the generalization of cognitive biases.",
@@ -2557,6 +2574,19 @@
    "score": 2.0,
    "matched": [],
    "abstract_zh": "公共組織的有效管理需要及時應對新興風險，然而，將這些風險向上級呈報可能使營運經理在政治化的問責環境中面臨指責。本研究透過分析丹麥國防部兩項主要採購與維護專案相關的七年期間內提交的130份風險報告，探討公部門經理如何應對上述緊張關係。本研究採用溯因式質性研究方法，發展出一個包含四個階段的動態風險管理模型：(1) 風險作為營運考量，(2) 將風險轉化為組織問題，(3) 歸咎責任與問責，以及 (4) 啟動緩解與應對措施。我們發現風險與問責溝通是相互依存的過程，而非獨立的順序過程。營運經理試圖引起對新興風險的關注，同時規避潛在的指責，並顧及高層對公眾監督的顧慮。這種緊張關係導致僅在絕對必要時才呈報的壓力，而高層經理則經常推遲行動以避免政治曝光。這些做法導致專案延誤、未能符合規範以及嚴重的預算超支。本研究提出公部門風險管理的動態理論，並解釋了層級溝通實踐如何影響新興風險是否、何時以及如何被處理。"
+  },
+  {
+   "doi": "10.1093/jopart/muag035",
+   "title": "Correction: Institutional amnesia and public administration: does history repeat?",
+   "abstract": "",
+   "authors": [],
+   "journal": "Journal of Public Administration Research and Theory",
+   "url": "https://doi.org/10.1093/jopart/muag035",
+   "date": "2026-10-20",
+   "first_seen": "2026-11-01",
+   "score": 2.0,
+   "matched": [],
+   "abstract_zh": ""
   },
   {
    "doi": "10.1111/puar.70213",
@@ -3448,21 +3478,6 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "同理心在政策制定中是一個尚未充分探討的現象，它能影響政策的設計與執行方式。本研究透過訪談22位擔任多元政策導向職務的澳洲公務員，探討同理心在政策工作中的角色。本研究採用溯因法，歸納出公務員應用同理心的三個主要面向：理解公民的生活經驗以作為政策設計的依據；處理機關內部及跨機關的人際互動；以及挑戰既有假設與根深蒂固的世界觀。研究結果顯示，同理心作為一種意義建構的資源，協助公務員在複雜且模糊的政策情境中解讀資訊。"
-  },
-  {
-   "doi": "10.1177/02750740261498857",
-   "title": "Public Participation as Administrative Practice: Evidence from Federal Entitlement Communities",
-   "abstract": "Public participation is widely recognized as an important component of democratic governance, yet empirical studies often evaluate participation by the methods employed rather than the institutional structures through which participation is organized within administrative processes. Drawing on an analysis of 289 local jurisdictions receiving federal block grants, this study examines participation as structured administrative practice rather than simply a collection of engagement methods. Using inductive analysis of Consolidated Plans, the study develops a typology of four participation structures: Minimal Compliance, Structured Consultation, Institutionalized Consultation, and Embedded Participation.",
-   "authors": [
-    "Anne R. Williamson"
-   ],
-   "journal": "The American Review of Public Administration",
-   "url": "https://doi.org/10.1177/02750740261498857",
-   "date": "2026-10-19",
-   "first_seen": "2026-10-20",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "公民參與被廣泛認可為民主治理的重要環節，然而實證研究往往根據所採用的方法來評估參與，而非其在行政程序中被組織的制度結構。本研究基於對289個接受聯邦區塊補助金的地方行政區的分析，將參與視為一種結構化的行政實踐，而非僅僅是各種參與方法的集合。透過對「綜合計畫」的歸納分析，本研究發展出四種參與結構的類型學：「最低限度合規」、「結構化諮詢」、「制度化諮詢」和「嵌入式參與」。"
   },
   {
    "doi": "10.1080/14719037.2026.2749668",
