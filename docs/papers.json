@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T00:31:08+00:00",
+ "updated": "2026-11-02T01:05:42+00:00",
  "papers": [
   {
    "doi": "10.1111/puar.70201",
@@ -1945,38 +1945,6 @@
     "diversity"
    ],
    "abstract_zh": "本研究探討在聯合國永續發展目標（SDGs）引入前後，永續人力資源管理（SHRM）如何被納入紐西蘭（Aotearoa/New Zealand）公部門的人力資源管理政策中。本研究採用對2010年至2021年間10個地方政府的人力資源管理政策進行縱貫性質性分析，探討永續性議題（涵蓋社會、經濟和環境面向）如何整合到公部門的人力資源管理中。研究結果顯示，永續性主要透過漸進式疊加到現有的人力資源管理框架中，而非透過轉型性變革，進入公部門的人力資源管理。在SDGs引入後，政策對公平性、多元性和福祉的關注有所增加；然而，更廣泛的社會正義承諾仍不均衡，而環境永續性則受到有限的關注。本研究將人力資源管理政策視為組織訊號，藉由揭示永續性優先事項如何在實施前被傳達，以及可能仍受制於法規遵循、效率、風險管理和組織績效等制度邏輯的限制，從而對公部門人力資源管理和永續人力資源管理學術領域做出貢獻。"
-  },
-  {
-   "doi": "10.1111/puar.70165",
-   "title": "A Race to the Top: The Adoption of Net‐Zero City Pledges in Large US Cities",
-   "abstract": "Many cities have adopted net‐zero emission pledges, yet little is known about why these commitments emerge or how their determinants shift under changing policy environments. Using a panel of 148 large US cities from 2016 to 2022, this study applies the Political Market Framework and employs discrete‐time event‐history models to examine how policy demand, policy supply and institutional conditions shape adoption decisions. Results show that civic capacity, political ideology, and horizontal diffusion drive adoption in the full period, but their influence varies sharply across institutional contexts. During federal disengagement (2016–2018), cities with less population, strong vulnerability signals, supportive state policies, or fiscal cushioning through federal aid are more likely to adopt. When federal engagement returned (2019–2022), education, population size, and neighbor adoption emerged as significant correlates of net‐zero adoption. These findings extend the Political Market Framework by showing how federal contexts condition the adoption of ambitious climate commitments.",
-   "authors": [
-    "Mingrui Chen",
-    "Zhirong Jerry Zhao"
-   ],
-   "journal": "Public Administration Review",
-   "url": "https://doi.org/10.1111/puar.70165",
-   "date": "2026-08-03",
-   "first_seen": "2026-08-03",
-   "score": 2.0,
-   "matched": [],
-   "abstract_zh": "許多城市已採納淨零排放承諾，然而對於這些承諾為何出現，以及其決定因素在不斷變化的政策環境下如何轉變，卻鮮為人知。本研究利用2016年至2022年間148個美國大型城市的追蹤資料，應用政治市場框架並採用離散時間事件史模型，探討政策需求、政策供給和制度條件如何影響採納決策。結果顯示，在整個研究期間，公民能力、政治意識形態和水平擴散是驅動採納的因素，但其影響在不同制度背景下存在顯著差異。在聯邦政府不介入時期（2016-2018年），人口較少、具有強烈脆弱性訊號、擁有支持性州政策或透過聯邦援助獲得財政緩衝的城市，更傾向於採納。當聯邦政府重新介入後（2019-2022年），教育程度、人口規模和鄰近城市採納成為淨零採納的顯著相關因素。這些研究結果透過揭示聯邦背景如何制約雄心勃勃的氣候承諾之採納，進而拓展了政治市場框架。"
-  },
-  {
-   "doi": "10.1111/puar.70174",
-   "title": "Does Political Decoupling Through Fair Market Privatization Improve Managerial and Political Outcomes? Insights From Water Utility Sales",
-   "abstract": "Many U.S. municipalities face environmental service delivery challenges, including aging infrastructure and rising debt. In response, several states have adopted Fair Market Value (FMV) legislation, which aims to incentivize private firms to acquire and invest in municipal utilities—particularly in the water sector. However, the impacts of FMV privatization remain understudied. Guided by political decoupling theory, this study hypothesizes that FMV privatization improves drinking water utility management and local incumbent electoral outcomes. Using a difference‐in‐differences design, we analyze fifteen Illinois municipalities that sold their utilities after the state adopted FMV legislation relative to thirty‐four controls. Results suggest that FMV privatization improves personnel and technical management outcomes by reducing violations under the Safe Drinking Water Act but has no significant impact on incumbent vote share. These findings indicate that while FMV privatization may enhance utility management through political decoupling, its presumed political benefits warrant further investigation.",
-   "authors": [
-    "Jesse L. Barnes",
-    "Michael A. Powell"
-   ],
-   "journal": "Public Administration Review",
-   "url": "https://doi.org/10.1111/puar.70174",
-   "date": "2026-08-03",
-   "first_seen": "2026-08-03",
-   "score": 2.0,
-   "matched": [],
-   "abstract_zh": "許多美國地方政府面臨環境服務提供方面的挑戰，包括老舊基礎設施和不斷增加的債務。為此，數個州已採納公平市價 (FMV) 法規，旨在鼓勵私人企業收購並投資地方政府公用事業，特別是水務部門。然而，FMV 私有化的影響仍有待深入研究。本研究以政治脫鉤理論為指導，假設 FMV 私有化能改善飲用水公用事業管理和地方現任者的選舉結果。本研究採用雙重差分設計，分析了伊利諾州十五個在該州採納 FMV 法規後出售其公用事業的地方政府，並與三十四個對照組進行比較。結果顯示，FMV 私有化透過減少《安全飲用水法》下的違規行為，改善了人員和技術管理成效，但對現任者的得票率沒有顯著影響。這些發現表明，儘管 FMV 私有化可能透過政治脫鉤提升公用事業管理，但其預期的政治效益仍需進一步探討。"
   },
   {
    "doi": "10.1111/puar.70176",
