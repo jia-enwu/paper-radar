@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T01:05:42+00:00",
+ "updated": "2026-11-03T03:08:05+00:00",
  "papers": [
   {
    "doi": "10.1111/puar.70201",
@@ -386,6 +386,29 @@
     "turnover"
    ],
    "abstract_zh": "公部門組織在留任多元化員工方面面臨持續挑戰，因為系統性障礙持續塑造著女性和少數族裔員工的經驗。本研究檢視工作實務——特別是組織公平、管理支持和領導代表性——如何與公部門機構的離職意圖相關。本研究運用來自美國1,572名採購專業人員的調查數據，評估整體效應和次群體差異。結果顯示，管理支持與所有群體的離職意圖相關，而組織公平則與女性和少數族裔員工較低的離職意圖相關。相較之下，單獨的多元性和代表性並未降低離職意圖，且在某些情況下，與少數族裔員工較高的離職意圖相關。這些研究結果指出，若無公平且支持性的組織系統，單有代表性並不足以留任員工。本研究為公部門管理者提供實務建議，並有助於公共行政和人力資源管理領域持續的理論論述。"
+  },
+  {
+   "doi": "10.1093/jopart/muag040",
+   "title": "The Effect of Clients’ Financial Resources, Mental Health, and Motivation on Frontline Workers’ Burden Reduction and Prioritizations",
+   "abstract": "The street-level bureaucracy literature shows that frontline workers’ decisions about clients are shaped by perceptions of deservingness based on clients’ demographic characteristics and behavioral conduct. Yet, we know little about whether frontline workers also act on clients’ financial resources and mental health, despite the administrative burden literature identifying these two factors as central to how citizens experience compliance demands. We contribute to both literatures by developing and testing preregistered hypotheses that examine how information about clients’ financial resources and mental health shapes frontline workers’ burden reduction and client prioritization. To do this, we run a large-scale vignette experiment with 775 caseworkers across 39 Danish unemployment agencies, manipulating client age, financial situation, mental health, and motivation but holding gender constant (all clients were male). We find strong evidence that caseworkers reduce burdens and prioritize clients with mental health issues and–consistent with prior work–clients displaying high motivation, alongside some evidence for clients struggling with financial hardship. Importantly, mental health appears more consequential than motivation and financial resources. Contrary to our preregistered expectation, clients with mental health issues received the most support when they also displayed low as opposed to high motivation. Rather than indicating that frontline workers reward low motivation, this pattern most likely reflects that caseworkers interpret low motivation as a symptom of the underlying condition, and thus as a signal of greater need. Our findings show how frontline discretion can operate as a redistributive mechanism that channels support toward clients signaling the greatest need.",
+   "authors": [
+    "Niels Bjørn Grund Petersen",
+    "Jonas Krogh Madsen"
+   ],
+   "journal": "Journal of Public Administration Research and Theory",
+   "url": "https://doi.org/10.1093/jopart/muag040",
+   "date": "2026-10-31",
+   "first_seen": "2026-11-03",
+   "score": 32.0,
+   "matched": [
+    "gender",
+    "discretion",
+    "street-level",
+    "frontline worker",
+    "bureaucra",
+    "vignette"
+   ],
+   "abstract_zh": "街頭官僚體制相關文獻指出，第一線工作者對服務對象的決策，受到其基於服務對象人口學特徵與行為表現所形成的應得性認知所形塑。然而，對於第一線工作者是否也會考量服務對象的財務資源和心理健康狀況，我們知之甚少，儘管行政負擔相關文獻已將這兩個因素視為公民經歷法規遵循要求時的核心考量。本研究透過發展並檢驗預先註冊的假設，探討有關服務對象財務資源和心理健康的資訊如何形塑第一線工作者的負擔減輕與服務對象優先排序，藉此對上述兩類文獻做出貢獻。為此，我們針對來自39個丹麥失業機構的775名個案管理師，進行了一項大規模的個案情境實驗，操弄服務對象的年齡、財務狀況、心理健康和動機，但性別保持不變 (所有服務對象均為男性)。我們發現有力的證據顯示，個案管理師會減輕有心理健康問題的服務對象的負擔並給予優先處理；且—與先前研究一致—也會優先處理展現高度動機的服務對象，同時也發現一些證據顯示他們會優先處理面臨財務困難的服務對象。重要的是，心理健康似乎比動機和財務資源更具影響力。與我們預先註冊的預期相反，有心理健康問題的服務對象在展現低動機而非高動機時，獲得了最多的支持。這並非表示第一線工作者獎勵低動機，這種模式最有可能反映出個案管理師將低動機解讀為潛在狀況的症狀，進而視為更大需求的訊號。我們的研究結果顯示，第一線裁量權可以作為一種再分配機制運作，將支持導向那些發出最大需求訊號的服務對象。"
   },
   {
    "doi": "10.1111/padm.70078",
@@ -1387,6 +1410,23 @@
     "corruption"
    ],
    "abstract_zh": "本研究探討歲入自主權與地方政府已記錄的貪腐風險之間的關聯，並區分自主財源的稅收與非稅收收入。本研究借鑒公共行政分權理論，對義大利中大型地方政府進行中觀層次分析，並採用源自法定反貪腐報告的事件型指標。實證策略結合了動態相關隨機效應羅吉特、動態隨機效應普羅比特以及固定效應羅吉特模型，並輔以模擬低報情境的敏感性分析。結果顯示，較高程度的稅收與非稅收歲入自主權皆與已記錄的貪腐風險呈負相關。稅收自主權在政治競爭較高時呈現更強的關聯性，而非稅收歲入的模式則更符合服務導向的回應邏輯。這些在義大利地方政府脈絡下觀察到的發現指出，歲入自主權並非一項統一的反貪腐保障，而是一種制度特徵，其重要性取決於歲入組成、問責條件、地方政府能力以及報告慣例。"
+  },
+  {
+   "doi": "10.1080/14719037.2026.2756938",
+   "title": "Organizational sensemaking and AI adoption in U.S. local governments",
+   "abstract": "",
+   "authors": [
+    "Jihoon Jeong"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2756938",
+   "date": "2026-11-02",
+   "first_seen": "2026-11-03",
+   "score": 10.0,
+   "matched": [
+    "ai"
+   ],
+   "abstract_zh": ""
   },
   {
    "doi": "10.1080/14719037.2026.2720755",
@@ -2527,11 +2567,11 @@
   },
   {
    "doi": "10.1093/jopart/muag031",
-   "title": "Balancing risk communication and accountability concerns in risk management: A study of major public project investments",
+   "title": "Balancing risk communication and accountability concerns in risk management: a study of major public project investments",
    "abstract": "Effective administration of public organizations requires timely responses to emerging risks, yet communicating those risks up the hierarchy can expose operational managers to blame in politicized accountability environments. This study examines how public managers navigated that tension in an analysis of 130 risk reports filed over a seven-year period associated with two major procurement and maintenance projects in the Danish Defence. Using an abductive qualitative approach, we develop a dynamic model of risk management with four phases: (1) risk as an operational concern, (2) turning risk into an organizational problem, (3) assigning blame and accountability, and (4) initiating mitigation and response. We find that risk and accountability communication are interdependent processes rather than independent sequential processes. Operational managers attempt to raise awareness of emerging risks while simultaneously deflecting potential blame and catering to higher-level concerns about public scrutiny. This tension generates pressure to only report when it is absolutely necessary, while higher-level managers often postpone action to avoid political exposure. These practices contribute to delays, projects not meeting specifications, and significant budget overruns. The study advances a dynamic theory of public sector risk management and explains how hierarchical communication practices influence whether, when, and how emerging risks are addressed.",
    "authors": [
     "Sof Thrane",
-    "Ulrik Christiansen",
+    "Ulrik Hartmeyer Christiansen",
     "Torben Juul Andersen",
     "Giulio Zichella"
    ],
@@ -3479,6 +3519,24 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "協同治理的績效衡量在實務和理論層面都帶來了重大挑戰。為了精進以實證應用為基礎的理論，我們運用 Emerson 和 Nabatchi 的「生產力績效矩陣」及其「協同治理整合架構」，檢視了來自三個歐洲城市、為期五年的縱貫性比較個案研究中協同治理體制 (CGRs) 的資料。本研究發現，「生產力績效矩陣」(PPM) 的指標與在所研究的 CGRs 中觀察到的實際績效成果具有顯著相關性，儘管需要部分修正。建議的修正包括：在網絡中心評估中，移除「參與組織」作為獨立分析層次；將公平性重新概念化為「感知公平性」；區分內部與外部合法性；以及將「永續性」轉變為「系統性變革」作為適應性的績效指標。績效指標的精進，以及 PPM 與整合架構之間概念連貫性的提升，是本研究的主要貢獻。"
+  },
+  {
+   "doi": "10.1080/14719037.2026.2756935",
+   "title": "Resolving institutional fragmentation in a multilevel governance system: configurational logics of social health insurance integration in China",
+   "abstract": "",
+   "authors": [
+    "Yingying Ma",
+    "Alex Jingwei He",
+    "Xin Zeng",
+    "Yumeng Fan"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2756935",
+   "date": "2026-11-02",
+   "first_seen": "2026-11-03",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
   }
  ]
 }
