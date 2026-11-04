@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T03:08:05+00:00",
+ "updated": "2026-11-04T01:45:39+00:00",
  "papers": [
   {
    "doi": "10.1111/puar.70201",
@@ -280,6 +280,24 @@
    "abstract_zh": "代表性官僚體制研究經常將人口統計學上的代表性與有利的結果直接連結，事後推斷積極代表，卻鮮少將此類關聯所預設的行為成分與代表性變數本身區分開來。本研究旨在彌補此一落差，借鑒領導力文獻中性別差異的觀點，將支持型領導操作化為與女性主管代表性相關的一種行為成分，並檢視被解釋為代表性效應的構成要素。以美國聯邦機構的性別薪資不平等為實證背景，研究結果顯示，雖然女性主管代表性與支持型領導在單獨檢視時，各自都與非主管職薪資呈正相關，但一旦兩者同時納入模型，歸因於代表性的關聯便失去統計顯著性。這些發現並非暗示代表性不重要；相反地，它們指出先前的代表性效應可能部分反映了尚未被單獨識別的行為成分。"
   },
   {
+   "doi": "10.1080/14719037.2026.2756938",
+   "title": "Organizational sensemaking and AI adoption in U.S. local governments",
+   "abstract": "Artificial intelligence (AI) is rapidly entering public administration, yet adoption across U.S. local governments remains uneven. Existing explanations emphasize structural capacity, expecting internal barriers to constrain adoption. Drawing on Weick’s sensemaking perspective as an interpretive lens, this study examines AI adoption as shaped by how organizations interpret technological opportunity and enact deliberate responses. Using the 2024 ICMA Artificial Intelligence Survey, this study tests whether internal barriers, AI potential, and organizational initiative explain variation in adoption. Findings show that internal barriers are not significantly associated with adoption, whereas AI potential and organizational initiative are positively associated with it. These findings suggest that in equivocal technological contexts, structural conditions operate through interpretive processes, and that what organizations possess shapes adoption through how they make sense of emerging technologies and mobilize action. This study demonstrates the analytical value of sensemaking as a framework for understanding public sector responses to technological change.",
+   "authors": [
+    "Jihoon Jeong"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2756938",
+   "date": "2026-11-02",
+   "first_seen": "2026-11-03",
+   "score": 37.0,
+   "matched": [
+    "artificial intelligence",
+    "ai"
+   ],
+   "abstract_zh": "人工智慧 (AI) 正快速導入公共行政領域，然而在美國地方政府間的採用情況仍不均。既有解釋多強調結構能力，並預期內部障礙會限制採用。本研究借鑒 Weick 的意義建構觀點作為詮釋視角，檢視組織如何詮釋技術機會並採取審慎回應，進而形塑 AI 的採用。本研究利用 2024 年 ICMA 人工智慧調查，檢驗內部障礙、AI 潛力與組織主動性是否能解釋採用上的差異。研究結果顯示，內部障礙與採用並無顯著關聯，而 AI 潛力與組織主動性則與採用呈正向關聯。這些發現指出，在模糊不清的技術情境中，結構條件是透過詮釋過程發揮作用；組織所擁有的資源，則透過其對新興技術的意義建構與動員行動來形塑採用。本研究展現了意義建構作為理解公部門對技術變革回應的分析框架價值。"
+  },
+  {
    "doi": "10.1177/02750740261481775",
    "title": "Why Government Turns to AI – What Citizens Believe and How it Matters. Survey Evidence from Germany and the Netherlands",
    "abstract": "What do citizens believe to be guiding motives behind the increasing adoption of artificial intelligence (AI) in government, and how are these beliefs related to AI acceptance? Drawing on moral judgment theory, the present article argues that the presumed intentions behind AI use matter for citizens’ evaluations of this use. It studies how citizens’ beliefs about public values motives are associated with AI acceptance across four types of AI use that involve different citizen-state relationships. The analysis uses survey data from 2072 respondents in Germany and the Netherlands and finds that that acceptance of AI use hinges on whether citizens believe that government AI adoption is guided by performance-related values – efficiency, effectiveness, productivity. Beliefs about procedure-related public values motives – impartiality, equal treatment, transparency – do not matter. The findings have implications for how to engender public support for government AI use and for understanding imbalances in public values driving AI adoption.",
@@ -455,28 +473,6 @@
     "bureaucra"
    ],
    "abstract_zh": "本研究基於對中國上海87位專責社會救助服務的第一線工作者的深度訪談，旨在探討數位化如何重塑街頭層級官僚體制。整合角色理論與工作塑造理論，我們發現數位平台可能產生多種形式的角色壓力：冗餘勞動與碎片化系統導致角色負荷過重；演算法規則與服務對象生活處境之間的不一致引發角色衝突；以及情感耗竭與職業認同的侵蝕導致角色異化。為確保有效的基層運作，第一線工作者主動從事任務塑造、關係塑造與認知塑造，儘管自主性受限，仍維持專業韌性。本研究批判數位系統設計忽視了第一線的隱性知識，並指出街頭層級官僚體制中的數位化是一個持續的社會技術調適過程。研究結果顯示，數位福利改革中的設計與現實落差，可透過系統性地納入第一線知識來彌合。"
-  },
-  {
-   "doi": "10.1093/jopart/muag020",
-   "title": "Large language models and conversational counter-arguments to antipublic sector bias",
-   "abstract": "Can a good argument change an individual’s mind? In three preregistered experiments, we explore this question in the domain of public sector organizational performance. We observe human subjects as they engage in conversations with a generative artificial intelligence programmed to argue in one of seven distinct “styles,” including a confrontational challenger style, a didactic style, and a sycophantic style. We develop a theory of effective argumentation predicting that conversational styles which are pleasant and engaging will be more persuasive than styles which are unpleasant or unstimulating. Contrary to this prediction, we find that conversational styles which challenge subjects’ negative views of government agencies produce significant positive attitude change, while sycophantic styles that indulge those views do not. Troublingly, subjects find the sycophantic styles more enjoyable, less frustrating, and more credible than the challenger styles. This dissociation between user experience and persuasive outcome—what we call “grudging persuasion”—suggests that attitude change does not require a pleasant conversational experience, and that the styles subjects enjoy most may be precisely the ones least likely to move them. Our findings point to a potentially dark side of large language model-based persuasion: sycophantic styles that users find most appealing are the least effective at correcting misinformed views.",
-   "authors": [
-    "John D Marvel",
-    "Sheeling Neo",
-    "Rachel Cho",
-    "Sangwon Ju"
-   ],
-   "journal": "Journal of Public Administration Research and Theory",
-   "url": "https://doi.org/10.1093/jopart/muag020",
-   "date": "2026-08-04",
-   "first_seen": "2026-08-05",
-   "score": 30.0,
-   "matched": [
-    "artificial intelligence",
-    "large language model",
-    "generative"
-   ],
-   "abstract_zh": "好的論證能否改變個人的想法？在三項預先註冊的實驗中，我們在公部門組織績效的領域中探討了這個問題。我們觀察受試者與一個被設定以七種不同「風格」進行論證的生成式人工智慧（AI）進行對話，這些風格包括對抗性挑戰者風格、教導式風格和奉承式風格。我們發展了一套有效論證的理論，預測令人愉悅且引人入勝的對話風格將比不愉快或缺乏刺激的風格更具說服力。與此預測相反的是，我們發現挑戰受試者對政府機構負面看法的對話風格能產生顯著的正面態度改變，而迎合這些看法的奉承式風格則否。令人不安的是，受試者認為奉承式風格比挑戰者風格更令人愉快、較不令人沮喪且更具可信度。這種使用者體驗與說服結果之間的分離——我們稱之為「勉強的說服」——表明態度改變不一定需要愉快的對話體驗，且受試者最喜歡的風格可能恰恰是最不可能說服他們的風格。我們的研究結果指出基於大型語言模型（LLM）說服的一個潛在陰暗面：使用者認為最具吸引力的奉承式風格，在糾正錯誤資訊方面最不有效。"
   },
   {
    "doi": "10.1111/padm.70091",
@@ -1410,23 +1406,6 @@
     "corruption"
    ],
    "abstract_zh": "本研究探討歲入自主權與地方政府已記錄的貪腐風險之間的關聯，並區分自主財源的稅收與非稅收收入。本研究借鑒公共行政分權理論，對義大利中大型地方政府進行中觀層次分析，並採用源自法定反貪腐報告的事件型指標。實證策略結合了動態相關隨機效應羅吉特、動態隨機效應普羅比特以及固定效應羅吉特模型，並輔以模擬低報情境的敏感性分析。結果顯示，較高程度的稅收與非稅收歲入自主權皆與已記錄的貪腐風險呈負相關。稅收自主權在政治競爭較高時呈現更強的關聯性，而非稅收歲入的模式則更符合服務導向的回應邏輯。這些在義大利地方政府脈絡下觀察到的發現指出，歲入自主權並非一項統一的反貪腐保障，而是一種制度特徵，其重要性取決於歲入組成、問責條件、地方政府能力以及報告慣例。"
-  },
-  {
-   "doi": "10.1080/14719037.2026.2756938",
-   "title": "Organizational sensemaking and AI adoption in U.S. local governments",
-   "abstract": "",
-   "authors": [
-    "Jihoon Jeong"
-   ],
-   "journal": "Public Management Review",
-   "url": "https://doi.org/10.1080/14719037.2026.2756938",
-   "date": "2026-11-02",
-   "first_seen": "2026-11-03",
-   "score": 10.0,
-   "matched": [
-    "ai"
-   ],
-   "abstract_zh": ""
   },
   {
    "doi": "10.1080/14719037.2026.2720755",
@@ -3523,7 +3502,7 @@
   {
    "doi": "10.1080/14719037.2026.2756935",
    "title": "Resolving institutional fragmentation in a multilevel governance system: configurational logics of social health insurance integration in China",
-   "abstract": "",
+   "abstract": "Institutional fragmentation poses a significant challenge to effective social governance, particularly in the health sector. Prevailing literature often examines the drivers of integration – such as fiscal capacity and political will – in a linear, isolated manner, failing to capture their complex interplay. This study argues for a configurational approach to understanding institutional integration. Using the integration of China’s fragmented social health insurance system as a critical case, we employ fuzzy-set Qualitative Comparative Analysis (fsQCA) to analyse a large sample of 251 cities in their varying integration pathways. The analytical framework captures capacity and incentives as critical factors for institutional integration. The QCA analysis identifies four distinct configurations: the Capacitor, the Stabilizer, the Risk Manager, and the Negotiator. These findings suggest multiple equifinal pathways to successful institutional integration, highlighting the crucial conjunctural effects of economic strength, administrative status, coordinative capacity, and financial conditions.",
    "authors": [
     "Yingying Ma",
     "Alex Jingwei He",
@@ -3534,6 +3513,42 @@
    "url": "https://doi.org/10.1080/14719037.2026.2756935",
    "date": "2026-11-02",
    "first_seen": "2026-11-03",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": "制度零碎化對有效的社會治理構成重大挑戰，尤其是在衛生部門。現有文獻往往以線性、孤立的方式檢視整合的驅動因素——例如財政能力和政治意願——未能捕捉其複雜的交互作用。本研究主張採用組態方法來理解制度整合。本研究以中國零碎化的社會醫療保險系統整合為關鍵案例，採用模糊集質性比較分析 (fsQCA) 來分析251個城市的不同整合路徑。本分析框架將能力和誘因視為制度整合的關鍵因素。QCA分析識別出四種獨特的組態：能力積累型、穩定型、風險管理型和協商型。這些發現表明，實現成功的制度整合存在多重殊途同歸的路徑，突顯了經濟實力、行政地位、協調能力和財政狀況等關鍵結合效應的重要性。"
+  },
+  {
+   "doi": "10.1080/14719037.2026.2752047",
+   "title": "The virtue paradox: how perceived organizational social responsibility and organizational shame fuel resistance to change among motivated public servants",
+   "abstract": "",
+   "authors": [
+    "Marc Ohana",
+    "Mathieu Molines",
+    "Elodie Arnéguy",
+    "Aurore Darmandieu",
+    "David Carassus"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2752047",
+   "date": "2026-11-03",
+   "first_seen": "2026-11-04",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.1080/14719037.2026.2752994",
+   "title": "Towards more impactful co-design: insights from a systematic review of food loss and waste solutions",
+   "abstract": "",
+   "authors": [
+    "Yaerin Park",
+    "Karol Olejniczak",
+    "Aidan Hudson-Lapore"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2752994",
+   "date": "2026-11-03",
+   "first_seen": "2026-11-04",
    "score": 0.0,
    "matched": [],
    "abstract_zh": ""
