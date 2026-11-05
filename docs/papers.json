@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T01:45:39+00:00",
+ "updated": "2026-11-05T01:53:41+00:00",
  "papers": [
   {
    "doi": "10.1111/puar.70201",
@@ -672,6 +672,25 @@
     "bureaucra"
    ],
    "abstract_zh": "在工作中，第一線官僚如何因應急性且危及生命的經歷？此類暴露又會產生哪些後果？本研究根據對在2023年10月7日以色列遇襲事件中執勤的30名以色列警察進行的深度訪談，識別出兩種使他們在威脅下仍能執行任務的因應機制：一是「自動駕駛模式」，意指依賴本能與訓練；二是「抽離」，意指壓抑情緒以完成任務。襲擊事件後，這些警察表示對國家機構、其所屬組織及民眾的信任度均有所下降。為此，他們主要依賴曾有類似經歷的同事所提供的同儕支持。這些經歷改變了他們的專業行為，使他們在面對民眾時更加謹慎。本研究透過揭示暴露於急性且危及生命的經歷如何形塑第一線官僚的因應機制，以及這些機制如何在危機期間與之後支持組織韌性，從而對公共管理領域有所貢獻。內容警語：本文包含對戰區的寫實描述。"
+  },
+  {
+   "doi": "10.1093/jopart/muag037",
+   "title": "Toward an “Identity Turn” in Public Service Motivation Theory: A Problematizing Review and Research Agenda",
+   "abstract": "Since its inception, Public Service Motivation (PSM) has been recognized as a key driver of behavior in public institutions. Despite its prominence, skepticism has emerged. In response, research has primarily focused on empirical analysis and measurement refinement rather than on conceptual development. This conceptual path dependency has become problematic as mixed empirical results increasingly challenge core theoretical propositions of PSM theory. We argue that one potential cause lies in a dominant assumption shaping the field: its positioning within motivation theory. To address this, we conducted a problematizing review across concepts and disciplines, comparing how PSM is understood in Public Administration with related concepts–such as motivation, altruism, and identity–in Management, Psychology, Sociology, and Economics. Based on this analysis, we propose a novel theoretical framework that reconceptualizes PSM as a social identity. In doing so, we outline a research agenda that (i) revises PSM’s core conceptual features and develops a new measurement approach informed by identity theory; (ii) introduces new ways of understanding PSM's functioning through identity work theory; and (iii) situates PSM theory within the broader debate on the “identity turn” in motivation research, highlighting its potential contribution to this multidisciplinary discourse.",
+   "authors": [
+    "Lorenza Micacchi",
+    "Adrian Ritz"
+   ],
+   "journal": "Journal of Public Administration Research and Theory",
+   "url": "https://doi.org/10.1093/jopart/muag037",
+   "date": "2026-11-03",
+   "first_seen": "2026-11-05",
+   "score": 23.0,
+   "matched": [
+    "public service motivation",
+    "psm"
+   ],
+   "abstract_zh": "自問世以來，公共服務動機（PSM）一直被視為公共部門行為的關鍵驅動力。儘管其備受關注，質疑聲浪也隨之浮現。為此，研究主要著重於實證分析和衡量方法精進，而非概念發展。這種概念路徑依賴已產生問題，因為混雜的實證結果日益挑戰公共服務動機理論的核心理論命題。我們認為，其中一個潛在原因在於塑造該領域的一個主導假設：將其定位於動機理論中。為了解決此問題，我們進行了一項跨概念與學科的問題化回顧，比較公共行政學中如何理解公共服務動機，以及管理學、心理學、社會學和經濟學中相關概念（例如動機、利他主義和認同）的理解方式。基於此分析，我們提出一個新穎的理論框架，將公共服務動機重新概念化為一種社會認同。藉此，我們勾勒出一個研究議程，其內容包括：(一) 修正公共服務動機的核心概念特徵，並發展一種受認同理論啟發的新衡量方法；(二) 透過認同工作理論引入理解公共服務動機運作的新方式；以及 (三) 將公共服務動機理論置於動機研究中「認同轉向」的更廣泛辯論中，突顯其對此跨學科論述的潛在貢獻。"
   },
   {
    "doi": "10.1111/padm.70077",
@@ -1406,6 +1425,47 @@
     "corruption"
    ],
    "abstract_zh": "本研究探討歲入自主權與地方政府已記錄的貪腐風險之間的關聯，並區分自主財源的稅收與非稅收收入。本研究借鑒公共行政分權理論，對義大利中大型地方政府進行中觀層次分析，並採用源自法定反貪腐報告的事件型指標。實證策略結合了動態相關隨機效應羅吉特、動態隨機效應普羅比特以及固定效應羅吉特模型，並輔以模擬低報情境的敏感性分析。結果顯示，較高程度的稅收與非稅收歲入自主權皆與已記錄的貪腐風險呈負相關。稅收自主權在政治競爭較高時呈現更強的關聯性，而非稅收歲入的模式則更符合服務導向的回應邏輯。這些在義大利地方政府脈絡下觀察到的發現指出，歲入自主權並非一項統一的反貪腐保障，而是一種制度特徵，其重要性取決於歲入組成、問責條件、地方政府能力以及報告慣例。"
+  },
+  {
+   "doi": "10.1080/14719037.2026.2752047",
+   "title": "The virtue paradox: how perceived organizational social responsibility and organizational shame fuel resistance to change among motivated public servants",
+   "abstract": "Public organizations increasingly adopt corporate social responsibility frameworks, yet little is known about how employees react emotionally when their organization falls short of its professed standards. Drawing on appraisal theories of moral emotion, we examine whether organizational shame links perceived organizational social responsibility (OSR) to resistance to change, and whether public service motivation (PSM) moderates this process. Three-wave data from 113 French local government employees show that lower perceived OSR is associated with greater shame, especially among high-PSM employees, and that shame relates to greater resistance to change. Paradoxically, responsibility initiatives may fuel resistance among the most committed public servants.",
+   "authors": [
+    "Marc Ohana",
+    "Mathieu Molines",
+    "Elodie Arnéguy",
+    "Aurore Darmandieu",
+    "David Carassus"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2752047",
+   "date": "2026-11-03",
+   "first_seen": "2026-11-04",
+   "score": 10.0,
+   "matched": [
+    "public service motivation",
+    "psm"
+   ],
+   "abstract_zh": "公部門組織日益採行企業社會責任架構，然而，對於員工在組織未能達到其宣稱標準時的情緒反應，卻鮮為人知。借鑒道德情感評估理論，我們檢視組織羞恥感是否將組織社會責任知覺 (OSR) 連結至變革阻力，以及公共服務動機 (PSM) 是否調節此一過程。來自113名法國地方政府員工的三波次資料顯示，較低的組織社會責任知覺與更高的羞恥感相關聯，尤其是在高公共服務動機 (PSM) 的員工中，且羞恥感與更大的變革阻力相關。弔詭的是，責任倡議可能會助長最有承諾的公務員的阻力。"
+  },
+  {
+   "doi": "10.1080/10967494.2026.2716261",
+   "title": "Safeguarding online panel surveys from LLM pollution: evidence from Canadian federal survey contracts",
+   "abstract": "",
+   "authors": [
+    "Geneviève Morin",
+    "Étienne Charbonneau",
+    "Daniel Bromberg"
+   ],
+   "journal": "International Public Management Journal",
+   "url": "https://doi.org/10.1080/10967494.2026.2716261",
+   "date": "2026-11-04",
+   "first_seen": "2026-11-05",
+   "score": 10.0,
+   "matched": [
+    "llm"
+   ],
+   "abstract_zh": ""
   },
   {
    "doi": "10.1080/14719037.2026.2720755",
@@ -3518,28 +3578,9 @@
    "abstract_zh": "制度零碎化對有效的社會治理構成重大挑戰，尤其是在衛生部門。現有文獻往往以線性、孤立的方式檢視整合的驅動因素——例如財政能力和政治意願——未能捕捉其複雜的交互作用。本研究主張採用組態方法來理解制度整合。本研究以中國零碎化的社會醫療保險系統整合為關鍵案例，採用模糊集質性比較分析 (fsQCA) 來分析251個城市的不同整合路徑。本分析框架將能力和誘因視為制度整合的關鍵因素。QCA分析識別出四種獨特的組態：能力積累型、穩定型、風險管理型和協商型。這些發現表明，實現成功的制度整合存在多重殊途同歸的路徑，突顯了經濟實力、行政地位、協調能力和財政狀況等關鍵結合效應的重要性。"
   },
   {
-   "doi": "10.1080/14719037.2026.2752047",
-   "title": "The virtue paradox: how perceived organizational social responsibility and organizational shame fuel resistance to change among motivated public servants",
-   "abstract": "",
-   "authors": [
-    "Marc Ohana",
-    "Mathieu Molines",
-    "Elodie Arnéguy",
-    "Aurore Darmandieu",
-    "David Carassus"
-   ],
-   "journal": "Public Management Review",
-   "url": "https://doi.org/10.1080/14719037.2026.2752047",
-   "date": "2026-11-03",
-   "first_seen": "2026-11-04",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": ""
-  },
-  {
    "doi": "10.1080/14719037.2026.2752994",
    "title": "Towards more impactful co-design: insights from a systematic review of food loss and waste solutions",
-   "abstract": "",
+   "abstract": "Co-design, as a component of broader co-production processes, has gained attention in public policy as a means of addressing complex policy challenges. Yet comparative research remains limited on what occurs under participatory and design-led approaches labelled co-design, what policy solutions these processes produce, and how they are expected to generate change. We address this gap through a PRISMA-guided systematic literature review of 38 studies on food loss and waste (FLW). Findings indicate that co-design labels inconsistently reflect participatory and iterative design practices; creative engagement methods remain underutilized. Co-designed outputs remain at ideation and prototyping stages, while interventions often lack a clear theory of change. We introduce a coding scheme to document co-design implementation and propose CIMO (Context, Intervention, Mechanism, Outcome) as an ex ante evaluation heuristic to articulate the theory of change of co-designed interventions. We conclude with a research agenda emphasizing enhanced reporting practice, theory-building, and implementation-focused research.",
    "authors": [
     "Yaerin Park",
     "Karol Olejniczak",
@@ -3551,7 +3592,7 @@
    "first_seen": "2026-11-04",
    "score": 0.0,
    "matched": [],
-   "abstract_zh": ""
+   "abstract_zh": "協同設計作為更廣泛的協同產製過程的一個組成部分，在公共政策領域受到關注，被視為解決複雜政策挑戰的一種手段。然而，關於被標示為協同設計的參與式和設計導向方法下其運作實況為何、這些過程產生了哪些政策解決方案，以及它們預期如何產生變革的比較研究仍然有限。我們透過一項依循PRISMA指引，針對糧食損耗與浪費（FLW）的38項研究進行的系統性文獻回顧，來彌補此一研究空白。研究結果顯示，協同設計的標籤未能一致地反映參與式和迭代設計實踐；創意參與方法仍未充分利用。協同設計的產出仍停留在構思和原型階段，而干預措施則常缺乏明確的變革理論。我們提出一套編碼方案用以記錄協同設計的實施情況，並提出CIMO（情境、干預、機制、結果）作為一種事前評估啟發法，以闡明協同設計干預措施的變革理論。最後，我們提出一項研究議程，著重於強化報告實踐、理論建構以及以實施為重點的研究。"
   }
  ]
 }
