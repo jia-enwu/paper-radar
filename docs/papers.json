@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T01:53:41+00:00",
+ "updated": "2026-11-06T01:52:37+00:00",
  "papers": [
   {
    "doi": "10.1111/puar.70201",
@@ -1700,6 +1700,25 @@
    "abstract_zh": "行政改革常旨在透過改變官僚或專業專長來提升績效。然而，單憑技術技能可能無法打破造成社會群體間不平等結果的力量。我們認為，系統性偏見影響了專業化和自由裁量判斷，限制了專長替代改革在減少種族差異方面的能力，即使這些改革改善了平均結果。我們透過2018年達拉斯的一項改革來驗證此論點，該改革部署了協同應變團隊，將警官與臨床醫師和社工配對，以處理心理健康求助電話。針對不同分區的雙重差分分析發現，精神病強制留置和逮捕顯著減少，但這些成效主要集中在白人男性公民身上；非裔男性被捕人數則顯著增加。一項補充性的事件層級分析，針對強制性結果的條件機率，指出異質性影響的不同模式：白人男性在改革後精神病強制留置的機率更高，而非裔女性和拉丁裔男性則經歷較低的機率。這兩組研究結果為行政改革的學術研究提供了新見解，並對此類計畫的影響及其評估方式具有實務意涵。"
   },
   {
+   "doi": "10.1111/puar.70234",
+   "title": "Digging Into the Subsoil: Considering and Theorizing Human Services Delivery at the Sub‐Micro‐Level of the Public Service Ecosystem",
+   "abstract": "Public services are often delivered in partnership with families and communities, yet these relationships receive limited attention within public service ecosystem (PSE) theory. Responding to call to develop the sub‐micro‐level of the PSE, we introduce the concept of subsoil sensitivity to foreground the family and community ecosystems that underpin public service value creation. These informal systems are active sites of value creation and destruction with sensitivities arising from their alignment or misalignment with public services. We propose legislative and policy nodes as connectors that translate macrolevel policy into microlevel practice. Drawing on child protection vignettes, we show how nodes create the conditions for interaction, while subsoil dynamics influence whether value is cocreated or codestroyed amid power asymmetries and differing belief systems. The paper extends the sub‐micro‐level of the PSE and offers a framework for examining family and community ecosystems in public service delivery.",
+   "authors": [
+    "Kate Broadhurst",
+    "Steven Parker"
+   ],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70234",
+   "date": "2026-11-05",
+   "first_seen": "2026-11-06",
+   "score": 7.0,
+   "matched": [
+    "legislative",
+    "vignette"
+   ],
+   "abstract_zh": "公共服務常透過與家庭和社區合作提供，然而這些關係在公共服務生態系統（PSE）理論中受到的關注有限。為回應發展PSE次微觀層次的呼籲，我們引入「潛層敏感性」概念，旨在突顯支撐公共服務價值創造的家庭與社區生態系統。這些非正式系統是價值創造與破壞的活躍場域，其敏感性源於它們與公共服務的契合或不契合。我們提出立法與政策節點作為連結點，將宏觀層次政策轉化為微觀層次實踐。借鑒兒少保護情境案例，我們展示了節點如何創造互動條件，而潛層動態則影響在權力不對稱和不同信念系統下，價值是共同創造還是共同破壞。本文拓展了PSE的次微觀層次，並提供了一個檢視公共服務輸送中家庭與社區生態系統的框架。"
+  },
+  {
    "doi": "10.1093/jopart/muag026",
    "title": "Conditional compliance: the role of sector and policy design in state sexual misconduct policy",
    "abstract": "The role of principal-agent dynamics in performance and accountability reforms has been a recurring theme in public administration research. Yet, less attention has been dedicated to how the intersection of sector and policy design shapes principal-agent dynamics and subsequent policy outcomes. This study theoretically explores and empirically tests how sector and policy design shape the effects of state legislation that seeks to prevent shirking (mismanagement and underreporting) in the context of sexual misconduct outcomes in US colleges and universities. We code every state policy designed to regulate higher education institutions’ management of sexual misconduct from 2007 to 2018 in the US and leverage a Poisson pseudo-maximum likelihood with a staggered difference-in-differences design to identify the effects. Our findings suggest that both sector and policy design matter: public institutions increase reporting in response to prevention policies that promote education and awareness, but prevention policies have no effect on private institutions. Other policies regulating enforcement and infrastructure produce null effects across both sectors. These findings have important implications for principal-agent theory and policy design research on effective methods for reducing shirking in social equity, accountability, and performance reporting.",
@@ -2687,40 +2706,6 @@
    "abstract_zh": "英格蘭內戰時期政治論述中所使用的政治虛構，至今仍對當代公共政策與公共行政具有重要意義。主流公共行政論述過於頻繁地採用於此時期興起的單一且無限主權在民的虛構，使得公共行政在應對當代民粹政府的威權衝動時，顯得準備不足。為應對這些威權衝動，公共行政論述所需要的，並非傳統上主導本領域甚鉅的行政中立倫理，而是憲政主義倫理，此倫理借鑒了英格蘭平等派在英格蘭內戰時期，以及隨後由美國憲法制定者所闡述的個人虛構。"
   },
   {
-   "doi": "10.1111/padm.70076",
-   "title": "Institutional Pressures or Organizational Capacity? Antecedents of Digital Maturity in Local Governments",
-   "abstract": "Public administration research has identified institutional pressures and organizational capacity as digital maturity (DM) antecedents, yet these are typically considered in isolation. Taking the proverbial next step, this study draws on primary survey data to explain the variation of DM among local governments in Flanders (the northern region of Belgium) by juxtaposing the explanatory power of institutional pressures on the one hand, and political and administrative capacity on the other hand. Using multiple regression analyses, our findings highlight the critical role of administrative capacity in advancing DM among local governments. In contrast, and somewhat surprisingly, political capacity and institutional pressures appear to play a more limited role. These findings challenge conventional assumptions in existing literature, indicating that institutional pressures may catalyze the initial stages of DT, whereas organizational capacity seems to be more influential in sustaining and advancing DM.",
-   "authors": [
-    "Sarah Van Impe",
-    "Lieselot Danneels",
-    "Ben Suykens"
-   ],
-   "journal": "Public Administration",
-   "url": "https://doi.org/10.1111/padm.70076",
-   "date": "2026-08-06",
-   "first_seen": "2026-08-07",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "公共行政研究已指出制度性壓力與組織能力為數位成熟度 (DM) 的前因，然而這些因素通常被獨立考量。承襲此一脈絡，本研究運用第一手調查資料，透過並列比較制度性壓力，以及政治與行政能力兩者的解釋力，以解釋法蘭德斯（比利時北部地區）地方政府之間數位成熟度的差異。運用多元迴歸分析，我們的研究結果突顯行政能力在推進地方政府數位成熟度方面的關鍵作用。相較之下，且有些出乎意料地，政治能力與制度性壓力似乎扮演著較為有限的角色。這些發現挑戰了現有文獻中的傳統假設，指出制度性壓力可能催化數位轉型 (DT) 的初始階段，而組織能力似乎在維持與推進數位成熟度方面更具影響力。"
-  },
-  {
-   "doi": "10.1080/14719037.2026.2714119",
-   "title": "Navigating the digital transformation: unravelling the dynamic evolution of smart city collaborative governance networks",
-   "abstract": "",
-   "authors": [
-    "Guangdong Wu",
-    "Jiawen Li",
-    "Yanlu Zha"
-   ],
-   "journal": "Public Management Review",
-   "url": "https://doi.org/10.1080/14719037.2026.2714119",
-   "date": "2026-08-07",
-   "first_seen": "2026-08-07",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "智慧城市倡議作為公共服務創新，代表著國家主導元治理中的一項重大演進，需要複雜的參與者間協作。然而，學術界常將這些網絡視為靜態，忽略了治理結構如何適應數位不確定性。為彌補此一空缺，本研究運用隨機行動者導向模型與協作治理理論，檢視中國3482個智慧城市專案中網絡結構與參與者屬性的演化。結果揭示了三種治理模式：政府主導型、政府與國有企業混合型，以及多方利害關係人型。遞移三元組、年齡相似性、地理鄰近性及規模異質性促進了演化，而連結出度則限制了其發展。研究結果有助於優化夥伴選擇並強化適應性治理。"
-  },
-  {
    "doi": "10.1111/padm.70080",
    "title": "Public Finance Law and Public Administrations: The Shaping Power of Public Finance in the European Union. By ElisaD'Alterio, London: Routledge, 2025. 206 pp. $56.99 (ebk). ISBN : 978‐1‐03‐274124‐6",
    "abstract": "",
@@ -3593,6 +3578,39 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "協同設計作為更廣泛的協同產製過程的一個組成部分，在公共政策領域受到關注，被視為解決複雜政策挑戰的一種手段。然而，關於被標示為協同設計的參與式和設計導向方法下其運作實況為何、這些過程產生了哪些政策解決方案，以及它們預期如何產生變革的比較研究仍然有限。我們透過一項依循PRISMA指引，針對糧食損耗與浪費（FLW）的38項研究進行的系統性文獻回顧，來彌補此一研究空白。研究結果顯示，協同設計的標籤未能一致地反映參與式和迭代設計實踐；創意參與方法仍未充分利用。協同設計的產出仍停留在構思和原型階段，而干預措施則常缺乏明確的變革理論。我們提出一套編碼方案用以記錄協同設計的實施情況，並提出CIMO（情境、干預、機制、結果）作為一種事前評估啟發法，以闡明協同設計干預措施的變革理論。最後，我們提出一項研究議程，著重於強化報告實踐、理論建構以及以實施為重點的研究。"
+  },
+  {
+   "doi": "10.1080/14719037.2026.2759315",
+   "title": "The difficulties of reducing administrative burden via the nonprofit sector: how sedimented governance stifles care coordination",
+   "abstract": "",
+   "authors": [
+    "Rene Wiedner",
+    "Alice Moore",
+    "Alec Fraser"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2759315",
+   "date": "2026-11-05",
+   "first_seen": "2026-11-06",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.1080/14719037.2026.2759174",
+   "title": "The only game in town: NPM’s resilience and depoliticizing effects in (r)urban sustainability transition",
+   "abstract": "",
+   "authors": [
+    "David Scott",
+    "Malin Rönnblom"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2759174",
+   "date": "2026-11-05",
+   "first_seen": "2026-11-06",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
   }
  ]
 }
