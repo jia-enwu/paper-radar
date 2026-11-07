@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T01:52:37+00:00",
+ "updated": "2026-11-07T01:24:22+00:00",
  "papers": [
   {
    "doi": "10.1111/puar.70201",
@@ -429,26 +429,6 @@
    "abstract_zh": "街頭官僚體制相關文獻指出，第一線工作者對服務對象的決策，受到其基於服務對象人口學特徵與行為表現所形成的應得性認知所形塑。然而，對於第一線工作者是否也會考量服務對象的財務資源和心理健康狀況，我們知之甚少，儘管行政負擔相關文獻已將這兩個因素視為公民經歷法規遵循要求時的核心考量。本研究透過發展並檢驗預先註冊的假設，探討有關服務對象財務資源和心理健康的資訊如何形塑第一線工作者的負擔減輕與服務對象優先排序，藉此對上述兩類文獻做出貢獻。為此，我們針對來自39個丹麥失業機構的775名個案管理師，進行了一項大規模的個案情境實驗，操弄服務對象的年齡、財務狀況、心理健康和動機，但性別保持不變 (所有服務對象均為男性)。我們發現有力的證據顯示，個案管理師會減輕有心理健康問題的服務對象的負擔並給予優先處理；且—與先前研究一致—也會優先處理展現高度動機的服務對象，同時也發現一些證據顯示他們會優先處理面臨財務困難的服務對象。重要的是，心理健康似乎比動機和財務資源更具影響力。與我們預先註冊的預期相反，有心理健康問題的服務對象在展現低動機而非高動機時，獲得了最多的支持。這並非表示第一線工作者獎勵低動機，這種模式最有可能反映出個案管理師將低動機解讀為潛在狀況的症狀，進而視為更大需求的訊號。我們的研究結果顯示，第一線裁量權可以作為一種再分配機制運作，將支持導向那些發出最大需求訊號的服務對象。"
   },
   {
-   "doi": "10.1111/padm.70078",
-   "title": "Getting the Priorities Straight: Public Values in AI Adoption",
-   "abstract": "Artificial Intelligence (AI) is adopted in public organizations as a transformative innovation, yet how value prioritizations unfold in AI adoption processes remains underexplored. Therefore, we ask: How do public values unfold in AI adoption processes in public organizations? We conducted a qualitative case study of an AI adoption process at the radiology department of a Dutch academic hospital after the decision to adopt is made and before implementation, using ethnographic fieldwork, interviews, and document analysis. Our findings highlight how public values and the AI adoption process are balanced in the transition from the initiation to the implementation stage. We find a recursive relationship between public values and the AI adoption process. We show an interplay of instrumental and intrinsic values. We highlight the importance of top‐down adoption decisions for how public values are perceived, and we show the importance of public organizations ensuring public values are safeguarded in public‐private partnerships.",
-   "authors": [
-    "Jinke M. Oostvogel",
-    "Matthew M. Young",
-    "Bram Klievink"
-   ],
-   "journal": "Public Administration",
-   "url": "https://doi.org/10.1111/padm.70078",
-   "date": "2026-08-08",
-   "first_seen": "2026-08-08",
-   "score": 31.0,
-   "matched": [
-    "artificial intelligence",
-    "ai"
-   ],
-   "abstract_zh": "人工智慧 (AI) 在公共組織中被採用作為一項轉型創新，然而，價值優先順序在人工智慧採用過程中如何展現仍有待深入探討。因此，本研究旨在探討：公共價值如何在公共組織的人工智慧採用過程中展現？我們針對一所荷蘭學術醫院放射科的人工智慧採用過程進行了一項質性個案研究，該研究是在做出採用決定之後且在實施之前進行的，並採用了民族誌田野調查、訪談和文件分析。我們的研究結果突顯了公共價值與人工智慧採用過程在從啟動階段到實施階段的轉變過程中如何取得平衡。我們發現公共價值與人工智慧採用過程之間存在一種遞迴關係。我們展示了工具性價值與內在價值之間的相互作用。我們突顯了由上而下的採用決策對於公共價值如何被感知的重要性，並且我們展示了公共組織在公私夥伴關係中確保公共價值受到保障的重要性。"
-  },
-  {
    "doi": "10.1080/14719037.2026.2739599",
    "title": "Role strain and job crafting in China’s digitalizing street-level bureaucracy",
    "abstract": "This study draws on 87 in-depth interviews with frontline workers specializing in social assistance services in Shanghai, China to examine how digitalization reconfigures street-level bureaucracy. Integrating role theory and job crafting theory, we find that digital platforms could produce multiple forms of role strain: redundant labour and fragmented systems generate role overload; misalignment between algorithmic rules and clients’ lived circumstances triggers role conflict; and emotional exhaustion coupled with the erosion of occupational identity results in role alienation. To ensure effective grassroots operation, frontline workers proactively engage in task, relational, and cognitive crafting, sustaining professional resilience despite constrained autonomy. This study critiques digital systems design for overlooking frontline implicit knowledge and suggests that digitalization in the street-level bureaucracy is an ongoing process of socio-technical alignment. The findings indicate that the design-reality gap in digital welfare reform may be bridged by systematically incorporating frontline knowledge.",
@@ -852,6 +832,26 @@
     "survey experiment"
    ],
    "abstract_zh": "成果導向績效管理假設組織績效可透過定義並衡量預期成果來評估。然而，將績效目標轉化為服務提供的第一線工作者，可能會透過他們對服務產出方式的知識來詮釋成果。我們檢視產出屬性是否會納入第一線工作者對正式成果的評估。借鑒意義建構與認知判斷理論，我們主張任務難度與努力提供顯著線索，讓第一線工作者得以將績效資訊情境化。我們針對1,371名丹麥高中教師進行聯合分析問卷實驗，隨機變動產出屬性與正式成果，以檢驗這些預期。教師對服務更多弱勢學生的學校給予較高的評價，且當學校展現更大的努力時，評價也會隨之提高。這兩種效應皆呈現清晰的劑量反應模式，其中努力的效應與正式成果的效應相當。研究結果顯示，第一線工作者的評估系統性地納入產出資訊，揭示績效管理如何產生對組織績效的不同理解。"
+  },
+  {
+   "doi": "10.1080/10967494.2026.2716261",
+   "title": "Safeguarding online panel surveys from LLM pollution: evidence from Canadian federal survey contracts",
+   "abstract": "Bots and large language model (LLM) agents can now complete online surveys convincingly enough to pass as real respondents, a risk long flagged in other fields but rarely addressed in public management research. Drawing on disheartening empirical findings from previous efforts to validate responses to online panel surveys, this research note offers a portrait of efforts to ensure the integrity of data collected by firms that survey citizens on behalf of Canadian federal departments and ministries, a case study likely representative of the challenges facing online survey practices across countries and levels of governments.",
+   "authors": [
+    "Geneviève Morin",
+    "Étienne Charbonneau",
+    "Daniel Bromberg"
+   ],
+   "journal": "International Public Management Journal",
+   "url": "https://doi.org/10.1080/10967494.2026.2716261",
+   "date": "2026-11-04",
+   "first_seen": "2026-11-05",
+   "score": 21.0,
+   "matched": [
+    "large language model",
+    "llm"
+   ],
+   "abstract_zh": "機器人與大型語言模型（LLM）代理程式現已能以足夠的說服力完成線上問卷調查，並冒充真實受訪者。此風險雖在其他領域早已被指出，但在公共管理研究中卻鮮少被探討。本研究筆記借鑒了先前驗證線上樣本庫問卷回應的努力中，所發現的令人沮喪的實證結果，描繪了旨在確保代表加拿大聯邦部會向公民進行問卷調查的公司所收集資料完整性的相關努力。此案例研究可能代表了各國及各級政府在線上問卷調查實務上所面臨的挑戰。"
   },
   {
    "doi": "10.1111/puar.70173",
@@ -1449,25 +1449,6 @@
    "abstract_zh": "公部門組織日益採行企業社會責任架構，然而，對於員工在組織未能達到其宣稱標準時的情緒反應，卻鮮為人知。借鑒道德情感評估理論，我們檢視組織羞恥感是否將組織社會責任知覺 (OSR) 連結至變革阻力，以及公共服務動機 (PSM) 是否調節此一過程。來自113名法國地方政府員工的三波次資料顯示，較低的組織社會責任知覺與更高的羞恥感相關聯，尤其是在高公共服務動機 (PSM) 的員工中，且羞恥感與更大的變革阻力相關。弔詭的是，責任倡議可能會助長最有承諾的公務員的阻力。"
   },
   {
-   "doi": "10.1080/10967494.2026.2716261",
-   "title": "Safeguarding online panel surveys from LLM pollution: evidence from Canadian federal survey contracts",
-   "abstract": "",
-   "authors": [
-    "Geneviève Morin",
-    "Étienne Charbonneau",
-    "Daniel Bromberg"
-   ],
-   "journal": "International Public Management Journal",
-   "url": "https://doi.org/10.1080/10967494.2026.2716261",
-   "date": "2026-11-04",
-   "first_seen": "2026-11-05",
-   "score": 10.0,
-   "matched": [
-    "llm"
-   ],
-   "abstract_zh": ""
-  },
-  {
    "doi": "10.1080/14719037.2026.2720755",
    "title": "Beyond monolithic state logic: how top-down accountability shapes policy implementation",
    "abstract": "How does top-down accountability shape policy implementation? Drawing on institutional logics, this paper distinguishes two state sub-logics: ‘high-stakes context logic’ emphasizing centralized control during crises, and ‘routine governance logic’ allowing discretion during day-to-day administration. These sub-logics condition the perceived legitimacy of accountability demands, felt accountability, and behavioural responses. A survey experiment with over 800 public service respondents shows that, under high-stakes logic, intensified accountability progressively improve compliance, whereas under routine logic, moderate accountability produces optimal compliance, with high-intensity accountability yielding diminishing returns. These findings challenge binary views of accountability and reveal how within-logic variations may alter governance mechanisms.",
@@ -1774,6 +1755,26 @@
    "abstract_zh": "面臨績效壓力，公部門組織頻繁經歷高階主管異動，然而其繼任者選擇方式卻鮮有探討。本研究主張負面績效回饋 (NPF) 關鍵性地影響繼任者來源。根據2,045筆高階主管異動資料，我們發現NPF降低內部繼任的機率達41.7%。內部升遷歷史藉由預示與失靈常規的決裂，強化外部繼任者選擇；而對探索性學習的重視，則將外部選擇強化為策略性定位。本研究透過為高階主管選擇提供動態且基於前因的解釋，推進公共管理領域，挑戰組織歷史的單一論觀點，並突顯繼任者來源作為一項策略性治理工具。"
   },
   {
+   "doi": "10.1080/10967494.2026.2728693",
+   "title": "Peer workers as bridge-makers: symbolic representation and co-production of services for stigmatized groups",
+   "abstract": "",
+   "authors": [
+    "André Feliciano Lino",
+    "Elke Loeffler",
+    "Patrícia Maria Emerenciano de Mendonça",
+    "André Carlos Busanelli de Aquino"
+   ],
+   "journal": "International Public Management Journal",
+   "url": "https://doi.org/10.1080/10967494.2026.2728693",
+   "date": "2026-11-06",
+   "first_seen": "2026-11-07",
+   "score": 6.0,
+   "matched": [
+    "representation"
+   ],
+   "abstract_zh": ""
+  },
+  {
    "doi": "10.1111/puar.70179",
    "title": "Putting Democratic Theory and Principles of Justice in the Right Place: Ethical Pluralism in Collaborative and Participatory Governance",
    "abstract": "Participatory and collaborative governance (P&amp;CG) is widely celebrated as an institutional vehicle for democratizing public decision‐making by inviting affected stakeholders into inclusive and deliberative policy processes. This essay argues that underlying appeals to democratic legitimacy in P&amp;CG are tacit commitments to specific (and often ideologically bounded) conceptions of justice. Democracy, far from being normatively univocal, encompasses competing justice principles that yield divergent and sometimes incompatible design imperatives. In response, this essay calls for a shift from vague democratic invocations to a more precise theorization of justice as the operative normative currency in P&amp;CG. To this end, the essay outlines an analytical framework that maps three core dimensions of governance design (input, process, and output) onto corresponding domains of justice: representational, procedural, and distributive. Systematically unpacking the plural and conflicting ethical principles within each domain shows how different principles of justice produce distinct governance dilemmas and trade‐offs.",
@@ -1840,25 +1841,6 @@
     "discretion"
    ],
    "abstract_zh": "公民參與被廣泛認可為民主治理的重要環節，然而實證研究往往根據所採用的方法來評估參與，而非其在行政程序中被組織的制度結構。本研究基於對289個接受聯邦區塊補助金的地方行政區的分析，將參與視為一種結構化的行政實踐，而非僅僅是各種參與方法的集合。透過對「綜合計畫」的歸納分析，本研究發展出四種參與結構的類型學：「最低限度合規」、「結構化諮詢」、「制度化諮詢」和「嵌入式參與」。"
-  },
-  {
-   "doi": "10.1080/14719037.2026.2708842",
-   "title": "Reference points, negativity bias and citizens’ performance evaluations: a replication and extension",
-   "abstract": "Experiments on how cognitive biases, such as social and historical reference points and negativity bias, shape citizens’ evaluations of government performance have produced mixed findings, which typically come from Western contexts and focus on single reference points. To address these gaps, we replicated (N = 3710) and extended (N = 2356) Olsen’s ‘Compared to what?’ to interactions between multiple social and historical reference points in Hong Kong. Very low baselines are found in the replication alongside trivial evidence for the importance of reference points in citizens’ performance evaluations and negativity bias. In the extension, we found that (1) when both social and historical reference points are presented to participants, they have stronger effects when negative information is provided and (2) the effects of combinations of historical and social reference points differ across policy domains. Though survey experiments can be noisy, the study demonstrates the value of replication to question the generalization of cognitive biases.",
-   "authors": [
-    "Richard M. Walker",
-    "Jiasheng Zhang",
-    "Bert George"
-   ],
-   "journal": "Public Management Review",
-   "url": "https://doi.org/10.1080/14719037.2026.2708842",
-   "date": "2026-08-08",
-   "first_seen": "2026-08-08",
-   "score": 4.0,
-   "matched": [
-    "survey experiment"
-   ],
-   "abstract_zh": "關於認知偏誤（例如社會與歷史參考點以及負面偏誤）如何影響公民對政府績效評估的實驗，產生了不一的結果，這些結果通常來自西方脈絡，且側重於單一參考點。為了解決這些不足，我們在香港複製（N = 3710）並擴展（N = 2356）了Olsen的「與什麼相比？」研究，以探討多個社會與歷史參考點之間的交互作用。在複製研究中發現了非常低的基準線，同時，關於參考點在公民績效評估和負面偏誤中的重要性，僅發現了微不足道的證據。在擴展研究中，我們發現 (1) 當同時向參與者呈現社會與歷史參考點時，若提供負面資訊，其影響會更強；以及 (2) 歷史與社會參考點組合的影響在不同政策領域中有所差異。儘管問卷實驗可能存在雜訊，本研究證明了複製研究的價值，以質疑認知偏誤的普遍性。"
   },
   {
    "doi": "10.1111/puar.70178",
@@ -2007,6 +1989,23 @@
    "abstract_zh": "政府逐漸導入聊天機器人以減輕行政負擔並提升服務品質，然而公民使用意願仍有限。本研究援引推力理論，探討資訊框架與預設選項如何影響公民於公共服務領域使用聊天機器人的意願。本研究透過在中國進行的問卷實驗，結果顯示暴露於損失框架的參與者比暴露於獲益框架的參與者更願意使用聊天機器人。單獨的預設選項並未顯著影響意願。然而，資訊框架與預設選項之間的交互作用具有顯著性。具體而言，損失框架資訊對公民使用聊天機器人意願的正面影響，在預設選項存在時更強，這表明預設選項會放大損失框架的效果。總體而言，本研究提供了實務見解，以設計策略來促進聊天機器人於公共服務領域的導入。"
   },
   {
+   "doi": "10.1080/14719037.2026.2747054",
+   "title": "Anti-corruption policies: examining and evaluating the integration of agencies and whistleblower systems",
+   "abstract": "",
+   "authors": [
+    "Ina Kubbe"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2747054",
+   "date": "2026-11-06",
+   "first_seen": "2026-11-07",
+   "score": 4.0,
+   "matched": [
+    "corruption"
+   ],
+   "abstract_zh": ""
+  },
+  {
    "doi": "10.1080/14719037.2026.2748382",
    "title": "How collaborative platforms shape power dynamics and outcomes in local collaboration: evidence from disaster mitigation planning",
    "abstract": "Federal and state governments increasingly adopt collaborative governance as a policy instrument, using collaborative platforms to foster multiple local collaborations. While collaborative platforms provide design rules and resources to facilitate collaborations, it remains unclear whether they promote equitable distribution of outputs within local collaborations. This study examines how following collaborative platforms’ membership rules and support mechanisms shape power asymmetries and equitable distribution of benefits among participants. We focus on local disaster mitigation planning in Florida, where the Florida Division of Emergency Management serves as a state-level collaborative platform supporting local collaborative planning. Drawing on quantitative and qualitative data, we find that membership rules provide a foundation for initiating collaboration. Specifically, collaborative groups following rules recommending department representation with specialized knowledge are more likely to prioritize projects from smaller jurisdictions. In addition, including platform representatives to provide personnel support serves as an effective mechanism for ensuring equitable collaboration.",
@@ -2043,23 +2042,6 @@
     "diversity"
    ],
    "abstract_zh": "本研究探討在聯合國永續發展目標（SDGs）引入前後，永續人力資源管理（SHRM）如何被納入紐西蘭（Aotearoa/New Zealand）公部門的人力資源管理政策中。本研究採用對2010年至2021年間10個地方政府的人力資源管理政策進行縱貫性質性分析，探討永續性議題（涵蓋社會、經濟和環境面向）如何整合到公部門的人力資源管理中。研究結果顯示，永續性主要透過漸進式疊加到現有的人力資源管理框架中，而非透過轉型性變革，進入公部門的人力資源管理。在SDGs引入後，政策對公平性、多元性和福祉的關注有所增加；然而，更廣泛的社會正義承諾仍不均衡，而環境永續性則受到有限的關注。本研究將人力資源管理政策視為組織訊號，藉由揭示永續性優先事項如何在實施前被傳達，以及可能仍受制於法規遵循、效率、風險管理和組織績效等制度邏輯的限制，從而對公部門人力資源管理和永續人力資源管理學術領域做出貢獻。"
-  },
-  {
-   "doi": "10.1111/puar.70176",
-   "title": "Improving Cooperation in Government Purchasing Through Formal‐Relational Contracting",
-   "abstract": "A central challenge in government contracting is fostering cooperation between buyers and sellers where contract terms are incomplete. This article introduces a framework for formal‐relational contracting (FRC) in public sector contexts, where rigid regulations, competing values, and market imperfections make cooperation both difficult and valuable. FRC promotes cooperation through contract terms defining shared goals, guiding principles, and governance mechanisms. We present the theoretical foundations of FRC and examine its potential through 320 government contract management decision simulations where public contract managers acted as government buyers and business sellers facing sequential choices under both FRC contracts and the more conventional formal contracting approach. The results show that FRC increased managers' cooperative behavior by around 30 percentage points compared to formal contracting. Qualitative evidence further suggests that FRC shifted managers' mindsets from adversarial to cooperative. We discuss theoretical and practical implications for how FRC can enhance cooperation and mutual value in government contracting.",
-   "authors": [
-    "Ole Helby Petersen",
-    "Matthew Potoski",
-    "Lena Brogaard"
-   ],
-   "journal": "Public Administration Review",
-   "url": "https://doi.org/10.1111/puar.70176",
-   "date": "2026-08-08",
-   "first_seen": "2026-08-08",
-   "score": 2.0,
-   "matched": [],
-   "abstract_zh": "在政府採購中，一個核心挑戰是如何在契約條款不完整的情況下，促進買方與賣方之間的合作。本文提出一個適用於公共部門情境的「正式關係契約」（Formal‐Relational Contracting, FRC）框架，在這些情境中，嚴格的法規、相互競爭的價值觀和市場不完全性，使得合作既困難又彌足珍貴。FRC透過定義共同目標、指導原則和治理機制的契約條款來促進合作。我們闡述了FRC的理論基礎，並透過320次政府契約管理決策模擬來檢視其潛力。在這些模擬中，公共契約經理人分別扮演政府買方和企業賣方，在FRC契約和更傳統的正式契約模式下，面臨依序選擇。結果顯示，相較於正式契約，FRC使經理人的合作行為增加了約30個百分點。質性證據進一步指出，FRC將經理人的心態從對立轉變為合作。我們討論了FRC如何在政府採購中增強合作和共同價值的理論與實務意涵。"
   },
   {
    "doi": "10.1093/jopart/muag025",
@@ -3582,7 +3564,7 @@
   {
    "doi": "10.1080/14719037.2026.2759315",
    "title": "The difficulties of reducing administrative burden via the nonprofit sector: how sedimented governance stifles care coordination",
-   "abstract": "",
+   "abstract": "Care coordination services are designed to reduce administrative burden. However, they may not always achieve this aim. This paper, which draws from care coordination service user experiences, provides insights concerning why policies designed to reduce administrative burden may struggle when embedded in existing institutional systems, and how they might inadvertently contribute to new costs. We thematically analyse a multi-modal dataset concerning dementia care navigation services provided by non-profits in two English counties and find that stakeholders’ efforts to deal with administrative burden-related costs may be unsuccessful and potentially counterproductive: attempts to maximize information provision, reduce psychological costs and avoid compliance costs may obscure the role of a care coordination service so that learning costs remain high or even increase. We show that while studies have argued that non-profits in pluralist, networked governance models can reduce burdens, the ways they interact with sedimented governance logics can stifle such efforts.",
    "authors": [
     "Rene Wiedner",
     "Alice Moore",
@@ -3594,12 +3576,12 @@
    "first_seen": "2026-11-06",
    "score": 0.0,
    "matched": [],
-   "abstract_zh": ""
+   "abstract_zh": "照護協調服務旨在降低行政負擔。然而，其未必總能達成此目標。本文借鑒照護協調服務使用者經驗，針對旨在降低行政負擔的政策，為何在嵌入現有體制系統時可能面臨困境，以及其如何可能無意間導致新增成本，提供相關洞見。我們對兩個英國郡由非營利組織提供的失智症照護導航服務的多模式資料集進行主題分析，結果發現利害關係人應對行政負擔相關成本的努力可能徒勞無功且適得其反：試圖最大化資訊提供、降低心理成本並規避遵循成本，可能模糊照護協調服務的角色，以致學習成本居高不下甚至增加。我們指出，儘管有研究論證，在多元主義、網絡化治理模式下的非營利組織可以減輕負擔，但其與沉積式治理邏輯互動的方式，可能會扼殺這些努力。"
   },
   {
    "doi": "10.1080/14719037.2026.2759174",
    "title": "The only game in town: NPM’s resilience and depoliticizing effects in (r)urban sustainability transition",
-   "abstract": "",
+   "abstract": "This article explains the resilience of New Public Management (NPM) by conceptualizing it as a ‘mobile assemblage’ of flexible ideas and practices translated across contexts. Drawing on a qualitative study of four Swedish municipalities undergoing (r)urban sustainability transition, we demonstrate how NPM is mobilized as a set of flexible resources – managerial tools, entrepreneurial identities, market-making devices, legitimizing discursive resources, and behaviour-prescribing scripts – to organize transition initiatives. NPM thus becomes raw material for four governing arrangements – temporary projects, consultant collaboration, municipally owned companies, and public-private partnerships. Through these arrangements, NPM embeds market and management logics into local governance, fostering silent depoliticization.",
    "authors": [
     "David Scott",
     "Malin Rönnblom"
@@ -3610,7 +3592,7 @@
    "first_seen": "2026-11-06",
    "score": 0.0,
    "matched": [],
-   "abstract_zh": ""
+   "abstract_zh": "本文旨在闡釋新公共管理 (NPM) 的韌性，將其概念化為一種跨情境轉譯的彈性理念與實踐之「流動性組合」。本文根據一項針對四個正在經歷(再)城鄉永續轉型的瑞典市鎮之質性研究，展示了NPM如何被動員為一套彈性資源——包括管理工具、創業型認同、市場建構機制、正當化論述資源以及行為規範腳本——以組織轉型倡議。NPM因此成為四種治理安排的素材——包括臨時專案、顧問合作、市營公司以及公私協力。透過這些安排，NPM將市場與管理邏輯嵌入地方治理，助長了靜默的去政治化。"
   }
  ]
 }
