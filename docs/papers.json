@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T01:24:22+00:00",
+ "updated": "2026-11-08T00:57:32+00:00",
  "papers": [
   {
    "doi": "10.1111/puar.70201",
@@ -1449,6 +1449,23 @@
    "abstract_zh": "公部門組織日益採行企業社會責任架構，然而，對於員工在組織未能達到其宣稱標準時的情緒反應，卻鮮為人知。借鑒道德情感評估理論，我們檢視組織羞恥感是否將組織社會責任知覺 (OSR) 連結至變革阻力，以及公共服務動機 (PSM) 是否調節此一過程。來自113名法國地方政府員工的三波次資料顯示，較低的組織社會責任知覺與更高的羞恥感相關聯，尤其是在高公共服務動機 (PSM) 的員工中，且羞恥感與更大的變革阻力相關。弔詭的是，責任倡議可能會助長最有承諾的公務員的阻力。"
   },
   {
+   "doi": "10.1080/14719037.2026.2747054",
+   "title": "Anti-corruption policies: examining and evaluating the integration of agencies and whistleblower systems",
+   "abstract": "This article interrogates dominant anti-corruption evaluation models by foregrounding the integration between Anti-Corruption Agencies (ACAs) and whistleblower systems as a critical yet underexamined determinant of institutional effectiveness. Drawing on institutional theory, regulatory governance, and structured cross-country comparison, it develops a four-part typology of ACA–whistleblower integration regimes (complementary, substitutive, fragmented, and minimalist) based on document-based qualitative evaluation across 13 countries. The findings suggest that institutional coordination and interoperability, rather than the formal existence of anti-corruption institutions alone, are consistently associated with stronger enforcement capacity, greater institutional legitimacy, and higher public trust. The study challenges checklist-based global evaluation models that privilege institutional presence over institutional interaction and proposes an integration-centred framework for assessing integrity systems. By shifting attention from institutional design to institutional integration, the study offers a context-sensitive diagnostic approach for evaluating anti-corruption governance across diverse political and administrative settings.",
+   "authors": [
+    "Ina Kubbe"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2747054",
+   "date": "2026-11-06",
+   "first_seen": "2026-11-07",
+   "score": 10.0,
+   "matched": [
+    "corruption"
+   ],
+   "abstract_zh": "本文質疑主流的反貪腐評估模式，透過突顯反貪腐機構（ACAs）與吹哨者系統之間的整合，作為一個關鍵但未受充分檢視的制度效能決定因素。本文借鑒制度理論、管制治理與結構化跨國比較，根據對13個國家的文件式質性評估，發展出反貪腐機構－吹哨者整合體制的四種類型學（互補型、替代型、碎片化型和極簡型）。研究結果顯示，制度協調與互通性，而非僅僅是反貪腐機構的正式存在，持續地與更強的執法能力、更高的制度正當性與更高的公眾信任相關聯。本研究挑戰了偏重制度存在而非制度互動的清單式全球評估模式，並提出一個以整合為中心的框架，用於評估廉政體系。透過將關注焦點從制度設計轉移到制度整合，本研究提供了一個情境敏感的診斷方法，用於評估不同政治與行政環境下的反貪腐治理。"
+  },
+  {
    "doi": "10.1080/14719037.2026.2720755",
    "title": "Beyond monolithic state logic: how top-down accountability shapes policy implementation",
    "abstract": "How does top-down accountability shape policy implementation? Drawing on institutional logics, this paper distinguishes two state sub-logics: ‘high-stakes context logic’ emphasizing centralized control during crises, and ‘routine governance logic’ allowing discretion during day-to-day administration. These sub-logics condition the perceived legitimacy of accountability demands, felt accountability, and behavioural responses. A survey experiment with over 800 public service respondents shows that, under high-stakes logic, intensified accountability progressively improve compliance, whereas under routine logic, moderate accountability produces optimal compliance, with high-intensity accountability yielding diminishing returns. These findings challenge binary views of accountability and reveal how within-logic variations may alter governance mechanisms.",
@@ -1987,23 +2004,6 @@
     "survey experiment"
    ],
    "abstract_zh": "政府逐漸導入聊天機器人以減輕行政負擔並提升服務品質，然而公民使用意願仍有限。本研究援引推力理論，探討資訊框架與預設選項如何影響公民於公共服務領域使用聊天機器人的意願。本研究透過在中國進行的問卷實驗，結果顯示暴露於損失框架的參與者比暴露於獲益框架的參與者更願意使用聊天機器人。單獨的預設選項並未顯著影響意願。然而，資訊框架與預設選項之間的交互作用具有顯著性。具體而言，損失框架資訊對公民使用聊天機器人意願的正面影響，在預設選項存在時更強，這表明預設選項會放大損失框架的效果。總體而言，本研究提供了實務見解，以設計策略來促進聊天機器人於公共服務領域的導入。"
-  },
-  {
-   "doi": "10.1080/14719037.2026.2747054",
-   "title": "Anti-corruption policies: examining and evaluating the integration of agencies and whistleblower systems",
-   "abstract": "",
-   "authors": [
-    "Ina Kubbe"
-   ],
-   "journal": "Public Management Review",
-   "url": "https://doi.org/10.1080/14719037.2026.2747054",
-   "date": "2026-11-06",
-   "first_seen": "2026-11-07",
-   "score": 4.0,
-   "matched": [
-    "corruption"
-   ],
-   "abstract_zh": ""
   },
   {
    "doi": "10.1080/14719037.2026.2748382",
