@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T00:57:32+00:00",
+ "updated": "2026-11-09T01:17:55+00:00",
  "papers": [
   {
    "doi": "10.1111/puar.70201",
@@ -218,24 +218,6 @@
     "job satisfaction"
    ],
    "abstract_zh": "儘管委外常被視為對公務人員產生負面影響，但對於某些類型的委外可能帶來的正面效益，卻較少受到關注。尤其，近期學術研究指出，當委外過程強調親社會因素時，可能改善員工的工作態度。本研究以聯邦小型弱勢企業 (SDB) 委外計畫（該計畫強調採購中的多元性與公平性）為例，探討促進社會成果的委外計畫是否與公務人員的工作滿意度相關。借鑒於部門差異、人職契合與代表性官僚體制等研究，我們假設 SDB 委外措施與工作滿意度之間存在正向關聯，且來自弱勢背景的員工將經歷更顯著的提升。本研究結合美國聯邦政府委外資料與聯邦員工觀點調查 (FEVS)，分析結果支持了這些假設。本文討論了這些發現對於政府委外與公共人力資源管理的意涵。"
-  },
-  {
-   "doi": "10.1177/02750740261473616",
-   "title": "Navigating Ambiguity: Street-Level Managers Discretion in the Implementation of Religious Policy in Divided Societies",
-   "abstract": "This study explores the intersection of religion and state through a single-case, mixed-methods research design, focusing on Israeli state elementary school principals, who administer religious directives embedded in state legislation. We ask: Under what conditions street-level managers’ discretion in policy implementation increases social satisfaction and cohesion? We argue that such discretion increases social satisfaction and cohesion under the following conditions: (1) When state policies are explicitly or implicitly vague and flexible, (2) When official policy is contested among societal groups, and (3) When street-level managers opt to respond to client preferences. In addition, we suggest that public satisfaction with the resulted public services increases when a manager's personal ideology aligns with client attitudes and expectations. The study demonstrates how principals exercise significant discretion in implementing religious policy and thus contributes to broader public administration literature by highlighting the role of street-level managers in navigating policy ambiguity, while mediating societal tensions.",
-   "authors": [
-    "Niva Golan-Nadir"
-   ],
-   "journal": "The American Review of Public Administration",
-   "url": "https://doi.org/10.1177/02750740261473616",
-   "date": "2026-08-10",
-   "first_seen": "2026-08-10",
-   "score": 40.0,
-   "matched": [
-    "discretion",
-    "street-level"
-   ],
-   "abstract_zh": "本研究透過單一案例、混合方法研究設計，探討宗教與國家之間的交會點，並聚焦於以色列國立小學的校長，這些校長負責執行國家立法中內含的宗教指令。我們提問：在何種條件下，街頭官僚在政策執行中的裁量權能提升社會滿意度與凝聚力？我們主張，這種裁量權在以下條件下能提升社會滿意度與凝聚力：(1) 當國家政策明確或隱含地模糊且具彈性時；(2) 當官方政策在社會群體間存在爭議時；以及 (3) 當街頭官僚選擇回應服務對象的偏好時。此外，我們認為，當管理者的個人意識形態與服務對象的態度和期望一致時，公眾對所提供的公共服務的滿意度會提升。本研究闡明了校長在執行宗教政策方面如何行使顯著的裁量權，進而透過強調街頭官僚在處理政策模糊性並調解社會緊張關係中的角色，對更廣泛的公共行政文獻有所貢獻。"
   },
   {
    "doi": "10.1111/puar.70221",
@@ -1232,6 +1214,26 @@
    "abstract_zh": "教師流動對全球教育品質構成重大挑戰，而離職意圖是實際離職的關鍵前兆。本研究探討人力管理——定義為人力資源管理實務的執行與領導行為的整合——如何影響教師的離職意圖。奠基於資源保存理論，本研究檢視人力管理如何能透過緩解角色模糊和情緒耗竭——教師專業中的兩個關鍵議題——來作為降低離職意圖的關鍵資源。角色模糊源於對教師日益增加的要求，而情緒耗竭則加劇離職意圖。研究結果顯示支持角色模糊和情緒耗竭的（序列）中介作用，為人力管理如何影響教師留任提供了新的洞見。這些發現有助於理解人力管理活動如何能有效支持教師，降低離職意圖，並最終提升整體教育品質。"
   },
   {
+   "doi": "10.1080/10967494.2026.2728693",
+   "title": "Peer workers as bridge-makers: symbolic representation and co-production of services for stigmatized groups",
+   "abstract": "Public services often struggle to reach stigmatized populations, as professionals may lack the trust, cultural knowledge, or standing needed to engage them effectively. Peer workers—people involved in service delivery who share an identity or lived experience with the population served—are increasingly used to bridge this gap. This study investigates these bridge-making benefits of peer workers through the lens of symbolic representation and co-production. Specifically, we analyze which approaches of “symbolic peer co-production” enable peer workers to engage effectively with both professionals and stigmatized groups, and the variety of roles played by peer workers with different identities as bridge-makers. Using a case study of HIV prevention in São Paulo, we conducted a documentary and social media analysis to examine how symbolic representation and lived experience help peer workers to act as bridge-makers between professionals and stigmatized groups. The findings suggest that peer workers enhance service accessibility by leveraging shared identities and experiences, reducing stigma, and building trusting relationships. This study contributes a novel theoretical framework integrating symbolic representation and co-production, and offers insights for designing more inclusive public services for stigmatized populations.",
+   "authors": [
+    "André Feliciano Lino",
+    "Elke Loeffler",
+    "Patrícia Maria Emerenciano de Mendonça",
+    "André Carlos Busanelli de Aquino"
+   ],
+   "journal": "International Public Management Journal",
+   "url": "https://doi.org/10.1080/10967494.2026.2728693",
+   "date": "2026-11-06",
+   "first_seen": "2026-11-07",
+   "score": 15.0,
+   "matched": [
+    "representation"
+   ],
+   "abstract_zh": ""
+  },
+  {
    "doi": "10.1111/puar.70172",
    "title": "Under Pressure: Analyzing LEO Turnover in America's Swing and Pivot Counties for 2016, 2020, 2024",
    "abstract": "Post‐2024, the United States faces an acute labor crisis marked by accelerating Local Election Official (LEO) attrition. This study examines causal drivers of this exodus, focusing specifically on disproportionate turnover within volatile “swing” and “pivot” counties. Utilizing a mixed‐methods design, using longitudinal data from the Bipartisan Policy Center, US Census Bureau, Elections Voter Survey, MIT Election Data and Science Lab (MEDSL), and the Reed LEO survey, alongside an original dataset compiled from 74 competitive counties and 25 “super landslide” counties. Using Geographic Information Systems, we connect a detailed county profile to spatial mapping of the legal and political environment across the 2016, 2020, and 2024 elections. LEOs in highly competitive jurisdictions face an erosion of institutional trust, serving as a primary catalyst for departure. These volatile jurisdictions highlight where democratic machinery is vulnerable, offering evidence‐based insights for state‐level policy interventions designed to stabilize the public administrative workforce amidst unprecedented hyperpolarization.",
@@ -1770,26 +1772,6 @@
     "turnover"
    ],
    "abstract_zh": "面臨績效壓力，公部門組織頻繁經歷高階主管異動，然而其繼任者選擇方式卻鮮有探討。本研究主張負面績效回饋 (NPF) 關鍵性地影響繼任者來源。根據2,045筆高階主管異動資料，我們發現NPF降低內部繼任的機率達41.7%。內部升遷歷史藉由預示與失靈常規的決裂，強化外部繼任者選擇；而對探索性學習的重視，則將外部選擇強化為策略性定位。本研究透過為高階主管選擇提供動態且基於前因的解釋，推進公共管理領域，挑戰組織歷史的單一論觀點，並突顯繼任者來源作為一項策略性治理工具。"
-  },
-  {
-   "doi": "10.1080/10967494.2026.2728693",
-   "title": "Peer workers as bridge-makers: symbolic representation and co-production of services for stigmatized groups",
-   "abstract": "",
-   "authors": [
-    "André Feliciano Lino",
-    "Elke Loeffler",
-    "Patrícia Maria Emerenciano de Mendonça",
-    "André Carlos Busanelli de Aquino"
-   ],
-   "journal": "International Public Management Journal",
-   "url": "https://doi.org/10.1080/10967494.2026.2728693",
-   "date": "2026-11-06",
-   "first_seen": "2026-11-07",
-   "score": 6.0,
-   "matched": [
-    "representation"
-   ],
-   "abstract_zh": ""
   },
   {
    "doi": "10.1111/puar.70179",
