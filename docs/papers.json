@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T01:17:55+00:00",
+ "updated": "2026-11-10T03:53:05+00:00",
  "papers": [
   {
    "doi": "10.1111/puar.70201",
@@ -836,42 +836,6 @@
    "abstract_zh": "機器人與大型語言模型（LLM）代理程式現已能以足夠的說服力完成線上問卷調查，並冒充真實受訪者。此風險雖在其他領域早已被指出，但在公共管理研究中卻鮮少被探討。本研究筆記借鑒了先前驗證線上樣本庫問卷回應的努力中，所發現的令人沮喪的實證結果，描繪了旨在確保代表加拿大聯邦部會向公民進行問卷調查的公司所收集資料完整性的相關努力。此案例研究可能代表了各國及各級政府在線上問卷調查實務上所面臨的挑戰。"
   },
   {
-   "doi": "10.1111/puar.70173",
-   "title": "Public Service Delegation and the Mechanisms of Blame Attribution: Evidence From a Survey Experiment on Public Service Failure",
-   "abstract": "A growing body of experimental public administration research examines how structural arrangements in public services, such as delegating service delivery to public or private actors, shape citizens' blame attributions for service failures. However, the mechanisms underlying these attributions are less well understood. This article investigates two mechanisms, focusing on the mediating roles of citizens' perceptions of politicians' causal responsibility (perceived control over service delivery) and functional responsibility (perceived duty to ensure service quality). A UK‐based survey experiment on local waste collection failures tests these mechanisms using causal mediation analysis. The results show higher levels of delegation reduce blame primarily by lowering perceptions of politicians' control over service delivery. In contrast, there is no strong evidence of mediation through perceived duty, suggesting that role‐based expectations of functional responsibility are more resistant to change. These findings provide new insight into how different public service delivery methods influence blame attribution for service performance.",
-   "authors": [
-    "Oscar Nowlan"
-   ],
-   "journal": "Public Administration Review",
-   "url": "https://doi.org/10.1111/puar.70173",
-   "date": "2026-08-11",
-   "first_seen": "2026-08-11",
-   "score": 20.0,
-   "matched": [
-    "causal",
-    "survey experiment"
-   ],
-   "abstract_zh": "越來越多的實驗性公共行政研究探討公共服務中的結構性安排，例如將服務交付委託給公共或私人行為者，如何影響公民對服務失敗的歸責。然而，這些歸責背後的機制卻鮮為人知。本文探討兩種機制，著重於公民對政治人物的因果責任（對服務交付的感知控制）和職能責任（確保服務品質的感知職責）的中介作用。一項以英國為基礎、針對地方垃圾收集失敗的問卷調查實驗，採用因果中介分析來檢驗這些機制。結果顯示，較高程度的委託主要透過降低公民對政治人物在服務交付上的控制感知來減少歸責。相較之下，沒有強烈證據顯示透過感知職責的中介作用，這表明基於角色的職能責任預期更難以改變。這些發現為不同的公共服務交付方式如何影響服務績效的歸責提供了新的見解。"
-  },
-  {
-   "doi": "10.1080/14719037.2026.2711108",
-   "title": "Citizens’ support for behavioural public policy and trust in government: evidence from two online experiments",
-   "abstract": "We explore citizens’ support for behavioral interventions by distinguishing interventions that exploit citizens’ bounded rationality through choice architecture (Nudge) from those that challenge bounded rationality by promoting reflection through deliberative forums (Think). We also examine the role of trust in government in shaping these preferences. Findings from two experiments involving 3,010 US participants show that citizens are more willing to support Think rather than Nudge. Whereas the adoption of Nudge, as compared to Think, does not seem to influence trust in government, encouraging higher levels of trust in government has a stronger effect on support for Nudge than for Think.",
-   "authors": [
-    "Paolo Belardinelli",
-    "Martin Lodge"
-   ],
-   "journal": "Public Management Review",
-   "url": "https://doi.org/10.1080/14719037.2026.2711108",
-   "date": "2026-08-11",
-   "first_seen": "2026-08-11",
-   "score": 20.0,
-   "matched": [
-    "trust in government"
-   ],
-   "abstract_zh": "我們探討公民對行為干預的支持，區分透過選擇設計（推力，Nudge）利用公民有限理性（bounded rationality）的干預措施，以及透過審議式論壇（思力，Think）促進反思以挑戰有限理性的干預措施。我們也檢視政府信任在形塑這些偏好上的作用。兩項涉及3,010名美國參與者的實驗結果顯示，公民更願意支持「思力」而非「推力」。相較於「思力」，「推力」的採用似乎不會影響政府信任；然而，鼓勵更高程度的政府信任對「推力」的支持有比對「思力」更強的影響。"
-  },
-  {
    "doi": "10.1080/10967494.2026.2701849",
    "title": "Managers as message makers: a conjoint experiment on information framing and citizen support for local sales tax referenda",
    "abstract": "Local option sales taxes in the United States are an interesting form of direct democracy that is influenced directly by public managers. The referenda, or ballot measures, in which people vote on sales taxes have multiple features that can be presented in a variety of ways. As such, they represent a unique opportunity to study the behavioral impact of options and information on citizen choice. With this research, we develop a novel experiment that uses the logic of a conjoint design by varying all of the key features in the referenda, but presents that information in a paragraph form that mimics the format of actual referenda. Results of this sales tax ballot conjoint experiment show that, in general, people only focus on a few key pieces of information, but specific sub-groups are interested in more and different features of the proposed sales tax. This suggests that managers may have more influence among key demographics, and knowing the attributes that matter to those demographics may help shape how sales tax ballot referenda are presented.",
@@ -1231,7 +1195,7 @@
    "matched": [
     "representation"
    ],
-   "abstract_zh": ""
+   "abstract_zh": "公共服務常難以觸及受污名化族群，因為專業人員可能缺乏與其有效互動所需的信任、文化知識或地位。同儕工作者——指那些與受服務族群擁有共同身份認同或生命經驗，並參與服務提供的人員——正日益被運用來彌補此一鴻溝。本研究透過象徵性代表和共同生產的視角，探討同儕工作者所帶來的橋接效益。具體而言，我們分析「象徵性同儕共同生產」的哪些途徑能使同儕工作者有效與專業人員和受污名化族群互動，以及具有不同身份認同的同儕工作者作為橋樑建立者所扮演的多元角色。本研究以聖保羅的愛滋病預防為個案研究，透過文獻和社群媒體分析，檢視象徵性代表和生命經驗如何幫助同儕工作者在專業人員和受污名化族群之間扮演橋樑建立者的角色。研究結果顯示，同儕工作者透過運用共同的身份認同和經驗、減少污名以及建立信任關係，來提升服務可近性。本研究貢獻了一個整合象徵性代表和共同生產的新穎理論框架，並為設計針對受污名化族群更具包容性的公共服務提供了見解。"
   },
   {
    "doi": "10.1111/puar.70172",
@@ -1275,24 +1239,6 @@
    "abstract_zh": "儘管對行政負擔的研究主要關注於服務對象的經驗，但這些負擔對公共行政機關的員工而言亦相當重要。本研究探討負擔如何形塑公部門員工的經驗，尤其著重於他們如何感知行政負擔與績效之間的關係。本研究運用針對21,301名公部門醫護專業人員的選擇實驗，估計內嵌於工作程序中的不同成本，對於特定工作情境下感知績效的相對因果影響。心理成本對感知績效產生最強的因果影響，其中，壓力大的程序具有最大的負面影響，其次是削弱自主性的程序。學習成本（源於複雜或令人困惑的程序）和遵循成本（源於耗時或費力的任務）也會導致較低的感知績效，儘管影響程度較輕。異質性效應顯示，行政負擔對績效的負面影響對於醫師、五十歲以下的專業人員以及男性專業人員而言較大，而對於護理師而言則較小。"
   },
   {
-   "doi": "10.1177/02750740261473618",
-   "title": "Civic Embeddedness and Public Employment: How Institutional Proximity Structures Civic Participation",
-   "abstract": "Research on public service motivation consistently finds that public employees volunteer and contribute more than their private sector counterparts, yet less is known about how engagement varies across behavioral domains and institutional contexts. This study examines how civic engagement is structured among public employees compared to other citizens, with particular attention to variation across levels of government. Using the 2023 CPS Volunteering and Civic Life Supplement, the analysis constructs multidimensional measures across four domains: political participation, civic involvement, political expression, and social connectedness. Weighted regressions and propensity score matching show that public employees, especially at the local level, exhibit a distinct civic profile characterized by greater involvement in institutional forms of participation such as voting and volunteering, but lower engagement in informal activities such as political discussion and social interaction. These patterns persist after accounting for observable characteristics and suggest that public employment channels participation into specific forms rather than uniformly increasing overall engagement, with implications for how civil service reforms may alter the civic composition of local communities.",
-   "authors": [
-    "Craig R. Smith"
-   ],
-   "journal": "The American Review of Public Administration",
-   "url": "https://doi.org/10.1177/02750740261473618",
-   "date": "2026-08-11",
-   "first_seen": "2026-08-11",
-   "score": 13.0,
-   "matched": [
-    "public employee",
-    "public service motivation"
-   ],
-   "abstract_zh": "公共服務動機的研究一致發現，公務人員比私部門的同儕更常從事志願服務並貢獻更多，然而，對於參與程度如何在行為領域和制度脈絡中有所不同，則了解較少。本研究旨在檢視公務人員與其他公民相比，其公民參與的結構如何，並特別關注不同政府層級之間的差異。本研究利用2023年「公民參與與志願服務補充調查」(CPS Volunteering and Civic Life Supplement)，建構了橫跨政治參與、公民投入、政治表達和社會連結等四個領域的多面向衡量指標。加權迴歸分析與傾向分數配對法的結果顯示，公務人員，尤其是地方層級的公務人員，展現出獨特的公民參與樣貌，其特徵為更高度參與制度化的參與形式，例如投票和志願服務，但較少參與非正式活動，例如政治討論和社會互動。這些模式在控制可觀察特徵後依然存在，並指出公務人員身分將參與引導至特定形式，而非均勻地提升整體參與程度，這對於文官改革如何改變地方社區的公民組成具有啟示意義。"
-  },
-  {
    "doi": "10.1111/puar.70225",
    "title": "Is Public Sector a Better Place for Moms to Work? Exploring Sector Difference in Child Penalties on Women",
    "abstract": "With commonly stabler and more flexible working environment, is public sector a better place for moms to work? Theorizing child penalties from sector difference perspective, we argue that childbirth may cause less gender gaps in unemployment and earnings but greater gender disparities in working time commitments in the public sector since job stability and family‐friendliness may form gender norms that depreciate women's work in the public sector. We test our hypotheses by employing event study designs using data from China Family Panel Studies (2010–2022). We found that women public employees experienced smaller child penalties in unemployment and earnings while greater child penalties in working hours than private counterparts, which can be explained by greater family responsibilities and spousal depreciation of women's jobs after childbirth. This paper advances theories of gender equity in public administration by proposing distinct child penalties in the public sector that challenges conventional beliefs.",
@@ -1310,23 +1256,6 @@
     "public employee"
    ],
    "abstract_zh": "鑑於公部門通常提供更穩定且彈性的工作環境，它是否為媽媽們更理想的工作場所？本文從部門差異的角度探討育兒懲罰，主張生育在公部門可能導致失業率和收入上的性別落差較小，但在工時投入上卻造成更大的性別差異。這是因為工作穩定性和家庭友善政策可能形成性別規範，進而貶低公部門女性的工作。我們採用事件研究設計，並利用中國家庭追蹤調查（2010-2022）的數據，檢驗了這些假設。我們發現，女性公部門員工在失業率和收入方面經歷了較小的育兒懲罰，但在工時方面卻比私部門的同儕經歷了更大的育兒懲罰。這可以歸因於生育後女性承擔更大的家庭責任以及配偶對女性工作的貶抑。本文透過提出公部門獨特的育兒懲罰，挑戰了傳統觀念，進而推進了公共行政領域的性別平等理論。"
-  },
-  {
-   "doi": "10.1111/padm.70081",
-   "title": "AI Innovations in Public Services: The Case of National Libraries. By InesMergel and CarstenSchmidt (eds.), Cham, Switzerland: Springer Nature, 2026, 222 pp. hardcover ISBN: 978‐3‐032‐01343‐9; eBook ISBN: 978‐3‐032‐01344‐6. Open Access (eBook).",
-   "abstract": "The author declares no conflicts of interest. Data sharing not applicable to this article as no datasets were generated or analysed during the current study.",
-   "authors": [
-    "Abdollah Zeraatpisheh"
-   ],
-   "journal": "Public Administration",
-   "url": "https://doi.org/10.1111/padm.70081",
-   "date": "2026-08-11",
-   "first_seen": "2026-08-11",
-   "score": 10.0,
-   "matched": [
-    "ai"
-   ],
-   "abstract_zh": "作者聲明無利益衝突。本文不適用資料分享，因為在本研究期間未產生或分析任何資料集。"
   },
   {
    "doi": "10.1111/puar.70175",
@@ -1772,23 +1701,6 @@
     "turnover"
    ],
    "abstract_zh": "面臨績效壓力，公部門組織頻繁經歷高階主管異動，然而其繼任者選擇方式卻鮮有探討。本研究主張負面績效回饋 (NPF) 關鍵性地影響繼任者來源。根據2,045筆高階主管異動資料，我們發現NPF降低內部繼任的機率達41.7%。內部升遷歷史藉由預示與失靈常規的決裂，強化外部繼任者選擇；而對探索性學習的重視，則將外部選擇強化為策略性定位。本研究透過為高階主管選擇提供動態且基於前因的解釋，推進公共管理領域，挑戰組織歷史的單一論觀點，並突顯繼任者來源作為一項策略性治理工具。"
-  },
-  {
-   "doi": "10.1111/puar.70179",
-   "title": "Putting Democratic Theory and Principles of Justice in the Right Place: Ethical Pluralism in Collaborative and Participatory Governance",
-   "abstract": "Participatory and collaborative governance (P&amp;CG) is widely celebrated as an institutional vehicle for democratizing public decision‐making by inviting affected stakeholders into inclusive and deliberative policy processes. This essay argues that underlying appeals to democratic legitimacy in P&amp;CG are tacit commitments to specific (and often ideologically bounded) conceptions of justice. Democracy, far from being normatively univocal, encompasses competing justice principles that yield divergent and sometimes incompatible design imperatives. In response, this essay calls for a shift from vague democratic invocations to a more precise theorization of justice as the operative normative currency in P&amp;CG. To this end, the essay outlines an analytical framework that maps three core dimensions of governance design (input, process, and output) onto corresponding domains of justice: representational, procedural, and distributive. Systematically unpacking the plural and conflicting ethical principles within each domain shows how different principles of justice produce distinct governance dilemmas and trade‐offs.",
-   "authors": [
-    "Alexander L. Q. Chen‐Florea"
-   ],
-   "journal": "Public Administration Review",
-   "url": "https://doi.org/10.1111/puar.70179",
-   "date": "2026-08-11",
-   "first_seen": "2026-08-11",
-   "score": 5.0,
-   "matched": [
-    "representation"
-   ],
-   "abstract_zh": "參與式與協作式治理 (P&amp;CG) 廣受肯定，被視為一種制度載體，透過邀請受影響的利害關係人參與具包容性與審議性的政策過程，以實現公共決策的民主化。本文主張，P&amp;CG 中對民主正當性的潛在訴求，實質上隱含著對特定（且常受意識形態限制）正義觀的承諾。民主在規範上絕非單一，它涵蓋相互競爭的正義原則，這些原則導致分歧且有時相互衝突的設計準則。有鑑於此，本文呼籲從籠統的民主論述轉向對正義更精確的理論化，將其視為 P&amp;CG 中實際運作的核心規範依據。為達此目的，本文概述了一個分析框架，將治理設計的三個核心維度（投入、過程和產出）對應到相應的正義領域：代表性正義、程序性正義和分配性正義。系統性地剖析每個領域內多元且相互衝突的倫理原則，揭示了不同的正義原則如何產生獨特的治理困境與權衡取捨。"
   },
   {
    "doi": "10.1111/puar.70200",
@@ -2670,34 +2582,43 @@
    "abstract_zh": "英格蘭內戰時期政治論述中所使用的政治虛構，至今仍對當代公共政策與公共行政具有重要意義。主流公共行政論述過於頻繁地採用於此時期興起的單一且無限主權在民的虛構，使得公共行政在應對當代民粹政府的威權衝動時，顯得準備不足。為應對這些威權衝動，公共行政論述所需要的，並非傳統上主導本領域甚鉅的行政中立倫理，而是憲政主義倫理，此倫理借鑒了英格蘭平等派在英格蘭內戰時期，以及隨後由美國憲法制定者所闡述的個人虛構。"
   },
   {
-   "doi": "10.1111/padm.70080",
-   "title": "Public Finance Law and Public Administrations: The Shaping Power of Public Finance in the European Union. By ElisaD'Alterio, London: Routledge, 2025. 206 pp. $56.99 (ebk). ISBN : 978‐1‐03‐274124‐6",
+   "doi": "10.1111/puar.70227",
+   "title": "Celebrating 86 Years",
    "abstract": "",
-   "authors": [
-    "Jinhui Lan"
-   ],
-   "journal": "Public Administration",
-   "url": "https://doi.org/10.1111/padm.70080",
-   "date": "2026-08-11",
-   "first_seen": "2026-08-11",
-   "score": 0.0,
+   "authors": [],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70227",
+   "date": "2026-11-09",
+   "first_seen": "2026-11-10",
+   "score": 2.0,
    "matched": [],
    "abstract_zh": ""
   },
   {
-   "doi": "10.1177/02750740261477406",
-   "title": "How Front-Line Public Managers Become Institutional Entrepreneurs",
-   "abstract": "How do front-line public managers become institutional entrepreneurs? This article answers that question through a longitudinal single-case study of a large Norwegian municipality's healthcare services. Drawing on organizational institutionalism and public management scholarship, I first show how front-line public managers initiate divergent change by leveraging a sensing–legitimation nexus. They detect external and internal triggers, frame the need for change, and secure political, administrative, and professional support through direct negotiation and compelling operational narratives. They then act as co-creation catalysts, engaging residents and building cross-sector partnerships to adapt service designs and mobilize scarce resources. Finally, they institutionalize transformative public healthcare delivery by embedding routines in daily operations, formalizing interdisciplinary team structures, clarifying roles, and demonstrating performance gains. Evidence from two innovation projects shows that resource-constrained, non-heroic actors can disrupt entrenched practices and stabilize innovation as the new institutional arrangement. The study contributes to institutional entrepreneurship theory by positioning front-line public managers as credible entrepreneurial agents and by identifying co-creation as a core mechanism of public sector institutional change.",
-   "authors": [
-    "Petter Gullmark"
-   ],
-   "journal": "The American Review of Public Administration",
-   "url": "https://doi.org/10.1177/02750740261477406",
-   "date": "2026-08-11",
-   "first_seen": "2026-08-11",
-   "score": 0.0,
+   "doi": "10.1111/puar.70229",
+   "title": "Issue Information",
+   "abstract": "",
+   "authors": [],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70229",
+   "date": "2026-11-09",
+   "first_seen": "2026-11-10",
+   "score": 2.0,
    "matched": [],
-   "abstract_zh": "第一線公部門管理者如何成為制度型創業家？本文透過對挪威某大型市鎮醫療保健服務的縱貫式單一案例研究，探討此問題。援引組織制度主義與公共管理學術，本文首先闡述第一線公部門管理者如何透過運用感知-正當化連結來啟動差異化變革。他們察覺到外部與內部觸發因素，界定變革需求，並透過直接協商與具說服力的營運敘事，取得政治、行政與專業支持。接著，他們扮演共創催化劑的角色，促使居民參與並建立跨部門夥伴關係，以調整服務設計並動員稀缺資源。最後，他們透過將常規作業融入日常營運、正式化跨領域團隊結構、釐清角色，並展現績效提升，將轉型性的公共醫療保健服務制度化。來自兩個創新專案的證據顯示，資源受限的非英雄式行動者也能顛覆根深蒂固的慣例，並將創新穩定為新的制度安排。本研究透過將第一線公部門管理者定位為可信的創業行動者，並將共創識別為公共部門制度變革的核心機制，對制度型創業理論有所貢獻。"
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.1111/puar.70228",
+   "title": "American Society for Public Administration Code of Ethics",
+   "abstract": "",
+   "authors": [],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70228",
+   "date": "2026-11-09",
+   "first_seen": "2026-11-10",
+   "score": 2.0,
+   "matched": [],
+   "abstract_zh": ""
   },
   {
    "doi": "10.1080/14719037.2026.2715612",
@@ -3575,6 +3496,24 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "本文旨在闡釋新公共管理 (NPM) 的韌性，將其概念化為一種跨情境轉譯的彈性理念與實踐之「流動性組合」。本文根據一項針對四個正在經歷(再)城鄉永續轉型的瑞典市鎮之質性研究，展示了NPM如何被動員為一套彈性資源——包括管理工具、創業型認同、市場建構機制、正當化論述資源以及行為規範腳本——以組織轉型倡議。NPM因此成為四種治理安排的素材——包括臨時專案、顧問合作、市營公司以及公私協力。透過這些安排，NPM將市場與管理邏輯嵌入地方治理，助長了靜默的去政治化。"
+  },
+  {
+   "doi": "10.1080/14719037.2026.2758867",
+   "title": "Exhaustion intensified? The confluence of coworker and citizen incivility in local government",
+   "abstract": "",
+   "authors": [
+    "Leisha DeHart-Davis",
+    "Amy E. Smith",
+    "Travis Whetsell",
+    "Kayla Schwoerer"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2758867",
+   "date": "2026-11-09",
+   "first_seen": "2026-11-10",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
   }
  ]
 }
