@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T01:33:59+00:00",
+ "updated": "2026-11-12T02:34:49+00:00",
  "papers": [
   {
    "doi": "10.1111/puar.70201",
@@ -278,6 +278,27 @@
     "ai"
    ],
    "abstract_zh": "人工智慧 (AI) 正快速導入公共行政領域，然而在美國地方政府間的採用情況仍不均。既有解釋多強調結構能力，並預期內部障礙會限制採用。本研究借鑒 Weick 的意義建構觀點作為詮釋視角，檢視組織如何詮釋技術機會並採取審慎回應，進而形塑 AI 的採用。本研究利用 2024 年 ICMA 人工智慧調查，檢驗內部障礙、AI 潛力與組織主動性是否能解釋採用上的差異。研究結果顯示，內部障礙與採用並無顯著關聯，而 AI 潛力與組織主動性則與採用呈正向關聯。這些發現指出，在模糊不清的技術情境中，結構條件是透過詮釋過程發揮作用；組織所擁有的資源，則透過其對新興技術的意義建構與動員行動來形塑採用。本研究展現了意義建構作為理解公部門對技術變革回應的分析框架價值。"
+  },
+  {
+   "doi": "10.1177/02750740261506489",
+   "title": "Understanding AI Adoption in Local Government: Capacity Constraints or Political Caution?",
+   "abstract": "Artificial Intelligence (AI) has been widely adopted by governments, but whether and to what extent governments adopt AI varies. A key question is whether variation in AI adoption across local governments stems from differences in capacity or political constraints. Understanding this has implications for the kinds of policies officials may want to adopt to ensure that local governments have access to the technologies that they want and need. This paper combines data from the International City/County Management Association (ICMA) Survey, American Trends Panel (ATP), the Current Population Survey (CPS), and other public data sources, to examine how capacity and political constraints influence local government AI adoption in the United States. Using logistic and Poisson regression models, we find that AI adoption at local governments is associated with citizens’ attitudes toward AI, public employee unionization, local governments’ financial capacity, and infrastructure support. Notably, political factors (citizens’ attitudes and public sector unionization) are equally influential as capacity factors in explaining government AI adoption, and in some cases, more powerful. These findings suggest that variation in AI adoption across local governments results not only from capacity barriers but also from political constraints due to the power of public employees and concerns of the public.",
+   "authors": [
+    "Yung-Yu Tsai",
+    "Lael Keiser",
+    "Niki Jabbari"
+   ],
+   "journal": "The American Review of Public Administration",
+   "url": "https://doi.org/10.1177/02750740261506489",
+   "date": "2026-11-11",
+   "first_seen": "2026-11-12",
+   "score": 37.0,
+   "matched": [
+    "artificial intelligence",
+    "ai",
+    "public employee"
+   ],
+   "abstract_zh": "人工智慧（AI）已獲政府廣泛採用，但各政府採用AI的程度與方式有所不同。一個關鍵問題是，各地方政府在人工智慧採用上的差異，究竟源於能力差異還是政治限制。釐清這一點，對於官員為確保地方政府能取得所需技術而可能採取的政策類型，具有重要意涵。本文結合了國際市縣管理協會（ICMA）調查、美國趨勢小組（ATP）、當前人口調查（CPS）及其他公開資料來源的數據，旨在檢視能力與政治限制如何影響美國地方政府的人工智慧採用。運用羅吉斯（logistic）與卜瓦松（Poisson）迴歸模型，研究發現地方政府的人工智慧採用與民眾對AI的態度、公務人員工會化、地方政府的財政能力以及基礎建設支援相關。值得注意的是，政治因素（民眾態度與公共部門工會化）在解釋政府人工智慧採用方面，與能力因素同樣具有影響力，甚至在某些情況下影響力更強。這些研究結果指出，各地方政府在人工智慧採用上的差異，不僅源於能力障礙，也來自於公務人員的權力以及民眾的疑慮所造成的政治限制。"
   },
   {
    "doi": "10.1177/02750740261481775",
@@ -980,27 +1001,6 @@
     "natural experiment"
    ],
    "abstract_zh": "現有研究已探討行政負擔的程序性與資訊性來源，本文則檢視關於行政權限地理位置的組織設計選擇，如何將空間負擔制度化於企業。我們利用中國商標註冊服務的去中心化改革作為自然實驗，以驗證此理論。此改革透過在2016年至2019年間於全國各地設立地方受理窗口，縮短了地理距離。在此改革之前，商標申請必須專門向集中的北京辦公室提交，對全國企業造成巨大的地理障礙。我們使用涵蓋來自294個中國城市、超過3700萬件商標申請的獨特資料集，採用錯位雙重差分法來估計地理距離縮短對商標申請量的因果效應。我們發現，設立地方受理窗口使商標申請量增加了約4.4%，僅2019年就額外增加了約209,000件申請。此外，此改革產生了複合式分佈結果：中小型企業比大型企業反應更為強烈，而新進入商標系統的申請者則集中在基礎設施較薄弱的城市。機制分析證實，此增長主要由距離縮短所驅動，而非行政效率的提升或腐敗的減少。研究結果提供了大規模的因果證據，說明在空間上重新分配行政服務提供所帶來的行為後果，證明即使在行政服務數位轉型之際，實體可近性對於公平地獲取服務仍然至關重要。"
-  },
-  {
-   "doi": "10.1111/puar.70181",
-   "title": "The Gendered Path of Least Resistance: First Entry and Exit Behaviors of Public and Nonprofit Employees",
-   "abstract": "Public and nonprofit organizations exhibit high rates of female employment often attributed to sector structures and social roles. To better understand how individual behaviors dynamically contribute to these distinctive ratios, we deconstruct public and nonprofit employment into gendered patterns of attraction and attachment. Using duration analysis and following a cohort from the National Longitudinal Survey of Youth 1997, this research finds that women demonstrate a higher attraction to their first public and nonprofit job compared to men, evidenced through a faster rate of entry into this employment. There are no significant gender differences when considering the duration of an individual's first stint in these sectors. Additional investigation finds that these sector‐level patterns, when decomposed to account for gender‐dominant professions, are driven by stronger female attraction to female‐dominated professions while masking higher female turnover from male‐dominated professions. Results inform recruitment and retention strategies for public and nonprofit organizations.",
-   "authors": [
-    "Tiana Marrese",
-    "Ying Liu",
-    "Femida Handy"
-   ],
-   "journal": "Public Administration Review",
-   "url": "https://doi.org/10.1111/puar.70181",
-   "date": "2026-08-13",
-   "first_seen": "2026-08-13",
-   "score": 17.0,
-   "matched": [
-    "gender",
-    "turnover",
-    "recruitment"
-   ],
-   "abstract_zh": "公部門與非營利組織呈現較高的女性就業率，這通常歸因於部門結構與社會角色。為了更深入了解個體行為如何動態地促成這些獨特的比例，本研究將公部門與非營利組織的就業現象拆解為性別化的吸引與依附模式。運用存活分析並追蹤「1997年全國青年縱貫調查」的世代群體，本研究發現女性對其第一份公部門與非營利組織工作的吸引力高於男性，體現於其進入此類就業的速度更快。然而，當考量個體在這些部門首次任職的持續時間時，在性別上沒有顯著差異。進一步探究發現，這些部門層級的模式，當拆解以考量性別主導的職業時，是由女性對女性主導職業的更強吸引力所驅動，同時掩蓋了女性從男性主導職業中較高的離職率。研究結果可為公部門與非營利組織的招募與留任策略提供參考。"
   },
   {
    "doi": "10.1111/puar.70188",
