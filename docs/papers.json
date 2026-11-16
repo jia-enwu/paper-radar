@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T01:24:45+00:00",
+ "updated": "2026-11-16T01:27:18+00:00",
  "papers": [
   {
    "doi": "10.1111/puar.70201",
@@ -875,27 +875,6 @@
    "abstract_zh": "美國的「地方選擇性銷售稅」是一種有趣的直接民主形式，直接受到公共管理者的影響。人們針對銷售稅進行投票的公民投票案（或稱投票議案）具有多種特徵，且能以多種方式呈現。因此，它們提供了一個獨特的機會，以研究選項與資訊對公民選擇的行為影響。本研究開發了一項新穎的實驗，採用聯合設計（conjoint design）的邏輯，透過改變公民投票案中的所有關鍵特徵，並以模仿實際公民投票案格式的段落形式呈現這些資訊。這項銷售稅投票聯合實驗的結果顯示，一般而言，人們僅專注於少數關鍵資訊，但特定次群體對擬議銷售稅的更多且不同特徵感興趣。這表明管理者可能在關鍵人口群體中擁有更大的影響力，且了解這些人口群體所重視的屬性，可能有助於形塑銷售稅公民投票案的呈現方式。"
   },
   {
-   "doi": "10.1111/padm.70083",
-   "title": "From Social Equity Budgeting to Revenue Equity: Minority Leadership and Local Governments' Exploitative Revenues",
-   "abstract": "Social equity budgeting has gained increasing attention, yet research has largely focused on expenditures while neglecting revenue equity. This study contributes to the literature by examining the relationships between minority population size and local governments' reliance on exploitative revenues, and whether minority political representation moderates this relationship. Drawing on racial threat and political representation theories, we analyze data from 66 Florida counties between 2011 and 2019. Results show that counties with larger minority populations rely more heavily on exploitative revenues, but this relationship diminishes when minority political representation increases. These findings highlight how minority leadership could moderate fiscal practices that disproportionately burden minority communities. More broadly, this study advances the framework of social equity budgeting by shifting the focus from expenditure allocation to revenue generation.",
-   "authors": [
-    "Tingzhong Huang",
-    "Rui Wang",
-    "Can Chen",
-    "Herong Gao"
-   ],
-   "journal": "Public Administration",
-   "url": "https://doi.org/10.1111/padm.70083",
-   "date": "2026-08-16",
-   "first_seen": "2026-08-17",
-   "score": 19.0,
-   "matched": [
-    "representation",
-    "minority"
-   ],
-   "abstract_zh": "社會公平預算日益受到關注，然而研究多半著重於支出，卻忽略了歲入公平性。本研究旨在探討少數族群人口規模與地方政府對剝削性歲入的依賴程度之間的關係，以及少數族群政治代表性是否調節此關係，以充實相關文獻。本研究援引種族威脅理論與政治代表性理論，分析了2011年至2019年間佛羅里達州66個縣的資料。結果顯示，少數族群人口規模較大的縣更嚴重依賴剝削性歲入，但當少數族群政治代表性增加時，此關聯性會降低。這些發現突顯了少數族群領導力如何能調節不成比例地加重少數族群社區負擔的財政措施。更廣泛地來說，本研究透過將焦點從支出分配轉向歲入產生，推進了社會公平預算的框架。"
-  },
-  {
    "doi": "10.1111/puar.70205",
    "title": "Skills, Not Just Will: Experimental Evidence From Uganda on Transparency in Public Procurement",
    "abstract": "Governments are usually the largest purchasers of goods and services, creating significant opportunities for corruption. We study whether offering training and technical assistance to procurement officials in 50 Ugandan districts prompted them to publish procurement actions on an online public portal, as legally required. Among districts that received the training and technical assistance program, we randomized whether procurement officials received information in advance about their eligibility to earn a public award for adherence to these transparency standards. We use national administrative data across multiple financial years and 134 district governments to evaluate impacts. The training and technical assistance program increased the number and value of procurement actions uploaded several‐fold, while award eligibility did not have similarly large effects. These results suggest that motivation problems may be overemphasized in the fight against corruption. Building capacity in accounting and transparency could provide effective guardrails against corruption.",
@@ -1196,26 +1175,6 @@
     "representation"
    ],
    "abstract_zh": "公共服務常難以觸及受污名化族群，因為專業人員可能缺乏與其有效互動所需的信任、文化知識或地位。同儕工作者——指那些與受服務族群擁有共同身份認同或生命經驗，並參與服務提供的人員——正日益被運用來彌補此一鴻溝。本研究透過象徵性代表和共同生產的視角，探討同儕工作者所帶來的橋接效益。具體而言，我們分析「象徵性同儕共同生產」的哪些途徑能使同儕工作者有效與專業人員和受污名化族群互動，以及具有不同身份認同的同儕工作者作為橋樑建立者所扮演的多元角色。本研究以聖保羅的愛滋病預防為個案研究，透過文獻和社群媒體分析，檢視象徵性代表和生命經驗如何幫助同儕工作者在專業人員和受污名化族群之間扮演橋樑建立者的角色。研究結果顯示，同儕工作者透過運用共同的身份認同和經驗、減少污名以及建立信任關係，來提升服務可近性。本研究貢獻了一個整合象徵性代表和共同生產的新穎理論框架，並為設計針對受污名化族群更具包容性的公共服務提供了見解。"
-  },
-  {
-   "doi": "10.1111/puar.70172",
-   "title": "Under Pressure: Analyzing LEO Turnover in America's Swing and Pivot Counties for 2016, 2020, 2024",
-   "abstract": "Post‐2024, the United States faces an acute labor crisis marked by accelerating Local Election Official (LEO) attrition. This study examines causal drivers of this exodus, focusing specifically on disproportionate turnover within volatile “swing” and “pivot” counties. Utilizing a mixed‐methods design, using longitudinal data from the Bipartisan Policy Center, US Census Bureau, Elections Voter Survey, MIT Election Data and Science Lab (MEDSL), and the Reed LEO survey, alongside an original dataset compiled from 74 competitive counties and 25 “super landslide” counties. Using Geographic Information Systems, we connect a detailed county profile to spatial mapping of the legal and political environment across the 2016, 2020, and 2024 elections. LEOs in highly competitive jurisdictions face an erosion of institutional trust, serving as a primary catalyst for departure. These volatile jurisdictions highlight where democratic machinery is vulnerable, offering evidence‐based insights for state‐level policy interventions designed to stabilize the public administrative workforce amidst unprecedented hyperpolarization.",
-   "authors": [
-    "Gary Johnson",
-    "Spencer Cragun",
-    "Jake Yoder"
-   ],
-   "journal": "Public Administration Review",
-   "url": "https://doi.org/10.1111/puar.70172",
-   "date": "2026-08-16",
-   "first_seen": "2026-08-17",
-   "score": 14.0,
-   "matched": [
-    "turnover",
-    "causal"
-   ],
-   "abstract_zh": "2024年後，美國面臨嚴峻的勞動力危機，其特徵是地方選舉官員 (LEO) 流失加速。本研究探討造成此離職潮的因果驅動因素，特別著重於不穩定之「搖擺」和「關鍵」郡縣中不成比例的人員流動。本研究採用混合方法設計，使用來自兩黨政策中心、美國人口普查局、選舉選民調查、麻省理工學院選舉數據與科學實驗室 (MEDSL) 以及 Reed LEO 調查的縱向數據，並結合從74個競爭激烈郡縣和25個「超級壓倒性勝利」郡縣編纂的原始數據集。運用地理資訊系統 (GIS)，我們將詳細的郡縣概況與2016、2020和2024年選舉期間的法律和政治環境空間映射連結。在競爭激烈司法管轄區的LEO面臨機構信任的侵蝕，這成為他們離職的主要催化劑。這些不穩定的司法管轄區凸顯出民主機制脆弱之處，為旨在穩定公共行政人力、以應對前所未有的高度兩極化之州級政策干預，提供實證洞見。"
   },
   {
    "doi": "10.1080/10967494.2026.2642317",
@@ -2569,24 +2528,6 @@
    "score": 2.0,
    "matched": [],
    "abstract_zh": ""
-  },
-  {
-   "doi": "10.1111/padm.70084",
-   "title": "Organizational Capacity to Implement Social Equity in Emergency Management: A Local Government Perspective",
-   "abstract": "The emergency management profession and discipline is increasingly embracing social equity as a core value, yet limited attention has been paid to whether local emergency management organizations possess the capacity to implement equity‐focused practices. Drawing on the Capacity Building Framework, this exploratory study analyzes data from a national panel survey of US emergency managers to examine the organizational capacity to advance social equity through the lens of adaptive capacity. The findings reveal that while political, technical, financial, and managerial capacities matter, financial capacity is the most critical constraint. Respondents prioritized additional funding for personnel, community outreach and education, and the development of accessible public resources. The results highlight how resource scarcity shapes the pursuit of equity at the local level and underscores the need to align equity goals with investments in organizational capacity. This study contributes insight into the practical challenges emergency managers face in translating equity commitments into action.",
-   "authors": [
-    "Jason D. Rivera",
-    "Claire Connolly Knox",
-    "Clinton McNair",
-    "Joseph T. Ripberger"
-   ],
-   "journal": "Public Administration",
-   "url": "https://doi.org/10.1111/padm.70084",
-   "date": "2026-08-16",
-   "first_seen": "2026-08-17",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "災害管理專業領域日益將社會公平視為核心價值，然而，卻鮮少關注地方災害管理組織是否具備實施以公平為導向之實務的能力。本探索性研究借鑒能力建構框架，分析了來自一項針對美國災害管理人員的全國性追蹤調查數據，旨在從適應性能力的視角檢視組織推進社會公平的能力。研究結果顯示，儘管政治、技術、財務和管理能力均很重要，但財務能力是最關鍵的限制因素。受訪者優先考慮為人力、社區推廣與教育以及可近用公共資源的開發提供額外資金。結果突顯了資源稀缺如何影響地方層級的公平追求，並強調了將公平目標與組織能力投資相結合的必要性。本研究為災害管理人員在將公平承諾轉化為行動方面所面臨的實際挑戰提供了見解。"
   },
   {
    "doi": "10.1111/padm.70082",
