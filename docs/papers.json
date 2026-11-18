@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T04:14:11+00:00",
+ "updated": "2026-11-18T03:11:50+00:00",
  "papers": [
   {
    "doi": "10.1111/puar.70201",
@@ -857,24 +857,6 @@
    "abstract_zh": "機器人與大型語言模型（LLM）代理程式現已能以足夠的說服力完成線上問卷調查，並冒充真實受訪者。此風險雖在其他領域早已被指出，但在公共管理研究中卻鮮少被探討。本研究筆記借鑒了先前驗證線上樣本庫問卷回應的努力中，所發現的令人沮喪的實證結果，描繪了旨在確保代表加拿大聯邦部會向公民進行問卷調查的公司所收集資料完整性的相關努力。此案例研究可能代表了各國及各級政府在線上問卷調查實務上所面臨的挑戰。"
   },
   {
-   "doi": "10.1080/10967494.2026.2701849",
-   "title": "Managers as message makers: a conjoint experiment on information framing and citizen support for local sales tax referenda",
-   "abstract": "Local option sales taxes in the United States are an interesting form of direct democracy that is influenced directly by public managers. The referenda, or ballot measures, in which people vote on sales taxes have multiple features that can be presented in a variety of ways. As such, they represent a unique opportunity to study the behavioral impact of options and information on citizen choice. With this research, we develop a novel experiment that uses the logic of a conjoint design by varying all of the key features in the referenda, but presents that information in a paragraph form that mimics the format of actual referenda. Results of this sales tax ballot conjoint experiment show that, in general, people only focus on a few key pieces of information, but specific sub-groups are interested in more and different features of the proposed sales tax. This suggests that managers may have more influence among key demographics, and knowing the attributes that matter to those demographics may help shape how sales tax ballot referenda are presented.",
-   "authors": [
-    "Whitney Afonso",
-    "Zachary Mohr"
-   ],
-   "journal": "International Public Management Journal",
-   "url": "https://doi.org/10.1080/10967494.2026.2701849",
-   "date": "2026-08-19",
-   "first_seen": "2026-08-19",
-   "score": 20.0,
-   "matched": [
-    "conjoint"
-   ],
-   "abstract_zh": "美國的「地方選擇性銷售稅」是一種有趣的直接民主形式，直接受到公共管理者的影響。人們針對銷售稅進行投票的公民投票案（或稱投票議案）具有多種特徵，且能以多種方式呈現。因此，它們提供了一個獨特的機會，以研究選項與資訊對公民選擇的行為影響。本研究開發了一項新穎的實驗，採用聯合設計（conjoint design）的邏輯，透過改變公民投票案中的所有關鍵特徵，並以模仿實際公民投票案格式的段落形式呈現這些資訊。這項銷售稅投票聯合實驗的結果顯示，一般而言，人們僅專注於少數關鍵資訊，但特定次群體對擬議銷售稅的更多且不同特徵感興趣。這表明管理者可能在關鍵人口群體中擁有更大的影響力，且了解這些人口群體所重視的屬性，可能有助於形塑銷售稅公民投票案的呈現方式。"
-  },
-  {
    "doi": "10.1111/puar.70205",
    "title": "Skills, Not Just Will: Experimental Evidence From Uganda on Transparency in Public Procurement",
    "abstract": "Governments are usually the largest purchasers of goods and services, creating significant opportunities for corruption. We study whether offering training and technical assistance to procurement officials in 50 Ugandan districts prompted them to publish procurement actions on an online public portal, as legally required. Among districts that received the training and technical assistance program, we randomized whether procurement officials received information in advance about their eligibility to earn a public award for adherence to these transparency standards. We use national administrative data across multiple financial years and 134 district governments to evaluate impacts. The training and technical assistance program increased the number and value of procurement actions uploaded several‐fold, while award eligibility did not have similarly large effects. These results suggest that motivation problems may be overemphasized in the fight against corruption. Building capacity in accounting and transparency could provide effective guardrails against corruption.",
@@ -1417,7 +1399,7 @@
   {
    "doi": "10.1093/jopart/muag036",
    "title": "Sick of change? Sickness absence following ownership conversions in Norwegian kindergartens",
-   "abstract": "The expansion of mixed-provider welfare systems has intensified debates about the consequences of public, nonprofit, and for-profit provision. Existing research focuses primarily on efficiency, service quality, and citizens' outcomes, while less is known about ownership conversions’ consequences for employees. We depart from research suggesting that ownership conversions can disrupt employee-organization value congruence as well as change the incentive structures. Leveraging population-wide administrative data from Norwegian childcare services (2015-2019), we examine whether ownership conversions are associated with changes in employee sickness absence. Using a staggered difference-in-differences design, we find that sickness absence increases following nonprofit-to-for-profit conversions. At the same time, public-to-for-profit transitions show little consistent relationship with sickness absence. These findings suggest that employee responses to ownership change are shaped less by the public-private divide than by differences in organizational missions and values. More broadly, the study highlights organizational value congruence as a potential mechanism linking ownership arrangements to employee well-being, and suggests that the nonprofit-for-profit boundary may be more consequential for employees than the conventional public-private divide.",
+   "abstract": "The expansion of mixed-provider welfare systems has intensified debates about the consequences of public, nonprofit, and for-profit provision. Existing research focuses primarily on efficiency, service quality, and citizens’ outcomes, while less is known about ownership conversions’ consequences for employees. We depart from research suggesting that ownership conversions can disrupt employee-organization value congruence as well as change the incentive structures. Leveraging population-wide administrative data from Norwegian childcare services (2015–2019), we examine whether ownership conversions are associated with changes in employee sickness absence. Using a staggered difference-in-differences design, we find that sickness absence increases following nonprofit-to-for-profit conversions. At the same time, public-to-for-profit transitions show little consistent relationship with sickness absence. These findings suggest that employee responses to ownership change are shaped less by the public–private divide than by differences in organizational missions and values. More broadly, the study highlights organizational value congruence as a potential mechanism linking ownership arrangements to employee well-being, and suggests that the nonprofit-for-profit boundary may be more consequential for employees than the conventional public–private divide.",
    "authors": [
     "Håvard Thorsen Rydland",
     "Dag Arne Christensen"
@@ -1607,26 +1589,6 @@
    "abstract_zh": "公共服務常透過與家庭和社區合作提供，然而這些關係在公共服務生態系統（PSE）理論中受到的關注有限。為回應發展PSE次微觀層次的呼籲，我們引入「潛層敏感性」概念，旨在突顯支撐公共服務價值創造的家庭與社區生態系統。這些非正式系統是價值創造與破壞的活躍場域，其敏感性源於它們與公共服務的契合或不契合。我們提出立法與政策節點作為連結點，將宏觀層次政策轉化為微觀層次實踐。借鑒兒少保護情境案例，我們展示了節點如何創造互動條件，而潛層動態則影響在權力不對稱和不同信念系統下，價值是共同創造還是共同破壞。本文拓展了PSE的次微觀層次，並提供了一個檢視公共服務輸送中家庭與社區生態系統的框架。"
   },
   {
-   "doi": "10.1093/jopart/muag026",
-   "title": "Conditional compliance: the role of sector and policy design in state sexual misconduct policy",
-   "abstract": "The role of principal-agent dynamics in performance and accountability reforms has been a recurring theme in public administration research. Yet, less attention has been dedicated to how the intersection of sector and policy design shapes principal-agent dynamics and subsequent policy outcomes. This study theoretically explores and empirically tests how sector and policy design shape the effects of state legislation that seeks to prevent shirking (mismanagement and underreporting) in the context of sexual misconduct outcomes in US colleges and universities. We code every state policy designed to regulate higher education institutions’ management of sexual misconduct from 2007 to 2018 in the US and leverage a Poisson pseudo-maximum likelihood with a staggered difference-in-differences design to identify the effects. Our findings suggest that both sector and policy design matter: public institutions increase reporting in response to prevention policies that promote education and awareness, but prevention policies have no effect on private institutions. Other policies regulating enforcement and infrastructure produce null effects across both sectors. These findings have important implications for principal-agent theory and policy design research on effective methods for reducing shirking in social equity, accountability, and performance reporting.",
-   "authors": [
-    "Jaeyeong Nam",
-    "Daniel L Fay",
-    "Emily Boykin",
-    "Elizabeth Bell"
-   ],
-   "journal": "Journal of Public Administration Research and Theory",
-   "url": "https://doi.org/10.1093/jopart/muag026",
-   "date": "2026-08-18",
-   "first_seen": "2026-08-19",
-   "score": 6.0,
-   "matched": [
-    "difference-in-differences"
-   ],
-   "abstract_zh": "委託人-代理人動態在績效與課責改革中的作用，一直是公共行政研究中反覆出現的主題。然而，對於部門與政策設計的交織如何塑造委託人-代理人動態及後續政策結果，卻較少有研究探討。本研究從理論上探討並實證檢驗部門與政策設計如何影響旨在防止美國大專院校性不當行為結果中怠忽職守（管理不善與低報）的州立法效果。我們編碼了2007年至2018年間美國所有旨在規範高等教育機構性不當行為管理的州政策，並利用卜瓦松偽最大概似法結合交錯式雙重差分設計來識別其效果。我們的研究結果表明，部門與政策設計均有影響：公立機構因應促進教育與意識的預防政策而增加了報告數量，但預防政策對私立機構沒有影響。其他規範執法與基礎設施的政策，對兩個部門而言均產生無效結果。這些發現對於委託人-代理人理論以及關於社會公平、課責與績效報告中減少怠忽職守之有效方法的政策設計研究，具有重要啟示。"
-  },
-  {
    "doi": "10.1080/14719037.2026.2726494",
    "title": "Insider or outsider: negative performance feedback and top manager succession in the public sector",
    "abstract": "Facing performance pressure, public organizations frequently experience top manager turnover, yet how they select successors is understudied. This study argues negative performance feedback (NPF) critically influences successor origin. Based on 2,045 TM turnovers , we find that NPF reduces the odds of internal succession by 41.7%. Internal promotion history strengthens external successor selection by signalling a break from discredited routines, while exploratory learning emphasis reinforces external selection as strategic identity. This research advances public management by offering a dynamic, antecedent-based explanation for TM selection, challenging monolithic views of organizational history, and highlighting successor origin as a strategic governance tool.",
@@ -1694,25 +1656,6 @@
     "discretion"
    ],
    "abstract_zh": "公民參與被廣泛認可為民主治理的重要環節，然而實證研究往往根據所採用的方法來評估參與，而非其在行政程序中被組織的制度結構。本研究基於對289個接受聯邦區塊補助金的地方行政區的分析，將參與視為一種結構化的行政實踐，而非僅僅是各種參與方法的集合。透過對「綜合計畫」的歸納分析，本研究發展出四種參與結構的類型學：「最低限度合規」、「結構化諮詢」、「制度化諮詢」和「嵌入式參與」。"
-  },
-  {
-   "doi": "10.1111/puar.70178",
-   "title": "To Add Insult to Injury: Exploring the Impact of Policy Inequity on Administrative Burden",
-   "abstract": "The relationship between inequity and administrative burden constitutes a pivotal concern in the realm of public administration and policy, but how policy inequity (i.e., inequity in policy implementation) influences administrative burden has garnered scant attention. The present study employs data about public assistance programs in China spanning from 2015 to 2017 to examine the consequences of policy inequity on administrative burden. The empirical findings underscore that policy inequity augments psychological and compliance costs while concurrently diminishing citizens' participation in welfare programs, thereby indicating that policy inequity intensifies administrative burden. Notably, individual‐level social capital and contextual‐level information transparency in terms of public exposure related to welfare approval and receipt significantly moderate this relationship. Contrary to our theoretical expectations, social capital and public exposure amplify, rather than dampen, the impact of policy inequity on administrative burden. This study highlights the policy inequity lens and offers important implications for burden reduction.",
-   "authors": [
-    "Yongzheng Yang",
-    "Qingqing Zhang",
-    "Peng Liu"
-   ],
-   "journal": "Public Administration Review",
-   "url": "https://doi.org/10.1111/puar.70178",
-   "date": "2026-08-19",
-   "first_seen": "2026-08-19",
-   "score": 4.0,
-   "matched": [
-    "transparency"
-   ],
-   "abstract_zh": "不平等與行政負擔之間的關係在公共行政與政策領域中構成一個關鍵議題，但政策不平等（亦即政策執行中的不平等）如何影響行政負擔卻鮮少受到關注。本研究採用中國2015年至2017年公共援助計畫的資料，旨在檢視政策不平等對行政負擔的影響。實證結果顯示，政策不平等增加了心理成本與順從成本，同時降低了公民參與福利計畫的程度，藉此指出政策不平等加劇了行政負擔。值得注意的是，個體層次的社會資本以及情境層次上，在福利核准與領取相關的公開揭露方面的資訊透明度，顯著調節了此關係。與我們的理論預期相反，社會資本與公開揭露放大了而非減弱了政策不平等對行政負擔的影響。本研究強調了政策不平等的視角，並為減輕負擔提供了重要的啟示。"
   },
   {
    "doi": "10.1111/puar.70190",
@@ -1878,26 +1821,6 @@
     "diversity"
    ],
    "abstract_zh": "本研究探討在聯合國永續發展目標（SDGs）引入前後，永續人力資源管理（SHRM）如何被納入紐西蘭（Aotearoa/New Zealand）公部門的人力資源管理政策中。本研究採用對2010年至2021年間10個地方政府的人力資源管理政策進行縱貫性質性分析，探討永續性議題（涵蓋社會、經濟和環境面向）如何整合到公部門的人力資源管理中。研究結果顯示，永續性主要透過漸進式疊加到現有的人力資源管理框架中，而非透過轉型性變革，進入公部門的人力資源管理。在SDGs引入後，政策對公平性、多元性和福祉的關注有所增加；然而，更廣泛的社會正義承諾仍不均衡，而環境永續性則受到有限的關注。本研究將人力資源管理政策視為組織訊號，藉由揭示永續性優先事項如何在實施前被傳達，以及可能仍受制於法規遵循、效率、風險管理和組織績效等制度邏輯的限制，從而對公部門人力資源管理和永續人力資源管理學術領域做出貢獻。"
-  },
-  {
-   "doi": "10.1080/14719037.2026.2720049",
-   "title": "Public sector innovation management in the shadow: why the overlooked sibling still matters",
-   "abstract": "This paper examines innovation management as a deliberate organizational arrangement through which public organizations seek to remain relevant in contexts of uncertainty, technological and societal changes, and bureaucratic constraints. Drawing on a multiple-case study of five national police agencies, the study analyzes what works well and less well in systematic innovation management arrangements. While all agencies established innovation units with similar responsibilities, they differed in how innovation management systems were configured and sustained. Three configurations are identified – Strong Heavyweight, Light Heavyweight, and Lightweight – showing how enabling and constraining mechanisms help explain variation in innovation capacity across highly institutionalized public-sector contexts.",
-   "authors": [
-    "Marina Carelli Reis",
-    "Ana Paula Franco Paes Leme Barbosa",
-    "Jacob Brix",
-    "Mario Sergio Salerno"
-   ],
-   "journal": "Public Management Review",
-   "url": "https://doi.org/10.1080/14719037.2026.2720049",
-   "date": "2026-08-19",
-   "first_seen": "2026-08-19",
-   "score": 2.0,
-   "matched": [
-    "bureaucra"
-   ],
-   "abstract_zh": "本文旨在探討創新管理作為一種刻意的組織安排，公部門組織藉此在不確定性、科技與社會變遷以及官僚體制限制的脈絡中維持其重要性。本研究借鑒對五個國家警察機關的多案例研究，分析系統性創新管理安排中成效與不足之處。儘管各機關皆成立了職責相近的創新單位，但其創新管理系統的建構與維繫方式卻有所差異。本研究歸納出三種配置——強重量級、輕重量級和輕量級——揭示了促成與限制機制如何有助於解釋在高度制度化的公部門脈絡中創新能力的差異。"
   },
   {
    "doi": "10.1111/puar.70180",
@@ -2474,19 +2397,6 @@
    "abstract_zh": "英格蘭內戰時期政治論述中所使用的政治虛構，至今仍對當代公共政策與公共行政具有重要意義。主流公共行政論述過於頻繁地採用於此時期興起的單一且無限主權在民的虛構，使得公共行政在應對當代民粹政府的威權衝動時，顯得準備不足。為應對這些威權衝動，公共行政論述所需要的，並非傳統上主導本領域甚鉅的行政中立倫理，而是憲政主義倫理，此倫理借鑒了英格蘭平等派在英格蘭內戰時期，以及隨後由美國憲法制定者所闡述的個人虛構。"
   },
   {
-   "doi": "10.1111/puar.70229",
-   "title": "Issue Information",
-   "abstract": "The American Society for Public Administration (ASPA) is a nonpartisan organization of more than 9,000 scholars, administrators, public managers, and students in the United States, and abroad.ASPA is committed to the advancement of excellence in",
-   "authors": [],
-   "journal": "Public Administration Review",
-   "url": "https://doi.org/10.1111/puar.70229",
-   "date": "2026-11-09",
-   "first_seen": "2026-11-10",
-   "score": 2.0,
-   "matched": [],
-   "abstract_zh": "美國公共行政學會 (ASPA) 是一個無黨派組織，擁有超過九千名來自美國及海外的學者、行政人員、公共管理者及學生。ASPA 致力於促進卓越的發展，在"
-  },
-  {
    "doi": "10.1111/puar.70227",
    "title": "Celebrating 86 Years",
    "abstract": "",
@@ -2511,6 +2421,19 @@
    "score": 2.0,
    "matched": [],
    "abstract_zh": ""
+  },
+  {
+   "doi": "10.1111/puar.70229",
+   "title": "Issue Information",
+   "abstract": "The American Society for Public Administration (ASPA) is a nonpartisan organization of more than 9,000 scholars, administrators, public managers, and students in the United States, and abroad.ASPA is committed to the advancement of excellence in",
+   "authors": [],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70229",
+   "date": "2026-11-09",
+   "first_seen": "2026-11-10",
+   "score": 2.0,
+   "matched": [],
+   "abstract_zh": "美國公共行政學會 (ASPA) 是一個無黨派組織，擁有超過九千名來自美國及海外的學者、行政人員、公共管理者及學生。ASPA 致力於促進卓越的發展，在"
   },
   {
    "doi": "10.1177/02750740261478911",
