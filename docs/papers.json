@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T03:11:50+00:00",
+ "updated": "2026-11-19T02:52:01+00:00",
  "papers": [
   {
    "doi": "10.1111/puar.70201",
@@ -1416,26 +1416,6 @@
    "abstract_zh": "混合提供者福利制度的擴張，加劇了關於公立、非營利與營利機構提供服務所產生影響的爭論。既有研究主要關注效率、服務品質和公民的結果，但對於所有權轉換對員工的影響卻知之甚少。我們援引研究指出，所有權轉換可能破壞員工與組織的價值觀契合度，並改變激勵結構。本研究運用2015年至2019年挪威兒童照護服務的全國性行政資料，檢視所有權轉換是否與員工病假缺勤的變化相關。採用交錯式雙重差分設計，我們發現非營利轉為營利機構後，病假缺勤有所增加。同時，公立轉為營利機構的轉變與病假缺勤之間，幾乎沒有一致的關聯性。這些發現指出，員工對於所有權轉變的反應，與其說是受公私部門劃分影響，不如說是受組織宗旨與價值觀差異的影響。更廣泛地說，本研究突顯組織價值觀契合度可能是連結所有權安排與員工福祉的潛在機制，並指出非營利與營利之間的界線，對員工而言可能比傳統的公私部門劃分更具影響。"
   },
   {
-   "doi": "10.1111/puar.70185",
-   "title": "Democratic Backsliding and Governance Outcomes: Measuring Administrative and Political Channels of Decline",
-   "abstract": "Democratic backsliding has emerged as a defining political challenge of the contemporary era, yet systematic cross‐national evidence linking it to governance outcomes remains scarce. This article argues that backsliding affects governance through two analytically distinct channels: a political accountability channel, whereby weakened contestation and oversight reduce the external costs of poor performance; and an administrative channel, through which executive politicization erodes meritocratic recruitment and bureaucratic impartiality. Using a country‐year panel of 86 countries from 1996 to 2024 and generalized structural equation models, we decompose the direct, indirect, and total effects of backsliding on government effectiveness, regulatory quality, and control of corruption across stages of democratic decline. The findings show that governance deterioration is stage‐specific, channel‐specific, and outcome‐specific, following a nonlinear, U‐shaped pattern in which complete erosion—rather than autocratic reversion—produces the largest governance losses.",
-   "authors": [
-    "David Ibañez",
-    "Ricardo A. Bello‐Gómez"
-   ],
-   "journal": "Public Administration Review",
-   "url": "https://doi.org/10.1111/puar.70185",
-   "date": "2026-08-20",
-   "first_seen": "2026-08-20",
-   "score": 8.0,
-   "matched": [
-    "bureaucra",
-    "recruitment",
-    "corruption"
-   ],
-   "abstract_zh": "民主倒退已成為當代一個關鍵的政治挑戰，然而，將其與治理成果連結的系統性跨國證據仍然稀缺。本文主張，民主倒退透過兩個分析上截然不同的管道影響治理：一個是政治課責管道，藉此，弱化的競爭與監督降低了績效不佳的外部成本；另一個是行政管道，透過此，行政部門的政治化侵蝕了功績制招募與官僚公正性。運用涵蓋1996年至2024年間86個國家的國家-年度面板資料，並採用廣義結構方程模型，我們分解了民主倒退對於政府效能、法規品質與貪腐控制的直接、間接與總體效應，橫跨民主衰退的各個階段。研究結果顯示，治理惡化具有階段特定性、管道特定性與成果特定性，並呈現非線性、U型模式，其中，完全的侵蝕—而非專制復辟—導致了最大的治理損失。"
-  },
-  {
    "doi": "10.1111/puar.70187",
    "title": "Sifting Through: Federal Separations in 2025 and Their Implications for Knowledge Loss and Agency Capacity",
    "abstract": "The federal service experienced unprecedented turnover in the first year of the second Trump administration. Early reports have documented the substantial losses of personnel and the politicization and antagonism underlying those changes. This research breaks down separations over the past year, with a focus on the Deferred Resignation Program (DRP), to understand where turnover occurred and how it affected organizational knowledge and capacity. The analysis examines federal workforce data from January 2015 to December 2025 and reveals that the federal service lost substantial expertise and experience through both voluntary and involuntary means of separation. These results shed light on the fallout from 2025 executive actions, clarify the implications for government capacity, and point out prospective pathways for mitigating damages to the federal service moving forward.",
@@ -1821,23 +1801,6 @@
     "diversity"
    ],
    "abstract_zh": "本研究探討在聯合國永續發展目標（SDGs）引入前後，永續人力資源管理（SHRM）如何被納入紐西蘭（Aotearoa/New Zealand）公部門的人力資源管理政策中。本研究採用對2010年至2021年間10個地方政府的人力資源管理政策進行縱貫性質性分析，探討永續性議題（涵蓋社會、經濟和環境面向）如何整合到公部門的人力資源管理中。研究結果顯示，永續性主要透過漸進式疊加到現有的人力資源管理框架中，而非透過轉型性變革，進入公部門的人力資源管理。在SDGs引入後，政策對公平性、多元性和福祉的關注有所增加；然而，更廣泛的社會正義承諾仍不均衡，而環境永續性則受到有限的關注。本研究將人力資源管理政策視為組織訊號，藉由揭示永續性優先事項如何在實施前被傳達，以及可能仍受制於法規遵循、效率、風險管理和組織績效等制度邏輯的限制，從而對公部門人力資源管理和永續人力資源管理學術領域做出貢獻。"
-  },
-  {
-   "doi": "10.1111/puar.70180",
-   "title": "Expansive Public Service Delivery: Advancing Public Value Governance",
-   "abstract": "Public administration has traditionally emphasized the normative ideal that public agencies have a responsibility to improve the lives of communities through public service delivery. We turn to public libraries to explore possibilities for what we call Expansive Public Service Delivery. Expansive Public Service Delivery is defined by a mission to serve all, professional and ethical responsibilities, and proactive responsiveness through outreach and (re)assessment. Public libraries have long aimed to improve communities and advance democracy by providing open, free information access to all. Today, they also proactively seek to expand their services to underserved groups ensuring their relevance and mission achievement. This research draws from 25 in‐depth qualitative interviews to explore librarian narratives to identify four core responsibilities that constitute Expansive Public Service Delivery. We conclude with a discussion of how service for all, professionalism, ethical responsibility, and reflexive decision‐making around community needs can result in more vibrant, sustainable public organizations.",
-   "authors": [
-    "Mary K. Feeney",
-    "Julie Langer",
-    "Justin M. Stritch"
-   ],
-   "journal": "Public Administration Review",
-   "url": "https://doi.org/10.1111/puar.70180",
-   "date": "2026-08-20",
-   "first_seen": "2026-08-20",
-   "score": 2.0,
-   "matched": [],
-   "abstract_zh": "公共行政傳統上強調一種規範性理想，即公共機關負有透過公共服務提供來改善社區生活之責。本研究轉向公共圖書館，以探討我們稱之為「擴展性公共服務提供」的可能性。「擴展性公共服務提供」之定義為：以服務全民為使命，並透過外展服務與（重新）評估，展現專業與倫理責任及主動回應。公共圖書館長期以來致力於透過向全民提供開放且免費的資訊近用，以改善社區並促進民主。現今，他們也主動尋求將服務擴展至服務不足的族群，以確保其相關性與使命達成。本研究取材自 25 份深度質性訪談，探討圖書館員的敘事，以識別出構成擴展性公共服務提供的四項核心責任。本文最後將討論服務全民、專業精神、倫理責任以及圍繞社區需求的反思性決策，如何能促成更具活力且永續的公共組織。"
   },
   {
    "doi": "10.1111/padm.70085",
@@ -2397,17 +2360,17 @@
    "abstract_zh": "英格蘭內戰時期政治論述中所使用的政治虛構，至今仍對當代公共政策與公共行政具有重要意義。主流公共行政論述過於頻繁地採用於此時期興起的單一且無限主權在民的虛構，使得公共行政在應對當代民粹政府的威權衝動時，顯得準備不足。為應對這些威權衝動，公共行政論述所需要的，並非傳統上主導本領域甚鉅的行政中立倫理，而是憲政主義倫理，此倫理借鑒了英格蘭平等派在英格蘭內戰時期，以及隨後由美國憲法制定者所闡述的個人虛構。"
   },
   {
-   "doi": "10.1111/puar.70227",
-   "title": "Celebrating 86 Years",
-   "abstract": "",
+   "doi": "10.1111/puar.70229",
+   "title": "Issue Information",
+   "abstract": "The American Society for Public Administration (ASPA) is a nonpartisan organization of more than 9,000 scholars, administrators, public managers, and students in the United States, and abroad.ASPA is committed to the advancement of excellence in",
    "authors": [],
    "journal": "Public Administration Review",
-   "url": "https://doi.org/10.1111/puar.70227",
+   "url": "https://doi.org/10.1111/puar.70229",
    "date": "2026-11-09",
    "first_seen": "2026-11-10",
    "score": 2.0,
    "matched": [],
-   "abstract_zh": ""
+   "abstract_zh": "美國公共行政學會 (ASPA) 是一個無黨派組織，擁有超過九千名來自美國及海外的學者、行政人員、公共管理者及學生。ASPA 致力於促進卓越的發展，在"
   },
   {
    "doi": "10.1111/puar.70228",
@@ -2423,32 +2386,17 @@
    "abstract_zh": ""
   },
   {
-   "doi": "10.1111/puar.70229",
-   "title": "Issue Information",
-   "abstract": "The American Society for Public Administration (ASPA) is a nonpartisan organization of more than 9,000 scholars, administrators, public managers, and students in the United States, and abroad.ASPA is committed to the advancement of excellence in",
+   "doi": "10.1111/puar.70227",
+   "title": "Celebrating 86 Years",
+   "abstract": "",
    "authors": [],
    "journal": "Public Administration Review",
-   "url": "https://doi.org/10.1111/puar.70229",
+   "url": "https://doi.org/10.1111/puar.70227",
    "date": "2026-11-09",
    "first_seen": "2026-11-10",
    "score": 2.0,
    "matched": [],
-   "abstract_zh": "美國公共行政學會 (ASPA) 是一個無黨派組織，擁有超過九千名來自美國及海外的學者、行政人員、公共管理者及學生。ASPA 致力於促進卓越的發展，在"
-  },
-  {
-   "doi": "10.1177/02750740261478911",
-   "title": "Partisanship, Public Service Values, and Public Service Recognition Week Proclamations",
-   "abstract": "Since 1985, Public Service Recognition Week acknowledges the role of government employees in American democracy. Building upon the study of public service values, this research investigates gubernatorial proclamations issued in 2025, treating that years as a crucial case for the study of government employee recognition. Despite instability in the U.S. federal government, state-level proclamations illustrate a consistent emphasis on common public service values, including commitment, integrity, and professionalism. The analysis of proclamation content shows some variation in the values emphasized by the two major political parties, but no statistically discernable relationship between gubernatorial party and proclamation issuance. Still, only about one third of U.S. governors issued proclamations for Public Service Recognition Week in 2025, pointing to the need for ongoing scrutiny of employee recognition practices at the state and national level. This research closes by comparing state-level action to presidential proclamations from 1987 to 2024 and discusses implications for the application of public service value theory to the study of state government employment and employee recognition.",
-   "authors": [
-    "Eric S. Zeemering"
-   ],
-   "journal": "The American Review of Public Administration",
-   "url": "https://doi.org/10.1177/02750740261478911",
-   "date": "2026-08-20",
-   "first_seen": "2026-08-20",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": "自1985年起，公務人員表揚週旨在肯定公務人員在美國民主體制中的角色。本研究立基於對公共服務價值觀的研究，探討2025年發布的州長文告，將該年度視為研究政府員工表揚的關鍵案例。儘管美國聯邦政府存在不穩定性，州級文告仍展現出對共同公共服務價值觀的一致強調，包括奉獻、廉正和專業精神。對文告內容的分析顯示，兩大主要政黨在強調的價值觀上存在一些差異，但州長所屬政黨與文告發布之間並無統計上顯著的關聯。然而，僅約三分之一的美國州長在2025年發布了公務人員表揚週文告，這顯示需要持續審視州和國家層級的員工表揚做法。本研究最後透過比較州級行動與1987年至2024年間的總統文告，並討論了公共服務價值理論應用於州政府僱用和員工表揚研究的意涵。"
+   "abstract_zh": ""
   },
   {
    "doi": "10.1080/14719037.2026.2720045",
@@ -3296,6 +3244,37 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "本文檢視地方政府的成長，透過分析地方政府如何因應稅收自主權的提升，以及其回應是否受選民偏好所制約。具體而言，我們探討地方自治的財政影響，分別在轉變為地方自治地位（HRS）與選民偏好無關的情況下，以及選民選擇採行地方自治的情況下。我們發現，當HRS的改變與選民偏好無關時，地方自治對稅收總額沒有影響。然而，稅制結構轉變為更貼近中位數選民偏好的樣貌。相較之下，當選民選擇採行HRS時，稅收總額呈現顯著且持續的增長，其主要驅動力來自於財產稅和銷售稅的增加。這些發現表明，地方財政政策回應中位數選民的偏好。"
+  },
+  {
+   "doi": "10.1080/14719037.2026.2758287",
+   "title": "Building contract management capacity in government organizations: contrasting priorities of public and vendor managers",
+   "abstract": "",
+   "authors": [
+    "Morten Skov Madsen",
+    "Ole Helby Petersen"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2758287",
+   "date": "2026-11-18",
+   "first_seen": "2026-11-19",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.1080/14719037.2026.2765325",
+   "title": "Why do ‘public service satisfaction surveys’ dissatisfy many people? A process model of the implementation paradox emerging when policy implementation meets co-production fatigue",
+   "abstract": "",
+   "authors": [
+    "Guang Yang"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2765325",
+   "date": "2026-11-18",
+   "first_seen": "2026-11-19",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
   }
  ]
 }
