@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T02:52:01+00:00",
+ "updated": "2026-11-20T02:44:35+00:00",
  "papers": [
   {
    "doi": "10.1111/puar.70201",
@@ -111,28 +111,6 @@
     "difference-in-differences"
    ],
    "abstract_zh": "預測演算法在公共行政領域中日益被用於支援第一線決策，但關於其如何影響官僚能力的證據仍然有限。本研究利用NCANDS資料（2010-2023年）和堆疊雙重差分設計，檢視美國兒童保護服務中縣級預測篩選工具的採用情況。利用錯開式採納的特點，我發現開啟的調查案件總數沒有變化，但經證實的調查案件比例卻顯著下降（約15%）。這些結果與營運能力提升的說法不符，反而更符合錯誤分類侵蝕分析能力的解釋。這些發現與「常規化順從」的機制一致：在工作量和問責壓力下，演算法的建議可能成為程序上可辯護的預設選項。總體而言，本研究認為預測篩選並非預設就能提升能力，因為常規化順從可能損害官僚工作中至關重要的專業判斷。"
-  },
-  {
-   "doi": "10.1177/02750740261478901",
-   "title": "Why Street-Level Bureaucrats Leave: The Effects of Organizational Transparency and Role Conflict",
-   "abstract": "Street-level bureaucrats often lack workplace clarity, which contributes to higher turnover. Drawing on street-level bureaucracy theory and the Job Demands–Resources model, this study examines how organizational transparency and role conflict, two dimensions of workplace clarity, shape turnover intentions among social workers in Chinese nonprofit organizations. Using multilevel data from the China Social Work Longitudinal Study, we find that organizational transparency reduces and role conflict increases turnover intentions. Value fit mediates both relationships, and job autonomy moderates them by enhancing the benefits of organizational transparency and buffering the harms of role conflict. Findings validate the extension of street-level bureaucracy theory to the nonprofit context and offer actionable insights for improving workforce stability in a complex governance environment.",
-   "authors": [
-    "Tingzhong Huang",
-    "Wenyan Tu"
-   ],
-   "journal": "The American Review of Public Administration",
-   "url": "https://doi.org/10.1177/02750740261478901",
-   "date": "2026-08-21",
-   "first_seen": "2026-08-21",
-   "score": 56.0,
-   "matched": [
-    "street-level bureaucrat",
-    "street-level",
-    "bureaucra",
-    "turnover",
-    "transparency"
-   ],
-   "abstract_zh": "街頭官僚常缺乏工作場域清晰度，此乃導致較高離職率的原因。本研究援引街頭官僚理論與工作要求-資源模型，探討組織透明度與角色衝突（此為工作場域清晰度的兩個面向）如何影響中國非營利組織社工人員的離職意圖。運用「中國社會工作縱貫研究」的多層次資料，我們發現組織透明度降低離職意圖，而角色衝突則提高離職意圖。價值契合中介這兩種關係，而工作自主性則透過增強組織透明度的益處並緩衝角色衝突的危害來調節這些關係。研究結果驗證了街頭官僚理論在非營利場域的延伸性，並為在複雜治理環境中提升勞動力穩定性提供了具體可行的見解。"
   },
   {
    "doi": "10.1111/puar.70195",
@@ -410,8 +388,8 @@
   },
   {
    "doi": "10.1093/jopart/muag040",
-   "title": "The Effect of Clients’ Financial Resources, Mental Health, and Motivation on Frontline Workers’ Burden Reduction and Prioritizations",
-   "abstract": "The street-level bureaucracy literature shows that frontline workers’ decisions about clients are shaped by perceptions of deservingness based on clients’ demographic characteristics and behavioral conduct. Yet, we know little about whether frontline workers also act on clients’ financial resources and mental health, despite the administrative burden literature identifying these two factors as central to how citizens experience compliance demands. We contribute to both literatures by developing and testing preregistered hypotheses that examine how information about clients’ financial resources and mental health shapes frontline workers’ burden reduction and client prioritization. To do this, we run a large-scale vignette experiment with 775 caseworkers across 39 Danish unemployment agencies, manipulating client age, financial situation, mental health, and motivation but holding gender constant (all clients were male). We find strong evidence that caseworkers reduce burdens and prioritize clients with mental health issues and–consistent with prior work–clients displaying high motivation, alongside some evidence for clients struggling with financial hardship. Importantly, mental health appears more consequential than motivation and financial resources. Contrary to our preregistered expectation, clients with mental health issues received the most support when they also displayed low as opposed to high motivation. Rather than indicating that frontline workers reward low motivation, this pattern most likely reflects that caseworkers interpret low motivation as a symptom of the underlying condition, and thus as a signal of greater need. Our findings show how frontline discretion can operate as a redistributive mechanism that channels support toward clients signaling the greatest need.",
+   "title": "The effect of clients’ financial resources, mental health, and motivation on frontline workers’ burden reduction and prioritizations",
+   "abstract": "The street-level bureaucracy literature shows that frontline workers’ decisions about clients are shaped by perceptions of deservingness based on clients’ demographic characteristics and behavioral conduct. Yet, we know little about whether frontline workers also act on clients’ financial resources and mental health, despite the administrative burden literature identifying these two factors as central to how citizens experience compliance demands. We contribute to both literatures by developing and testing preregistered hypotheses that examine how information about clients’ financial resources and mental health shapes frontline workers’ burden reduction and client prioritization. To do this, we run a large-scale vignette experiment with 775 caseworkers across thirty-nine Danish unemployment agencies, manipulating client age, financial situation, mental health, and motivation but holding gender constant (all clients were male). We find strong evidence that caseworkers reduce burdens and prioritize clients with mental health issues and—consistent with prior work—clients displaying high motivation, alongside some evidence for clients struggling with financial hardship. Importantly, mental health appears more consequential than motivation and financial resources. Contrary to our preregistered expectation, clients with mental health issues received the most support when they also displayed low as opposed to high motivation. Rather than indicating that frontline workers reward low motivation, this pattern most likely reflects that caseworkers interpret low motivation as a symptom of the underlying condition and thus as a signal of greater need. Our findings show how frontline discretion can operate as a redistributive mechanism that channels support toward clients signaling the greatest need.",
    "authors": [
     "Niels Bjørn Grund Petersen",
     "Jonas Krogh Madsen"
@@ -855,6 +833,25 @@
     "llm"
    ],
    "abstract_zh": "機器人與大型語言模型（LLM）代理程式現已能以足夠的說服力完成線上問卷調查，並冒充真實受訪者。此風險雖在其他領域早已被指出，但在公共管理研究中卻鮮少被探討。本研究筆記借鑒了先前驗證線上樣本庫問卷回應的努力中，所發現的令人沮喪的實證結果，描繪了旨在確保代表加拿大聯邦部會向公民進行問卷調查的公司所收集資料完整性的相關努力。此案例研究可能代表了各國及各級政府在線上問卷調查實務上所面臨的挑戰。"
+  },
+  {
+   "doi": "10.1080/10967494.2026.2758171",
+   "title": "Representative bureaucracy and the career trajectories of female STEM students: a retrospective interview study",
+   "abstract": "",
+   "authors": [
+    "Maayan Davidovitz",
+    "Rachel Gali Cinamon"
+   ],
+   "journal": "International Public Management Journal",
+   "url": "https://doi.org/10.1080/10967494.2026.2758171",
+   "date": "2026-11-19",
+   "first_seen": "2026-11-20",
+   "score": 20.0,
+   "matched": [
+    "representative bureaucracy",
+    "bureaucra"
+   ],
+   "abstract_zh": ""
   },
   {
    "doi": "10.1111/puar.70205",
@@ -1416,6 +1413,25 @@
    "abstract_zh": "混合提供者福利制度的擴張，加劇了關於公立、非營利與營利機構提供服務所產生影響的爭論。既有研究主要關注效率、服務品質和公民的結果，但對於所有權轉換對員工的影響卻知之甚少。我們援引研究指出，所有權轉換可能破壞員工與組織的價值觀契合度，並改變激勵結構。本研究運用2015年至2019年挪威兒童照護服務的全國性行政資料，檢視所有權轉換是否與員工病假缺勤的變化相關。採用交錯式雙重差分設計，我們發現非營利轉為營利機構後，病假缺勤有所增加。同時，公立轉為營利機構的轉變與病假缺勤之間，幾乎沒有一致的關聯性。這些發現指出，員工對於所有權轉變的反應，與其說是受公私部門劃分影響，不如說是受組織宗旨與價值觀差異的影響。更廣泛地說，本研究突顯組織價值觀契合度可能是連結所有權安排與員工福祉的潛在機制，並指出非營利與營利之間的界線，對員工而言可能比傳統的公私部門劃分更具影響。"
   },
   {
+   "doi": "10.1080/14719037.2026.2765325",
+   "title": "Why do ‘public service satisfaction surveys’ dissatisfy many people? A process model of the implementation paradox emerging when policy implementation meets co-production fatigue",
+   "abstract": "Governments worldwide, in pursuing good governance, have increasingly routinized public service satisfaction surveys to advance accountability, responsiveness, and integrated performance. However, when these instruments are institutionalized as performance devices and embedded in hierarchical systems, they may paradoxically generate dissatisfaction among street-level bureaucrats and citizens alike in practice. Employing the Gioia methodology for systematic inductive analysis across five cases in China, this study identifies five aggregate dimensions explaining this contradiction: Ambiguity and Clarity in Policy Potential, Misalignment of Policy Capacity, Policy Compliance Decoupling, Co-production Fatigue, and Feedback Spillover Effect. The primary theoretical contribution is the ‘Dialectic of Policy Implementation Framework’, which integrates four interactive domains and synthesizes temporal and spatial dimensions to elucidate policy implementation processes. Conceptualizing the multidimensional, recursive dynamics of the paradoxical consequences in evaluation systems, the framework advances public administration theory while also proposing a governance pathway optimized through a feedback loop of learning, adaptation, and evaluation.",
+   "authors": [
+    "Guang Yang"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2765325",
+   "date": "2026-11-18",
+   "first_seen": "2026-11-19",
+   "score": 9.0,
+   "matched": [
+    "street-level bureaucrat",
+    "street-level",
+    "bureaucra"
+   ],
+   "abstract_zh": "全球各國政府為追求良善治理，益發常態化地推行公共服務滿意度調查，以提升課責性、回應性及整合性績效。然而，當這些工具被制度化為績效評估工具並嵌入層級體系中時，它們在實務上卻可能弔詭地造成基層公務員和民眾的不滿。本研究運用Gioia方法，針對中國的五個案例進行系統性歸納分析，歸納出解釋此矛盾的五個總體面向：政策潛力之模糊與清晰、政策能力之錯位、政策遵循脫鉤、協力生產疲勞，以及回饋溢出效應。本研究主要的理論貢獻是「政策執行辯證框架」，此框架整合了四個互動領域，並綜合了時間與空間維度，以闡明政策執行過程。此框架將評估系統中弔詭結果的多維度、遞迴動態概念化，進而推進了公共行政理論，同時也提出了一條透過學習、調適與評估之回饋循環而優化的治理路徑。"
+  },
+  {
    "doi": "10.1111/puar.70187",
    "title": "Sifting Through: Federal Separations in 2025 and Their Implications for Knowledge Loss and Agency Capacity",
    "abstract": "The federal service experienced unprecedented turnover in the first year of the second Trump administration. Early reports have documented the substantial losses of personnel and the politicization and antagonism underlying those changes. This research breaks down separations over the past year, with a focus on the Deferred Resignation Program (DRP), to understand where turnover occurred and how it affected organizational knowledge and capacity. The analysis examines federal workforce data from January 2015 to December 2025 and reveals that the federal service lost substantial expertise and experience through both voluntary and involuntary means of separation. These results shed light on the fallout from 2025 executive actions, clarify the implications for government capacity, and point out prospective pathways for mitigating damages to the federal service moving forward.",
@@ -1765,6 +1781,23 @@
    "abstract_zh": "政府逐漸導入聊天機器人以減輕行政負擔並提升服務品質，然而公民使用意願仍有限。本研究援引推力理論，探討資訊框架與預設選項如何影響公民於公共服務領域使用聊天機器人的意願。本研究透過在中國進行的問卷實驗，結果顯示暴露於損失框架的參與者比暴露於獲益框架的參與者更願意使用聊天機器人。單獨的預設選項並未顯著影響意願。然而，資訊框架與預設選項之間的交互作用具有顯著性。具體而言，損失框架資訊對公民使用聊天機器人意願的正面影響，在預設選項存在時更強，這表明預設選項會放大損失框架的效果。總體而言，本研究提供了實務見解，以設計策略來促進聊天機器人於公共服務領域的導入。"
   },
   {
+   "doi": "10.1093/jopart/muag033",
+   "title": "“Unseen and unheard”: Recognition and Its Role in Shaping Administrative Burden",
+   "abstract": "Administrative burden scholarship has identified psychological costs alongside learning and compliance costs, yet the category remains homogeneous, grouping stigma, diminished autonomy, and stress, without a shared organizing principle. This article advances a mechanism-level account centered on recognition, drawing on a qualitative case study of claiming disability benefits in Israel, based on in-depth interviews with 33 individuals (16 young adults with diagnosed mental health conditions and 17 social and outreach workers). We argue that recognition, and its denial, are part of the mechanism through which psychological costs are produced, and that whether an encounter carries a message about a person's standing sorts the category into three analytically distinct types. Affective costs are emotional responses to procedural load and involve no recognition; primary symbolic costs are emotional responses to status positioning; and secondary symbolic costs arise when procedural load itself carries a message about standing. The latter two, in which recognition is at stake, are traced through Honneth's three spheres of rights, solidarity, and care, each producing its own configuration of costs. The types differ in their causes and remedies, with affective costs calling for efficiency reforms and symbolic costs for recognition-oriented ones. Social workers emerge as allies who counter misrecognition, and drawing on these findings we propose bureaucratic recognition, the building of voice, certainty, and validation into procedural design, as a remedy for status-related costs. Finally, misrecognition both constitutes symbolic costs and compounds others, positioning status, alongside distribution, as a critical axis of administrative burden.",
+   "authors": [
+    "Noam Tarshish"
+   ],
+   "journal": "Journal of Public Administration Research and Theory",
+   "url": "https://doi.org/10.1093/jopart/muag033",
+   "date": "2026-11-18",
+   "first_seen": "2026-11-20",
+   "score": 4.0,
+   "matched": [
+    "bureaucra"
+   ],
+   "abstract_zh": "行政負擔研究已指出除了學習與遵循成本外，還有心理成本，然而此類別仍顯同質，將污名、自主性減損及壓力歸為一類，卻缺乏共通的組織原則。本文提出一種以認可為核心的機制層次論述，根據一項針對以色列身心障礙福利申請的質性個案研究，該研究奠基於對33位受訪者的深度訪談（包括16位經診斷患有精神健康問題的年輕成人，以及17位社工和外展工作者）。我們主張，認可及其否認是產生心理成本的機制之一，而一次互動是否傳達了關於個人地位的訊息，則將此類別區分為三種分析上截然不同的類型。情感成本是對程序負擔的情緒反應，且不涉及認可；初級象徵成本是對地位定位的情緒反應；而次級象徵成本則在程序負擔本身傳達了關於地位的訊息時產生。後兩者，其中認可攸關重大，透過霍耐特（Honneth）的權利、團結與關懷三個領域進行追溯，每個領域都產生其獨特的成本配置。這些類型在成因和補救措施上有所不同，情感成本需要效率改革，而象徵成本則需要認可導向的改革。社工人員成為反制錯誤認可的盟友，根據這些發現，我們提出將發聲、確定性與驗證納入程序設計的「官僚認可」，作為地位相關成本的補救措施。最後，錯誤認可既構成象徵成本，也加劇其他成本，將地位與分配並列，成為行政負擔的關鍵軸線。"
+  },
+  {
    "doi": "10.1080/14719037.2026.2748382",
    "title": "How collaborative platforms shape power dynamics and outcomes in local collaboration: evidence from disaster mitigation planning",
    "abstract": "Federal and state governments increasingly adopt collaborative governance as a policy instrument, using collaborative platforms to foster multiple local collaborations. While collaborative platforms provide design rules and resources to facilitate collaborations, it remains unclear whether they promote equitable distribution of outputs within local collaborations. This study examines how following collaborative platforms’ membership rules and support mechanisms shape power asymmetries and equitable distribution of benefits among participants. We focus on local disaster mitigation planning in Florida, where the Florida Division of Emergency Management serves as a state-level collaborative platform supporting local collaborative planning. Drawing on quantitative and qualitative data, we find that membership rules provide a foundation for initiating collaboration. Specifically, collaborative groups following rules recommending department representation with specialized knowledge are more likely to prioritize projects from smaller jurisdictions. In addition, including platform representatives to provide personnel support serves as an effective mechanism for ensuring equitable collaboration.",
@@ -1801,29 +1834,6 @@
     "diversity"
    ],
    "abstract_zh": "本研究探討在聯合國永續發展目標（SDGs）引入前後，永續人力資源管理（SHRM）如何被納入紐西蘭（Aotearoa/New Zealand）公部門的人力資源管理政策中。本研究採用對2010年至2021年間10個地方政府的人力資源管理政策進行縱貫性質性分析，探討永續性議題（涵蓋社會、經濟和環境面向）如何整合到公部門的人力資源管理中。研究結果顯示，永續性主要透過漸進式疊加到現有的人力資源管理框架中，而非透過轉型性變革，進入公部門的人力資源管理。在SDGs引入後，政策對公平性、多元性和福祉的關注有所增加；然而，更廣泛的社會正義承諾仍不均衡，而環境永續性則受到有限的關注。本研究將人力資源管理政策視為組織訊號，藉由揭示永續性優先事項如何在實施前被傳達，以及可能仍受制於法規遵循、效率、風險管理和組織績效等制度邏輯的限制，從而對公部門人力資源管理和永續人力資源管理學術領域做出貢獻。"
-  },
-  {
-   "doi": "10.1111/padm.70085",
-   "title": "Face‐to‐Face With Administrative Burdens: Design Simplification, Emotional Costs, and Procedural Outcomes in Digital Welfare Applications",
-   "abstract": "Recent scholarship on administrative burden has increasingly focused on psychological costs, design interventions, and digital burdens. This study combines these interests and examines the psychological costs of negative emotions during administrative encounters at varying levels of digital maturity. Building on affective events theory and employing facial coding in a controlled experiment, the study demonstrates that negative emotions rise during bureaucratic encounters, with frustration resulting in more errors made by applicants. Simplifying the procedure through pre‐filled forms does not reduce negative emotional arousal; however, it enhances satisfaction with the procedure. Vulnerable citizens, as indicated by low education and foreign citizenship, benefit more from this informational integration than other groups, suggesting that procedural redesign can enhance the inclusiveness of public service delivery. Overall, the research advances both scholarly and practical understanding of the emotional dimension of administrative burdens from a process‐oriented perspective, highlighting the persistent challenge of reducing emotional costs to enhance citizen experiences.",
-   "authors": [
-    "Fabian Hattke",
-    "Judith Hattke",
-    "David Hensel",
-    "Pamela Herd",
-    "Janne Kalucza",
-    "Donald Moynihan",
-    "Rick Vogel"
-   ],
-   "journal": "Public Administration",
-   "url": "https://doi.org/10.1111/padm.70085",
-   "date": "2026-08-21",
-   "first_seen": "2026-08-21",
-   "score": 2.0,
-   "matched": [
-    "bureaucra"
-   ],
-   "abstract_zh": "近期關於行政負擔的學術研究越來越關注心理成本、設計介入和數位負擔。本研究結合這些關注點，探討在不同數位成熟度下，行政互動中負面情緒所產生的心理成本。本研究立基於情感事件理論，並在一項控制實驗中採用臉部編碼，結果顯示在官僚互動中負面情緒會升高，且挫折感會導致申請人犯下更多錯誤。透過預填表格簡化程序並未減少負面情緒的激發；然而，它卻能提升對程序的滿意度。弱勢公民，表現為低教育程度和外國公民身份者，從這種資訊整合中獲益比其他群體更多，這表明程序再設計能提升公共服務提供的包容性。總體而言，本研究從過程導向的角度，增進了學術和實務兩方面對行政負擔情感層面的理解，突顯了減少情感成本以提升公民體驗的持續挑戰。"
   },
   {
    "doi": "10.1080/14719037.2026.2720043",
@@ -2373,19 +2383,6 @@
    "abstract_zh": "美國公共行政學會 (ASPA) 是一個無黨派組織，擁有超過九千名來自美國及海外的學者、行政人員、公共管理者及學生。ASPA 致力於促進卓越的發展，在"
   },
   {
-   "doi": "10.1111/puar.70228",
-   "title": "American Society for Public Administration Code of Ethics",
-   "abstract": "",
-   "authors": [],
-   "journal": "Public Administration Review",
-   "url": "https://doi.org/10.1111/puar.70228",
-   "date": "2026-11-09",
-   "first_seen": "2026-11-10",
-   "score": 2.0,
-   "matched": [],
-   "abstract_zh": ""
-  },
-  {
    "doi": "10.1111/puar.70227",
    "title": "Celebrating 86 Years",
    "abstract": "",
@@ -2399,24 +2396,17 @@
    "abstract_zh": ""
   },
   {
-   "doi": "10.1080/14719037.2026.2720045",
-   "title": "Towards inclusive prosperity: comparative analysis of Indigenous procurement policies in Canada, Australia, and New Zealand",
-   "abstract": "Indigenous procurement is widely promoted as an instrument of economic reconciliation, yet headline gains often mask limited transformational impact. Applying McCrudden’s social procurement framework, we conduct a systematic cross-national comparison of identity-specific procurement architectures across Canada, Australia, and Aotearoa New Zealand. We show that contract values cluster heavily within major metropolitan hubs and narrow industry sectors, leaving remote and early-stage community enterprises marginalized. Furthermore, persistent cross-national data gaps and aggregated reporting conceal these structural inequities while enabling policy distortions like fronting. We recommend structural reforms including regional benchmarks and independent auditing to align procurement with genuine Indigenous economic sovereignty.",
-   "authors": [
-    "Irene Henriques",
-    "Rick Colbourne",
-    "Christian Eva",
-    "Jesse Pirini",
-    "Barbara Allen",
-    "Ana Maria Peredo"
-   ],
-   "journal": "Public Management Review",
-   "url": "https://doi.org/10.1080/14719037.2026.2720045",
-   "date": "2026-08-21",
-   "first_seen": "2026-08-21",
-   "score": 0.0,
+   "doi": "10.1111/puar.70228",
+   "title": "American Society for Public Administration Code of Ethics",
+   "abstract": "",
+   "authors": [],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70228",
+   "date": "2026-11-09",
+   "first_seen": "2026-11-10",
+   "score": 2.0,
    "matched": [],
-   "abstract_zh": "原住民族採購被廣泛推廣為實現經濟和解的工具，然而其帳面成果往往掩蓋了有限的轉型成效。應用McCrudden的社會採購框架，我們對加拿大、澳洲和奧特亞羅瓦紐西蘭的身份特定採購架構進行了系統性的跨國比較。我們發現契約金額大量集中於主要都會區和狹窄的產業部門，使得偏遠地區及初期發展的社區企業遭到邊緣化。此外，持續存在的跨國資料缺口和彙總報告掩蓋了這些結構性不平等，同時助長了掛名行為等政策扭曲。我們建議進行結構性改革，包括區域性基準和獨立稽核，以使採購與真正的原住民族經濟主權保持一致。"
+   "abstract_zh": ""
   },
   {
    "doi": "10.1111/padm.70087",
@@ -3248,7 +3238,7 @@
   {
    "doi": "10.1080/14719037.2026.2758287",
    "title": "Building contract management capacity in government organizations: contrasting priorities of public and vendor managers",
-   "abstract": "",
+   "abstract": "Governments build contract management capacity to improve their contracting practice and performance. Because this may have implications for vendors, assessing governments’ contract management capacity not only from a government but also a vendor perspective can promote understanding of this important organizational capacity and help identify capacity gaps. However, such accounts are rare. Drawing on theories of formal and relational contracting, this article examines which contract management skills public managers need to improve, according to public managers and vendor managers. Survey data from Denmark (n = 364, including public contract managers and vendor managers) reveal significant disagreement: public managers prioritize formal contract governance skills, whereas vendors prioritize relational contract governance skills, with the exception that both parties prioritize contract design. The article shows how governments and vendors value government investments in formal and relational contract management capacity differently and illustrate the utility of analysing this capacity from both perspectives.",
    "authors": [
     "Morten Skov Madsen",
     "Ole Helby Petersen"
@@ -3259,19 +3249,56 @@
    "first_seen": "2026-11-19",
    "score": 0.0,
    "matched": [],
+   "abstract_zh": "政府建立合約管理能力，以改善其合約實務與績效。由於這可能對供應商產生影響，因此若能不僅從政府角度，也從供應商角度評估政府的合約管理能力，將能促進對此重要組織能力的理解，並有助於找出能力落差。然而，此類探討甚為罕見。本文借鑒正式合約與關係合約理論，探討根據公部門經理人與供應商經理人的看法，公部門經理人需要改進哪些合約管理技能。來自丹麥的調查數據（n = 364，包括公部門合約經理人與供應商經理人）顯示出顯著分歧：公部門經理人優先考慮正式合約治理技能，而供應商則優先考慮關係合約治理技能，唯一的例外是雙方都優先考慮合約設計。本文揭示了政府與供應商如何不同地看待政府在正式與關係合約管理能力上的投資，並闡明了從這兩種角度分析此能力的實用性。"
+  },
+  {
+   "doi": "10.1080/14719037.2026.2765333",
+   "title": "Captured governance and diagnostic infrastructures: evidence from municipalities dissolved for mafia infiltration",
+   "abstract": "",
+   "authors": [
+    "Francesco Ambrosini",
+    "Ilaria Campagna",
+    "Federico Longhin",
+    "Antonio Parbonetti"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2765333",
+   "date": "2026-11-19",
+   "first_seen": "2026-11-20",
+   "score": 0.0,
+   "matched": [],
    "abstract_zh": ""
   },
   {
-   "doi": "10.1080/14719037.2026.2765325",
-   "title": "Why do ‘public service satisfaction surveys’ dissatisfy many people? A process model of the implementation paradox emerging when policy implementation meets co-production fatigue",
+   "doi": "10.1080/14719037.2026.2765743",
+   "title": "Beyond the bright-dark binary of co-production: a paradox lens on co-assessment",
    "abstract": "",
    "authors": [
-    "Guang Yang"
+    "Martina Pisarra",
+    "Marta Ingaggiati",
+    "Giovanni Barbato",
+    "Adina Iulia Dudau"
    ],
    "journal": "Public Management Review",
-   "url": "https://doi.org/10.1080/14719037.2026.2765325",
-   "date": "2026-11-18",
-   "first_seen": "2026-11-19",
+   "url": "https://doi.org/10.1080/14719037.2026.2765743",
+   "date": "2026-11-19",
+   "first_seen": "2026-11-20",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.1080/14719037.2026.2764194",
+   "title": "Public manager learning in citizens’ assemblies: phases, outcomes and knowledge institutionalization",
+   "abstract": "",
+   "authors": [
+    "Precious Unegbu",
+    "Claire Dupont"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2764194",
+   "date": "2026-11-19",
+   "first_seen": "2026-11-20",
    "score": 0.0,
    "matched": [],
    "abstract_zh": ""
