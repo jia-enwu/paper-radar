@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T02:44:35+00:00",
+ "updated": "2026-11-21T02:54:49+00:00",
  "papers": [
   {
    "doi": "10.1111/puar.70201",
@@ -636,8 +636,8 @@
   },
   {
    "doi": "10.1093/jopart/muag037",
-   "title": "Toward an “Identity Turn” in Public Service Motivation Theory: A Problematizing Review and Research Agenda",
-   "abstract": "Since its inception, Public Service Motivation (PSM) has been recognized as a key driver of behavior in public institutions. Despite its prominence, skepticism has emerged. In response, research has primarily focused on empirical analysis and measurement refinement rather than on conceptual development. This conceptual path dependency has become problematic as mixed empirical results increasingly challenge core theoretical propositions of PSM theory. We argue that one potential cause lies in a dominant assumption shaping the field: its positioning within motivation theory. To address this, we conducted a problematizing review across concepts and disciplines, comparing how PSM is understood in Public Administration with related concepts–such as motivation, altruism, and identity–in Management, Psychology, Sociology, and Economics. Based on this analysis, we propose a novel theoretical framework that reconceptualizes PSM as a social identity. In doing so, we outline a research agenda that (i) revises PSM’s core conceptual features and develops a new measurement approach informed by identity theory; (ii) introduces new ways of understanding PSM's functioning through identity work theory; and (iii) situates PSM theory within the broader debate on the “identity turn” in motivation research, highlighting its potential contribution to this multidisciplinary discourse.",
+   "title": "Toward an “identity turn” in public service motivation theory: a problematizing review and research agenda",
+   "abstract": "Since its inception, Public Service Motivation (PSM) has been recognized as a key driver of behavior in public institutions. Despite its prominence, skepticism has emerged. In response, research has primarily focused on empirical analysis and measurement refinement rather than on conceptual development. This conceptual path dependency has become problematic as mixed empirical results increasingly challenge core theoretical propositions of PSM theory. We argue that one potential cause lies in a dominant assumption shaping the field: its positioning within motivation theory. To address this, we conducted a problematizing review across concepts and disciplines, comparing how PSM is understood in Public Administration with related concepts—such as motivation, altruism, and identity—in Management, Psychology, Sociology, and Economics. Based on this analysis, we propose a novel theoretical framework that reconceptualizes PSM as a social identity. In doing so, we outline a research agenda that (1) revises PSM’s core conceptual features and develops a new measurement approach informed by identity theory; (2) introduces new ways of understanding PSM’s functioning through identity work theory; and (3) situates PSM theory within the broader debate on the “identity turn” in motivation research, highlighting its potential contribution to this multidisciplinary discourse.",
    "authors": [
     "Lorenza Micacchi",
     "Adrian Ritz"
@@ -942,8 +942,8 @@
   },
   {
    "doi": "10.1093/jopart/muag038",
-   "title": "Every Mile Counts: Geographical Distance as Administrative Burden in Intellectual Property Services",
-   "abstract": "While existing research has examined procedural and informational sources of administrative burden, this paper examines how organizational design choices about the geographic location of administrative authority institutionalize spatial burdens on firms. We leverage China's decentralization reform in trademark registration services as a natural experiment to test this theory. This reform reduced geographic distance by establishing local acceptance windows across the country from 2016 to 2019. Prior to this reform, trademark applications had to be submitted exclusively at the centralized Beijing office, imposing substantial geographic barriers on firms nationwide. Using a unique dataset covering over 37 million trademark applications from 294 Chinese cities, we employ a staggered difference-in-differences approach to estimate the causal effects of reduced geographic distance on trademark filings. We find that establishing local acceptance windows increased trademark applications by approximately 4.4 percent, or roughly 209,000 additional filings in 2019 alone. Moreover, the reform generated compound distributional outcomes: small and medium-sized enterprises responded more strongly than larger firms, and the new applicants drawn into the trademark system were concentrated in cities with thinner infrastructure. Mechanism analysis confirms that this increase is primarily driven by distance reduction rather than improvements in administrative efficiency or reductions in corruption. The findings provide large-scale causal evidence on the behavioral consequences of redistributing administrative service delivery across space, demonstrating that physical accessibility remains crucial for equitable service uptake even amid the digital transformation of administrative services.",
+   "title": "Every mile counts: geographical distance as administrative burden in intellectual property services",
+   "abstract": "While existing research has examined procedural and informational sources of administrative burden, this article examines how organizational design choices about the geographic location of administrative authority institutionalize spatial burdens on firms. We leverage China’s decentralization reform in trademark registration services as a natural experiment to test this theory. This reform reduced geographic distance by establishing local acceptance windows across the country from 2016 to 2019. Prior to this reform, trademark applications had to be submitted exclusively at the centralized Beijing office, imposing substantial geographic barriers on firms nationwide. Using a unique dataset covering over 37 million trademark applications from 294 Chinese cities, we employ a staggered difference-in-differences approach to estimate the causal effects of reduced geographic distance on trademark filings. We find that establishing local acceptance windows increased trademark applications by approximately 4.4 percent, or roughly 209,000 additional filings in 2019 alone. Moreover, the reform generated compound distributional outcomes: small and medium-sized enterprises responded more strongly than larger firms, and the new applicants drawn into the trademark system were concentrated in cities with thinner infrastructure. Mechanism analysis confirms that this increase is primarily driven by distance reduction rather than improvements in administrative efficiency or reductions in corruption. The findings provide large-scale causal evidence on the behavioral consequences of redistributing administrative service delivery across space, demonstrating that physical accessibility remains crucial for equitable service uptake even amid the digital transformation of administrative services.",
    "authors": [
     "Shenghua Lu"
    ],
@@ -959,28 +959,6 @@
     "natural experiment"
    ],
    "abstract_zh": "現有研究已探討行政負擔的程序性與資訊性來源，本文則檢視關於行政權限地理位置的組織設計選擇，如何將空間負擔制度化於企業。我們利用中國商標註冊服務的去中心化改革作為自然實驗，以驗證此理論。此改革透過在2016年至2019年間於全國各地設立地方受理窗口，縮短了地理距離。在此改革之前，商標申請必須專門向集中的北京辦公室提交，對全國企業造成巨大的地理障礙。我們使用涵蓋來自294個中國城市、超過3700萬件商標申請的獨特資料集，採用錯位雙重差分法來估計地理距離縮短對商標申請量的因果效應。我們發現，設立地方受理窗口使商標申請量增加了約4.4%，僅2019年就額外增加了約209,000件申請。此外，此改革產生了複合式分佈結果：中小型企業比大型企業反應更為強烈，而新進入商標系統的申請者則集中在基礎設施較薄弱的城市。機制分析證實，此增長主要由距離縮短所驅動，而非行政效率的提升或腐敗的減少。研究結果提供了大規模的因果證據，說明在空間上重新分配行政服務提供所帶來的行為後果，證明即使在行政服務數位轉型之際，實體可近性對於公平地獲取服務仍然至關重要。"
-  },
-  {
-   "doi": "10.1111/puar.70188",
-   "title": "Tax Mobilization in Africa: Is the Secret Hidden in Women's Political Empowerment?",
-   "abstract": "This article examines the effects of women's political empowerment (WPE) on tax revenue mobilization using a panel sample of 41 African countries over the 2000–2022 period. Utilizing the system Generalized Method of Moments, the empirical results demonstrate that WPE significantly enhances tax revenue mobilization in Africa. This finding remains robust to alternative measures of both WPE and tax revenue. Furthermore, beyond a specific turning point, increased WPE tends to diminish tax revenue mobilization. Finally, the study highlights that WPE operates through several transmission channels, including corruption control, the size of the informal economy, and female labor force participation. In terms of public policy, strengthening gender quotas within the African political sphere is crucial to enhancing tax mobilization. Nonetheless, given the threshold effects identified in this relationship, policymakers must prioritize the quality of women's political representation rather than focusing solely on increasing their numerical representation within political decision‐making circles.",
-   "authors": [
-    "Gaston Brice Nkoumou Ngoa",
-    "Donald Ferdinand Okere Atanga",
-    "Marie Laure Belomo Onguene"
-   ],
-   "journal": "Public Administration Review",
-   "url": "https://doi.org/10.1111/puar.70188",
-   "date": "2026-08-22",
-   "first_seen": "2026-08-22",
-   "score": 17.0,
-   "matched": [
-    "representation",
-    "gender quota",
-    "gender",
-    "corruption"
-   ],
-   "abstract_zh": "本研究旨在探討女性政治賦權 (WPE) 對稅收動員的影響，採用2000年至2022年間41個非洲國家的面板樣本。運用系統廣義動差法，實證結果顯示WPE顯著提升非洲的稅收動員能力。這項發現對於WPE和稅收的替代衡量方式仍具穩健性。此外，超過某個特定轉折點後，WPE的增加反而會降低稅收動員能力。最後，本研究指出WPE透過數個傳遞管道發揮作用，包括貪腐控制、非正式經濟規模以及女性勞動參與率。在公共政策方面，強化非洲政治領域中的性別配額對於提升稅收動員至關重要。然而，鑑於此關係中存在門檻效應，政策制定者必須優先考慮女性政治代表的品質，而非僅僅著重於增加她們在政治決策圈中的人數。"
   },
   {
    "doi": "10.1111/puar.70216",
@@ -1432,25 +1410,6 @@
    "abstract_zh": "全球各國政府為追求良善治理，益發常態化地推行公共服務滿意度調查，以提升課責性、回應性及整合性績效。然而，當這些工具被制度化為績效評估工具並嵌入層級體系中時，它們在實務上卻可能弔詭地造成基層公務員和民眾的不滿。本研究運用Gioia方法，針對中國的五個案例進行系統性歸納分析，歸納出解釋此矛盾的五個總體面向：政策潛力之模糊與清晰、政策能力之錯位、政策遵循脫鉤、協力生產疲勞，以及回饋溢出效應。本研究主要的理論貢獻是「政策執行辯證框架」，此框架整合了四個互動領域，並綜合了時間與空間維度，以闡明政策執行過程。此框架將評估系統中弔詭結果的多維度、遞迴動態概念化，進而推進了公共行政理論，同時也提出了一條透過學習、調適與評估之回饋循環而優化的治理路徑。"
   },
   {
-   "doi": "10.1111/puar.70187",
-   "title": "Sifting Through: Federal Separations in 2025 and Their Implications for Knowledge Loss and Agency Capacity",
-   "abstract": "The federal service experienced unprecedented turnover in the first year of the second Trump administration. Early reports have documented the substantial losses of personnel and the politicization and antagonism underlying those changes. This research breaks down separations over the past year, with a focus on the Deferred Resignation Program (DRP), to understand where turnover occurred and how it affected organizational knowledge and capacity. The analysis examines federal workforce data from January 2015 to December 2025 and reveals that the federal service lost substantial expertise and experience through both voluntary and involuntary means of separation. These results shed light on the fallout from 2025 executive actions, clarify the implications for government capacity, and point out prospective pathways for mitigating damages to the federal service moving forward.",
-   "authors": [
-    "M. Blake Emidy",
-    "Anmol Soni",
-    "Evan Mistur"
-   ],
-   "journal": "Public Administration Review",
-   "url": "https://doi.org/10.1111/puar.70187",
-   "date": "2026-08-22",
-   "first_seen": "2026-08-22",
-   "score": 8.0,
-   "matched": [
-    "turnover"
-   ],
-   "abstract_zh": "聯邦公務體系在第二屆川普政府執政第一年經歷了前所未有的離職潮。初步報告已揭示了大量人員流失，以及這些變革背後的政治化與對立。本研究剖析了過去一年的離職情況，聚焦於延遲辭職計畫 (DRP)，旨在了解離職發生的地點及其對組織知識與能力的影響。本分析檢視了從2015年1月至2025年12月的聯邦公務員數據，顯示聯邦公務體系透過自願與非自願兩種離職方式，流失了大量專業知識與經驗。本研究結果闡明了2025年行政命令的後果，釐清了對政府運作能力的影響，並指出未來減輕對聯邦公務體系損害的可能途徑。"
-  },
-  {
    "doi": "10.1111/puar.70186",
    "title": "Restoring the Deformed Administrative State? Bureaucratic Repair After Illiberal Rule",
    "abstract": "While scholarship has documented how populist and authoritarian‐leaning executives deform bureaucratic institutions, post‐illiberal reconstruction has only begun to receive attention. This paper develops an exploratory framework distinguishing four repair strategies (neutralizing, rectifying, balancing, and democratic hardening) and two repair modes (formal‐institutional and normative‐capacity repair). Applying the heuristic to Poland, Brazil, and Hungary, we posit that the selection and limits of repair strategies follow the gap between the depth of illiberal entrenchment and the legal‐political capacity of successor governments to overcome veto players and enact rectifying reforms. Within the periods observed, formal‐institutional repair has outpaced the reconstruction of professional norms, expertise, and trust, and repair has produced layered administrative orders in which illiberal‐era instruments partly persist and thus remain available to future governments. Administrative repair is thus structurally asymmetric. Democratic successors can rebuild the administrative state, but they are unlikely to restore it to the status quo ante.",
@@ -1654,23 +1613,6 @@
    "abstract_zh": "公民參與被廣泛認可為民主治理的重要環節，然而實證研究往往根據所採用的方法來評估參與，而非其在行政程序中被組織的制度結構。本研究基於對289個接受聯邦區塊補助金的地方行政區的分析，將參與視為一種結構化的行政實踐，而非僅僅是各種參與方法的集合。透過對「綜合計畫」的歸納分析，本研究發展出四種參與結構的類型學：「最低限度合規」、「結構化諮詢」、「制度化諮詢」和「嵌入式參與」。"
   },
   {
-   "doi": "10.1111/puar.70190",
-   "title": "Informal Authority, Legitimacy Transition, and Institutional Change: A Theory of Advisory Capture",
-   "abstract": "How do informal actors achieve rapid bureaucratic dismantlement without formal authority? Analyzing the Department of Government Efficiency (DOGE) initiative, this article argues that when performance‐based legitimacy displaces procedural legitimacy as the dominant evaluative framework, informal actors can bypass established safeguards and reshape government institutions. Three concepts capture this process: advisory capture , legitimacy regime transition , and constrained coercion . The analysis reveals that dismantlement targets agencies based on political vulnerability rather than functional logic, that informal authority becomes institutionalized through formal rulemaking such as the Schedule Policy/Career rule, and that judicial review operates as ongoing contestation rather than definitive constraint. Protecting democratic governance requires defending not only formal rules but the legitimacy regimes within which those rules derive meaning.",
-   "authors": [
-    "Byunggeor Moon"
-   ],
-   "journal": "Public Administration Review",
-   "url": "https://doi.org/10.1111/puar.70190",
-   "date": "2026-08-22",
-   "first_seen": "2026-08-22",
-   "score": 4.0,
-   "matched": [
-    "bureaucra"
-   ],
-   "abstract_zh": "非正式行動者如何在缺乏正式權力下，快速拆解官僚體系？本文透過分析政府效率部（DOGE）的倡議，主張當績效導向合法性取代程序合法性，成為主導的評估框架時，非正式行動者便能規避既定保障措施，並重塑政府機構。三個概念捕捉了此一過程：諮詢俘獲、合法性體制轉型，以及受限脅迫。分析顯示，解構的目標機構是基於政治脆弱性而非功能邏輯；非正式權力透過正式法規制定（例如「職務表政策/職業規則」）而制度化；且司法審查是持續的爭議而非決定性的限制。保護民主治理不僅需要捍衛正式規則，更要捍衛這些規則賴以獲得意義的合法性體制。"
-  },
-  {
    "doi": "10.1177/02750740261478906",
    "title": "Cultural Theory, Political Ideology, and Burden Tolerance: The Role of Core Beliefs in Shaping Support for Administrative Burdens",
    "abstract": "Administrative burdens embedded within many public policies are often politically contentious, such that core values and belief systems can drive either support or opposition. In this paper, we use survey data from US respondents to replicate and extend previous research on the public acceptance of administrative burdens in general. First, we confirm the measure's validity by examining its effects on beliefs across policies that range from highly polarized to less politically contentious. Second, we test the relationship between tolerance of administrative burden and cultural theory (CT) variables that tap into worldview orientations related to hierarchy, egalitarianism, individualism, and fatalism, which previous research has found predictive of policy preferences across a wide range of domains, even after accounting for political ideology and partisanship. We hypothesize that egalitarians and individualists will generally be less tolerant of burdens, while hierarchs will be more accepting of burdensome requirements. However, this effect varies depending on the nature of the burdens and how they relate to perceived threats for each worldview.",
@@ -1798,6 +1740,25 @@
    "abstract_zh": "行政負擔研究已指出除了學習與遵循成本外，還有心理成本，然而此類別仍顯同質，將污名、自主性減損及壓力歸為一類，卻缺乏共通的組織原則。本文提出一種以認可為核心的機制層次論述，根據一項針對以色列身心障礙福利申請的質性個案研究，該研究奠基於對33位受訪者的深度訪談（包括16位經診斷患有精神健康問題的年輕成人，以及17位社工和外展工作者）。我們主張，認可及其否認是產生心理成本的機制之一，而一次互動是否傳達了關於個人地位的訊息，則將此類別區分為三種分析上截然不同的類型。情感成本是對程序負擔的情緒反應，且不涉及認可；初級象徵成本是對地位定位的情緒反應；而次級象徵成本則在程序負擔本身傳達了關於地位的訊息時產生。後兩者，其中認可攸關重大，透過霍耐特（Honneth）的權利、團結與關懷三個領域進行追溯，每個領域都產生其獨特的成本配置。這些類型在成因和補救措施上有所不同，情感成本需要效率改革，而象徵成本則需要認可導向的改革。社工人員成為反制錯誤認可的盟友，根據這些發現，我們提出將發聲、確定性與驗證納入程序設計的「官僚認可」，作為地位相關成本的補救措施。最後，錯誤認可既構成象徵成本，也加劇其他成本，將地位與分配並列，成為行政負擔的關鍵軸線。"
   },
   {
+   "doi": "10.1177/02750740261506495",
+   "title": "The Urban Politics of Homelessness Management: Municipal Decision-Making and Spatial Displacement",
+   "abstract": "Although increasing acknowledgment of homelessness as a housing issue, the spatial government of the un-housed people is highly political. This study uses a spatial political approach to assess how the practice of municipal decision-making generates geographically varied rates of homeless displacement in three large cities in the U.S. (Los Angeles, Portland, and San Francisco) between 2016 and 2023. We combine GIS-based encampment clearance data, council voting data, and political features of the neighborhood and apply the difference-in-differences estimation by taking advantage of three exogenous shocks: the 2018 Martin v. Boise judicial decision, mayoral changes, and COVID-19 emergency orders. The spatial lag and spatial error models reproduce the effects of diffusion across jurisdictions and neighborhoods. The findings indicate that conservative-leaning council districts expanded clearance work by 34% after Martin, whereas progressive districts cut by 18%. Mayoral changes created dramatic changes in displacement patterns, with new administrations showing 41% greater clearance rates during the first year. Spatial analysis reveals that there are substantial spillover impacts whereby aggressive enforcement in one neighborhood leads to a 23% encampment formation in nearby areas. These results indicate that the displacement of homelessness is not a technical management problem but rather a systematically distributed consequence of purposeful political decisions that have extensive consequences regarding the way cities can manage underprivileged groups in society.",
+   "authors": [
+    "Mingqiu Jiang",
+    "Janson Peter",
+    "Yunpeng Fu"
+   ],
+   "journal": "The American Review of Public Administration",
+   "url": "https://doi.org/10.1177/02750740261506495",
+   "date": "2026-11-20",
+   "first_seen": "2026-11-21",
+   "score": 4.0,
+   "matched": [
+    "difference-in-differences"
+   ],
+   "abstract_zh": "儘管無家者問題日益被視為居住議題，對無家者的空間治理卻具有高度政治性。本研究採用空間政治取徑，評估2016年至2023年間，美國三個大城市（洛杉磯、波特蘭和舊金山）的市政決策實踐，如何產生地理上差異化的無家者驅離率。本研究結合地理資訊系統（GIS）的遊民營地清除資料、市議會投票資料以及鄰里的政治特徵，並利用2018年「馬丁訴波伊西案」司法判決、市長更迭和COVID-19緊急命令這三個外生衝擊，應用雙重差分估計法。空間落遲模型和空間誤差模型重現了跨轄區和鄰里的擴散效應。研究結果顯示，「馬丁案」後，傾向保守的市議會選區將清除工作擴大了34%，而進步派選區則減少了18%。市長更迭在驅離模式上產生了劇烈變化，新政府在第一年內顯示出高出41%的清除率。空間分析揭示存在顯著的溢出效應，亦即在一個鄰里採取激進執法會導致附近地區的遊民營地形成增加23%。這些研究結果指出，無家者驅離並非一個技術性管理問題，而是一個系統性分佈的後果，源於有目的的政治決策，這些決策對於城市如何管理社會中的弱勢群體具有廣泛的影響。"
+  },
+  {
    "doi": "10.1080/14719037.2026.2748382",
    "title": "How collaborative platforms shape power dynamics and outcomes in local collaboration: evidence from disaster mitigation planning",
    "abstract": "Federal and state governments increasingly adopt collaborative governance as a policy instrument, using collaborative platforms to foster multiple local collaborations. While collaborative platforms provide design rules and resources to facilitate collaborations, it remains unclear whether they promote equitable distribution of outputs within local collaborations. This study examines how following collaborative platforms’ membership rules and support mechanisms shape power asymmetries and equitable distribution of benefits among participants. We focus on local disaster mitigation planning in Florida, where the Florida Division of Emergency Management serves as a state-level collaborative platform supporting local collaborative planning. Drawing on quantitative and qualitative data, we find that membership rules provide a foundation for initiating collaboration. Specifically, collaborative groups following rules recommending department representation with specialized knowledge are more likely to prioritize projects from smaller jurisdictions. In addition, including platform representatives to provide personnel support serves as an effective mechanism for ensuring equitable collaboration.",
@@ -1834,6 +1795,24 @@
     "diversity"
    ],
    "abstract_zh": "本研究探討在聯合國永續發展目標（SDGs）引入前後，永續人力資源管理（SHRM）如何被納入紐西蘭（Aotearoa/New Zealand）公部門的人力資源管理政策中。本研究採用對2010年至2021年間10個地方政府的人力資源管理政策進行縱貫性質性分析，探討永續性議題（涵蓋社會、經濟和環境面向）如何整合到公部門的人力資源管理中。研究結果顯示，永續性主要透過漸進式疊加到現有的人力資源管理框架中，而非透過轉型性變革，進入公部門的人力資源管理。在SDGs引入後，政策對公平性、多元性和福祉的關注有所增加；然而，更廣泛的社會正義承諾仍不均衡，而環境永續性則受到有限的關注。本研究將人力資源管理政策視為組織訊號，藉由揭示永續性優先事項如何在實施前被傳達，以及可能仍受制於法規遵循、效率、風險管理和組織績效等制度邏輯的限制，從而對公部門人力資源管理和永續人力資源管理學術領域做出貢獻。"
+  },
+  {
+   "doi": "10.1080/14719037.2026.2764194",
+   "title": "Public manager learning in citizens’ assemblies: phases, outcomes and knowledge institutionalization",
+   "abstract": "Scholars agree that citizens’ assemblies require specialized knowledge and skills among public managers who implement them, yet we know little about what knowledge is required or how it develops and becomes institutionalized. To fill this gap, we draw on organizational and policy learning frameworks to study knowledge development through in-depth interviews with the chairs and senior civil servants (‘public managers’) of the Irish citizens’ assemblies. We find that public managers learned through a primarily informal learning process which resulted in two levels of outcomes: knowledge about assembly implementation (operational and systemic), and personal transformations (belief shifts and professional identity changes). The institutionalization of knowledge in Ireland followed a bifurcated pattern, with operational knowledge formally stored in documents and integrated into standard practice, while systemic knowledge remained stored in informal networks.",
+   "authors": [
+    "Precious Unegbu",
+    "Claire Dupont"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2764194",
+   "date": "2026-11-19",
+   "first_seen": "2026-11-20",
+   "score": 3.0,
+   "matched": [
+    "civil servant"
+   ],
+   "abstract_zh": "學者普遍認為，公民會議的執行需要公共管理者具備專業知識與技能，然而，我們對於需要哪些知識，以及這些知識如何發展並制度化卻知之甚少。為彌補此一空白，我們借鑒組織學習與政策學習框架，透過對愛爾蘭公民會議的主席與資深公務員（即「公共管理者」）進行深度訪談，以研究知識的發展。我們發現，公共管理者主要透過非正式學習過程學習，產生了兩個層次的成果：關於會議執行（操作性與系統性）的知識，以及個人轉變（信念轉移與專業認同改變）。知識在愛爾蘭的制度化呈現出兩歧的模式，其中，操作性知識正式地儲存於文件中並整合至標準實務中，而系統性知識則仍儲存於非正式網絡中。"
   },
   {
    "doi": "10.1080/14719037.2026.2720043",
@@ -2370,19 +2349,6 @@
    "abstract_zh": "英格蘭內戰時期政治論述中所使用的政治虛構，至今仍對當代公共政策與公共行政具有重要意義。主流公共行政論述過於頻繁地採用於此時期興起的單一且無限主權在民的虛構，使得公共行政在應對當代民粹政府的威權衝動時，顯得準備不足。為應對這些威權衝動，公共行政論述所需要的，並非傳統上主導本領域甚鉅的行政中立倫理，而是憲政主義倫理，此倫理借鑒了英格蘭平等派在英格蘭內戰時期，以及隨後由美國憲法制定者所闡述的個人虛構。"
   },
   {
-   "doi": "10.1111/puar.70229",
-   "title": "Issue Information",
-   "abstract": "The American Society for Public Administration (ASPA) is a nonpartisan organization of more than 9,000 scholars, administrators, public managers, and students in the United States, and abroad.ASPA is committed to the advancement of excellence in",
-   "authors": [],
-   "journal": "Public Administration Review",
-   "url": "https://doi.org/10.1111/puar.70229",
-   "date": "2026-11-09",
-   "first_seen": "2026-11-10",
-   "score": 2.0,
-   "matched": [],
-   "abstract_zh": "美國公共行政學會 (ASPA) 是一個無黨派組織，擁有超過九千名來自美國及海外的學者、行政人員、公共管理者及學生。ASPA 致力於促進卓越的發展，在"
-  },
-  {
    "doi": "10.1111/puar.70227",
    "title": "Celebrating 86 Years",
    "abstract": "",
@@ -2394,6 +2360,19 @@
    "score": 2.0,
    "matched": [],
    "abstract_zh": ""
+  },
+  {
+   "doi": "10.1111/puar.70229",
+   "title": "Issue Information",
+   "abstract": "The American Society for Public Administration (ASPA) is a nonpartisan organization of more than 9,000 scholars, administrators, public managers, and students in the United States, and abroad.ASPA is committed to the advancement of excellence in",
+   "authors": [],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70229",
+   "date": "2026-11-09",
+   "first_seen": "2026-11-10",
+   "score": 2.0,
+   "matched": [],
+   "abstract_zh": "美國公共行政學會 (ASPA) 是一個無黨派組織，擁有超過九千名來自美國及海外的學者、行政人員、公共管理者及學生。ASPA 致力於促進卓越的發展，在"
   },
   {
    "doi": "10.1111/puar.70228",
@@ -3254,7 +3233,7 @@
   {
    "doi": "10.1080/14719037.2026.2765333",
    "title": "Captured governance and diagnostic infrastructures: evidence from municipalities dissolved for mafia infiltration",
-   "abstract": "",
+   "abstract": "Public financial management systems increase visibility, yet captured governance can maintain compliance while redirecting budgeting, accounting, and procurement routines. We conceptualize these systems as diagnostic infrastructures that can conditionally expose such distortions. Anchored in Italian municipal dissolutions for mafia-type infiltration, theory-informed analysis of 50 dissolution reports identifies four core configurations and three cross-cutting dimensions. Across 7,802 municipalities (2016–2024), combined accounting and procurement indicators outperform single-source benchmarks and retain discrimination among Southern and fiscally distressed municipalities. We specify when such systems retain diagnostic capacity under staged compliance, informing data infrastructure design and existing scrutiny procedures, not municipal screening.",
    "authors": [
     "Francesco Ambrosini",
     "Ilaria Campagna",
@@ -3267,12 +3246,12 @@
    "first_seen": "2026-11-20",
    "score": 0.0,
    "matched": [],
-   "abstract_zh": ""
+   "abstract_zh": "公共財政管理系統提高了透明度，然而，受操控的治理仍能維持法規遵循，同時轉移預算、會計和採購的例行程序。我們將這些系統概念化為診斷性基礎設施，能夠有條件地揭露此類扭曲。本研究以義大利因黑手黨式滲透而解散的市鎮為基礎，對50份解散報告進行理論導向的分析，識別出四種核心配置和三種橫斷維度。針對7,802個市鎮 (2016-2024年) 的分析顯示，綜合會計與採購指標表現優於單一來源的基準，並在南方和財政困難的市鎮中保持區辨力。我們闡明此類系統在分階段合規下何時能保持診斷能力，為資料基礎設施設計和現有審查程序提供參考，而非用於市鎮篩選。"
   },
   {
    "doi": "10.1080/14719037.2026.2765743",
    "title": "Beyond the bright-dark binary of co-production: a paradox lens on co-assessment",
-   "abstract": "",
+   "abstract": "While a substantial body of scholarship has emphasized the positive and ‘bright’ elements of co-production, more recent studies have drawn attention to its pitfalls and ‘dark side’. Although research has sought to bridge these contrasting perspectives by jointly examining benefits and drawbacks, it has largely maintained a binary distinction between them. Rather than treating these dimensions as separate or opposing, this study adopts a paradox lens to conceptualize them as inherently interconnected. Drawing on a case-study of co-assessment processes, we identify five paradoxes, with each pole reflecting elements typically associated with both the bright and dark sides of co-production. By reimagining the debate as inherently paradoxical, we move beyond binary approaches that privilege ‘bright’ (positive) aspects while minimizing ‘dark’ (negative) ones, advancing a more nuanced and realistic understanding of co-production. We show how such paradoxes are navigated, revealing coping strategies which vary across actors’ power dynamics and agency.",
    "authors": [
     "Martina Pisarra",
     "Marta Ingaggiati",
@@ -3285,23 +3264,7 @@
    "first_seen": "2026-11-20",
    "score": 0.0,
    "matched": [],
-   "abstract_zh": ""
-  },
-  {
-   "doi": "10.1080/14719037.2026.2764194",
-   "title": "Public manager learning in citizens’ assemblies: phases, outcomes and knowledge institutionalization",
-   "abstract": "",
-   "authors": [
-    "Precious Unegbu",
-    "Claire Dupont"
-   ],
-   "journal": "Public Management Review",
-   "url": "https://doi.org/10.1080/14719037.2026.2764194",
-   "date": "2026-11-19",
-   "first_seen": "2026-11-20",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": ""
+   "abstract_zh": "儘管大量學術文獻強調協同生產的正面與「光明」要素，但近期研究也關注到其潛在問題與「黑暗面」。儘管有研究試圖透過同時檢視其優點與缺點來連結這些對立觀點，但大多仍維持二元區分。本研究不將這些面向視為獨立或對立，而是採用「弔詭」(paradox) 視角，將其概念化為本質上相互連結。本研究透過對協同評估過程的個案研究，歸納出五種弔詭，其中每個面向皆反映出通常與協同生產之光明面與黑暗面相關聯的要素。藉由將此議題重新詮釋為本質上具弔詭性，本研究得以超越偏重「光明」(正面) 面向而輕忽「黑暗」(負面) 面向的二元取徑，進而增進對協同生產更為細膩且務實的理解。本研究亦揭示了如何應對這些弔詭，闡明了因行動者之權力動態與能動性而異的因應策略。"
   }
  ]
 }
