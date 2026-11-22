@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T02:54:49+00:00",
+ "updated": "2026-11-22T01:44:25+00:00",
  "papers": [
   {
    "doi": "10.1111/puar.70201",
@@ -154,6 +154,28 @@
     "transparency"
    ],
    "abstract_zh": "Kettl指出，公共行政正遭遇一場危機，其根源在於學者與實務工作者之間，以及該領域核心理念與當前治理議題之間的鴻溝日益擴大。我們將政府採納人工智慧（AI）視為一個關鍵範例。AI從根本上轉變了公共組織，重新分配人類與演算法之間的任務與裁量權，將工具理性嵌入行政流程，並重塑權力結構。這些發展挑戰了公共行政的三個長期支柱：官僚中立、政治與行政二分法，以及民主治理。我們主張，任何擬議的「第四條道路」都必須以民主韌性與科技治理為核心，納入演算法透明度要求與參與式治理結構，以維護公共價值，尤其是民主價值。"
+  },
+  {
+   "doi": "10.1080/10967494.2026.2758171",
+   "title": "Representative bureaucracy and the career trajectories of female STEM students: a retrospective interview study",
+   "abstract": "Demographic representation in public organizations shapes how the interests of diverse citizens are seen and heard. Previous studies show how a more representative bureaucracy encourages underrepresented groups to feel a greater affinity with the public organizations that serve them, for example, by increasing their trust in and engagement with those organizations. STEM (science, technology, engineering, and mathematics) education is an important context to examine, as most teachers are male, leaving female students with fewer role models of their own gender for this increasingly important field of knowledge. This lack of female role models, moreover, is especially critical at young ages, when students often decide whether to pursue STEM professions. Through in-depth interviews with STEM students from five Israeli universities, we explore how the active representation of female high school teachers encouraged their female students to develop a sense of self-efficacy and to succeed in STEM. Furthermore, we also demonstrate how these teachers’ past representation actions shaped their female students’ professional futures. Our research highlights the importance of early gender representation in shaping educational and professional opportunities.",
+   "authors": [
+    "Maayan Davidovitz",
+    "Rachel Gali Cinamon"
+   ],
+   "journal": "International Public Management Journal",
+   "url": "https://doi.org/10.1080/10967494.2026.2758171",
+   "date": "2026-11-19",
+   "first_seen": "2026-11-20",
+   "score": 49.0,
+   "matched": [
+    "representative bureaucracy",
+    "active representation",
+    "representation",
+    "gender",
+    "bureaucra"
+   ],
+   "abstract_zh": "公共組織中的人口代表性，影響著多元公民的利益如何被看待與聽取。既有研究顯示，更具代表性的官僚體系能鼓勵代表性不足的群體，對為其服務的公共組織產生更高的親近感，例如藉由提升他們對這些組織的信任與參與度。STEM（科學、科技、工程與數學）教育是一個值得探討的重要場域，由於大多數教師為男性，使得女學生在這個日益重要的知識領域中，缺乏同性別的榜樣。此外，這種女性榜樣的缺乏在年輕時期尤其關鍵，因為學生通常在此時決定是否從事STEM專業。透過對來自五所以色列大學的STEM學生的深度訪談，我們探討了女性高中教師的積極代表性如何鼓勵了她們的女學生發展出自我效能感，並在STEM領域取得成功。此外，我們也闡明了這些教師過去的代表性行動如何塑造了她們女學生的職涯未來。我們的研究突顯了早期性別代表性在塑造教育與職涯機會方面的重要性。"
   },
   {
    "doi": "10.1177/0734371x261481363",
@@ -833,25 +855,6 @@
     "llm"
    ],
    "abstract_zh": "機器人與大型語言模型（LLM）代理程式現已能以足夠的說服力完成線上問卷調查，並冒充真實受訪者。此風險雖在其他領域早已被指出，但在公共管理研究中卻鮮少被探討。本研究筆記借鑒了先前驗證線上樣本庫問卷回應的努力中，所發現的令人沮喪的實證結果，描繪了旨在確保代表加拿大聯邦部會向公民進行問卷調查的公司所收集資料完整性的相關努力。此案例研究可能代表了各國及各級政府在線上問卷調查實務上所面臨的挑戰。"
-  },
-  {
-   "doi": "10.1080/10967494.2026.2758171",
-   "title": "Representative bureaucracy and the career trajectories of female STEM students: a retrospective interview study",
-   "abstract": "",
-   "authors": [
-    "Maayan Davidovitz",
-    "Rachel Gali Cinamon"
-   ],
-   "journal": "International Public Management Journal",
-   "url": "https://doi.org/10.1080/10967494.2026.2758171",
-   "date": "2026-11-19",
-   "first_seen": "2026-11-20",
-   "score": 20.0,
-   "matched": [
-    "representative bureaucracy",
-    "bureaucra"
-   ],
-   "abstract_zh": ""
   },
   {
    "doi": "10.1111/puar.70205",
@@ -2349,12 +2352,12 @@
    "abstract_zh": "英格蘭內戰時期政治論述中所使用的政治虛構，至今仍對當代公共政策與公共行政具有重要意義。主流公共行政論述過於頻繁地採用於此時期興起的單一且無限主權在民的虛構，使得公共行政在應對當代民粹政府的威權衝動時，顯得準備不足。為應對這些威權衝動，公共行政論述所需要的，並非傳統上主導本領域甚鉅的行政中立倫理，而是憲政主義倫理，此倫理借鑒了英格蘭平等派在英格蘭內戰時期，以及隨後由美國憲法制定者所闡述的個人虛構。"
   },
   {
-   "doi": "10.1111/puar.70227",
-   "title": "Celebrating 86 Years",
+   "doi": "10.1111/puar.70228",
+   "title": "American Society for Public Administration Code of Ethics",
    "abstract": "",
    "authors": [],
    "journal": "Public Administration Review",
-   "url": "https://doi.org/10.1111/puar.70227",
+   "url": "https://doi.org/10.1111/puar.70228",
    "date": "2026-11-09",
    "first_seen": "2026-11-10",
    "score": 2.0,
@@ -2375,12 +2378,12 @@
    "abstract_zh": "美國公共行政學會 (ASPA) 是一個無黨派組織，擁有超過九千名來自美國及海外的學者、行政人員、公共管理者及學生。ASPA 致力於促進卓越的發展，在"
   },
   {
-   "doi": "10.1111/puar.70228",
-   "title": "American Society for Public Administration Code of Ethics",
+   "doi": "10.1111/puar.70227",
+   "title": "Celebrating 86 Years",
    "abstract": "",
    "authors": [],
    "journal": "Public Administration Review",
-   "url": "https://doi.org/10.1111/puar.70228",
+   "url": "https://doi.org/10.1111/puar.70227",
    "date": "2026-11-09",
    "first_seen": "2026-11-10",
    "score": 2.0,
