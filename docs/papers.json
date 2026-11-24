@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T02:03:07+00:00",
+ "updated": "2026-11-24T05:40:31+00:00",
  "papers": [
   {
    "doi": "10.1111/puar.70201",
@@ -1040,6 +1040,25 @@
    "abstract_zh": "徵才廣告在吸引求職者方面扮演關鍵角色，然而，它們在多大程度上反映公民對公務員的期望價值觀，卻鮮為人知。本研究借鑒訊號理論以及先前關於公民對理想公務員規範性期望的研究，利用大型語言模型分析了來自美國七個州衛生和交通部門的1825份徵才廣告。相較於先前研究中公民與理想公務員相關聯的價值觀，徵才廣告主要強調專業知識和奉獻精神等價值觀，而對服務性、回應性和誠實等關係型價值觀的訊號則傳達不足。我們的研究結果顯示，招募實務中傳達的價值觀與公民對理想公務員相關聯的價值觀之間存在不一致。透過採納以公民為導向的視角，本研究促使學者和公共管理者質疑可能低估公民在公務員身上優先考慮之價值觀的招募實務，這可能限制公共行政部門吸引合格候選人的能力。"
   },
   {
+   "doi": "10.1111/puar.70236",
+   "title": "Corruption Perceptions, the Pendleton Act, and Sovereign Borrowing Costs",
+   "abstract": "Significant research suggests that systems of bureaucratic patronage tend to promote corruption and reduce the efficient production of publicly provided goods. However, much less work has been done to consider how market actors perceive such selection processes and especially reforms implemented to reduce such corruption. This study rectifies this by evaluating how the Pendleton Civil Service Reform Act impacted federal borrowing costs. If patronage resulted in increased corruption and bureaucratic inefficiency, this should be reflected in relatively higher bond yields. If the Pendleton Act was successful in curbing this behavior, then this should be rewarded by market actors in the form of lower borrowing costs. Using interrupted time series analysis with and without control, we find that the passage of the Pendleton Act did, in fact, result in lower borrowing costs for the federal government of between 63 and 84 basis points depending on specification. Implications are discussed.",
+   "authors": [
+    "John A. Dove",
+    "Noah J. Trudeau"
+   ],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70236",
+   "date": "2026-11-23",
+   "first_seen": "2026-11-24",
+   "score": 16.0,
+   "matched": [
+    "bureaucra",
+    "corruption"
+   ],
+   "abstract_zh": "許多研究指出，官僚恩庇制度傾向滋生貪腐並降低公共財貨的生產效率。然而，關於市場參與者如何看待此類遴選過程，特別是為減少此類貪腐而實施的改革，相關研究卻相對稀少。本研究旨在彌補此一不足，透過評估《潘德頓文官改革法案》如何影響聯邦政府的舉債成本。如果恩庇制度導致貪腐加劇和官僚體系效率不彰，這應反映在相對較高的債券殖利率上。如果《潘德頓法案》能有效遏止此類行為，那麼市場參與者應會以較低的舉債成本形式給予肯定。本研究採用有無控制組的間斷時間序列分析，結果發現《潘德頓法案》的通過確實使得聯邦政府的舉債成本降低了63至84個基點，具體數值視模型設定而異。本文將探討其政策意涵。"
+  },
+  {
    "doi": "10.1080/10967494.2026.2691398",
    "title": "When police officers surrender: the effect of citizen incivility on withdrawal and turnover",
    "abstract": "Why do seemingly minor acts of citizen disrespect matter for police retention? Drawing on Conservation of Resources (COR) theory and sociometer theory, this study examines how citizen incivility shapes officers’ withdrawal processes over time. Using a three-wave longitudinal survey of 1,397 police officers, we test whether baseline exposure to citizen incivility predicts subsequent trajectories of work disengagement and turnover intention. We argue that citizen incivility functions as a low intensity but psychologically consequential interpersonal cue that subtly threatens officers’ perceived social standing, depleting psychological resources, fostering disengagement, and ultimately increasing turnover intention. We further propose that perceived organizational support (POS), as a valued resource and a signal of institutional recognition, buffers these adverse effects. Results confirm that citizen incivility indirectly predicts turnover intention through disengagement, and that POS attenuates this pathway. These findings advance understanding of resource-loss dynamics in public service contexts and highlight the protective role of organizational support in sustaining frontline engagement and retention.",
@@ -1543,6 +1562,25 @@
     "turnover"
    ],
    "abstract_zh": "面臨績效壓力，公部門組織頻繁經歷高階主管異動，然而其繼任者選擇方式卻鮮有探討。本研究主張負面績效回饋 (NPF) 關鍵性地影響繼任者來源。根據2,045筆高階主管異動資料，我們發現NPF降低內部繼任的機率達41.7%。內部升遷歷史藉由預示與失靈常規的決裂，強化外部繼任者選擇；而對探索性學習的重視，則將外部選擇強化為策略性定位。本研究透過為高階主管選擇提供動態且基於前因的解釋，推進公共管理領域，挑戰組織歷史的單一論觀點，並突顯繼任者來源作為一項策略性治理工具。"
+  },
+  {
+   "doi": "10.1177/0734371x261499942",
+   "title": "From Mid-Level to Major Impact: Strengthening Women’s Leadership in Public Higher Education Institutions Through Strategic Human Resource Management for SDG Realization",
+   "abstract": "Women remain underrepresented in higher education leadership despite sustained gender-equity efforts. This qualitative meta-synthesis examined how strategic human resource management (SHRM) supports women’s leadership in public higher education institutions by integrating evidence from 57 studies published between 2020 and 2025. Four themes were identified: SHRM as an enabler of women’s leadership; women’s leadership as an organizational capability; organizational and socio-cultural barriers; and strategic priorities for institutional action. The evidence indicates that women’s leadership is strengthened when equitable recruitment, leadership development, supportive organizational cultures, and accountability mechanisms operate as an integrated HR system. Persistent structural and socio-cultural barriers nevertheless continue to restrict advancement. Accordingly, this paper proposes an analytical framework linking SHRM, women’s leadership, SDG 4 (Quality Education), and SDG 5 (Gender Equality).",
+   "authors": [
+    "Juma Yusuf Mnzile",
+    "Müyesser Ceylan"
+   ],
+   "journal": "Review of Public Personnel Administration",
+   "url": "https://doi.org/10.1177/0734371x261499942",
+   "date": "2026-11-23",
+   "first_seen": "2026-11-24",
+   "score": 6.0,
+   "matched": [
+    "gender",
+    "recruitment"
+   ],
+   "abstract_zh": "儘管性別平權努力持續推動，女性在高等教育領導職位中的代表性仍然不足。本質性整合分析彙整了2020年至2025年間發表的57項研究證據，探討策略性人力資源管理 (SHRM) 如何支持公立高等教育機構中的女性領導力。本研究識別出四個主題：SHRM作為女性領導力的促成因素；女性領導力作為一種組織能力；組織與社會文化障礙；以及機構行動的策略性優先事項。證據顯示，當公平的招募、領導力發展、支持性的組織文化和課責機制作為一個整合性人資系統運作時，女性領導力會得到強化。然而，持續存在的結構性與社會文化障礙仍繼續限制其晉升。因此，本文提出一個連結SHRM、女性領導力、永續發展目標4 (優質教育) 和永續發展目標5 (性別平等) 的分析架構。"
   },
   {
    "doi": "10.1111/puar.70200",
@@ -2326,12 +2364,12 @@
    "abstract_zh": "美國公共行政學會 (ASPA) 是一個無黨派組織，擁有超過九千名來自美國及海外的學者、行政人員、公共管理者及學生。ASPA 致力於促進卓越的發展，在"
   },
   {
-   "doi": "10.1111/puar.70227",
-   "title": "Celebrating 86 Years",
+   "doi": "10.1111/puar.70228",
+   "title": "American Society for Public Administration Code of Ethics",
    "abstract": "",
    "authors": [],
    "journal": "Public Administration Review",
-   "url": "https://doi.org/10.1111/puar.70227",
+   "url": "https://doi.org/10.1111/puar.70228",
    "date": "2026-11-09",
    "first_seen": "2026-11-10",
    "score": 2.0,
@@ -2339,12 +2377,12 @@
    "abstract_zh": ""
   },
   {
-   "doi": "10.1111/puar.70228",
-   "title": "American Society for Public Administration Code of Ethics",
+   "doi": "10.1111/puar.70227",
+   "title": "Celebrating 86 Years",
    "abstract": "",
    "authors": [],
    "journal": "Public Administration Review",
-   "url": "https://doi.org/10.1111/puar.70228",
+   "url": "https://doi.org/10.1111/puar.70227",
    "date": "2026-11-09",
    "first_seen": "2026-11-10",
    "score": 2.0,
@@ -3211,6 +3249,22 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "儘管大量學術文獻強調協同生產的正面與「光明」要素，但近期研究也關注到其潛在問題與「黑暗面」。儘管有研究試圖透過同時檢視其優點與缺點來連結這些對立觀點，但大多仍維持二元區分。本研究不將這些面向視為獨立或對立，而是採用「弔詭」(paradox) 視角，將其概念化為本質上相互連結。本研究透過對協同評估過程的個案研究，歸納出五種弔詭，其中每個面向皆反映出通常與協同生產之光明面與黑暗面相關聯的要素。藉由將此議題重新詮釋為本質上具弔詭性，本研究得以超越偏重「光明」(正面) 面向而輕忽「黑暗」(負面) 面向的二元取徑，進而增進對協同生產更為細膩且務實的理解。本研究亦揭示了如何應對這些弔詭，闡明了因行動者之權力動態與能動性而異的因應策略。"
+  },
+  {
+   "doi": "10.1080/14719037.2026.2765744",
+   "title": "How Does implicit debt shape local governments’ low-carbon governance? A public value conflict perspective",
+   "abstract": "",
+   "authors": [
+    "Bin Guan",
+    "Lei Wang"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2765744",
+   "date": "2026-11-23",
+   "first_seen": "2026-11-24",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
   }
  ]
 }
