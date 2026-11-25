@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T05:40:31+00:00",
+ "updated": "2026-11-25T04:39:51+00:00",
  "papers": [
   {
    "doi": "10.1111/puar.70201",
@@ -1059,6 +1059,25 @@
    "abstract_zh": "許多研究指出，官僚恩庇制度傾向滋生貪腐並降低公共財貨的生產效率。然而，關於市場參與者如何看待此類遴選過程，特別是為減少此類貪腐而實施的改革，相關研究卻相對稀少。本研究旨在彌補此一不足，透過評估《潘德頓文官改革法案》如何影響聯邦政府的舉債成本。如果恩庇制度導致貪腐加劇和官僚體系效率不彰，這應反映在相對較高的債券殖利率上。如果《潘德頓法案》能有效遏止此類行為，那麼市場參與者應會以較低的舉債成本形式給予肯定。本研究採用有無控制組的間斷時間序列分析，結果發現《潘德頓法案》的通過確實使得聯邦政府的舉債成本降低了63至84個基點，具體數值視模型設定而異。本文將探討其政策意涵。"
   },
   {
+   "doi": "10.1111/puar.70233",
+   "title": "Excessive Heat and Correctional Officer Turnover: Evidence From Texas",
+   "abstract": "Correctional work is difficult, dangerous, and hot. Many US prisons lack air‐conditioning, resulting in sweltering conditions for both incarcerated people and the street‐level bureaucrats tasked with their supervision. We examine the effect of working in the summer heat without air‐conditioning on correctional officer turnover using personnel records of nearly 60,000 Texas Department of Criminal Justice (TDCJ) employees across 68 prisons between 2010 and 2023. We demonstrate that, among the least‐experienced frontline employees before the onset of COVID‐19, the difference in the probability of departing between those working in prisons without and with air‐conditioning is, on average, 0.33 percentage points larger in the hottest months than in the coolest—an approximately 12% change relative to the baseline departure rate. Back‐of‐the‐envelope estimates suggest that installing air‐conditioning to combat understaffing is comparable in cost to raising salaries, the TDCJ's standard response to high turnover.",
+   "authors": [
+    "Benjamin Goehring",
+    "Jacob Harris"
+   ],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70233",
+   "date": "2026-11-25",
+   "first_seen": "2026-11-25",
+   "score": 16.0,
+   "matched": [
+    "bureaucra",
+    "turnover"
+   ],
+   "abstract_zh": "矯正工作艱鉅、危險且炎熱。美國許多監獄缺乏空調，導致受刑人與負責監督他們的基層官僚皆身處酷熱環境。本文探討在夏季酷熱無空調的環境下工作，對矯正人員離職率的影響，研究資料來自 2010 年至 2023 年間德州刑事司法廳 (TDCJ) 68 所監獄近六萬名員工的人事紀錄。研究結果顯示，在 COVID-19 疫情爆發前，經驗最少的基層員工中，於沒有空調與有空調的監獄工作者之間，離職機率的差異在最炎熱的月份比最涼爽的月份平均高出 0.33 個百分點，這相較於基準離職率約有 12% 的變化。粗略估計顯示，安裝空調以解決人力不足問題，其成本與德州刑事司法廳 (TDCJ) 應對高離職率的標準做法——提高薪資——相當。"
+  },
+  {
    "doi": "10.1080/10967494.2026.2691398",
    "title": "When police officers surrender: the effect of citizen incivility on withdrawal and turnover",
    "abstract": "Why do seemingly minor acts of citizen disrespect matter for police retention? Drawing on Conservation of Resources (COR) theory and sociometer theory, this study examines how citizen incivility shapes officers’ withdrawal processes over time. Using a three-wave longitudinal survey of 1,397 police officers, we test whether baseline exposure to citizen incivility predicts subsequent trajectories of work disengagement and turnover intention. We argue that citizen incivility functions as a low intensity but psychologically consequential interpersonal cue that subtly threatens officers’ perceived social standing, depleting psychological resources, fostering disengagement, and ultimately increasing turnover intention. We further propose that perceived organizational support (POS), as a valued resource and a signal of institutional recognition, buffers these adverse effects. Results confirm that citizen incivility indirectly predicts turnover intention through disengagement, and that POS attenuates this pathway. These findings advance understanding of resource-loss dynamics in public service contexts and highlight the protective role of organizational support in sustaining frontline engagement and retention.",
@@ -1315,6 +1334,24 @@
    "abstract_zh": "本文質疑主流的反貪腐評估模式，透過突顯反貪腐機構（ACAs）與吹哨者系統之間的整合，作為一個關鍵但未受充分檢視的制度效能決定因素。本文借鑒制度理論、管制治理與結構化跨國比較，根據對13個國家的文件式質性評估，發展出反貪腐機構－吹哨者整合體制的四種類型學（互補型、替代型、碎片化型和極簡型）。研究結果顯示，制度協調與互通性，而非僅僅是反貪腐機構的正式存在，持續地與更強的執法能力、更高的制度正當性與更高的公眾信任相關聯。本研究挑戰了偏重制度存在而非制度互動的清單式全球評估模式，並提出一個以整合為中心的框架，用於評估廉政體系。透過將關注焦點從制度設計轉移到制度整合，本研究提供了一個情境敏感的診斷方法，用於評估不同政治與行政環境下的反貪腐治理。"
   },
   {
+   "doi": "10.1080/14719037.2026.2765742",
+   "title": "Designing inclusive AI in public service delivery: experimental evidence on individual preferences for government chatbots",
+   "abstract": "",
+   "authors": [
+    "Huan Wang",
+    "Youlang Zhang"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2765742",
+   "date": "2026-11-24",
+   "first_seen": "2026-11-25",
+   "score": 10.0,
+   "matched": [
+    "ai"
+   ],
+   "abstract_zh": ""
+  },
+  {
    "doi": "10.1080/14719037.2026.2720755",
    "title": "Beyond monolithic state logic: how top-down accountability shapes policy implementation",
    "abstract": "How does top-down accountability shape policy implementation? Drawing on institutional logics, this paper distinguishes two state sub-logics: ‘high-stakes context logic’ emphasizing centralized control during crises, and ‘routine governance logic’ allowing discretion during day-to-day administration. These sub-logics condition the perceived legitimacy of accountability demands, felt accountability, and behavioural responses. A survey experiment with over 800 public service respondents shows that, under high-stakes logic, intensified accountability progressively improve compliance, whereas under routine logic, moderate accountability produces optimal compliance, with high-intensity accountability yielding diminishing returns. These findings challenge binary views of accountability and reveal how within-logic variations may alter governance mechanisms.",
@@ -1564,6 +1601,24 @@
    "abstract_zh": "面臨績效壓力，公部門組織頻繁經歷高階主管異動，然而其繼任者選擇方式卻鮮有探討。本研究主張負面績效回饋 (NPF) 關鍵性地影響繼任者來源。根據2,045筆高階主管異動資料，我們發現NPF降低內部繼任的機率達41.7%。內部升遷歷史藉由預示與失靈常規的決裂，強化外部繼任者選擇；而對探索性學習的重視，則將外部選擇強化為策略性定位。本研究透過為高階主管選擇提供動態且基於前因的解釋，推進公共管理領域，挑戰組織歷史的單一論觀點，並突顯繼任者來源作為一項策略性治理工具。"
   },
   {
+   "doi": "10.1080/14719037.2026.2765744",
+   "title": "How Does implicit debt shape local governments’ low-carbon governance? A public value conflict perspective",
+   "abstract": "Against the backdrop of accelerating green development and low-carbon transition, governments worldwide face challenges balancing economic development and low-carbon governance. Particularly when faced with fiscal pressure and public debt accumulation, local governments often confront public value dilemmas. This study examines how implicit debt affects local governments’ low-carbon governance efficiency via public value conflict, and further analyzes the effect of local leadership turnover frequency on this mechanism. Results show that implicit debt intensifies public value conflict in local low-carbon governance, thereby inhibiting low-carbon governance efficiency. Moreover, a higher frequency of local leadership turnover further strengthens this mechanism.",
+   "authors": [
+    "Bin Guan",
+    "Lei Wang"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2765744",
+   "date": "2026-11-23",
+   "first_seen": "2026-11-24",
+   "score": 6.0,
+   "matched": [
+    "turnover"
+   ],
+   "abstract_zh": "在加速綠色發展和低碳轉型的背景下，全球各國政府在平衡經濟發展與低碳治理方面面臨挑戰。尤其當面臨財政壓力和公共債務累積時，地方政府往往會遭遇公共價值困境。本研究探討隱性債務如何透過公共價值衝突影響地方政府的低碳治理效率，並進一步分析地方領導人輪替頻率對此機制的影響。結果顯示，隱性債務加劇了地方低碳治理中的公共價值衝突，進而抑制了低碳治理效率。此外，較高的地方領導人輪替頻率會進一步強化此機制。"
+  },
+  {
    "doi": "10.1177/0734371x261499942",
    "title": "From Mid-Level to Major Impact: Strengthening Women’s Leadership in Public Higher Education Institutions Through Strategic Human Resource Management for SDG Realization",
    "abstract": "Women remain underrepresented in higher education leadership despite sustained gender-equity efforts. This qualitative meta-synthesis examined how strategic human resource management (SHRM) supports women’s leadership in public higher education institutions by integrating evidence from 57 studies published between 2020 and 2025. Four themes were identified: SHRM as an enabler of women’s leadership; women’s leadership as an organizational capability; organizational and socio-cultural barriers; and strategic priorities for institutional action. The evidence indicates that women’s leadership is strengthened when equitable recruitment, leadership development, supportive organizational cultures, and accountability mechanisms operate as an integrated HR system. Persistent structural and socio-cultural barriers nevertheless continue to restrict advancement. Accordingly, this paper proposes an analytical framework linking SHRM, women’s leadership, SDG 4 (Quality Education), and SDG 5 (Gender Equality).",
@@ -1726,8 +1781,8 @@
   },
   {
    "doi": "10.1093/jopart/muag033",
-   "title": "“Unseen and unheard”: Recognition and Its Role in Shaping Administrative Burden",
-   "abstract": "Administrative burden scholarship has identified psychological costs alongside learning and compliance costs, yet the category remains homogeneous, grouping stigma, diminished autonomy, and stress, without a shared organizing principle. This article advances a mechanism-level account centered on recognition, drawing on a qualitative case study of claiming disability benefits in Israel, based on in-depth interviews with 33 individuals (16 young adults with diagnosed mental health conditions and 17 social and outreach workers). We argue that recognition, and its denial, are part of the mechanism through which psychological costs are produced, and that whether an encounter carries a message about a person's standing sorts the category into three analytically distinct types. Affective costs are emotional responses to procedural load and involve no recognition; primary symbolic costs are emotional responses to status positioning; and secondary symbolic costs arise when procedural load itself carries a message about standing. The latter two, in which recognition is at stake, are traced through Honneth's three spheres of rights, solidarity, and care, each producing its own configuration of costs. The types differ in their causes and remedies, with affective costs calling for efficiency reforms and symbolic costs for recognition-oriented ones. Social workers emerge as allies who counter misrecognition, and drawing on these findings we propose bureaucratic recognition, the building of voice, certainty, and validation into procedural design, as a remedy for status-related costs. Finally, misrecognition both constitutes symbolic costs and compounds others, positioning status, alongside distribution, as a critical axis of administrative burden.",
+   "title": "“Unseen and unheard”: recognition and its role in shaping administrative burden",
+   "abstract": "Administrative burden scholarship has identified psychological costs alongside learning and compliance costs, yet the category remains homogeneous, grouping stigma, diminished autonomy, and stress, without a shared organizing principle. This article advances a mechanism-level account centered on recognition, drawing on a qualitative case study of claiming disability benefits in Israel, based on in-depth interviews with thirty-three individuals (sixteen young adults with diagnosed mental health conditions and seventeen social and outreach workers). We argue that recognition and its denial are part of the mechanism through which psychological costs are produced and that whether an encounter carries a message about a person’s standing sorts the category into three analytically distinct types: Affective costs are emotional responses to procedural load and involve no recognition; primary symbolic costs are emotional responses to status positioning; and secondary symbolic costs arise when procedural load itself carries a message about standing. The latter two, in which recognition is at stake, are traced through Honneth’s three spheres of rights, solidarity, and care, each producing its own configuration of costs. The types differ in their causes and remedies, with affective costs calling for efficiency reforms and symbolic costs for recognition-oriented ones. Social workers emerge as allies who counter misrecognition, and drawing on these findings, we propose bureaucratic recognition, the building of voice, certainty, and validation into procedural design, as a remedy for status-related costs. Finally, misrecognition both constitutes symbolic costs and compounds others, positioning status, alongside distribution, as a critical axis of administrative burden.",
    "authors": [
     "Noam Tarshish"
    ],
@@ -3249,22 +3304,6 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "儘管大量學術文獻強調協同生產的正面與「光明」要素，但近期研究也關注到其潛在問題與「黑暗面」。儘管有研究試圖透過同時檢視其優點與缺點來連結這些對立觀點，但大多仍維持二元區分。本研究不將這些面向視為獨立或對立，而是採用「弔詭」(paradox) 視角，將其概念化為本質上相互連結。本研究透過對協同評估過程的個案研究，歸納出五種弔詭，其中每個面向皆反映出通常與協同生產之光明面與黑暗面相關聯的要素。藉由將此議題重新詮釋為本質上具弔詭性，本研究得以超越偏重「光明」(正面) 面向而輕忽「黑暗」(負面) 面向的二元取徑，進而增進對協同生產更為細膩且務實的理解。本研究亦揭示了如何應對這些弔詭，闡明了因行動者之權力動態與能動性而異的因應策略。"
-  },
-  {
-   "doi": "10.1080/14719037.2026.2765744",
-   "title": "How Does implicit debt shape local governments’ low-carbon governance? A public value conflict perspective",
-   "abstract": "",
-   "authors": [
-    "Bin Guan",
-    "Lei Wang"
-   ],
-   "journal": "Public Management Review",
-   "url": "https://doi.org/10.1080/14719037.2026.2765744",
-   "date": "2026-11-23",
-   "first_seen": "2026-11-24",
-   "score": 0.0,
-   "matched": [],
-   "abstract_zh": ""
   }
  ]
 }
