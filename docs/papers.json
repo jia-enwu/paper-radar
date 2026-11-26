@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T04:39:51+00:00",
+ "updated": "2026-11-26T03:49:44+00:00",
  "papers": [
   {
    "doi": "10.1111/puar.70201",
@@ -67,29 +67,6 @@
     "survey experiment"
    ],
    "abstract_zh": "隨著人工智慧（AI）日益轉變公共行政，了解其對「認知合法性」的影響變得至關重要，尤其是在警政等高風險領域。儘管既有研究對於政府使用AI是否會增強或損害公民對公平性和信任的認知提供了混雜的證據，但調節這些影響的條件仍未被充分探討。本研究借鑒代表性官僚理論，採用問卷實驗來探討性別代表性如何調節AI使用對公民在家暴防治單位（DVUs）中認知公平性和信任的影響。結果顯示，女性代表性正向調節DVU使用AI的合法性影響；相較之下，AI使用會降低女性受訪者在男性主導的DVU中對公平性和信任的認知，但這些負面影響在女性主導的DVU中則不復存在。我們的研究發現將代表性視為一個關鍵情境，影響公民對政府使用AI的反應，並藉由展示其間接的象徵性效果，拓展了代表性官僚理論。"
-  },
-  {
-   "doi": "10.1111/padm.70086",
-   "title": "Negotiating Presence: The Dynamics of Passive Representation Among Ultra‐Orthodox Women in Public Organizations",
-   "abstract": "Studies in representative bureaucracy have focused on whether passive representation translates into active representation. We shift this analytical lens by conceptualizing passive representation not as a static demographic condition or a preliminary stage, but as a dynamic organizational process. Drawing on 15 in‐depth interviews and a focus group with 14 ultra‐Orthodox women serving in mid‐ and senior‐level public positions in Israel, we examine how passive representation is enacted, negotiated, and gradually institutionalized in male‐dominated settings. Findings show how women's underrepresentation structures their entry and advancement through informal expectations and gendered networks, and how women “negotiate presence” by building legitimacy through heightened professionalism, creative networking in the face of gender segregation, and strategic engagement with supportive leaders. Through mentoring and gate‐opening practices, our participants created ripple effects that increased access for others over time. We argue that passive representation is a relational and evolving mechanism shaped by role interpretations and organizational constraints, reshaping access and participation even without formal policy changes.",
-   "authors": [
-    "Maayan Davidovitz",
-    "Rachel Gali Cinamon"
-   ],
-   "journal": "Public Administration",
-   "url": "https://doi.org/10.1111/padm.70086",
-   "date": "2026-08-26",
-   "first_seen": "2026-08-27",
-   "score": 60.0,
-   "matched": [
-    "representative bureaucracy",
-    "active representation",
-    "passive representation",
-    "representation",
-    "gender",
-    "bureaucra"
-   ],
-   "abstract_zh": "關於代表性官僚體制的研究，多半著重於消極代表是否能轉化為積極代表。本文轉變此分析視角，將消極代表概念化為動態的組織過程，而非靜態的人口統計條件或初步階段。本文以 15 份深度訪談和一場由 14 位在以色列擔任中高階公共職位的極端正統派女性參與的焦點團體為基礎，探討在男性主導的環境中，消極代表如何被實踐、協商並逐步制度化。研究結果顯示，女性的低代表性如何透過非正式期望和性別化的網絡，影響其進入和晉升；以及女性如何透過提升專業性、在性別隔離下創造性地建立人際網絡，並策略性地與支持性領導者互動，以建立合法性並「協商其存在」。透過指導和開放機會的實踐，我們的參與者產生了漣漪效應，隨著時間推移增加了他人獲得機會的管道。我們主張，消極代表是一種關係性且不斷演變的機制，它受角色詮釋和組織限制所塑造，即使沒有正式的政策變革，也能重塑機會和參與。"
   },
   {
    "doi": "10.1093/jopart/muag032",
@@ -301,6 +278,26 @@
    "abstract_zh": "人工智慧（AI）已獲政府廣泛採用，但各政府採用AI的程度與方式有所不同。一個關鍵問題是，各地方政府在人工智慧採用上的差異，究竟源於能力差異還是政治限制。釐清這一點，對於官員為確保地方政府能取得所需技術而可能採取的政策類型，具有重要意涵。本文結合了國際市縣管理協會（ICMA）調查、美國趨勢小組（ATP）、當前人口調查（CPS）及其他公開資料來源的數據，旨在檢視能力與政治限制如何影響美國地方政府的人工智慧採用。運用羅吉斯（logistic）與卜瓦松（Poisson）迴歸模型，研究發現地方政府的人工智慧採用與民眾對AI的態度、公務人員工會化、地方政府的財政能力以及基礎建設支援相關。值得注意的是，政治因素（民眾態度與公共部門工會化）在解釋政府人工智慧採用方面，與能力因素同樣具有影響力，甚至在某些情況下影響力更強。這些研究結果指出，各地方政府在人工智慧採用上的差異，不僅源於能力障礙，也來自於公務人員的權力以及民眾的疑慮所造成的政治限制。"
   },
   {
+   "doi": "10.1080/14719037.2026.2765742",
+   "title": "Designing inclusive AI in public service delivery: experimental evidence on individual preferences for government chatbots",
+   "abstract": "As governments deploy artificial intelligence (AI) chatbots in public services, inclusiveness has become a central concern, yet which design features shape preferences remains unclear. We conceptualize inclusiveness at the human–AI interface along three dimensions—cultural, functional, and cognitive. A conjoint experiment with 1,250 respondents in Guangdong, China, examines how these features shape willingness to use government chatbots. Results show that cognitive inclusiveness—explanatory outputs—consistently increases preference; cultural inclusiveness operates conditionally—chiefly when design reflects citizens’ linguistic identity; functional inclusiveness has modest effects. Shifting from organizational arrangements to citizen–state interactions, we contribute to research on AI governance, digital inclusion, and inclusive public service delivery.",
+   "authors": [
+    "Huan Wang",
+    "Youlang Zhang"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2765742",
+   "date": "2026-11-24",
+   "first_seen": "2026-11-25",
+   "score": 36.0,
+   "matched": [
+    "artificial intelligence",
+    "ai",
+    "conjoint"
+   ],
+   "abstract_zh": "隨著政府在公共服務中部署人工智慧（AI）聊天機器人，共融性已成為一個核心關切，然而，哪些設計特徵會影響使用者偏好仍不明確。我們將人機互動介面中的共融性，概念化為文化、功能和認知三個維度。一項針對中國廣東省1,250名受訪者的聯合分析實驗，探討了這些特徵如何影響民眾使用政府聊天機器人的意願。結果顯示，認知共融性（即解釋性輸出）能持續提升偏好；文化共融性則有條件地發揮作用，主要是在設計能反映公民的語言認同（linguistic identity）時；而功能共融性則效果有限。本研究從組織層面的安排轉向公民與政府的互動，對人工智慧治理、數位共融以及共融的公共服務遞送等研究領域有所貢獻。"
+  },
+  {
    "doi": "10.1177/02750740261481775",
    "title": "Why Government Turns to AI – What Citizens Believe and How it Matters. Survey Evidence from Germany and the Netherlands",
    "abstract": "What do citizens believe to be guiding motives behind the increasing adoption of artificial intelligence (AI) in government, and how are these beliefs related to AI acceptance? Drawing on moral judgment theory, the present article argues that the presumed intentions behind AI use matter for citizens’ evaluations of this use. It studies how citizens’ beliefs about public values motives are associated with AI acceptance across four types of AI use that involve different citizen-state relationships. The analysis uses survey data from 2072 respondents in Germany and the Netherlands and finds that that acceptance of AI use hinges on whether citizens believe that government AI adoption is guided by performance-related values – efficiency, effectiveness, productivity. Beliefs about procedure-related public values motives – impartiality, equal treatment, transparency – do not matter. The findings have implications for how to engender public support for government AI use and for understanding imbalances in public values driving AI adoption.",
@@ -362,28 +359,6 @@
     "ai"
    ],
    "abstract_zh": "各級政府正努力應對人工智慧（AI）對公共行政的影響。由於聯邦行動常為更廣泛的治理工作確立指導原則，本研究旨在探討美國聯邦AI政策如何反映—或未能反映—核心公共價值。本研究基於2020年至2023年間的美國聯邦AI政策資料集，系統性分析了政府發布和實施的政策文件中所採用的風險、損害和治理策略。具體而言，我們運用AI治理與監管檔案庫（AGORA）的解析方法，分析了120個獨立的聯邦法律和法規政策條款或子條款，這些條款均規範政府自身的運作，而非私營部門的行為。我們建立了一個理論與實證的對應關係，將AI相關風險和損害與重要的公共價值連結起來。結果顯示，儘管個人權利、公共利益和問責制等價值觀經常被提及，但可能需要就公民參與、工作場所標準和回應性等公共價值提供額外指導，以防止公共價值失靈。本研究進一步將AI政策文件中的治理策略分為監管型、服務導向型和資訊型工具，並發現監管政策最有可能與公共價值產生關聯。"
-  },
-  {
-   "doi": "10.1080/14719037.2026.2723226",
-   "title": "Gender inequality at the street level explained: redoing gender through informal practices",
-   "abstract": "This study examines whether gendered differences in discretion shape inequality among street-level bureaucrats (SLBs). Focusing on the provision of informal personal resources (IFRs) to clients, we analyzed 59 in-depth interviews with social workers in Israel. While both women and men engage in extensive informal practices, their scope and form differ. Two mechanisms drive the reproduction of inequality: invisibility versus visibility of IFRs, and boundary setting between personal and professional spheres. These findings reveal that discretion in implementation not only is gendered but also reproduces conventional hierarchies, intensifying gender inequality at the street level of public administration.",
-   "authors": [
-    "Ofri Shalev Greenman",
-    "Einat Lavee"
-   ],
-   "journal": "Public Management Review",
-   "url": "https://doi.org/10.1080/14719037.2026.2723226",
-   "date": "2026-08-26",
-   "first_seen": "2026-08-27",
-   "score": 33.0,
-   "matched": [
-    "gender",
-    "discretion",
-    "street-level bureaucrat",
-    "street-level",
-    "bureaucra"
-   ],
-   "abstract_zh": "本研究探討第一線官僚（SLBs）在自由裁量權上的性別差異是否會形塑不平等。本研究聚焦於社工人員向案主提供非正式個人資源（IFRs）的情形，分析了對以色列59位社工人員進行的深度訪談。儘管女性和男性都廣泛地運用非正式做法，但其範圍與形式卻有所差異。兩種機制促成了不平等的再製：非正式個人資源（IFRs）的不可見性與可見性，以及個人與專業領域之間的界線劃定。這些研究結果顯示，執行上的自由裁量權不僅具有性別意涵，而且再製了傳統的階層結構，加劇了公共行政第一線的性別不平等。"
   },
   {
    "doi": "10.1080/14719037.2026.2748381",
@@ -1334,42 +1309,6 @@
    "abstract_zh": "本文質疑主流的反貪腐評估模式，透過突顯反貪腐機構（ACAs）與吹哨者系統之間的整合，作為一個關鍵但未受充分檢視的制度效能決定因素。本文借鑒制度理論、管制治理與結構化跨國比較，根據對13個國家的文件式質性評估，發展出反貪腐機構－吹哨者整合體制的四種類型學（互補型、替代型、碎片化型和極簡型）。研究結果顯示，制度協調與互通性，而非僅僅是反貪腐機構的正式存在，持續地與更強的執法能力、更高的制度正當性與更高的公眾信任相關聯。本研究挑戰了偏重制度存在而非制度互動的清單式全球評估模式，並提出一個以整合為中心的框架，用於評估廉政體系。透過將關注焦點從制度設計轉移到制度整合，本研究提供了一個情境敏感的診斷方法，用於評估不同政治與行政環境下的反貪腐治理。"
   },
   {
-   "doi": "10.1080/14719037.2026.2765742",
-   "title": "Designing inclusive AI in public service delivery: experimental evidence on individual preferences for government chatbots",
-   "abstract": "",
-   "authors": [
-    "Huan Wang",
-    "Youlang Zhang"
-   ],
-   "journal": "Public Management Review",
-   "url": "https://doi.org/10.1080/14719037.2026.2765742",
-   "date": "2026-11-24",
-   "first_seen": "2026-11-25",
-   "score": 10.0,
-   "matched": [
-    "ai"
-   ],
-   "abstract_zh": ""
-  },
-  {
-   "doi": "10.1080/14719037.2026.2720755",
-   "title": "Beyond monolithic state logic: how top-down accountability shapes policy implementation",
-   "abstract": "How does top-down accountability shape policy implementation? Drawing on institutional logics, this paper distinguishes two state sub-logics: ‘high-stakes context logic’ emphasizing centralized control during crises, and ‘routine governance logic’ allowing discretion during day-to-day administration. These sub-logics condition the perceived legitimacy of accountability demands, felt accountability, and behavioural responses. A survey experiment with over 800 public service respondents shows that, under high-stakes logic, intensified accountability progressively improve compliance, whereas under routine logic, moderate accountability produces optimal compliance, with high-intensity accountability yielding diminishing returns. These findings challenge binary views of accountability and reveal how within-logic variations may alter governance mechanisms.",
-   "authors": [
-    "W. G. Will Zhao"
-   ],
-   "journal": "Public Management Review",
-   "url": "https://doi.org/10.1080/14719037.2026.2720755",
-   "date": "2026-08-26",
-   "first_seen": "2026-08-27",
-   "score": 9.0,
-   "matched": [
-    "discretion",
-    "survey experiment"
-   ],
-   "abstract_zh": "由上而下的課責機制如何形塑政策執行？本文援引制度邏輯，區辨出兩種國家次級邏輯：「高風險情境邏輯」強調危機時期的中央集權控制，以及「常規治理邏輯」允許日常行政中的裁量權。這些次級邏輯制約著課責要求的感知合法性、感知課責以及行為反應。一項針對八百多名公務人員受訪者的問卷實驗結果顯示，在高風險情境邏輯下，強化課責能逐步提升順從度；然而在常規治理邏輯下，適度課責能產生最佳順從度，而高強度課責則產生邊際效益遞減。這些研究發現挑戰了課責的二元觀點，並揭示了邏輯內部的變異如何改變治理機制。"
-  },
-  {
    "doi": "10.1080/14719037.2026.2738177",
    "title": "When women lead: women mayors and municipal police effectiveness in reducing homicide in Brazil",
    "abstract": "While research highlights women leaders’ influence in traditionally feminine domains such as health, education, and welfare, less is known about their impact in traditionally masculine fields such as policing and crime reduction. Using a Regression Discontinuity design and data from Brazilian municipalities, this study shows that, compared with male mayors, women mayors are more likely to adopt municipal police forces. Municipal policing, in turn, reduces youth homicide rates under women leadership, with this effect amplified by investments in socially oriented infrastructure. These findings demonstrate that women leaders can generate broader community-wide benefits beyond direct representation of women’s interests. The study extends scholarship on gender-responsive governance and women leadership by showing how elected women can shape policy choices and their effectiveness in traditionally male-dominated domains such as policing.",
@@ -1689,25 +1628,6 @@
    "abstract_zh": "公民參與被廣泛認可為民主治理的重要環節，然而實證研究往往根據所採用的方法來評估參與，而非其在行政程序中被組織的制度結構。本研究基於對289個接受聯邦區塊補助金的地方行政區的分析，將參與視為一種結構化的行政實踐，而非僅僅是各種參與方法的集合。透過對「綜合計畫」的歸納分析，本研究發展出四種參與結構的類型學：「最低限度合規」、「結構化諮詢」、「制度化諮詢」和「嵌入式參與」。"
   },
   {
-   "doi": "10.1177/02750740261478910",
-   "title": "Disparity in Police Disciplinary Outcomes: The Mediating Effect of Complaint Disposition for Organizational Outgroups",
-   "abstract": "In response to demands for greater police accountability, many departments have adopted policies designed to better regulate the use of force and to make it easier to investigate and punish officers accused of wrongdoing. While not widespread, there is some evidence that these changes have increased disciplinary actions. However, it remains uncertain whether police discipline has been applied equitably across racial and gender groups within departments. Drawing on multiple bodies of scholarship, we develop the expectation that, because of their status as members of organizational outgroups, Black, Hispanic and female officers are likely to be disciplined at higher rates. Importantly, we also argue that racial, ethnic and gender differences in disciplinary outcomes are at least partially mediated by the way in which police departments treat complaints against these officers. We test these hypotheses in data from Chicago's Civilian Office of Police Accountability (COPA) from 1971 through 2018. Analyses of over 249,000 allegations indicate that female and Black officers and officers face a higher likelihood of reprimand and suspension compared to White male officers. Differences across these groups are entirely explained, however, by the greater likelihood that complaints against these officers are deemed sufficiently supported by evidence to warrant disciplinary action. We conclude by discussing the broader implications for understanding employee discipline and the potential impact of recent efforts to enhance police accountability.",
-   "authors": [
-    "Jill Nicholson-Crotty",
-    "Courtney Hahm",
-    "Sean Nicholson-Crotty"
-   ],
-   "journal": "The American Review of Public Administration",
-   "url": "https://doi.org/10.1177/02750740261478910",
-   "date": "2026-08-26",
-   "first_seen": "2026-08-27",
-   "score": 4.0,
-   "matched": [
-    "gender"
-   ],
-   "abstract_zh": "為回應提升警察問責制的要求，許多警政單位已採行政策，旨在更妥善規範武力使用，並使調查和懲處被指控行為不當的員警更容易。儘管尚未普及，但有證據顯示這些變革已增加了懲戒行動。然而，警察懲戒是否已在各單位內部的不同種族和性別群體之間公平應用，仍不確定。借鑒多個學術領域的研究，我們預期非裔、拉丁裔和女性員警因其作為組織外群體成員的地位，更可能受到較高比例的懲戒。重要的是，我們也主張懲戒結果中的種族、族裔和性別差異，至少部分地由警政單位處理針對這些員警的投訴方式所中介。我們利用芝加哥警察問責平民辦公室（COPA）從1971年至2018年的數據來檢驗這些假設。對超過249,000項指控的分析顯示，相較於白人男性員警，女性和非裔員警面臨較高的訓斥和停職可能性。然而，這些群體之間的差異完全可由針對這些員警的投訴更有可能被認為有足夠證據支持，以致應採取懲戒行動來解釋。最後，我們討論對於理解員工懲戒的更廣泛意涵，以及近期提升警察問責制努力的潛在影響。"
-  },
-  {
    "doi": "10.1093/jopart/muag028",
    "title": "A model of agency behavior in participatory budgeting: a resource dependence perspective",
    "abstract": "Based on resource dependence theory, this article theorizes why government agencies adopt citizen proposals in participatory budgeting (PB). Agencies depend on the executive budget office and the legislature for budget approval, which makes them face uncertainty in securing budgets from these political principals. In this context, agencies can adopt citizen proposals to present their requests as reflecting citizen demands, thereby increasing the probability of approval. Building on this logic, this study argues that the greater the uncertainty agencies face in their dependencies on principals, the more likely they are to depend on proposals. This argument is tested using multilevel mixed-effects logistic regression based on citizen proposals (N = 3,609) submitted through Korea’s national PB initiative from 2020 through 2023. The results show that agencies with less financial support from the legislature or those with smaller budgets are more likely to adopt proposals, as they face greater uncertainty due to unstable budgetary flows or fewer response options to manage resource instability. Agencies are also more likely to adopt proposals when they previously secured greater funding through proposal adoption, but this effect weakens for larger-budget agencies or those receiving greater legislative support. These findings emphasize the strategic nature of proposal adoption and the role of resource dependence in agency responses to proposals.",
@@ -1870,24 +1790,6 @@
     "civil servant"
    ],
    "abstract_zh": "學者普遍認為，公民會議的執行需要公共管理者具備專業知識與技能，然而，我們對於需要哪些知識，以及這些知識如何發展並制度化卻知之甚少。為彌補此一空白，我們借鑒組織學習與政策學習框架，透過對愛爾蘭公民會議的主席與資深公務員（即「公共管理者」）進行深度訪談，以研究知識的發展。我們發現，公共管理者主要透過非正式學習過程學習，產生了兩個層次的成果：關於會議執行（操作性與系統性）的知識，以及個人轉變（信念轉移與專業認同改變）。知識在愛爾蘭的制度化呈現出兩歧的模式，其中，操作性知識正式地儲存於文件中並整合至標準實務中，而系統性知識則仍儲存於非正式網絡中。"
-  },
-  {
-   "doi": "10.1080/14719037.2026.2720043",
-   "title": "Contingent capacity: navigating organizational dependency in Dutch municipal energy transitions",
-   "abstract": "Municipalities implementing energy transition mandates rely on contingent workers to fill capacity and expertise gaps, raising concerns about dependency and knowledge loss. Drawing on Resource Dependence Theory and client–consultant literature, this study develops a framework capturing the feedback loop between external reliance and internal capacity development. Fifteen interviews across six Dutch municipalities show that labour shortages and temporary subsidies drive contingent hiring, while short contracts and limited knowledge transfer heighten dependency. Municipalities facing similar constraints diverge through knowledge integration, governance arrangements, and relational dynamics. It advances public administration scholarship by conceptualising dependency as a process rather than structural outcome.",
-   "authors": [
-    "Negin Salimi",
-    "Stijn van Hiele"
-   ],
-   "journal": "Public Management Review",
-   "url": "https://doi.org/10.1080/14719037.2026.2720043",
-   "date": "2026-08-26",
-   "first_seen": "2026-08-27",
-   "score": 2.0,
-   "matched": [
-    "hiring"
-   ],
-   "abstract_zh": "執行能源轉型任務的地方政府仰賴契約人員來彌補能力與專業知識的缺口，這引發了對依賴性與知識流失的擔憂。本研究借鑒資源依賴理論以及客戶-顧問關係文獻，發展出一個框架，以呈現外部依賴與內部能力發展之間的循環回饋。對六個荷蘭地方政府進行的十五次訪談顯示，人力短缺與臨時性補助驅動了契約人員的聘用，而短期契約與有限的知識移轉則加劇了依賴性。面臨相似限制的地方政府，透過知識整合、治理機制與關係動態而呈現分歧。本研究藉由將依賴性概念化為一個過程而非結構性結果，推進了公共行政學術。"
   },
   {
    "doi": "10.1111/puar.70182",
@@ -2406,6 +2308,19 @@
    "abstract_zh": "英格蘭內戰時期政治論述中所使用的政治虛構，至今仍對當代公共政策與公共行政具有重要意義。主流公共行政論述過於頻繁地採用於此時期興起的單一且無限主權在民的虛構，使得公共行政在應對當代民粹政府的威權衝動時，顯得準備不足。為應對這些威權衝動，公共行政論述所需要的，並非傳統上主導本領域甚鉅的行政中立倫理，而是憲政主義倫理，此倫理借鑒了英格蘭平等派在英格蘭內戰時期，以及隨後由美國憲法制定者所闡述的個人虛構。"
   },
   {
+   "doi": "10.1111/puar.70227",
+   "title": "Celebrating 86 Years",
+   "abstract": "",
+   "authors": [],
+   "journal": "Public Administration Review",
+   "url": "https://doi.org/10.1111/puar.70227",
+   "date": "2026-11-09",
+   "first_seen": "2026-11-10",
+   "score": 2.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
    "doi": "10.1111/puar.70229",
    "title": "Issue Information",
    "abstract": "The American Society for Public Administration (ASPA) is a nonpartisan organization of more than 9,000 scholars, administrators, public managers, and students in the United States, and abroad.ASPA is committed to the advancement of excellence in",
@@ -2425,19 +2340,6 @@
    "authors": [],
    "journal": "Public Administration Review",
    "url": "https://doi.org/10.1111/puar.70228",
-   "date": "2026-11-09",
-   "first_seen": "2026-11-10",
-   "score": 2.0,
-   "matched": [],
-   "abstract_zh": ""
-  },
-  {
-   "doi": "10.1111/puar.70227",
-   "title": "Celebrating 86 Years",
-   "abstract": "",
-   "authors": [],
-   "journal": "Public Administration Review",
-   "url": "https://doi.org/10.1111/puar.70227",
    "date": "2026-11-09",
    "first_seen": "2026-11-10",
    "score": 2.0,
