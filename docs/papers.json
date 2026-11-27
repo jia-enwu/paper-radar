@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T03:49:44+00:00",
+ "updated": "2026-11-27T03:51:33+00:00",
  "papers": [
   {
    "doi": "10.1111/puar.70201",
@@ -710,28 +710,6 @@
     "corruption"
    ],
    "abstract_zh": "本研究探討功績任用與官僚自主性如何影響非洲政府的貪腐，以及反貪腐機構的獨立性與能力是否制約這些關係。採用雙向固定效果迴歸分析2013年至2021年間486個非洲國家的面板資料，我們發現官僚自主性與貪腐呈負相關，而功績任用與貪腐之間的關係則取決於反貪腐機構的能力：當這些機構缺乏能力追究政治人物與官僚的責任時，功績任用與貪腐呈正相關；隨著反貪腐機構能力的提升，這種關係會減弱並最終可能逆轉。反貪腐機構的獨立性與能力皆未單獨與貪腐相關。這些發現指出，若無相應投資以增強反貪腐機構的能力，公務員聘用專業化可能會適得其反，並揭示了反貪腐改革可能成功的條件。"
-  },
-  {
-   "doi": "10.1093/jopart/muag027",
-   "title": "Civil Servants and Democratic Backsliding: The Role of Managerial Signals",
-   "abstract": "Political efforts to weaken democratic institutions place civil servants in a dilemma between political responsiveness and protecting democratic values. As civil servants are embedded in the political-administrative hierarchy, we argue that signals from their direct hierarchical superiors are critical to understand how civil servants address this dilemma. Using a randomized survey experiment among Norwegian national-level civil servants (N = 1,446) and ordered logistic regression models, we find that democratic backsliding increases opposition to government wishes, internal and external voice, and consideration of exit from the organization. Managerial signals moderate these effects: civil servants are more inclined to voice concerns or consider exit when managers signal responsiveness to government wishes. In a conceptual replication and extension among US federal, state and local civil servants (N = 504) using ordered logistic regression models, we likewise find a greater inclination to exit if the manager signals responsiveness to government wishes, but also that respondents are less inclined to voice concerns to the manager. Overall, our findings imply that managerial signals within the political-administrative hierarchy are shaping civil servants’ immediate reactions to democratic backsliding.",
-   "authors": [
-    "Mads Pieter van Luttervelt",
-    "Mathias Rask Østergaard-Nielsen",
-    "Martin Bækgaard",
-    "Zuzana Murdoch",
-    "Benny Geys"
-   ],
-   "journal": "Journal of Public Administration Research and Theory",
-   "url": "https://doi.org/10.1093/jopart/muag027",
-   "date": "2026-08-27",
-   "first_seen": "2026-08-28",
-   "score": 21.0,
-   "matched": [
-    "civil servant",
-    "survey experiment"
-   ],
-   "abstract_zh": "政治上削弱民主制度的作為，使公務員在政治回應性與保護民主價值之間陷入兩難。由於公務員身處政治行政層級體系中，我們認為，來自其直接層級主管的訊號，對於理解公務員如何應對此兩難至關重要。透過對挪威國家級公務員（N = 1,446）進行隨機問卷實驗，並使用順序邏輯迴歸模型，我們發現民主倒退會增加公務員對政府意願的反對、內部與外部發聲，以及離職傾向。管理層的訊號會調節這些影響：當主管表示對政府意願的回應性時，公務員更傾向於表達擔憂或考慮離職。在一項針對美國聯邦、州及地方公務員（N = 504）的概念性複製與延伸研究中，同樣使用順序邏輯迴歸模型，我們發現如果主管表示對政府意願的回應性，公務員的離職傾向更高，但受訪者也較不傾向於向主管表達擔憂。總體而言，我們的發現指出，政治行政層級體系中的管理層訊號，正在形塑公務員對民主倒退的即時反應。"
   },
   {
    "doi": "10.1080/10967494.2026.2710329",
@@ -2347,6 +2325,23 @@
    "abstract_zh": ""
   },
   {
+   "doi": "10.1093/jopart/muag034",
+   "title": "Reconfiguring Boundaries: Institutional Work and the Dynamic Construction of Hybridity in Local Government",
+   "abstract": "This study examines how public managers shape intra-public hybridity when a reform requires two public organizations with different administrative traditions and professional orientations to integrate. We study the political and administrative integration of Flemish municipalities and Public Centres for Social Welfare (PCSWs), drawing on 35 interviews across 13 local government cases collected in 2018 and 2022. Using an institutional work perspective, we compare how actors used regulative, normative, and cultural-cognitive actions to integrate—or deliberately keep separate—structures, routines, and identities. The cases developed four hybrid forms: blended, segmented, segregated, and blocked. Blended cases were associated with institutionally broader combinations of work across organizational domains, whereas segmented and segregated cases showed more bounded efforts and blocked cases featured deliberate withholding of integrative work. These findings show that the same formal mandate can produce different organizational outcomes because local actors vary in the scope and combination of the work through which they enact it. The study advances a process-oriented account of intra-public hybridity and identifies deliberate withholding as a distinct mechanism of boundary maintenance.",
+   "authors": [
+    "Lode De Waele",
+    "Kim Loyens",
+    "Caitlin McMullin"
+   ],
+   "journal": "Journal of Public Administration Research and Theory",
+   "url": "https://doi.org/10.1093/jopart/muag034",
+   "date": "2026-11-25",
+   "first_seen": "2026-11-27",
+   "score": 2.0,
+   "matched": [],
+   "abstract_zh": "本研究探討當一項改革要求兩個具有不同行政傳統與專業導向的公部門組織進行整合時，公部門管理者如何形塑公部門內部混雜性。本研究以佛蘭德斯市鎮與公共社會福利中心 (PCSWs) 的政治與行政整合為研究對象，根據2018年及2022年從13個地方政府案例中蒐集的35份訪談資料。本研究採用制度工作觀點，比較行動者如何運用規範性、常規性與文化認知性行動，以整合—或刻意區隔—結構、常規與認同。這些案例呈現出四種混雜形式：融合型、區段型、隔離型與阻斷型。融合型案例與跨組織領域中制度上更廣泛的工作組合相關，而區段型與隔離型案例則展現出更具界限的努力，阻斷型案例則以刻意阻礙整合工作為特徵。這些研究結果顯示，相同的正式指令可以產生不同的組織產出，因為地方行動者在執行該指令的工作範圍與組合上有所差異。本研究提出一種過程導向的公部門內部混雜性論述，並將刻意阻礙視為一種獨特的界線維護機制。"
+  },
+  {
    "doi": "10.1080/14719037.2026.2724517",
    "title": "Can cooperation between a city and a region lead to a robust solution during a polycrisis? – the case of Czechia",
    "abstract": "The goal of this article is to explore whether municipal and regional cooperation can provide robust governance solutions during a polycrisis. The methodology of the article is based on a single-country case study from Czechia. The case study focuses on coping with the COVID-19 pandemic and the refugee crisis resulting from the war in Ukraine. We demonstrate how cooperation between a city and a region contributed to robust solutions and improved the lives of local communities. Although municipal and regional cooperation can potentially create significant positive effects that align with the definition of robust governance, this potential is not fully realized in Czechia. The main reasons for this untapped potential are failures of the central government, a lack of leadership and strategic focus, and the absence of formalized learning.",
@@ -3206,6 +3201,37 @@
    "score": 0.0,
    "matched": [],
    "abstract_zh": "儘管大量學術文獻強調協同生產的正面與「光明」要素，但近期研究也關注到其潛在問題與「黑暗面」。儘管有研究試圖透過同時檢視其優點與缺點來連結這些對立觀點，但大多仍維持二元區分。本研究不將這些面向視為獨立或對立，而是採用「弔詭」(paradox) 視角，將其概念化為本質上相互連結。本研究透過對協同評估過程的個案研究，歸納出五種弔詭，其中每個面向皆反映出通常與協同生產之光明面與黑暗面相關聯的要素。藉由將此議題重新詮釋為本質上具弔詭性，本研究得以超越偏重「光明」(正面) 面向而輕忽「黑暗」(負面) 面向的二元取徑，進而增進對協同生產更為細膩且務實的理解。本研究亦揭示了如何應對這些弔詭，闡明了因行動者之權力動態與能動性而異的因應策略。"
+  },
+  {
+   "doi": "10.1080/14719037.2026.2769358",
+   "title": "Government’s role in stigmatization: amplification, moderation, and collaboration",
+   "abstract": "",
+   "authors": [
+    "David Moura"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2769358",
+   "date": "2026-11-26",
+   "first_seen": "2026-11-27",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
+  },
+  {
+   "doi": "10.1080/14719037.2026.2769357",
+   "title": "‘ The tech is easy. It’s those other pieces ’: how civic tech builders of digital infrastructure collaborate with government and shape administrative burdens",
+   "abstract": "",
+   "authors": [
+    "Xiaoyang Xu",
+    "Donald Moynihan"
+   ],
+   "journal": "Public Management Review",
+   "url": "https://doi.org/10.1080/14719037.2026.2769357",
+   "date": "2026-11-26",
+   "first_seen": "2026-11-27",
+   "score": 0.0,
+   "matched": [],
+   "abstract_zh": ""
   }
  ]
 }
